@@ -27,7 +27,7 @@ local function chat_stats(chat_id)
       if a.msgs and b.msgs then
         return a.msgs > b.msgs
       end
-    end
+    end)
   local text = 'users in this chat \n'
   for k,user in pairs(users_info) do
     text = text..user.name..' = '..user.msgs..'\n'
