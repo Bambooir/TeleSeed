@@ -454,6 +454,6 @@ return {
 	"^[!/](log)$",
 	"^!!tgservice (.+)$",
   },
-  run = run,
+  run = run
 }
 end
