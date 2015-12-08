@@ -436,9 +436,6 @@ function run(msg, matches)
 		end
 	end
 end
-
-end
-
 return {
   patterns = {
     "^[!/](creategroup) (.*)$",
