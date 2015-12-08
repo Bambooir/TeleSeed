@@ -1,5 +1,5 @@
 do
-local name_log = user_print_name(msg.from)
+
 local function check_member(cb_extra, success, result)
   local receiver = cb_extra.receiver
   local data = cb_extra.data
@@ -347,6 +347,7 @@ end
 local function run(msg, matches)
   local data = load_data(_config.moderation.data)
   local receiver = get_receiver(msg)
+	 local name_log = user_print_name(msg.from)
   local group = msg.to.id
   if msg.media then
     if msg.media.type == 'photo' and data[tostring(msg.to.id)]['settings']['set_photo'] == 'waiting' and is_chat_msg(msg) and is_momod(msg) then
