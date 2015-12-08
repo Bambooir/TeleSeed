@@ -30,9 +30,6 @@
 >>>
 >>>_Only works in realms But sudo users can use it everywhere_
 
-### Add
->/add
->>This command will add that group in database
 
 ### Setting description in realm
 > /setabout [Group_id] [text]

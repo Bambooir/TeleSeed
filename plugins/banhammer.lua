@@ -114,11 +114,11 @@ local function username_id(cb_extra, success, result)
   return send_large_msg(receiver, text)
 end
 local function run(msg, matches)
-  if matches[1]:lower() == 'id' then-- /id
-    if type(msg.reply_id)~="nil" then
+  if matches[1]:lower() == 'id' then
+    if type(msg.reply_id) ~= "nil" then
       local name = user_print_name(msg.from)
         savelog(msg.to.id, name.." ["..msg.from.id.."] used /id ")
-        id = get_message(msg.reply_id,get_id_by_reply, false)
+      id = get_message(msg.reply_id,get_message_callback_id, false)
     else
       local name = user_print_name(msg.from)
       savelog(msg.to.id, name.." ["..msg.from.id.."] used /id ")
@@ -130,12 +130,13 @@ local function run(msg, matches)
     if msg.to.type == 'chat' then
       local name = user_print_name(msg.from)
       savelog(msg.to.id, name.." ["..msg.from.id.."] left using kickme ")-- Save to logs
-      kick_user(msg.from.id, msg.to.id)
+      chat_del_user("chat#id"..msg.to.id, "user#id"..msg.from.id, ok_cb, false)
     end
   end
   if not is_momod(msg) then -- Ignore normal users 
     return nil
   end
+
   if matches[1]:lower() == "banlist" then -- Ban list !
     local chat_id = msg.to.id
     if matches[2] and is_admin(msg) then
@@ -151,13 +152,13 @@ local function run(msg, matches)
         msgr = get_message(msg.reply_id,ban_by_reply, false)
       end
     end
-    local chat_id = msg.to.id
     if msg.to.type == 'chat' then
+      local user_id = matches[2]
+      local chat_id = msg.to.id
       if string.match(matches[2], '^%d+$') then
         if tonumber(matches[2]) == tonumber(our_id) then 
           return
         end
-        local user_id = matches[2]
         if not is_admin(msg) and is_momod2(tonumber(matches[2]), msg.to.id) then
           return "you can't ban mods/owner/admins"
         end
@@ -181,8 +182,9 @@ local function run(msg, matches)
     if type(msg.reply_id)~="nil" and is_momod(msg) then
       local msgr = get_message(msg.reply_id,unban_by_reply, false)
     end
-    local chat_id = msg.to.id
     if msg.to.type == 'chat' then
+      local user_id = matches[2]
+      local chat_id = msg.to.id
       local targetuser = matches[2]
       if string.match(targetuser, '^%d+$') then
         local user_id = targetuser
@@ -199,7 +201,7 @@ local function run(msg, matches)
     end
   end
 
-  if matches[1]:lower() == 'kick' then -- /kick
+  if matches[1]:lower() == 'kick' then
     if type(msg.reply_id)~="nil" and is_momod(msg) then
       if is_admin(msg) then
         local msgr = get_message(msg.reply_id,Kick_by_reply_admins, false)
@@ -208,6 +210,8 @@ local function run(msg, matches)
       end
     end
     if msg.to.type == 'chat' then
+      local user_id = matches[2]
+      local chat_id = msg.to.id
       if string.match(matches[2], '^%d+$') then
         if tonumber(matches[2]) == tonumber(our_id) then 
           return
@@ -220,7 +224,7 @@ local function run(msg, matches)
         end
         local name = user_print_name(msg.from)
         savelog(msg.to.id, name.." ["..msg.from.id.."] kicked user ".. matches[2])
-        kick_user(targetuser, msg.to.id)
+        kick_user(user_id, chat_id)
       else
         local member = string.gsub(matches[2], '@', '')
         local get_cmd = 'kick'

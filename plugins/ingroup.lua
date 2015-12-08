@@ -354,10 +354,10 @@ local function run(msg, matches)
       load_photo(msg.id, set_group_photo, msg)
     end
   end
-  if matches[1] == 'add' then
-    print("group "..msg.to.print_name.."("..msg.to.id..") added")
-    return modadd(msg)
-  end
+  --if matches[1] == 'add' then
+   -- print("group "..msg.to.print_name.."("..msg.to.id..") added")
+    --return modadd(msg)
+ -- end
   if matches[1] == 'chat_created' and msg.from.id == 0 then
     return automodadd(msg)
   end
@@ -725,10 +725,9 @@ local function run(msg, matches)
     end
   end 
 end
-end
 return {
   patterns = {
-  "^[!/](add)$",
+ -- "^[!/](add)$",
   "^[!/](rules)$",
   "^[!/](about)$",
   "^[!/](setname) (.*)$",
