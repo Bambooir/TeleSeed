@@ -425,7 +425,7 @@ chat_info(receiver, returnids, {receiver=receiver})
 		if matches[1] == 'removeadmin' then
 			if string.match(matches[2], '^%d+$') then
 				local admin_id = matches[2]
-				print("user "..admin_id.." has been promoted as admin")
+				print("user "..admin_id.." has been demoted")
 				return admin_demote(msg, admin_id)
 			else
 			local member = string.gsub(matches[2], "@", "")
