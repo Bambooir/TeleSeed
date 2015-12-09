@@ -99,8 +99,8 @@ local function username_id(cb_extra, success, result)
         return ban_user(member_id, chat_id)
       elseif get_cmd == 'unban' then
         send_large_msg(receiver, 'User @'..member..' ['..member_id..'] unbanned')
-        local hash =  'banned:'..chat_id..':'..member_id
-        redis:del(hash)
+        local hash =  'banned:'..chat_id
+        redis:srem(hash, member_id)
         return 'User '..user_id..' unbanned'
       elseif get_cmd == 'banall' then
         send_large_msg(receiver, 'User @'..member..' ['..member_id..'] globally banned')
