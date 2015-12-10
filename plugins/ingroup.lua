@@ -41,20 +41,24 @@ local function automodadd(msg)
 end
 
 local function show_group_settingsmod(msg, data, target)
-  if not is_momod(msg) then
-    return "For moderators only!"
-  end
-  local data = load_data(_config.moderation.data)
+ 	if not is_momod(msg) then
+    	return "For moderators only!"
+  	end
+  	local data = load_data(_config.moderation.data)
     if data[tostring(msg.to.id)] then
-      if data[tostring(msg.to.id)]['settings']['flood_msg_max'] then
-        NUM_MSG_MAX = tonumber(data[tostring(msg.to.id)]['settings']['flood_msg_max'])
-        print('custom'..NUM_MSG_MAX)
-      else 
-        NUM_MSG_MAX = 5
-      end
+     	if data[tostring(msg.to.id)]['settings']['flood_msg_max'] then
+        	NUM_MSG_MAX = tonumber(data[tostring(msg.to.id)]['settings']['flood_msg_max'])
+        	print('custom'..NUM_MSG_MAX)
+      	else 
+        	NUM_MSG_MAX = 5
+      	end
     end
+    local bots_protection = "Yes"
+    if data[tostring(msg.to.id)]['settings']['lock_bots'] then
+    	bots_protection = data[tostring(msg.to.id)]['settings']['lock_bots']
+   	end
   local settings = data[tostring(target)]['settings']
-  local text = "Group settings:\nLock group name : "..settings.lock_name.."\nLock group photo : "..settings.lock_photo.."\nLock group member : "..settings.lock_member.."\nflood sensitivity : "..NUM_MSG_MAX
+  local text = "Group settings:\nLock group name : "..settings.lock_name.."\nLock group photo : "..settings.lock_photo.."\nLock group member : "..settings.lock_member.."\nflood sensitivity : "..NUM_MSG_MAX.."\nBot protection : "..bots_protection
   return text
 end
 
@@ -103,6 +107,39 @@ local function unlock_group_arabic(msg, data, target)
     return 'Arabic has been unlocked'
   end
 end
+
+
+
+local function lock_group_bots(msg, data, target)
+  if not is_momod(msg) then
+    return "For moderators only!"
+  end
+  local group_bots_lock = data[tostring(target)]['settings']['lock_bots']
+  if group_bots_lock == 'yes' then
+    return 'Bots protection is already enabled'
+  else
+    data[tostring(target)]['settings']['lock_bots'] = 'yes'
+    save_data(_config.moderation.data, data)
+    return 'Bots protection has been enabled'
+  end
+end
+
+local function unlock_group_bots(msg, data, target)
+  if not is_momod(msg) then
+    return "For moderators only!"
+  end
+  local group_bots_lock = data[tostring(target)]['settings']['lock_bots']
+  if group_bots_lock == 'no' then
+    return 'Bots protection is already disabled'
+  else
+    data[tostring(target)]['settings']['lock_bots'] = 'no'
+    save_data(_config.moderation.data, data)
+    return 'Bots protection has been disabled'
+  end
+end
+
+
+
 local function lock_group_namemod(msg, data, target)
   if not is_momod(msg) then
     return "For moderators only!"
@@ -347,7 +384,7 @@ end
 local function run(msg, matches)
   local data = load_data(_config.moderation.data)
   local receiver = get_receiver(msg)
-	 local name_log = user_print_name(msg.from)
+   local name_log = user_print_name(msg.from)
   local group = msg.to.id
   if msg.media then
     if msg.media.type == 'photo' and data[tostring(msg.to.id)]['settings']['set_photo'] == 'waiting' and is_chat_msg(msg) and is_momod(msg) then
@@ -572,6 +609,10 @@ local function run(msg, matches)
         savelog(msg.to.id, name_log.." ["..msg.from.id.."] locked arabic ")
         return lock_group_arabic(msg, data, target)
       end
+      if matches[2] == 'bots' then
+        savelog(msg.to.id, name_log.." ["..msg.from.id.."] locked bots ")
+        return lock_group_bots(msg, data, target)
+      end
     end
     if matches[1] == 'unlock' then 
       local target = msg.to.id
@@ -594,6 +635,10 @@ local function run(msg, matches)
       if matches[2] == 'arabic' then
         savelog(msg.to.id, name_log.." ["..msg.from.id.."] unlocked arabic ")
         return unlock_group_arabic(msg, data, target)
+      end
+      if matches[2] == 'bots' then
+        savelog(msg.to.id, name_log.." ["..msg.from.id.."] unlocked bots ")
+        return unlock_group_bots(msg, data, target)
       end
     end
     if matches[1] == 'settings' then
