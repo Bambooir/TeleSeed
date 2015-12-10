@@ -1,0 +1,105 @@
+RSS and Atom feed parser, using expat via the luaExpat binding. 
+Similar to the Universal Feed Parser (http://feedparser.org), 
+but less good.
+
+feedparser requires LuaExpat, so you might want to make sure 
+you've got that installed.
+
+this feedparser is directly inspired by the Universal Feed Parser
+by Mark Pilgrim. the output for a parsed feed is similar enough that 
+you may consult his site for reference 
+( http://feedparser.org/docs/reference.html )
+
+Usage:
+local feedparser=require("feedparser")
+-- note that for Lua < 5.3, the require exports a global "feedparser"
+-- In 5.3 and later, it does not.
+
+local parsed = feedparser.parse(xml_string, optional_base_url)
+
+--parsed will be a table of elements containing more or less:
+{
+	version=format name and version ("atom10" or "rss20" etc),
+	format="atom" or "rss",
+	feed={ --feed information
+		title="Feed Title",
+		subtitle="Or: How To Write Haphazard Documentation In 12 Easy Steps"
+		rights="rights, if any.", --taken from the "rights" or "copyright" tag.
+		generator="Particularly Clicky Keyboard", --generator, if present. Atom feeds provide this tag, as does rss, under admin:generatorAgent
+		
+		author="John Doe",
+		author_detail={
+			name="John Doe",
+			email="",
+		},
+		link="http://example.org/",
+		links={
+			1={
+				rel="alternate" or "self" or "related" or "via" or "enclosure" or "something else i forgot to mention",
+				type="content type of the page the feed points to, if present",
+				href="http://example.org/", --url is resolved.
+				title="link title, if any"
+			},
+		},
+		updated_parsed=1071340202, --parsed date string
+		updated="2003-12-13T18:30:02Z", --raw date string
+		
+		id="urn:uuid:uuid-if-present-nil-otherwise",
+		contributors={
+			--contains a list of contributors, if present. Otherwise, an empty table.
+		},
+	},
+	entries={
+		1={
+			enclosures={	},
+			id="urn:uuid:1225c695-cfb8-4ebb-whatever-if-present",
+			link="http://example.org/2003/12/13/atom03",
+			links={
+				1={
+					href="http://example.org/2003/12/13/atom03",
+				},
+			},
+			updated="2003-12-13T18:30:02Z",
+			updated_parsed=1071340202,
+			title="The Exciting conclusion of Atom-Powered Robots Run Amok",
+			summary="Some text.",
+			"contributors"={
+				--if any. othersie, empty table.
+			},
+		},
+		...
+	},
+}
+
+
+The following will NOT appear in the parsed feed table:
+
+feed.info
+feed.info_detail
+feed.title_detail
+feed.subtitle_detail
+feed.rights_detail
+feed.textinput
+feed.cloud
+feed.publisher
+feed.publisher_detail
+feed.tags
+feed.ttl
+feed.licence
+feed.errorreportsto
+
+entries[i].title_detail
+entries[i].publisher
+entries[i].source
+entries[i].comments
+entries[i].licence
+
+namespaces
+encoding 		--this is pretty important, so will be implemented sooner than anything else, if anyone asks for it.
+status
+gref
+etag
+modified
+headers
+bozo
+bozo_exception

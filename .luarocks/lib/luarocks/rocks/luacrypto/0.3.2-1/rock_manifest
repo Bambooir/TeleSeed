@@ -1,0 +1,17 @@
+rock_manifest = {
+   doc = {
+      ['Makefile.am'] = "b34c084f278f88577275513bf2f6817c",
+      ['Makefile.in'] = "58528571263594bbce34fc34e802302d",
+      us = {
+         ['examples.html'] = "56856fcf39b1ebc8d1a22bc6744ca588",
+         ['index.html'] = "b4400ed5cbed24b91f11db4401683032",
+         ['license.html'] = "efc610e3e95cebf9a849c4f902ba105f",
+         ['luacrypto-128.png'] = "fa179df93c00d044f859ce6c6df6d3d3",
+         ['manual.html'] = "c4bea66e25d9d4bb49bc7dcbb2b25801"
+      }
+   },
+   lib = {
+      ['crypto.so'] = "655210ce695dfe8f5c898e97259f5c7b"
+   },
+   ['luacrypto-0.3.2-1.rockspec'] = "4ddb1d424d8cac18dd6285a1964d7fe1"
+}

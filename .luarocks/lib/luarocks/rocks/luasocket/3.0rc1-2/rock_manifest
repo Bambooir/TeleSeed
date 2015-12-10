@@ -1,0 +1,120 @@
+rock_manifest = {
+   doc = {
+      ['dns.html'] = "5203a5aaf47dbfdc1253ce4005374f9f",
+      ['ftp.html'] = "d9e1124761280b6196942c2024e451fe",
+      ['http.html'] = "48cda1efaab42ed104f9aa2ec446ad82",
+      ['index.html'] = "6cee258eb1d55afc78735b39f784d6b0",
+      ['installation.html'] = "a1b865e4e9390961de008b3a62a588e3",
+      ['introduction.html'] = "10647f20ecfae4c0c18256ac9f1e4cfc",
+      ['ltn12.html'] = "83575c69f9912f8401b0bf34c04f81ed",
+      ['lua05.ppt'] = "138887c05687da1628f40d2193583ce3",
+      ['luasocket.png'] = "6d494f2e2c4d6b7698bbddb3ea8069af",
+      ['mime.html'] = "52f69f3fb80e291a2c0d80ba1bc70e14",
+      ['reference.css'] = "f764a8e501c02f0f2c3a39d0736d1eae",
+      ['reference.html'] = "4e62045008e8411cb2822e52544e9045",
+      ['smtp.html'] = "61ed289004a8dbecd24685c1dd7d883b",
+      ['socket.html'] = "bd42143cea556bc037415fd09f98a6dd",
+      ['tcp.html'] = "b3d5ebb95aa85972b88bca7a4cda6710",
+      ['udp.html'] = "2eaa8a365da8e06ad5ca90122ca55f8f",
+      ['url.html'] = "a0cf6a78f8866cb2c86ca287edeb12c2"
+   },
+   etc = {
+      README = "c884d55e7ef95b9e12cc7deb3cd30c75",
+      ['b64.lua'] = "8b12f948bf24d8442389d26c8b2b554b",
+      ['check-links.lua'] = "468811771310f6e6cce0d338ef0bdd12",
+      ['check-memory.lua'] = "dff5b86b54c0324d67f936586f34b275",
+      ['cookie.lua'] = "4a2f0c6b6ca6fb5d3f71680060caa1a7",
+      ['dict.lua'] = "cc93c81ffe058c55d126e1a2ebfdf257",
+      ['dispatch.lua'] = "a289a9f49ad179e350b97582cb1f4a6c",
+      ['eol.lua'] = "197497d2265afb1db419dc2dce57ed27",
+      ['forward.lua'] = "6035b0ea590b9522244376b0c111d8ee",
+      ['get.lua'] = "e9acd43a22c23de29dbaa8837124bd39",
+      links = "93b1847bc705949479171f8e736882a2",
+      ['lp.lua'] = "756ca6a05a08e919c3dab44d0d40b54b",
+      ['qp.lua'] = "e9958dc2803e0805351ef6cd37405c81",
+      ['tftp.lua'] = "f2cbfd2797bb9045ea020a775213e5d7"
+   },
+   lib = {
+      mime = {
+         ['core.so'] = "1a7261dcb8be1d9a4c09ffabaf03d20e"
+      },
+      socket = {
+         ['core.so'] = "aaf8f40d94ef2371bd1d5f382e4f973c",
+         ['serial.so'] = "51762e58696b75d5df5e0f4882c9f054",
+         ['unix.so'] = "c5befe7517d1661c0bbdf85028838bf7"
+      }
+   },
+   lua = {
+      ['ltn12.lua'] = "edef8753511326398c641481d200fc44",
+      ['mime.lua'] = "2e001d487613c4ae82f79ac23b8c978f",
+      socket = {
+         ['ftp.lua'] = "842cd9e4d470d1cef31b52cffa6dedd0",
+         ['headers.lua'] = "61a437d6aeb2885e15540a01e32f85fe",
+         ['http.lua'] = "eafd39f22b1911a88e18309b1bcbd4ac",
+         ['smtp.lua'] = "163b55d0c7f29f68533758235fdae254",
+         ['tp.lua'] = "8c4adce78db55217f5328c82f23caf21",
+         ['url.lua'] = "626cbfd7a0f77abdf1e46e2052286259"
+      },
+      ['socket.lua'] = "818a1f6f53d7a295d78a4c22730cd556"
+   },
+   ['luasocket-3.0rc1-2.rockspec'] = "77796887c4d885873f60347dfaa50e2b",
+   samples = {
+      README = "603ecb1020c14ed947d7efb4afd6d27e",
+      ['cddb.lua'] = "2b4400746477912b987ba2ef941bbbab",
+      ['daytimeclnt.lua'] = "f48047001c337309c2deea9171a5ee6a",
+      ['echoclnt.lua'] = "6598c37e3c2e8e2008d29a7d063b96d5",
+      ['echosrvr.lua'] = "5df21915ef472986093fa7330f2b57ff",
+      ['listener.lua'] = "fbaba8bf2100b43666cbaf84e11c1532",
+      ['lpr.lua'] = "cc6a42bde322d78bde48ea07b2d0d3af",
+      ['mclisten.lua'] = "d0e8e160a503cf6ac54aff95b7e205e2",
+      ['mcsend.lua'] = "c39285af1878c6ad6e1844c8dc2435b3",
+      ['talker.lua'] = "2c4eeb73d5c22a92d7af5a6d78621c60",
+      ['tinyirc.lua'] = "8529c6e83bceb35e52cc69f36f52c90c"
+   },
+   test = {
+      README = "514370fb3bc2b5e7048c29862cca62d4",
+      auth = {
+         ['.htpasswd'] = "4e1daa84a24bc83c7946e83ad926a2dd",
+         ['index.html'] = "7e660b8b5a91cf72db43cd15fa1365e9"
+      },
+      cgi = {
+         cat = "4729ebfdf7407fa9ff82ee78d5d4b794",
+         ['cat-index-html'] = "6035b86c1df3c3f9fa68590060c168e9",
+         env = "9c7c6e4f82947b317e09aebdc42c9e4a",
+         ['query-string'] = "505856d5d2a8ebd002c52e4654c5f8d7",
+         ['redirect-loop'] = "dc798184f9816d90444e4ca8669b4f4c",
+         ['request-uri'] = "635e9772b16adb661e6bd90a3c932f55"
+      },
+      ['dicttest.lua'] = "3d1b036a8e8b5b652627c0f54b937886",
+      ['excepttest.lua'] = "fec1a5a9ab8df312a7be00c7ff4483f6",
+      ['find-connect-limit'] = "c846ac0b71c644c67959f5011e261dd7",
+      ['ftptest.lua'] = "9ba70bfce1fb8bcddd0a7631d5045145",
+      ['hello.lua'] = "2f57dde140eaaf06a454accd9328b6ba",
+      ['httptest.lua'] = "f39b31f2a3de45a01b6eac4e2df96015",
+      ['index.html'] = "7e660b8b5a91cf72db43cd15fa1365e9",
+      ['ltn12test.lua'] = "a03b5fbf4b881327cd9f96c51d0cc223",
+      ['luasocket.png'] = "6d494f2e2c4d6b7698bbddb3ea8069af",
+      ['mimetest.lua'] = "738b60a82810121a261f49d6d79a9797",
+      ['smtptest.lua'] = "5016f32f2fab4e7d69b51879352db008",
+      ['stufftest.lua'] = "42ee3184b576649539cde5fd336f6b3b",
+      ['tcp-getoptions'] = "dd0feba7d549aa031bea04db981ae1b8",
+      ['test_bind.lua'] = "63c09bfbdd8ef18bea85bbb8d5ec3bdb",
+      ['test_getaddrinfo.lua'] = "781dec33b645a0b001adda8dbe5fbe59",
+      ['test_socket_error.lua'] = "128ca8bf79cadb42443d352d007fc83d",
+      ['testclnt.lua'] = "ec7b8725d195db8a2275009399e22566",
+      ['testmesg.lua'] = "8078d8c09cca138289f886ba8b7a1221",
+      ['testsrvr.lua'] = "4d03ce4e9ac5093609a7112df33ea722",
+      ['testsupport.lua'] = "76f1b64a0155fbebdbced58912d46eb8",
+      ['tftptest.lua'] = "71e263b2d1c782ed8e566e5909ef4e98",
+      ['udp-zero-length-send'] = "d1496ad481de1575e2e12e954c01a8ca",
+      ['udp-zero-length-send-recv'] = "0b1f9659ab63c04b08e7506b5947c73b",
+      ['udpconnectclnt.lua'] = "edfb0f9defffa88b9d6d05aedc7a1b22",
+      ['udpconnectsrvr.lua'] = "6921acf45abca1ec9be4bad5e57754f2",
+      ['unixclnt.lua'] = "92a47d92c4ce91d3514c1765dbbe6d5c",
+      ['unixsrvr.lua'] = "8fe2f368f46f09cabed5d304bd9aae1d",
+      ['upload.html'] = "87454ce5243c5c899b65cb15b5c25c6f",
+      ['urltest.lua'] = "563aac9718a3ff78e15ad3653dde4db5",
+      ['utestclnt.lua'] = "b193dff9aa2af683c4461139286742b7",
+      ['utestsrvr.lua'] = "2b7b3b252bac9e3eb2654532195d78a6"
+   }
+}
