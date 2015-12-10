@@ -252,12 +252,15 @@ local function group_list(msg)
                                 name = n
                         end
                 end
-                local group_owner = "no owner"
+                local group_owner = "No owner"
                 if data[tostring(v)]['set_owner'] then
                         group_owner = tostring(data[tostring(v)]['set_owner'])
                 end
-                print(group_owner)
-                message = message .. '- '.. name .. ' (' .. v .. ') ['..group_owner..'] \n'
+                local group_link = "No link"
+                if data[tostring(v)]['settings']['set_link'] then
+			group_link = data[tostring(v)]['settings']['set_link']
+		end
+                message = message .. '- '.. name .. ' (' .. v .. ') ['..group_owner..'] \n {'..group_link.."}\n"
         end
         local file = io.open("groups.txt", "w")
         file:write(message)
