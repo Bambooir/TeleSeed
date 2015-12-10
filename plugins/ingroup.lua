@@ -401,9 +401,6 @@ local function run(msg, matches)
       local chat = 'chat#id'..msg.to.id
       
       savelog(msg.to.id, name_log.." ["..msg.from.id.."] deleted user  "..user)
-      if msg.from.id ~= 0 and not is_owner(msg) then
-        chat_add_user(chat, user, ok_cb, true)
-      end
     end
     if matches[1] == 'chat_delete_photo' then
       if not msg.service then
