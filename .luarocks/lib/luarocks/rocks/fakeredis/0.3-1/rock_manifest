@@ -1,0 +1,10 @@
+rock_manifest = {
+   doc = {
+      ['LICENSE.txt'] = "c2c0967d3bcd51fc29751150f4d95c7a",
+      ['README.md'] = "71dff739c2320bada9664908f44d8b1f"
+   },
+   ['fakeredis-0.3-1.rockspec'] = "e1845da896764c3abdbeaabd9156a9d7",
+   lua = {
+      ['fakeredis.lua'] = "474e4763d1c924ae58eed0afa9c16535"
+   }
+}
