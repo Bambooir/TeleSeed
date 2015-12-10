@@ -901,3 +901,20 @@ function unban_by_reply(extra, success, result)
     return 'Use This in Your Groups'
   end
 end
+function banall_by_reply(extra, success, result)
+  if result.to.type == 'chat' then
+    local chat = 'chat#id'..result.to.id
+    if tonumber(result.from.id) == tonumber(our_id) then -- Ignore bot
+      return "I won't banall myself"
+    end
+    if is_admin2(result.from.id) then -- Ignore admins
+      return 
+    end
+    local name = user_print_name(result.from)
+    banall_user(result.from.id)
+    chat_del_user(chat, 'user#id'..result.from.id, ok_cb, false)
+    send_large_msg(chat, "User "..name.."["..result.from.id.."] hammered")
+  else
+    return 'Use This in Your Groups'
+  end
+end

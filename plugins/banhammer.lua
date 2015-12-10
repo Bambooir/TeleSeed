@@ -242,6 +242,9 @@ local function run(msg, matches)
   end
 
   if matches[1]:lower() == 'banall' then -- Global ban
+    if type(msg.reply_id) ~="nil" and is_admin(msg) then
+      return get_message(msg.reply_id,banall_by_reply, false)
+    end
     local user_id = matches[2]
     local chat_id = msg.to.id
     if msg.to.type == 'chat' then
@@ -284,6 +287,7 @@ end
 return {
   patterns = {
     "^[!/]([Bb]anall) (.*)$",
+    "^[!/]([Bb]anall)$",
     "^[!/]([Bb]anlist) (.*)$",
     "^[!/]([Bb]anlist)$",
     "^[!/]([Gg]banlist)$",
@@ -291,6 +295,7 @@ return {
     "^[!/]([Kk]ick)$",
     "^[!/]([Uu]nban) (.*)$",
     "^[!/]([Uu]nbanall) (.*)$",
+    "^[!/]([Uu]nbanall)$",
     "^[!/]([Kk]ick) (.*)$",
     "^[!/]([Kk]ickme)$",
     "^[!/]([Bb]an)$",
