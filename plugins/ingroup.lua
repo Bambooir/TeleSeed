@@ -723,7 +723,7 @@ local function run(msg, matches)
         if success == 0 then
            return send_large_msg(receiver, '*Error: Invite link failed* \nReason: Not creator.')
         end
-        send_large_msg(receiver, "Created a new new link")
+        send_large_msg(receiver, "Created a new link")
         data[tostring(msg.to.id)]['settings']['set_link'] = result
         save_data(_config.moderation.data, data)
       end
