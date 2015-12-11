@@ -183,7 +183,7 @@ local function run(msg, matches)
         savelog(msg.to.id, name.." ["..msg.from.id.."] baned user ".. matches[2])
         chat_info(receiver, username_id, {get_cmd=get_cmd, receiver=receiver, chat_id=msg.to.id, member=member})
       end
-    return 'User '..user_id..' banned'
+    return 
     end
   end
   if matches[1]:lower() == 'unban' then -- /unban 
