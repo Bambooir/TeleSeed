@@ -421,7 +421,7 @@ end
 
 local function callbackres(extra, success, result)
   local user = result.id
-  local name = string.gsub(msg.to.print_name, "_", " ")
+  local name = string.gsub(result.print_name, "_", " ")
   local chat = 'chat#id'..extra.chatid
   send_large_msg(chat, user..'\n'..name)
   return user
