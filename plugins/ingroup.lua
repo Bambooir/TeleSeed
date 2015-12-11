@@ -27,7 +27,39 @@ local function check_member(cb_extra, success, result)
       end
       data[tostring(groups)][tostring(msg.to.id)] = msg.to.id
       save_data(_config.moderation.data, data)
-      return send_large_msg(receiver, 'You have been promoted as The owner.')
+      return send_large_msg(receiver, 'You have been promoted as the owner.')
+    end
+  end
+end
+
+local function check_member_modadd(cb_extra, success, result)
+  local receiver = cb_extra.receiver
+  local data = cb_extra.data
+  local msg = cb_extra.msg
+  for k,v in pairs(result.members) do
+    local member_id = v.id
+    if member_id ~= our_id then
+      -- Group configuration
+      data[tostring(msg.to.id)] = {
+        moderators = {},
+        set_owner = member_id ,
+        settings = {
+          set_name = string.gsub(msg.to.print_name, '_', ' '),
+          lock_name = 'yes',
+          lock_photo = 'no',
+          lock_member = 'no',
+          flood = 'yes'
+        }
+      }
+      save_data(_config.moderation.data, data)
+      local groups = 'groups'
+      if not data[tostring(groups)] then
+        data[tostring(groups)] = {}
+        save_data(_config.moderation.data, data)
+      end
+      data[tostring(groups)][tostring(msg.to.id)] = msg.to.id
+      save_data(_config.moderation.data, data)
+      return send_large_msg(receiver, 'Grouop is added and you have been promoted as the owner ')
     end
   end
 end
@@ -37,6 +69,27 @@ local function automodadd(msg)
   if msg.action.type == 'chat_created' then
     receiver = get_receiver(msg)
     chat_info(receiver, check_member,{receiver=receiver, data=data, msg = msg})
+  end
+end
+local function check_member_modrem(cb_extra, success, result)
+  local receiver = cb_extra.receiver
+  local data = cb_extra.data
+  local msg = cb_extra.msg
+  for k,v in pairs(result.members) do
+    local member_id = v.id
+    if member_id ~= our_id then
+      -- Group configuration removal
+      data[tostring(msg.to.id)] = nil
+      save_data(_config.moderation.data, data)
+      local groups = 'groups'
+      if not data[tostring(groups)] then
+        data[tostring(groups)] = nil
+        save_data(_config.moderation.data, data)
+      end
+      data[tostring(groups)][tostring(msg.to.id)] = nil
+      save_data(_config.moderation.data, data)
+      return send_large_msg(receiver, 'Group has been removed')
+    end
   end
 end
 
@@ -254,14 +307,23 @@ local function modadd(msg)
     return "You're not admin"
   end
   local data = load_data(_config.moderation.data)
-  local groups = 'groups'
-  if not data[tostring(groups)] then
-    data[tostring(groups)] = {}
-    save_data(_config.moderation.data, data)
+  if data[tostring(msg.to.id)] then
+    return 'Group is already added.'
   end
-  data[tostring(groups)][tostring(msg.to.id)] = msg.to.id
-  save_data(_config.moderation.data, data)
-  return 'Group has been added.'
+    receiver = get_receiver(msg)
+    chat_info(receiver, check_member_modadd,{receiver=receiver, data=data, msg = msg})
+end
+local function modrem(msg)
+  -- superuser and admins only (because sudo are always has privilege)
+  if not is_admin(msg) then
+    return "You're not admin"
+  end
+  local data = load_data(_config.moderation.data)
+  if not data[tostring(msg.to.id)] then
+    return 'Group is not added.'
+  end
+    receiver = get_receiver(msg)
+    chat_info(receiver, check_member_modrem,{receiver=receiver, data=data, msg = msg})
 end
 local function get_rules(msg, data)
   local data_cat = 'rules'
@@ -359,7 +421,7 @@ end
 
 local function callbackres(extra, success, result)
   local user = result.id
-  local name = result.print_name
+  local name = string.gsub(msg.to.print_name, "_", " ")
   local chat = 'chat#id'..extra.chatid
   send_large_msg(chat, user..'\n'..name)
   return user
@@ -375,6 +437,9 @@ local function cleanmember(cb_extra, success, result)
   local receiver = cb_extra.receiver
   local chat_id = "chat#id"..result.id
   local chatname = result.print_name
+  if success == -1 then
+    return send_large_msg(receiver, '*Error: Invite link failed* \nReason: Not creator.')
+  end
   for k,v in pairs(result.members) do
     kick_user(v.id, result.id)     
   end
@@ -391,10 +456,14 @@ local function run(msg, matches)
       load_photo(msg.id, set_group_photo, msg)
     end
   end
-  --if matches[1] == 'add' then
-   -- print("group "..msg.to.print_name.."("..msg.to.id..") added")
-    --return modadd(msg)
- -- end
+  if matches[1] == 'add' then
+    print("group "..msg.to.print_name.."("..msg.to.id..") added")
+    return modadd(msg)
+  end
+   if matches[1] == 'rem' then
+    print("group "..msg.to.print_name.."("..msg.to.id..") removed")
+    return modrem(msg)
+  end
   if matches[1] == 'chat_created' and msg.from.id == 0 then
     return automodadd(msg)
   end
@@ -436,7 +505,6 @@ local function run(msg, matches)
       end
       local user = 'user#id'..msg.action.user.id
       local chat = 'chat#id'..msg.to.id
-      
       savelog(msg.to.id, name_log.." ["..msg.from.id.."] deleted user  "..user)
     end
     if matches[1] == 'chat_delete_photo' then
@@ -652,6 +720,9 @@ local function run(msg, matches)
       end
       local function callback (extra , success, result)
         local receiver = 'chat#'..msg.to.id
+        if success == 0 then
+           return send_large_msg(receiver, '*Error: Invite link failed* \nReason: Not creator.')
+        end
         send_large_msg(receiver, "Created a new new link")
         data[tostring(msg.to.id)]['settings']['set_link'] = result
         save_data(_config.moderation.data, data)
@@ -769,7 +840,8 @@ local function run(msg, matches)
 end
 return {
   patterns = {
- -- "^[!/](add)$",
+  "^[!/](add)$",
+  "^[!/](rem)$",
   "^[!/](rules)$",
   "^[!/](about)$",
   "^[!/](setname) (.*)$",
