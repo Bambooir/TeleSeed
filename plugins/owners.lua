@@ -141,8 +141,8 @@ local function run(msg, matches)
       if tonumber(matches[3]) == tonumber(msg.from.id) then 
         return "You can't unban yourself"
       end
-      local hash =  'banned:'..matches[1]..':'..user_id
-      redis:del(hash)
+      local hash =  'banned:'..matches[3]
+      redis:srem(hash, user_id)
       local name = user_print_name(msg.from)
       savelog(matches[1], name.." ["..msg.from.id.."] unbanned user ".. matches[3])
       return 'User '..user_id..' unbanned'
