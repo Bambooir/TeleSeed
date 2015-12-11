@@ -49,15 +49,15 @@
 
 
 ### lock groups name|flood|photo|member in realm
-> /lock [Group_id] [name|flood|photo|member]
+> /lock [Group_id] [name|flood|photo|member|bots]
 >>/lock 123456789 name
->>>This command will lock name|flood|photo|member of [Group_id]
+>>>This command will lock name|flood|photo|member|bots of [Group_id]
 
 
 ### Unlock groups name|flood|photo|member
-> /Unlock [Group_id] [name|flood|photo|member]
+> /Unlock [Group_id] [name|flood|photo|member|bots]
 >>/Unlock 123456789 name
->>>This command will unlock name|flood|photo|member of [Group_id]
+>>>This command will unlock name|flood|photo|member|bots of [Group_id]
 
 ## Group setting in realm
 >/setting [Group_id]
