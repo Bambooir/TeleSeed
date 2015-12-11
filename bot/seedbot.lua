@@ -286,11 +286,11 @@ return group id or user id
 
 !help
 
-!lock [member|name]
-Locks [member|name] 
+!lock [member|name|bots]
+Locks [member|name|bots] 
 
-!unlock [member|name|photo]
-Unlocks [member|name|photo]
+!unlock [member|name|photo|bots]
+Unlocks [member|name|photo|bots]
 
 !set rules <text>
 Set <text> as rules
