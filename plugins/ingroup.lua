@@ -161,8 +161,6 @@ local function unlock_group_arabic(msg, data, target)
   end
 end
 
-
-
 local function lock_group_bots(msg, data, target)
   if not is_momod(msg) then
     return "For moderators only!"
@@ -190,8 +188,6 @@ local function unlock_group_bots(msg, data, target)
     return 'Bots protection has been disabled'
   end
 end
-
-
 
 local function lock_group_namemod(msg, data, target)
   if not is_momod(msg) then
@@ -412,9 +408,11 @@ local function modlist(msg)
   if next(data[tostring(msg.to.id)]['moderators']) == nil then --fix way
     return 'No moderator in this group.'
   end
+  local i = 1
   local message = '\nList of moderators for ' .. string.gsub(msg.to.print_name, '_', ' ') .. ':\n'
   for k,v in pairs(data[tostring(msg.to.id)]['moderators']) do
-    message = message .. '- @'..v..' [' ..k.. '] \n'
+    message = message ..i..' - @'..v..' [' ..k.. '] \n'
+    i = i + 1
   end
   return message
 end
