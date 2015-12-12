@@ -30,6 +30,24 @@
 >>>
 >>>_Only works in realms But sudo users can use it everywhere_
 
+###Add or remove groups
+>/add
+>>This command will add that group
+>
+>/rem
+>>This command will remove that group
+
+###Leaving
+>/leave
+>>Bot will leave that group
+
+###Everything about groups
+>/all
+>>This command will return everything about that group
+>
+>/all [group_id]
+>>_Only onwer,admin and sudo users can use this command
+
 
 ### Setting description in realm
 > /setabout [Group_id] [text]
