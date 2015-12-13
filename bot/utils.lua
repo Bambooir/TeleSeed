@@ -533,12 +533,15 @@ end
 --Check if this chat is realm or not
 function is_realm(msg)
   local var = false
-  for v,group in pairs(_config.realm) do
-    if group == msg.to.id then
-      var = true
-    end
+  local realms = 'realms'
+  local data = load_data(_config.realms.data)
+  local chat = msg.to.id
+  if data[tostring(realms)] then
+    if data[tostring(realms)][tostring(msg.to.id)] then
+       var = true
+       end
+       return var
   end
-  return var
 end
 
 
@@ -739,6 +742,12 @@ function kick_user(user_id, chat_id)
   chat_del_user(chat, user, ok_cb, true)
 end
 
+function kick_user_any(user_id, chat_id) 
+  local chat = 'chat#id'..chat_id
+  local user = 'user#id'..user_id
+  chat_del_user(chat, user, ok_cb, true)
+end
+
 -- Ban
 function ban_user(user_id, chat_id)
   if tonumber(user_id) == tonumber(our_id) then -- Ignore bot
@@ -792,7 +801,7 @@ end
 function ban_list(chat_id)
   local hash =  'banned:'..chat_id
   local list = redis:smembers(hash)
-  local text = "Ban list !\n\n"
+  local text = "Ban list!\n\n"
   for k,v in pairs(list) do
     text = text..k.." - "..v.." \n"
   end
@@ -824,7 +833,7 @@ end
 function Kick_by_reply(extra, success, result)
   if result.to.type == 'chat' then
     local chat = 'chat#id'..result.to.id
-    if tonumber(result.from.id) == tonumber(our_id) then -- Ignore bot
+    if tonumber(result.from.id) == tonumber(our_id) and not is_sudo(msg) then -- Ignore bot
       return "I won't kick myself"
     end
     if is_momod2(result.from.id, result.to.id) then -- Ignore mods,owner,admin
@@ -848,7 +857,7 @@ function Kick_by_reply_admins(extra, success, result)
     end
     chat_del_user(chat, 'user#id'..result.from.id, ok_cb, false)
   else
-    return 'Use This in Your Groups'
+    return 'Error: I cannont kick this user.'
   end
 end
 
@@ -898,7 +907,7 @@ function unban_by_reply(extra, success, result)
     local hash =  'banned:'..result.to.id
     redis:srem(hash, result.from.id)
   else
-    return 'Use This in Your Groups'
+    return 'Use this in Your Groups'
   end
 end
 function banall_by_reply(extra, success, result)
@@ -915,6 +924,6 @@ function banall_by_reply(extra, success, result)
     chat_del_user(chat, 'user#id'..result.from.id, ok_cb, false)
     send_large_msg(chat, "User "..name.."["..result.from.id.."] hammered")
   else
-    return 'Use This in Your Groups'
+    return 'Use this in Your Groups'
   end
 end

@@ -1,6 +1,7 @@
 do
 
-local function check_member(cb_extra, success, result)
+-- Check Member
+function check_member_autorealm(cb_extra, success, result)
   local receiver = cb_extra.receiver
   local data = cb_extra.data
   local msg = cb_extra.msg
@@ -9,6 +10,67 @@ local function check_member(cb_extra, success, result)
     if member_id ~= our_id then
       -- Group configuration
       data[tostring(msg.to.id)] = {
+        group_type = 'Realm',
+        settings = {
+          set_name = string.gsub(msg.to.print_name, '_', ' '),
+          lock_name = 'yes',
+          lock_photo = 'no',
+          lock_member = 'no',
+          flood = 'yes',
+        }
+      }
+      save_data(_config.realms.data, data)
+      local realms = 'realms'
+      if not data[tostring(realms)] then
+        data[tostring(realms)] = {}
+        save_data(_config.realms.data, data)
+      end
+      data[tostring(realms)][tostring(msg.to.id)] = msg.to.id
+      save_data(_config.realms.data, data)
+      return send_large_msg(receiver, 'Welcome to your new realm !')
+    end
+  end
+end
+local function check_member_realm_add(cb_extra, success, result)
+  local receiver = cb_extra.receiver
+  local data = cb_extra.data
+  local msg = cb_extra.msg
+  for k,v in pairs(result.members) do
+    local member_id = v.id
+    if member_id ~= our_id then
+      -- Group configuration
+      data[tostring(msg.to.id)] = {
+        group_type = 'Realm',
+        settings = {
+          set_name = string.gsub(msg.to.print_name, '_', ' '),
+          lock_name = 'yes',
+          lock_photo = 'no',
+          lock_member = 'no',
+          flood = 'yes'
+        }
+      }
+      save_data(_config.realms.data, data)
+      local realms = 'realms'
+      if not data[tostring(realms)] then
+        data[tostring(realms)] = {}
+        save_data(_config.realms.data, data)
+      end
+      data[tostring(realms)][tostring(msg.to.id)] = msg.to.id
+      save_data(_config.realms.data, data)
+      return send_large_msg(receiver, 'Realm is added!')
+    end
+  end
+end
+function check_member_group(cb_extra, success, result)
+  local receiver = cb_extra.receiver
+  local data = cb_extra.data
+  local msg = cb_extra.msg
+  for k,v in pairs(result.members) do
+    local member_id = v.id
+    if member_id ~= our_id then
+      -- Group configuration
+      data[tostring(msg.to.id)] = {
+        group_type = 'Group',
         moderators = {},
         set_owner = member_id ,
         settings = {
@@ -16,7 +78,8 @@ local function check_member(cb_extra, success, result)
           lock_name = 'yes',
           lock_photo = 'no',
           lock_member = 'no',
-          flood = 'yes'
+          flood = 'yes',
+          lock_bots = 'no'
         }
       }
       save_data(_config.moderation.data, data)
@@ -31,7 +94,6 @@ local function check_member(cb_extra, success, result)
     end
   end
 end
-
 local function check_member_modadd(cb_extra, success, result)
   local receiver = cb_extra.receiver
   local data = cb_extra.data
@@ -41,6 +103,7 @@ local function check_member_modadd(cb_extra, success, result)
     if member_id ~= our_id then
       -- Group configuration
       data[tostring(msg.to.id)] = {
+        group_type = 'Group',
         moderators = {},
         set_owner = member_id ,
         settings = {
@@ -48,7 +111,8 @@ local function check_member_modadd(cb_extra, success, result)
           lock_name = 'yes',
           lock_photo = 'no',
           lock_member = 'no',
-          flood = 'yes'
+          flood = 'yes',
+          lock_bots = 'no'
         }
       }
       save_data(_config.moderation.data, data)
@@ -63,12 +127,39 @@ local function check_member_modadd(cb_extra, success, result)
     end
   end
 end
-
 local function automodadd(msg)
   local data = load_data(_config.moderation.data)
   if msg.action.type == 'chat_created' then
     receiver = get_receiver(msg)
-    chat_info(receiver, check_member,{receiver=receiver, data=data, msg = msg})
+    chat_info(receiver, check_member_group,{receiver=receiver, data=data, msg = msg})
+  end
+end
+local function autorealmadd(msg)
+  local data = load_data(_config.realms.data)
+  if msg.action.type == 'chat_created' then
+    receiver = get_receiver(msg)
+    chat_info(receiver, check_member_autorealm,{receiver=receiver, data=data, msg = msg})
+  end
+end
+local function check_member_realmrem(cb_extra, success, result)
+  local receiver = cb_extra.receiver
+  local data = cb_extra.data
+  local msg = cb_extra.msg
+  for k,v in pairs(result.members) do
+    local member_id = v.id
+    if member_id ~= our_id then
+      -- Group configuration
+      data[tostring(msg.to.id)] = nil
+      save_data(_config.realms.data, data)
+      local realms = 'realms'
+      if not data[tostring(realms)] then
+        data[tostring(realms)] = nil
+        save_data(_config.realms.data, data)
+      end
+      data[tostring(realms)][tostring(msg.to.id)] = nil
+      save_data(_config.realms.data, data)
+      return send_large_msg(receiver, 'Realm is removed!')
+    end
   end
 end
 local function check_member_modrem(cb_extra, success, result)
@@ -92,7 +183,7 @@ local function check_member_modrem(cb_extra, success, result)
     end
   end
 end
-
+--End Check Member
 local function show_group_settingsmod(msg, data, target)
  	if not is_momod(msg) then
     	return "For moderators only!"
@@ -313,6 +404,18 @@ local function modadd(msg)
     receiver = get_receiver(msg)
     chat_info(receiver, check_member_modadd,{receiver=receiver, data=data, msg = msg})
 end
+local function realmadd(msg)
+  -- superuser and admins only (because sudo are always has privilege)
+  if not is_admin(msg) then
+    return "You're not admin"
+  end
+  local data = load_data(_config.realms.data)
+  if data[tostring(msg.to.id)] then
+    return 'Realm is already added.'
+  end
+    receiver = get_receiver(msg)
+    chat_info(receiver, check_member_realm_add,{receiver=receiver, data=data, msg = msg}) 
+end
 local function modrem(msg)
   -- superuser and admins only (because sudo are always has privilege)
   if not is_admin(msg) then
@@ -324,6 +427,19 @@ local function modrem(msg)
   end
     receiver = get_receiver(msg)
     chat_info(receiver, check_member_modrem,{receiver=receiver, data=data, msg = msg})
+end
+
+local function realmrem(msg)
+  -- superuser and admins only (because sudo are always has privilege)
+  if not is_admin(msg) then
+    return "You're not admin"
+  end
+  local data = load_data(_config.realms.data)
+  if not data[tostring(msg.to.id)] then
+    return 'Realm is not added.'
+  end
+    receiver = get_receiver(msg)
+    chat_info(receiver, check_member_realmrem,{receiver=receiver, data=data, msg = msg})
 end
 local function get_rules(msg, data)
   local data_cat = 'rules'
@@ -438,13 +554,30 @@ local function cleanmember(cb_extra, success, result)
   local chat_id = "chat#id"..result.id
   local chatname = result.print_name
   if success == -1 then
-    return send_large_msg(receiver, '*Error: Invite link failed* \nReason: Not creator.')
+    return send_large_msg(receiver, '*Error: Clean member* \nReason: Not creator.')
   end
   for k,v in pairs(result.members) do
     kick_user(v.id, result.id)     
   end
 end
 
+local function killchat(cb_extra, success, result)
+  local receiver = cb_extra.receiver
+  local chat_id = "chat#id"..result.id
+  local chatname = result.print_name
+  for k,v in pairs(result.members) do
+    kick_user_any(v.id, result.id)     
+  end
+end
+
+local function killrealm(cb_extra, success, result)
+  local receiver = cb_extra.receiver
+  local chat_id = "chat#id"..result.id
+  local chatname = result.print_name
+  for k,v in pairs(result.members) do
+    kick_user_any(v.id, result.id)     
+  end
+end
 
 local function run(msg, matches)
   local data = load_data(_config.moderation.data)
@@ -456,17 +589,29 @@ local function run(msg, matches)
       load_photo(msg.id, set_group_photo, msg)
     end
   end
-  if matches[1] == 'add' then
+  if matches[1] == 'add' and not matches[2] then
     print("group "..msg.to.print_name.."("..msg.to.id..") added")
     return modadd(msg)
   end
-   if matches[1] == 'rem' then
+   if matches[1] == 'add' and matches[2] == 'realm' then
+    print("group "..msg.to.print_name.."("..msg.to.id..") added as a realm")
+    return realmadd(msg)
+  end
+  if matches[1] == 'rem' and not matches[2] then
     print("group "..msg.to.print_name.."("..msg.to.id..") removed")
     return modrem(msg)
   end
-  if matches[1] == 'chat_created' and msg.from.id == 0 then
+  if matches[1] == 'rem' and matches[2] == 'realm' then
+    print("group "..msg.to.print_name.."("..msg.to.id..") removed as a realm")
+    return realmrem(msg)
+  end
+  if matches[1] == 'chat_created' and msg.from.id == 0 and group_type == "group" then
     return automodadd(msg)
   end
+  if matches[1] == 'chat_created' and msg.from.id == 0 and group_type == "realm" then
+    return autorealmadd(msg)
+  end
+
   if msg.to.id and data[tostring(msg.to.id)] then
     local settings = data[tostring(msg.to.id)]['settings']
     if matches[1] == 'chat_add_user' then
@@ -501,7 +646,7 @@ local function run(msg, matches)
     end
     if matches[1] == 'chat_del_user' then
       if not msg.service then
-          return "Are you trying to troll me?"
+         -- return "Are you trying to troll me?"
       end
       local user = 'user#id'..msg.action.user.id
       local chat = 'chat#id'..msg.to.id
@@ -819,7 +964,28 @@ local function run(msg, matches)
         savelog(msg.to.id, name_log.." ["..msg.from.id.."] cleaned about")
       end     
     end
-      
+end
+    if matches[1] == 'kill' and matches[2] == 'chat' then
+      if not is_admin(msg) then
+          return nil
+      end
+      if is_admin(msg) then
+          local receiver = get_receiver(msg)
+          return modrem(msg),
+          print("Closing Group..."),
+          chat_info(receiver, killchat, {receiver=receiver})
+      end
+    end
+   if matches[1] == 'kill' and matches[2] == 'realm' then
+     if not is_admin(msg) then
+         return nil
+    end
+    if is_admin(msg) then
+        local receiver = get_receiver(msg)
+        return realmrem(msg),
+        print("Closing Realm..."),
+        chat_info(receiver, killrealm, {receiver=receiver})
+    end
     if matches[1] == 'help' then
       if not is_momod(msg) then
         return
@@ -838,10 +1004,14 @@ local function run(msg, matches)
     end
   end 
 end
+
 return {
   patterns = {
   "^[!/](add)$",
+  "^[!/](add) (realm)$",
+  "^[!/](createrealm)$",
   "^[!/](rem)$",
+  "^[!/](rem) (realm)$",
   "^[!/](rules)$",
   "^[!/](about)$",
   "^[!/](setname) (.*)$",
@@ -849,6 +1019,8 @@ return {
   "^[!/](promote) (.*)$",
   "^[!/](help)$",
   "^[!/](clean) (.*)$",
+ "^[!/](kill) (chat)$",
+ "^[!/](kill) (realm)$",
   "^[!/](demote) (.*)$",
   "^[!/](set) ([^%s]+) (.*)$",
   "^[!/](lock) (.*)$",
@@ -867,20 +1039,6 @@ return {
   },
   run = run
 }
+
 end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

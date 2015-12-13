@@ -1,23 +1,34 @@
--- data saved to moderation.json
--- check moderation plugin
+-- data saved to realms.json
+-- check realms plugin
 do
- 
+
+
 local function create_group(msg)
         -- superuser and admins only (because sudo are always has privilege)
         if is_sudo(msg) or is_realm(msg) and is_admin(msg) then
                 local group_creator = msg.from.print_name
-        create_group_chat (group_creator, group_name, ok_cb, false)
-                return 'Group '..string.gsub(group_name, '_', ' ')..' has been created.'
+                create_group_chat (group_creator, group_name, ok_cb, false)
+                return 'Group [ '..string.gsub(group_name, '_', ' ')..' ] has been created.'
+        end
+end
+
+local function create_realm(msg)
+        -- superuser and admins only (because sudo are always has privilege)
+        if is_sudo(msg) or is_realm(msg) and is_admin(msg) then
+                local group_creator = msg.from.print_name
+                create_group_chat (group_creator, group_name, ok_cb, false)
+                return 'Realm [ '..string.gsub(group_name, '_', ' ')..' ] has been created.'
         end
 end
  
+
 local function set_description(msg, data, target, about)
     if not is_admin(msg) then
         return "For admins only!"
     end
     local data_cat = 'description'
         data[tostring(target)][data_cat] = about
-        save_data(_config.moderation.data, data)
+        save_data(_config.realms.data, data)
         return 'Set group description to:\n'..about
 end
  
@@ -27,7 +38,7 @@ local function set_rules(msg, data, target)
     end
     local data_cat = 'rules'
         data[tostring(target)][data_cat] = rules
-        save_data(_config.moderation.data, data)
+        save_data(_config.realms.data, data)
         return 'Set group rules to:\n'..rules
 end
 -- lock/unlock group name. bot automatically change group name when locked
@@ -41,7 +52,7 @@ local function lock_group_name(msg, data, target)
             return 'Group name is already locked'
         else
             data[tostring(target)]['settings']['lock_name'] = 'yes'
-                save_data(_config.moderation.data, data)
+                save_data(_config.realms.data, data)
                 rename_chat('chat#id'..target, group_name_set, ok_cb, false)
         return 'Group name has been locked'
         end
@@ -57,7 +68,7 @@ local function unlock_group_name(msg, data, target)
             return 'Group name is already unlocked'
         else
             data[tostring(target)]['settings']['lock_name'] = 'no'
-            save_data(_config.moderation.data, data)
+            save_data(_config.realms.data, data)
         return 'Group name has been unlocked'
         end
 end
@@ -71,7 +82,7 @@ local function lock_group_member(msg, data, target)
             return 'Group members are already locked'
         else
             data[tostring(target)]['settings']['lock_member'] = 'yes'
-            save_data(_config.moderation.data, data)
+            save_data(_config.realms.data, data)
         end
         return 'Group members has been locked'
 end
@@ -85,7 +96,7 @@ local function unlock_group_member(msg, data, target)
             return 'Group members are not locked'
         else
             data[tostring(target)]['settings']['lock_member'] = 'no'
-            save_data(_config.moderation.data, data)
+            save_data(_config.realms.data, data)
         return 'Group members has been unlocked'
         end
 end
@@ -100,7 +111,7 @@ local function lock_group_photo(msg, data, target)
             return 'Group photo is already locked'
         else
             data[tostring(target)]['settings']['set_photo'] = 'waiting'
-            save_data(_config.moderation.data, data)
+            save_data(_config.realms.data, data)
         end
         return 'Please send me the group photo now'
 end
@@ -114,7 +125,7 @@ local function unlock_group_photo(msg, data, target)
             return 'Group photo is not locked'
         else
             data[tostring(target)]['settings']['lock_photo'] = 'no'
-            save_data(_config.moderation.data, data)
+            save_data(_config.realms.data, data)
         return 'Group photo has been unlocked'
         end
 end
@@ -128,7 +139,7 @@ local function lock_group_flood(msg, data, target)
             return 'Group flood is locked'
         else
             data[tostring(target)]['settings']['flood'] = 'yes'
-            save_data(_config.moderation.data, data)
+            save_data(_config.realms.data, data)
         return 'Group flood has been locked'
         end
 end
@@ -142,7 +153,7 @@ local function unlock_group_flood(msg, data, target)
             return 'Group flood is not locked'
         else
             data[tostring(target)]['settings']['flood'] = 'no'
-            save_data(_config.moderation.data, data)
+            save_data(_config.realms.data, data)
         return 'Group flood has been unlocked'
         end
 end
@@ -193,43 +204,43 @@ local function admin_promote(msg, admin_id)
         if not is_sudo(msg) then
         return "Access denied!"
     end
-        local data = load_data(_config.moderation.data)
+        local data = load_data(_config.realms.data)
         local admins = 'admins'
         if not data[tostring(admins)] then
                 data[tostring(admins)] = {}
-                save_data(_config.moderation.data, data)
+                save_data(_config.realms.data, data)
         end
         if data[tostring(admins)][tostring(admin_id)] then
                 return admin_name..' is already an admin.'
         end
         data[tostring(admins)][tostring(admin_id)] = admin_id
-        save_data(_config.moderation.data, data)
+        save_data(_config.realms.data, data)
         return admin_id..' has been promoted as admin.'
 end
 local function admin_demote(msg, admin_id)
     if not is_sudo(msg) then
         return "Access denied!"
     end
-    local data = load_data(_config.moderation.data)
+    local data = load_data(_config.realms.data)
         local admins = 'admins'
         if not data[tostring(admins)] then
                 data[tostring(admins)] = {}
-                save_data(_config.moderation.data, data)
+                save_data(_config.realms.data, data)
         end
         if not data[tostring(admins)][tostring(admin_id)] then
                 return admin_id..' is not an admin.'
         end
         data[tostring(admins)][tostring(admin_id)] = nil
-        save_data(_config.moderation.data, data)
+        save_data(_config.realms.data, data)
         return admin_id..' has been demoted from admin.'
 end
  
 local function admin_list(msg)
-    local data = load_data(_config.moderation.data)
+    local data = load_data(_config.realms.data)
         local admins = 'admins'
         if not data[tostring(admins)] then
         data[tostring(admins)] = {}
-        save_data(_config.moderation.data, data)
+        save_data(_config.realms.data, data)
         end
         local message = 'List for Realm admins:\n'
         for k,v in pairs(data[tostring(admins)]) do
@@ -268,31 +279,61 @@ local function group_list(msg)
         file:close()
         return message
 end
+local function realm_list(msg)
+    local data = load_data(_config.realms.data)
+        local realms = 'realms'
+        if not data[tostring(realms)] then
+                return 'No realms at the moment'
+        end
+        local message = 'List of realms:\n'
+        for k,v in pairs(data[tostring(realms)]) do
+                local settings = data[tostring(v)]['settings']
+                for m,n in pairs(settings) do
+                        if m == 'set_name' then
+                                name = n
+                        end
+                end
+                local group_owner = "No owner"
+                if data[tostring(v)]['set_owner'] then
+                        group_owner = tostring(data[tostring(v)]['set_owner'])
+		end
+                local group_link = "No link"
+                if data[tostring(v)]['settings']['set_link'] then
+			group_link = data[tostring(v)]['settings']['set_link']
+		end
+                message = message .. '- '.. name .. ' (' .. v .. ') ['..group_owner..'] \n {'..group_link.."}\n"
+        end
+        local file = io.open("realms.txt", "w")
+        file:write(message)
+        file:flush()
+        file:close()
+        return message
+end
 local function admin_user_promote(receiver, member_username, member_id)
-        local data = load_data(_config.moderation.data)
+        local data = load_data(_config.realms.data)
         if not data['admins'] then
                 data['admins'] = {}
-                save_data(_config.moderation.data, data)
+                save_data(_config.realms.data, data)
         end
         if data['admins'][tostring(member_id)] then
                 return send_large_msg(receiver, member_username..' is already as admin.')
         end
         data['admins'][tostring(member_id)] = member_username
-        save_data(_config.moderation.data, data)
+        save_data(_config.realms.data, data)
         return send_large_msg(receiver, '@'..member_username..' has been promoted as admin.')
 end
  
 local function admin_user_demote(receiver, member_username, member_id)
-    local data = load_data(_config.moderation.data)
+    local data = load_data(_config.realms.data)
         if not data['admins'] then
                 data['admins'] = {}
-                save_data(_config.moderation.data, data)
+                save_data(_config.realms.data, data)
         end
         if not data['admins'][tostring(member_id)] then
                 return send_large_msg(receiver, member_username..' is not an admin.')
         end
         data['admins'][tostring(member_id)] = nil
-        save_data(_config.moderation.data, data)
+        save_data(_config.realms.data, data)
         return send_large_msg(receiver, 'Admin '..member_username..' has been demoted.')
 end
  
@@ -320,14 +361,20 @@ function run(msg, matches)
     --vardump(msg)
     if matches[1] == 'creategroup' and matches[2] then
         group_name = matches[2]
+        group_type = 'group'
         return create_group(msg)
     end
 
-if matches[1] == 'log' and is_owner(msg) then
+    if matches[1] == 'createrealm' and matches[2] then
+        group_name = matches[2]
+        group_type = 'realm'
+        return create_realm(msg)
+    end
+
+       if matches[1] == 'log' and is_owner(msg) then
 savelog(msg.to.id, "log file created by owner")
 send_document("chat#id"..msg.to.id,"./groups/"..msg.to.id.."log.txt", ok_cb, false)
-end
-
+        end
 
 	if matches[1] == 'who' and is_momod(msg) then
 local name = user_print_name(msg.from)
@@ -344,9 +391,9 @@ chat_info(receiver, returnids, {receiver=receiver})
 
 
     if not is_realm(msg) then
-		return
+		return  --Do nothing
 	end
-    local data = load_data(_config.moderation.data)
+    local data = load_data(_config.realms.data)
     local receiver = get_receiver(msg)
 	if matches[2] then if data[tostring(matches[2])] then
 		local settings = data[tostring(matches[2])]['settings']
@@ -397,7 +444,7 @@ chat_info(receiver, returnids, {receiver=receiver})
 		if matches[1] == 'setname' and is_admin(msg) then
 		    local new_name = string.gsub(matches[3], '_', ' ')
 		    data[tostring(matches[2])]['settings']['set_name'] = new_name
-		    save_data(_config.moderation.data, data)
+		    save_data(_config.realms.data, data)
 		    local group_name_set = data[tostring(matches[2])]['settings']['set_name']
 		    local to_rename = 'chat#id'..matches[2]
 		    rename_chat(to_rename, group_name_set, ok_cb, false)
@@ -444,11 +491,17 @@ chat_info(receiver, returnids, {receiver=receiver})
 		 send_document("chat#id"..msg.to.id, "groups.txt", ok_cb, false)	
 			return " Group list created" --group_list(msg)
 		end
+		if matches[1] == 'list' and matches[2] == 'realms' then
+			group_list(msg)
+		 send_document("chat#id"..msg.to.id, "realms.txt", ok_cb, false)	
+			return " Realm list created" --realm_list(msg)
+		end
 end
  
 return {
   patterns = {
     "^[!/](creategroup) (.*)$",
+    "^[!/](createrealm) (.*)$",
     "^[!/](setabout) (%d+) (.*)$",
     "^[!/](setrules) (%d+) (.*)$",
     "^[!/](setname) (%d+) (.*)$",
