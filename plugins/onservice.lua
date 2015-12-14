@@ -12,9 +12,8 @@ local bot_id = our_id -- your bot id - like bot_id = 1234567
           return  --Do nothing 
         else 
         local data = load_data(_config.moderation.data) -- load group mod data
-        local data = load_data(_config.realms.data) -- load realm mod data 
             if not data[tostring(msg.to.id)] then -- check group and if group is not our group
-               print "Not a moderated group." 
+               print ("Not a added group.")
                kick_user_any(bot_id, msg.to.id) -- kick me (bot)
             end
         end

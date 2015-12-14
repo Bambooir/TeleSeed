@@ -1,7 +1,7 @@
 do
 
 -- Check Member
-function check_member_autorealm(cb_extra, success, result)
+local function check_member_autorealm(cb_extra, success, result)
   local receiver = cb_extra.receiver
   local data = cb_extra.data
   local msg = cb_extra.msg
@@ -19,14 +19,14 @@ function check_member_autorealm(cb_extra, success, result)
           flood = 'yes',
         }
       }
-      save_data(_config.realms.data, data)
+      save_data(_config.moderation.data, data)
       local realms = 'realms'
       if not data[tostring(realms)] then
         data[tostring(realms)] = {}
-        save_data(_config.realms.data, data)
+        save_data(_config.moderation.data, data)
       end
       data[tostring(realms)][tostring(msg.to.id)] = msg.to.id
-      save_data(_config.realms.data, data)
+      save_data(_config.moderation.data, data)
       return send_large_msg(receiver, 'Welcome to your new realm !')
     end
   end
@@ -49,14 +49,14 @@ local function check_member_realm_add(cb_extra, success, result)
           flood = 'yes'
         }
       }
-      save_data(_config.realms.data, data)
+      save_data(_config.moderation.data, data)
       local realms = 'realms'
       if not data[tostring(realms)] then
         data[tostring(realms)] = {}
-        save_data(_config.realms.data, data)
+        save_data(_config.moderation.data, data)
       end
       data[tostring(realms)][tostring(msg.to.id)] = msg.to.id
-      save_data(_config.realms.data, data)
+      save_data(_config.moderation.data, data)
       return send_large_msg(receiver, 'Realm is added!')
     end
   end
@@ -135,7 +135,7 @@ local function automodadd(msg)
   end
 end
 local function autorealmadd(msg)
-  local data = load_data(_config.realms.data)
+  local data = load_data(_config.moderation.data)
   if msg.action.type == 'chat_created' then
     receiver = get_receiver(msg)
     chat_info(receiver, check_member_autorealm,{receiver=receiver, data=data, msg = msg})
@@ -150,14 +150,14 @@ local function check_member_realmrem(cb_extra, success, result)
     if member_id ~= our_id then
       -- Group configuration
       data[tostring(msg.to.id)] = nil
-      save_data(_config.realms.data, data)
+      save_data(_config.moderation.data, data)
       local realms = 'realms'
       if not data[tostring(realms)] then
         data[tostring(realms)] = nil
-        save_data(_config.realms.data, data)
+        save_data(_config.moderation.data, data)
       end
       data[tostring(realms)][tostring(msg.to.id)] = nil
-      save_data(_config.realms.data, data)
+      save_data(_config.moderation.data, data)
       return send_large_msg(receiver, 'Realm is removed!')
     end
   end
@@ -409,7 +409,7 @@ local function realmadd(msg)
   if not is_admin(msg) then
     return "You're not admin"
   end
-  local data = load_data(_config.realms.data)
+  local data = load_data(_config.moderation.data)
   if data[tostring(msg.to.id)] then
     return 'Realm is already added.'
   end
@@ -434,7 +434,7 @@ local function realmrem(msg)
   if not is_admin(msg) then
     return "You're not admin"
   end
-  local data = load_data(_config.realms.data)
+  local data = load_data(_config.moderation.data)
   if not data[tostring(msg.to.id)] then
     return 'Realm is not added.'
   end
@@ -639,7 +639,7 @@ local function run(msg, matches)
         return false
       end
       local rules = data[tostring(msg.to.id)][data_cat]
-      local rules = 'Welcome to "' .. string.gsub(msg.to.print_name, '_', ' ') ..'" this group has rules that you should follow:\n'..rules
+     -- local rules = 'Welcome to "' .. string.gsub(msg.to.print_name, '_', ' ') ..'" this group has rules that you should follow:\n'..rules
       
       savelog(msg.to.id, name_log.." ["..msg.from.id.."] deleted user  "..msg.action.user.id)
       send_large_msg(receiver, rules)
@@ -964,7 +964,6 @@ local function run(msg, matches)
         savelog(msg.to.id, name_log.." ["..msg.from.id.."] cleaned about")
       end     
     end
-end
     if matches[1] == 'kill' and matches[2] == 'chat' then
       if not is_admin(msg) then
           return nil
@@ -975,17 +974,18 @@ end
           print("Closing Group..."),
           chat_info(receiver, killchat, {receiver=receiver})
       end
-    end
+   end
    if matches[1] == 'kill' and matches[2] == 'realm' then
      if not is_admin(msg) then
          return nil
-    end
-    if is_admin(msg) then
+     end
+     if is_admin(msg) then
         local receiver = get_receiver(msg)
         return realmrem(msg),
         print("Closing Realm..."),
         chat_info(receiver, killrealm, {receiver=receiver})
-    end
+     end
+   end
     if matches[1] == 'help' then
       if not is_momod(msg) then
         return
@@ -1019,8 +1019,8 @@ return {
   "^[!/](promote) (.*)$",
   "^[!/](help)$",
   "^[!/](clean) (.*)$",
- "^[!/](kill) (chat)$",
- "^[!/](kill) (realm)$",
+  "^[!/](kill) (chat)$",
+  "^[!/](kill) (realm)$",
   "^[!/](demote) (.*)$",
   "^[!/](set) ([^%s]+) (.*)$",
   "^[!/](lock) (.*)$",
@@ -1039,6 +1039,4 @@ return {
   },
   run = run
 }
-
 end
-

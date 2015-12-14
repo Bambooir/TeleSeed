@@ -534,7 +534,7 @@ end
 function is_realm(msg)
   local var = false
   local realms = 'realms'
-  local data = load_data(_config.realms.data)
+  local data = load_data(_config.moderation.data)
   local chat = msg.to.id
   if data[tostring(realms)] then
     if data[tostring(realms)][tostring(msg.to.id)] then
@@ -543,7 +543,6 @@ function is_realm(msg)
        return var
   end
 end
-
 
 function savelog(group, logtxt)
 
@@ -574,8 +573,7 @@ end
 function is_owner(msg)
   local var = false
   local data = load_data(_config.moderation.data)
-  local user = msg.from.id
-  
+  local user = msg.from.id 
   if data[tostring(msg.to.id)] then
     if data[tostring(msg.to.id)]['set_owner'] then
       if data[tostring(msg.to.id)]['set_owner'] == tostring(user) then
@@ -600,7 +598,6 @@ end
 function is_owner2(user_id, group_id)
   local var = false
   local data = load_data(_config.moderation.data)
-
   if data[tostring(group_id)] then
     if data[tostring(group_id)]['set_owner'] then
       if data[tostring(group_id)]['set_owner'] == tostring(user_id) then
@@ -626,6 +623,7 @@ end
 function is_admin(msg)
   local var = false
   local data = load_data(_config.moderation.data)
+  local data = load_data(_config.moderation.data)
   local user = msg.from.id
   local admins = 'admins'
   if data[tostring(admins)] then
@@ -643,6 +641,7 @@ end
 
 function is_admin2(user_id)
   local var = false
+  local data = load_data(_config.moderation.data)
   local data = load_data(_config.moderation.data)
   local user = user_id
   local admins = 'admins'
