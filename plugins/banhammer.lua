@@ -40,11 +40,11 @@ local function pre_process(msg)
           end
         end
       end
-      local bots_protection = "Yes"
+     --[[ local bots_protection = "yes"
       local data = load_data(_config.moderation.data)
       if not data[tostring(msg.to.id)]['settings']['lock_bots'] then
-          --  bots_protection = data[tostring(msg.to.id)]['settings']['lock_bots']
-      end
+            bots_protection = data[tostring(msg.to.id)]['settings']['lock_bots']
+      end]]
       if  msg.action.user.flags == 4352 and not is_momod(msg) and bots_protection == "yes" then --- Will kick bots added by normal users
         local name = user_print_name(msg.from)
           savelog(msg.to.id, name.." ["..msg.from.id.."] added a bot > @".. msg.action.user.username)-- Save to logs
