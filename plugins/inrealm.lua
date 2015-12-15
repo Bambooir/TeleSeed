@@ -445,7 +445,7 @@ chat_info(receiver, returnids, {receiver=receiver})
 			local target = matches[2]
 		    return show_group_settings(msg, data, target)
 		end
-		if matches[1] == 'setgpname' and is_admin(msg) then
+		if matches[1] == 'setname' and is_admin(msg) and matches[3] then
 		    local new_name = string.gsub(matches[3], '_', ' ')
 		    data[tostring(matches[2])]['settings']['set_name'] = new_name
 		    save_data(_config.moderation.data, data)
@@ -513,7 +513,6 @@ return {
     "^[!/](createrealm) (.*)$",
     "^[!/](setabout) (%d+) (.*)$",
     "^[!/](setrules) (%d+) (.*)$",
-    "^[!/](setname) (%d+) (.*)$",
     "^[!/](setgpname) (%d+) (.*)$",
         "^[!/](lock) (%d+) (.*)$",
     "^[!/](unlock) (%d+) (.*)$",
