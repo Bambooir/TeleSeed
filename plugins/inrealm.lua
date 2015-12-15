@@ -513,7 +513,7 @@ return {
     "^[!/](createrealm) (.*)$",
     "^[!/](setabout) (%d+) (.*)$",
     "^[!/](setrules) (%d+) (.*)$",
-    "^[!/](setgpname) (%d+) (.*)$",
+    "^[!/](setname) (%d+) (.*)$",
         "^[!/](lock) (%d+) (.*)$",
     "^[!/](unlock) (%d+) (.*)$",
     "^[!/](setting) (%d+)$",
