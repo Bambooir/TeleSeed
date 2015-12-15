@@ -24,7 +24,7 @@ luac.out
 *.lo
 *.def
 *.exp
-*.luarocks
+*.luarocks/
 
 # Shared objects (inc. Windows DLLs)
 *.dll

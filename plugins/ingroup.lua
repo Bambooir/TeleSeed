@@ -859,7 +859,7 @@ local function run(msg, matches)
       savelog(msg.to.id, name_log.." ["..msg.from.id.."] requested group settings ")
       return show_group_settingsmod(msg, data, target)
     end
-    if matches[1] == 'newlink' then
+    if matches[1] == 'newlink' and not is_realm(msg) then
       if not is_momod(msg) then
         return "For moderators only!"
       end
@@ -968,26 +968,30 @@ local function run(msg, matches)
       if not is_admin(msg) then
           return nil
       end
-      if is_admin(msg) then
+      if not is_realm(msg) then
           local receiver = get_receiver(msg)
           return modrem(msg),
           print("Closing Group..."),
           chat_info(receiver, killchat, {receiver=receiver})
+      else
+          return 'This is a realm'
       end
    end
    if matches[1] == 'kill' and matches[2] == 'realm' then
      if not is_admin(msg) then
          return nil
      end
-     if is_admin(msg) then
+     if not is_group(msg) then
         local receiver = get_receiver(msg)
         return realmrem(msg),
         print("Closing Realm..."),
         chat_info(receiver, killrealm, {receiver=receiver})
+     else
+        return 'This is a group'
      end
    end
     if matches[1] == 'help' then
-      if not is_momod(msg) then
+      if not is_momod(msg) or is_realm(msg) then
         return
       end
       savelog(msg.to.id, name_log.." ["..msg.from.id.."] Used /help")
