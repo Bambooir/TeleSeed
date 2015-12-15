@@ -271,13 +271,17 @@ local function groups_list(msg)
                 if data[tostring(v)]['settings']['set_link'] then
 			group_link = data[tostring(v)]['settings']['set_link']
 		end
+
                 message = message .. '- '.. name .. ' (' .. v .. ') ['..group_owner..'] \n {'..group_link.."}\n"
+             
+               
         end
         local file = io.open("groups.txt", "w")
         file:write(message)
         file:flush()
         file:close()
         return message
+       
 end
 local function realms_list(msg)
     local data = load_data(_config.moderation.data)
@@ -390,7 +394,7 @@ chat_info(receiver, returnids, {receiver=receiver})
 	end
 
 
-    if not is_sudo(msg) or is_admin(msg) and is_realm(msg) then
+    if not is_sudo(msg) or not is_admin(msg) and not is_realm(msg) then
 		return  --Do nothing
 	end
     local data = load_data(_config.moderation.data)
@@ -441,7 +445,7 @@ chat_info(receiver, returnids, {receiver=receiver})
 			local target = matches[2]
 		    return show_group_settings(msg, data, target)
 		end
-		if matches[1] == 'setname' and is_admin(msg) then
+		if matches[1] == 'setgpname' and is_admin(msg) then
 		    local new_name = string.gsub(matches[3], '_', ' ')
 		    data[tostring(matches[2])]['settings']['set_name'] = new_name
 		    save_data(_config.moderation.data, data)
@@ -493,7 +497,12 @@ chat_info(receiver, returnids, {receiver=receiver})
 		end
 		if matches[1] == 'list' and matches[2] == 'realms' then
 			realms_list(msg)
-		 send_document("chat#id"..msg.to.id, "realms.txt", ok_cb, false)	
+                --if msg.to.type == 'chat' or msg.to.type == 'channel' then
+		-- send_document("chat#id"..msg.to.id, "realms.txt", ok_cb, false)
+                --else
+                 send_document("user#id"..msg.from.id, "realms.txt", ok_cb, false)
+           
+             	
 			return " Realm list created" --realm_list(msg)
 		end
 end
@@ -505,11 +514,14 @@ return {
     "^[!/](setabout) (%d+) (.*)$",
     "^[!/](setrules) (%d+) (.*)$",
     "^[!/](setname) (%d+) (.*)$",
+    "^[!/](setgpname) (%d+) (.*)$",
         "^[!/](lock) (%d+) (.*)$",
     "^[!/](unlock) (%d+) (.*)$",
     "^[!/](setting) (%d+)$",
         "^[!/](wholist)$",
         "^[!/](who)$",
+    --"^[!/](kill) (chat) (%d+)$",
+   -- "^[!/](kill) (realm) (.*)$",
     "^[!/](addadmin) (.*)$", -- sudoers only
     "^[!/](removeadmin) (.*)$", -- sudoers only
     "^[!/](list) (.*)$",
