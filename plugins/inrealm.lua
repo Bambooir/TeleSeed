@@ -1,16 +1,27 @@
 -- data saved to moderation.json
 -- check moderation plugin
 do
- 
+
+
 local function create_group(msg)
         -- superuser and admins only (because sudo are always has privilege)
         if is_sudo(msg) or is_realm(msg) and is_admin(msg) then
                 local group_creator = msg.from.print_name
-        create_group_chat (group_creator, group_name, ok_cb, false)
-                return 'Group '..string.gsub(group_name, '_', ' ')..' has been created.'
+                create_group_chat (group_creator, group_name, ok_cb, false)
+                return 'Group [ '..string.gsub(group_name, '_', ' ')..' ] has been created.'
+        end
+end
+
+local function create_realm(msg)
+        -- superuser and admins only (because sudo are always has privilege)
+        if is_sudo(msg) or is_realm(msg) and is_admin(msg) then
+                local group_creator = msg.from.print_name
+                create_group_chat (group_creator, group_name, ok_cb, false)
+                return 'Realm [ '..string.gsub(group_name, '_', ' ')..' ] has been created.'
         end
 end
  
+
 local function set_description(msg, data, target, about)
     if not is_admin(msg) then
         return "For admins only!"
@@ -148,6 +159,7 @@ local function unlock_group_flood(msg, data, target)
 end
 -- show group settings
 local function show_group_settings(msg, data, target)
+    local data = load_data(_config.moderation.data, data)
     if not is_admin(msg) then
         return "For admins only!"
     end
@@ -193,7 +205,6 @@ local function admin_promote(msg, admin_id)
         if not is_sudo(msg) then
         return "Access denied!"
     end
-        local data = load_data(_config.moderation.data)
         local admins = 'admins'
         if not data[tostring(admins)] then
                 data[tostring(admins)] = {}
@@ -238,7 +249,7 @@ local function admin_list(msg)
         return message
 end
  
-local function group_list(msg)
+local function groups_list(msg)
     local data = load_data(_config.moderation.data)
         local groups = 'groups'
         if not data[tostring(groups)] then
@@ -260,9 +271,43 @@ local function group_list(msg)
                 if data[tostring(v)]['settings']['set_link'] then
 			group_link = data[tostring(v)]['settings']['set_link']
 		end
+
                 message = message .. '- '.. name .. ' (' .. v .. ') ['..group_owner..'] \n {'..group_link.."}\n"
+             
+               
         end
         local file = io.open("groups.txt", "w")
+        file:write(message)
+        file:flush()
+        file:close()
+        return message
+       
+end
+local function realms_list(msg)
+    local data = load_data(_config.moderation.data)
+        local realms = 'realms'
+        if not data[tostring(realms)] then
+                return 'No Realms at the moment'
+        end
+        local message = 'List of Realms:\n'
+        for k,v in pairs(data[tostring(realms)]) do
+                local settings = data[tostring(v)]['settings']
+                for m,n in pairs(settings) do
+                        if m == 'set_name' then
+                                name = n
+                        end
+                end
+                local group_owner = "No owner"
+                if data[tostring(v)]['admins_in'] then
+                        group_owner = tostring(data[tostring(v)]['admins_in'])
+		end
+                local group_link = "No link"
+                if data[tostring(v)]['settings']['set_link'] then
+			group_link = data[tostring(v)]['settings']['set_link']
+		end
+                message = message .. '- '.. name .. ' (' .. v .. ') ['..group_owner..'] \n {'..group_link.."}\n"
+        end
+        local file = io.open("realms.txt", "w")
         file:write(message)
         file:flush()
         file:close()
@@ -320,14 +365,20 @@ function run(msg, matches)
     --vardump(msg)
     if matches[1] == 'creategroup' and matches[2] then
         group_name = matches[2]
+        group_type = 'group'
         return create_group(msg)
     end
 
-if matches[1] == 'log' and is_owner(msg) then
+    if matches[1] == 'createrealm' and matches[2] then
+        group_name = matches[2]
+        group_type = 'realm'
+        return create_realm(msg)
+    end
+
+       if matches[1] == 'log' and is_owner(msg) then
 savelog(msg.to.id, "log file created by owner")
 send_document("chat#id"..msg.to.id,"./groups/"..msg.to.id.."log.txt", ok_cb, false)
-end
-
+        end
 
 	if matches[1] == 'who' and is_momod(msg) then
 local name = user_print_name(msg.from)
@@ -343,8 +394,8 @@ chat_info(receiver, returnids, {receiver=receiver})
 	end
 
 
-    if not is_realm(msg) then
-		return
+    if not is_sudo(msg) or not is_admin(msg) and not is_realm(msg) then
+		return  --Do nothing
 	end
     local data = load_data(_config.moderation.data)
     local receiver = get_receiver(msg)
@@ -390,11 +441,11 @@ chat_info(receiver, returnids, {receiver=receiver})
 		        return unlock_group_flood(msg, data, target)
 		    end
 		end
-		if matches[1] == 'setting' and data[tostring(matches[2])]['settings'] then
+		if matches[1] == 'settings' and data[tostring(matches[2])]['settings'] then
 			local target = matches[2]
 		    return show_group_settings(msg, data, target)
 		end
-		if matches[1] == 'setname' and is_admin(msg) then
+		if matches[1] == 'setgpname' and is_admin(msg) then
 		    local new_name = string.gsub(matches[3], '_', ' ')
 		    data[tostring(matches[2])]['settings']['set_name'] = new_name
 		    save_data(_config.moderation.data, data)
@@ -440,23 +491,37 @@ chat_info(receiver, returnids, {receiver=receiver})
 			return admin_list(msg)
 		end
 		if matches[1] == 'list' and matches[2] == 'groups' then
-			group_list(msg)
+			groups_list(msg)
 		 send_document("chat#id"..msg.to.id, "groups.txt", ok_cb, false)	
 			return " Group list created" --group_list(msg)
+		end
+		if matches[1] == 'list' and matches[2] == 'realms' then
+			realms_list(msg)
+                --if msg.to.type == 'chat' or msg.to.type == 'channel' then
+		-- send_document("chat#id"..msg.to.id, "realms.txt", ok_cb, false)
+                --else
+                 send_document("user#id"..msg.from.id, "realms.txt", ok_cb, false)
+           
+             	
+			return " Realm list created" --realm_list(msg)
 		end
 end
  
 return {
   patterns = {
     "^[!/](creategroup) (.*)$",
+    "^[!/](createrealm) (.*)$",
     "^[!/](setabout) (%d+) (.*)$",
     "^[!/](setrules) (%d+) (.*)$",
     "^[!/](setname) (%d+) (.*)$",
+    "^[!/](setgpname) (%d+) (.*)$",
         "^[!/](lock) (%d+) (.*)$",
     "^[!/](unlock) (%d+) (.*)$",
     "^[!/](setting) (%d+)$",
         "^[!/](wholist)$",
         "^[!/](who)$",
+    --"^[!/](kill) (chat) (%d+)$",
+   -- "^[!/](kill) (realm) (.*)$",
     "^[!/](addadmin) (.*)$", -- sudoers only
     "^[!/](removeadmin) (.*)$", -- sudoers only
     "^[!/](list) (.*)$",
