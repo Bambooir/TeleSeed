@@ -533,30 +533,14 @@ end
 --Check if this chat is realm or not
 function is_realm(msg)
   local var = false
-  local realms = 'realms'
-  local data = load_data(_config.moderation.data)
-  local chat = msg.to.id
-  if data[tostring(realms)] then
-    if data[tostring(realms)][tostring(msg.to.id)] then
-       var = true
-       end
-       return var
+  for v,group in pairs(_config.realm) do
+    if group == msg.to.id then
+      var = true
+    end
   end
+  return var
 end
 
---Check if this chat is a group or not
-function is_group(msg)
-  local var = false
-  local groups = 'groups'
-  local data = load_data(_config.moderation.data)
-  local chat = msg.to.id
-  if data[tostring(groups)] then
-    if data[tostring(groups)][tostring(msg.to.id)] then
-       var = true
-       end
-       return var
-  end
-end
 
 function savelog(group, logtxt)
 
@@ -587,7 +571,8 @@ end
 function is_owner(msg)
   local var = false
   local data = load_data(_config.moderation.data)
-  local user = msg.from.id 
+  local user = msg.from.id
+  
   if data[tostring(msg.to.id)] then
     if data[tostring(msg.to.id)]['set_owner'] then
       if data[tostring(msg.to.id)]['set_owner'] == tostring(user) then
@@ -612,6 +597,7 @@ end
 function is_owner2(user_id, group_id)
   local var = false
   local data = load_data(_config.moderation.data)
+
   if data[tostring(group_id)] then
     if data[tostring(group_id)]['set_owner'] then
       if data[tostring(group_id)]['set_owner'] == tostring(user_id) then
@@ -637,7 +623,6 @@ end
 function is_admin(msg)
   local var = false
   local data = load_data(_config.moderation.data)
-  local data = load_data(_config.moderation.data)
   local user = msg.from.id
   local admins = 'admins'
   if data[tostring(admins)] then
@@ -655,7 +640,6 @@ end
 
 function is_admin2(user_id)
   local var = false
-  local data = load_data(_config.moderation.data)
   local data = load_data(_config.moderation.data)
   local user = user_id
   local admins = 'admins'
@@ -755,12 +739,6 @@ function kick_user(user_id, chat_id)
   chat_del_user(chat, user, ok_cb, true)
 end
 
-function kick_user_any(user_id, chat_id) 
-  local chat = 'chat#id'..chat_id
-  local user = 'user#id'..user_id
-  chat_del_user(chat, user, ok_cb, true)
-end
-
 -- Ban
 function ban_user(user_id, chat_id)
   if tonumber(user_id) == tonumber(our_id) then -- Ignore bot
@@ -814,7 +792,7 @@ end
 function ban_list(chat_id)
   local hash =  'banned:'..chat_id
   local list = redis:smembers(hash)
-  local text = "Ban list!\n\n"
+  local text = "Ban list !\n\n"
   for k,v in pairs(list) do
     text = text..k.." - "..v.." \n"
   end
@@ -846,7 +824,7 @@ end
 function Kick_by_reply(extra, success, result)
   if result.to.type == 'chat' then
     local chat = 'chat#id'..result.to.id
-    if tonumber(result.from.id) == tonumber(our_id) and not is_sudo(msg) then -- Ignore bot
+    if tonumber(result.from.id) == tonumber(our_id) then -- Ignore bot
       return "I won't kick myself"
     end
     if is_momod2(result.from.id, result.to.id) then -- Ignore mods,owner,admin
@@ -870,7 +848,7 @@ function Kick_by_reply_admins(extra, success, result)
     end
     chat_del_user(chat, 'user#id'..result.from.id, ok_cb, false)
   else
-    return 'Error: I cannont kick this user.'
+    return 'Use This in Your Groups'
   end
 end
 
@@ -920,7 +898,7 @@ function unban_by_reply(extra, success, result)
     local hash =  'banned:'..result.to.id
     redis:srem(hash, result.from.id)
   else
-    return 'Use this in Your Groups'
+    return 'Use This in Your Groups'
   end
 end
 function banall_by_reply(extra, success, result)
@@ -937,6 +915,6 @@ function banall_by_reply(extra, success, result)
     chat_del_user(chat, 'user#id'..result.from.id, ok_cb, false)
     send_large_msg(chat, "User "..name.."["..result.from.id.."] hammered")
   else
-    return 'Use this in Your Groups'
+    return 'Use This in Your Groups'
   end
 end
