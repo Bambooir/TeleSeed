@@ -79,6 +79,7 @@ local function username_id(cb_extra, success, result)
   local receiver = cb_extra.receiver
   local chat_id = cb_extra.chat_id
   local member = cb_extra.member
+  local sender = sender
   local text = ''
   for k,v in pairs(result.members) do
     vusername = v.username
@@ -87,13 +88,16 @@ local function username_id(cb_extra, success, result)
       member_id = v.id
       if member_id == our_id then return false end
       if get_cmd == 'kick' then
+        if sender==member then
+          return send_large_msg(receiver, "You can't kick yourself")
+        end
         if is_momod2(member_id, chat_id) then
-          return send_large_msg(receiver, "you can't kick mods/owner/admins")
+          return send_large_msg(receiver, "You can't kick mods/owner/admins")
         end
         return kick_user(member_id, chat_id)
       elseif get_cmd == 'ban' then
         if is_momod2(member_id, chat_id) then
-          return send_large_msg(receiver, "you can't ban mods/owner/admins")
+          return send_large_msg(receiver, "You can't ban mods/owner/admins")
         end
         send_large_msg(receiver, 'User @'..member..' ['..member_id..'] banned')
         return ban_user(member_id, chat_id)
@@ -230,7 +234,7 @@ local function run(msg, matches)
         local get_cmd = 'kick'
         local name = user_print_name(msg.from)
         savelog(msg.to.id, name.." ["..msg.from.id.."] kicked user ".. matches[2])
-        chat_info(receiver, username_id, {get_cmd=get_cmd, receiver=receiver, chat_id=msg.to.id, member=member})
+        chat_info(receiver, username_id, {get_cmd=get_cmd, receiver=receiver, chat_id=msg.to.id, member=member, sender=msg.from.id})
       end
     else
       return 'This isn\'t a chat group'
