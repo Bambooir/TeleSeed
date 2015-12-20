@@ -9,6 +9,10 @@ local function get_msgs_user_chat(user_id, chat_id)
   user_info.name = user_print_name(user)..' ['..user_id..']'
   return user_info
 end
+<<<<<<< HEAD
+=======
+
+>>>>>>> 29a93efbc79a71f06fd1ad0581b09897055119a1
 local function chat_stats(chat_id)
   local hash = 'chat:'..chat_id..':users'
   local users = redis:smembers(hash)
@@ -23,13 +27,18 @@ local function chat_stats(chat_id)
         return a.msgs > b.msgs
       end
     end)
+<<<<<<< HEAD
   local text = 'Chat stats:\n'
+=======
+  local text = 'chat stats! \n'
+>>>>>>> 29a93efbc79a71f06fd1ad0581b09897055119a1
   for k,user in pairs(users_info) do
     text = text..user.name..' = '..user.msgs..'\n'
   end
   return text
 end
 
+<<<<<<< HEAD
 local function get_group_type(target)
   local data = load_data(_config.moderation.data)
   local group_type = data[tostring(target)]['group_type']
@@ -38,6 +47,8 @@ local function get_group_type(target)
     end
       return group_type
 end
+=======
+>>>>>>> 29a93efbc79a71f06fd1ad0581b09897055119a1
 local function show_group_settings(target)
   local data = load_data(_config.moderation.data)
   if data[tostring(target)] then
@@ -73,12 +84,19 @@ local function get_rules(target)
   return rules
 end
 
+<<<<<<< HEAD
 
 local function modlist(target)
   local data = load_data(_config.moderation.data)
   local groups = 'groups'
-  if not data[tostring(groups)][tostring(target)] then
+  if not data[tostring(groups)] or not data[tostring(groups)][tostring(target)] then
     return 'Group is not added or is Realm.'
+=======
+local function modlist(target)
+  local data = load_data(_config.moderation.data)
+  if not data[tostring(target)] then
+    return 'Group is not added.'
+>>>>>>> 29a93efbc79a71f06fd1ad0581b09897055119a1
   end
   if next(data[tostring(target)]['moderators']) == nil then
     return 'No moderator in this group.'
@@ -95,26 +113,42 @@ end
 local function get_link(target)
   local data = load_data(_config.moderation.data)
   local group_link = data[tostring(target)]['settings']['set_link']
+<<<<<<< HEAD
   if not group_link or group_link == nil then 
+=======
+  if not group_link then 
+>>>>>>> 29a93efbc79a71f06fd1ad0581b09897055119a1
     return "No link"
   end
   return "Group link:\n"..group_link
 end
 
 local function all(target, receiver)
+<<<<<<< HEAD
   local text = "All the things I know about this group\n\n"
   local group_type = get_group_type(target)
   text = text.."Group Type: \n"..group_type
   local settings = show_group_settings(target)
   text = text.."\n\nGroup settings: \n"..settings
+=======
+  local text = "All the things I know about this group \n \n"
+  local settings = show_group_settings(target)
+  text = text.."Group settings \n"..settings
+>>>>>>> 29a93efbc79a71f06fd1ad0581b09897055119a1
   local rules = get_rules(target)
   text = text.."\n\nRules: \n"..rules
   local description = get_description(target)
   text = text.."\n\nAbout: \n"..description
   local modlist = modlist(target)
+<<<<<<< HEAD
   text = text.."\n\nMods: \n"..modlist
   local link = get_link(target)
   text = text.."\n\nLink: \n"..link
+=======
+  text = text.."\n\n"..modlist
+  local link = get_link(target)
+  text = text.."\n\n"..link
+>>>>>>> 29a93efbc79a71f06fd1ad0581b09897055119a1
   local stats = chat_stats(target)
   text = text.."\n\n"..stats
   local ban_list = ban_list(target)
@@ -128,6 +162,10 @@ local function all(target, receiver)
 end
 
 function run(msg, matches)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 29a93efbc79a71f06fd1ad0581b09897055119a1
   if matches[1] == "all" and matches[2] and is_owner2(msg.from.id, matches[2]) then
     local receiver = get_receiver(msg)
     local target = matches[2]
@@ -136,15 +174,25 @@ function run(msg, matches)
   if not is_owner(msg) then
     return
   end
+<<<<<<< HEAD
   if matches[1] == "all" and not matches[2] then
+=======
+  if matches[1] == "all" and not matches[2] and msg.to.id ~= our_id then
+>>>>>>> 29a93efbc79a71f06fd1ad0581b09897055119a1
     local receiver = get_receiver(msg)
     if not is_owner(msg) then
       return
     end
     return all(msg.to.id, receiver)
   end
+<<<<<<< HEAD
 end
 
+=======
+
+  return
+end
+>>>>>>> 29a93efbc79a71f06fd1ad0581b09897055119a1
 
 return {
   patterns = {
@@ -153,4 +201,8 @@ return {
   },
   run = run
 }
+<<<<<<< HEAD
 end
+=======
+end
+>>>>>>> 29a93efbc79a71f06fd1ad0581b09897055119a1
