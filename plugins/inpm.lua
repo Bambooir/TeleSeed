@@ -1,4 +1,5 @@
 do
+<<<<<<< HEAD
 local function pairsByKeys (t, f)
       local a = {}
       for n in pairs(t) do table.insert(a, n) end
@@ -13,24 +14,42 @@ local function pairsByKeys (t, f)
       return iter
     end
 
+=======
+>>>>>>> 29a93efbc79a71f06fd1ad0581b09897055119a1
 local function chat_list(msg)
     local data = load_data(_config.moderation.data)
         local groups = 'groups'
         if not data[tostring(groups)] then
                 return 'No groups at the moment'
         end
+<<<<<<< HEAD
         local message = 'List of Groups:\n*Use /join (ID) to join*\n\n '
         for k,v in pairs(data[tostring(groups)]) do
                 local settings = data[tostring(v)]['settings']
                 for m,n in pairsByKeys(settings) do
+=======
+        local message = 'List of Groups:\n*Use /join (ID) to join*\n\n'
+        for k,v in pairs(data[tostring(groups)]) do
+                local settings = data[tostring(v)]['settings']
+                if data[tostring(v)]['settings']['lock_member'] == 'yes' then
+                   return
+                end
+                for m,n in pairs(settings) do
+>>>>>>> 29a93efbc79a71f06fd1ad0581b09897055119a1
                         if m == 'set_name' then
                                 name = n
                         end
                 end
+<<<<<<< HEAD
 
                 message = message .. '👥 '.. name .. ' (ID: ' .. v .. ')\n\n '
         end
         local file = io.open("./groups/lists/listed_groups.txt", "w")
+=======
+                message = message .. '👥 '.. name .. ' (ID: ' .. v .. ')\n\n'
+        end
+        local file = io.open("groups.txt", "w")
+>>>>>>> 29a93efbc79a71f06fd1ad0581b09897055119a1
         file:write(message)
         file:flush()
         file:close()
@@ -39,6 +58,10 @@ local function chat_list(msg)
 end
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 29a93efbc79a71f06fd1ad0581b09897055119a1
 function run(msg, matches)
   if msg.to.type ~= 'chat' or is_sudo(msg) or is_admin(msg) and is_realm(msg) then
 	 local data = load_data(_config.moderation.data)
@@ -53,12 +76,17 @@ function run(msg, matches)
       if data[tostring(matches[2])]['settings']['lock_member'] == 'yes' and not is_owner2(msg.from.id, matches[2]) then
         return 'Group is private.'
       end
+<<<<<<< HEAD
           local chat = "chat#id"..matches[2]
           local user = "user#id"..msg.from.id
           chat_add_user(chat, user, ok_cb, false)
         else
           return "Chat not found."
         end
+=======
+      if data[tostring(matches[2])] == nil then
+        return "I don't know that chat!"
+>>>>>>> 29a93efbc79a71f06fd1ad0581b09897055119a1
       end
              -- SERVICE MESSAGE IN GROUP
             if msg.action and msg.action.type then
@@ -73,6 +101,7 @@ function run(msg, matches)
             end
         end
      if matches[1] == 'chatlist'then
+<<<<<<< HEAD
        if is_admin(msg) and msg.to.type == 'chat' then
          chat_list(msg)
          send_document("chat#id"..msg.from.id, "./groups/lists/listed_groups.txt", ok_cb, false)
@@ -80,6 +109,9 @@ function run(msg, matches)
          chat_list(msg)
          send_document("user#id"..msg.from.id, "./groups/lists/listed_groups.txt", ok_cb, false) 
        end      
+=======
+         return chat_list(msg)
+>>>>>>> 29a93efbc79a71f06fd1ad0581b09897055119a1
        end
      end
   end
