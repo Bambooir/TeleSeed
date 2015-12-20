@@ -618,10 +618,16 @@ local function run(msg, matches)
     end
   end
   if matches[1] == 'add' and not matches[2] then
+    if is_realm(msg) then
+       return 'Error: Already a realm.'
+    end
     print("group "..msg.to.print_name.."("..msg.to.id..") added")
     return modadd(msg)
   end
    if matches[1] == 'add' and matches[2] == 'realm' then
+    if is_group(msg) then
+       return 'Error: Already a group.'
+    end
     print("group "..msg.to.print_name.."("..msg.to.id..") added as a realm")
     return realmadd(msg)
   end
