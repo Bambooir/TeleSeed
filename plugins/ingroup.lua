@@ -470,6 +470,7 @@ function realmrem(msg)
     receiver = get_receiver(msg)
     chat_info(receiver, check_member_realmrem,{receiver=receiver, data=data, msg = msg})
 end
+
 local function get_rules(msg, data)
   local data_cat = 'rules'
   if not data[tostring(msg.to.id)][data_cat] then
@@ -655,7 +656,7 @@ local function run(msg, matches)
       local group_member_lock = settings.lock_member
       local user = 'user#id'..msg.action.user.id
       local chat = 'chat#id'..msg.to.id
-      if group_member_lock == 'yes' and not is_owner2(msg.action.user.id, msg.to.id) then
+      if group_member_lock == 'yes' and not is_owner2(msg.action.user.id, msg.to.id) and not is_momod(msg) then
         chat_del_user(chat, user, ok_cb, true)
       elseif group_member_lock == 'yes' and tonumber(msg.from.id) == tonumber(our_id) then
         return nil
@@ -878,7 +879,7 @@ local function run(msg, matches)
       savelog(msg.to.id, name_log.." ["..msg.from.id.."] requested group settings ")
       return show_group_settingsmod(msg, data, target)
     end
-<<<<<<< HEAD
+
   if matches[1] == 'public' then
     local target = msg.to.id
     if matches[2] == 'yes' then
@@ -890,8 +891,7 @@ local function run(msg, matches)
       return unset_public_membermod(msg, data, target)
     end
   end
-=======
->>>>>>> 29a93efbc79a71f06fd1ad0581b09897055119a1
+
     if matches[1] == 'newlink' and not is_realm(msg) then
       if not is_momod(msg) then
         return "For moderators only!"
