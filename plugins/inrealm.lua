@@ -476,7 +476,7 @@ chat_info(receiver, returnids, {receiver=receiver})
 			local target = matches[2]
 		    return show_group_settings(msg, data, target)
 		end
-<<<<<<< HEAD
+
                 if matches[1] == 'setname' and is_realm(msg) then
                     local new_name = string.gsub(matches[2], '_', ' ')
                     data[tostring(msg.to.id)]['settings']['set_name'] = new_name
@@ -487,9 +487,6 @@ chat_info(receiver, returnids, {receiver=receiver})
                     savelog(msg.to.id, "Realm { "..msg.to.print_name.." }  name changed to [ "..new_name.." ] by "..name_log.." ["..msg.from.id.."]")
                 end
 		if matches[1] == 'setgpname' and is_admin(msg) then
-=======
-		if matches[1] == 'setname' and is_admin(msg) and matches[3] then
->>>>>>> 29a93efbc79a71f06fd1ad0581b09897055119a1
 		    local new_name = string.gsub(matches[3], '_', ' ')
 		    data[tostring(matches[2])]['settings']['set_name'] = new_name
 		    save_data(_config.moderation.data, data)
@@ -598,12 +595,9 @@ return {
     "^[!/](createrealm) (.*)$",
     "^[!/](setabout) (%d+) (.*)$",
     "^[!/](setrules) (%d+) (.*)$",
-<<<<<<< HEAD
     "^[!/](setname) (.*)$",
     "^[!/](setgpname) (%d+) (.*)$",
-=======
     "^[!/](setname) (%d+) (.*)$",
->>>>>>> 29a93efbc79a71f06fd1ad0581b09897055119a1
         "^[!/](lock) (%d+) (.*)$",
     "^[!/](unlock) (%d+) (.*)$",
     "^[!/](setting) (%d+)$",
