@@ -618,10 +618,16 @@ local function run(msg, matches)
     end
   end
   if matches[1] == 'add' and not matches[2] then
+    if is_realm(msg) then
+       return 'Error: Already a realm.'
+    end
     print("group "..msg.to.print_name.."("..msg.to.id..") added")
     return modadd(msg)
   end
    if matches[1] == 'add' and matches[2] == 'realm' then
+    if is_group(msg) then
+       return 'Error: Already a group.'
+    end
     print("group "..msg.to.print_name.."("..msg.to.id..") added as a realm")
     return realmadd(msg)
   end
@@ -872,6 +878,7 @@ local function run(msg, matches)
       savelog(msg.to.id, name_log.." ["..msg.from.id.."] requested group settings ")
       return show_group_settingsmod(msg, data, target)
     end
+<<<<<<< HEAD
   if matches[1] == 'public' then
     local target = msg.to.id
     if matches[2] == 'yes' then
@@ -883,6 +890,8 @@ local function run(msg, matches)
       return unset_public_membermod(msg, data, target)
     end
   end
+=======
+>>>>>>> 29a93efbc79a71f06fd1ad0581b09897055119a1
     if matches[1] == 'newlink' and not is_realm(msg) then
       if not is_momod(msg) then
         return "For moderators only!"
