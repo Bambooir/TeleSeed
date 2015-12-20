@@ -20,7 +20,7 @@ local function create_realm(msg)
         end
 end
 
-local function killchat(receiver, success, result)
+local function killchat(cb_extra, success, result)
   local receiver = cb_extra.receiver
   local chat_id = "chat#id"..result.id
   local chatname = result.print_name
