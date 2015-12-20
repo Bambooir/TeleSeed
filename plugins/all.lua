@@ -77,7 +77,7 @@ end
 local function modlist(target)
   local data = load_data(_config.moderation.data)
   local groups = 'groups'
-  if not data[tostring(groups)][tostring(target)] then
+  if not data[tostring(groups)] or not data[tostring(groups)][tostring(target)] then
     return 'Group is not added or is Realm.'
   end
   if next(data[tostring(target)]['moderators']) == nil then
