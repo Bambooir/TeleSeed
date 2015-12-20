@@ -561,7 +561,7 @@ end
 function savelog(group, logtxt)
 
 local text = (os.date("[ %c ]=>  "..logtxt.."\n \n"))
-local file = io.open("./groups/"..group.."log.txt", "a")
+local file = io.open("./groups/logs/"..group.."log.txt", "a")
 
 file:write(text)
 

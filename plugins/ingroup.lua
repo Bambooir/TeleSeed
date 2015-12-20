@@ -17,6 +17,7 @@ local function check_member_autorealm(cb_extra, success, result)
           lock_photo = 'no',
           lock_member = 'no',
           flood = 'yes',
+          public = 'no'
         }
       }
       save_data(_config.moderation.data, data)
@@ -46,7 +47,8 @@ local function check_member_realm_add(cb_extra, success, result)
           lock_name = 'yes',
           lock_photo = 'no',
           lock_member = 'no',
-          flood = 'yes'
+          flood = 'yes',
+          public = 'no'
         }
       }
       save_data(_config.moderation.data, data)
@@ -57,7 +59,7 @@ local function check_member_realm_add(cb_extra, success, result)
       end
       data[tostring(realms)][tostring(msg.to.id)] = msg.to.id
       save_data(_config.moderation.data, data)
-      return send_large_msg(receiver, 'Realm is added!')
+      return send_large_msg(receiver, 'Realm has been added!')
     end
   end
 end
@@ -79,7 +81,7 @@ function check_member_group(cb_extra, success, result)
           lock_photo = 'no',
           lock_member = 'no',
           flood = 'yes',
-          lock_bots = 'no'
+          public = 'no'
         }
       }
       save_data(_config.moderation.data, data)
@@ -112,7 +114,7 @@ local function check_member_modadd(cb_extra, success, result)
           lock_photo = 'no',
           lock_member = 'no',
           flood = 'yes',
-          lock_bots = 'no'
+          public = 'no'
         }
       }
       save_data(_config.moderation.data, data)
@@ -148,7 +150,7 @@ local function check_member_realmrem(cb_extra, success, result)
   for k,v in pairs(result.members) do
     local member_id = v.id
     if member_id ~= our_id then
-      -- Group configuration
+      -- Realm configuration removal
       data[tostring(msg.to.id)] = nil
       save_data(_config.moderation.data, data)
       local realms = 'realms'
@@ -158,7 +160,7 @@ local function check_member_realmrem(cb_extra, success, result)
       end
       data[tostring(realms)][tostring(msg.to.id)] = nil
       save_data(_config.moderation.data, data)
-      return send_large_msg(receiver, 'Realm is removed!')
+      return send_large_msg(receiver, 'Realm has been removed!')
     end
   end
 end
@@ -202,7 +204,7 @@ local function show_group_settingsmod(msg, data, target)
     	bots_protection = data[tostring(msg.to.id)]['settings']['lock_bots']
    	end
   local settings = data[tostring(target)]['settings']
-  local text = "Group settings:\nLock group name : "..settings.lock_name.."\nLock group photo : "..settings.lock_photo.."\nLock group member : "..settings.lock_member.."\nflood sensitivity : "..NUM_MSG_MAX.."\nBot protection : "..bots_protection
+  local text = "Group settings:\nLock group name : "..settings.lock_name.."\nLock group photo : "..settings.lock_photo.."\nLock group member : "..settings.lock_member.."\nflood sensitivity : "..NUM_MSG_MAX.."\nBot protection : "..bots_protection"\nPublic: "..public
   return text
 end
 
@@ -365,6 +367,36 @@ local function unlock_group_membermod(msg, data, target)
   end
 end
 
+
+local function set_public_membermod(msg, data, target)
+  if not is_momod(msg) then
+    return "For moderators only!"
+  end
+  local group_member_lock = data[tostring(target)]['settings']['public']
+  if group_member_lock == 'yes' then
+    return 'Group is already public'
+  else
+    data[tostring(target)]['settings']['public'] = 'yes'
+    save_data(_config.moderation.data, data)
+  end
+  return 'Group is now: public'
+end
+
+local function unset_public_membermod(msg, data, target)
+  if not is_momod(msg) then
+    return "For moderators only!"
+  end
+  local group_member_lock = data[tostring(target)]['settings']['public']
+  if group_member_lock == 'no' then
+    return 'Group is not public'
+  else
+    data[tostring(target)]['settings']['public'] = 'no'
+    save_data(_config.moderation.data, data)
+    return 'Group is now: not public'
+  end
+end
+
+
 local function unlock_group_photomod(msg, data, target)
   if not is_momod(msg) then
     return "For moderators only!"
@@ -394,7 +426,7 @@ local function modadd(msg)
     return "You're not admin"
   end
   local data = load_data(_config.moderation.data)
-  if data[tostring(msg.to.id)] then
+  if is_group(msg) then
     return 'Group is already added.'
   end
     receiver = get_receiver(msg)
@@ -406,37 +438,39 @@ local function realmadd(msg)
     return "You're not admin"
   end
   local data = load_data(_config.moderation.data)
-  if data[tostring(msg.to.id)] then
+  if is_realm(msg) then
     return 'Realm is already added.'
   end
     receiver = get_receiver(msg)
     chat_info(receiver, check_member_realm_add,{receiver=receiver, data=data, msg = msg}) 
 end
-local function modrem(msg)
+-- Global functions
+function modrem(msg)
   -- superuser and admins only (because sudo are always has privilege)
   if not is_admin(msg) then
     return "You're not admin"
   end
   local data = load_data(_config.moderation.data)
-  if not data[tostring(msg.to.id)] then
+  if not is_group(msg) then
     return 'Group is not added.'
   end
     receiver = get_receiver(msg)
     chat_info(receiver, check_member_modrem,{receiver=receiver, data=data, msg = msg})
 end
 
-local function realmrem(msg)
+function realmrem(msg)
   -- superuser and admins only (because sudo are always has privilege)
   if not is_admin(msg) then
     return "You're not admin"
   end
   local data = load_data(_config.moderation.data)
-  if not data[tostring(msg.to.id)] then
+  if not is_realm(msg) then
     return 'Realm is not added.'
   end
     receiver = get_receiver(msg)
     chat_info(receiver, check_member_realmrem,{receiver=receiver, data=data, msg = msg})
 end
+
 local function get_rules(msg, data)
   local data_cat = 'rules'
   if not data[tostring(msg.to.id)][data_cat] then
@@ -517,7 +551,7 @@ end
 
 local function modlist(msg)
   local data = load_data(_config.moderation.data)
-  if not data[tostring(msg.to.id)] then
+  if not data[tostring(groups)][tostring(msg.to.id)] then
     return 'Group is not added.'
   end
   -- determine if table is empty
@@ -551,9 +585,6 @@ local function cleanmember(cb_extra, success, result)
   local receiver = cb_extra.receiver
   local chat_id = "chat#id"..result.id
   local chatname = result.print_name
-  if success == -1 then
-    return send_large_msg(receiver, '*Error: Clean member* \nReason: Not creator.')
-  end
   for k,v in pairs(result.members) do
     kick_user(v.id, result.id)     
   end
@@ -588,10 +619,16 @@ local function run(msg, matches)
     end
   end
   if matches[1] == 'add' and not matches[2] then
+    if is_realm(msg) then
+       return 'Error: Already a realm.'
+    end
     print("group "..msg.to.print_name.."("..msg.to.id..") added")
     return modadd(msg)
   end
    if matches[1] == 'add' and matches[2] == 'realm' then
+    if is_group(msg) then
+       return 'Error: Already a group.'
+    end
     print("group "..msg.to.print_name.."("..msg.to.id..") added as a realm")
     return realmadd(msg)
   end
@@ -619,7 +656,7 @@ local function run(msg, matches)
       local group_member_lock = settings.lock_member
       local user = 'user#id'..msg.action.user.id
       local chat = 'chat#id'..msg.to.id
-      if group_member_lock == 'yes' and not is_owner2(msg.action.user.id, msg.to.id) then
+      if group_member_lock == 'yes' and not is_owner2(msg.action.user.id, msg.to.id) and not is_momod(msg) then
         chat_del_user(chat, user, ok_cb, true)
       elseif group_member_lock == 'yes' and tonumber(msg.from.id) == tonumber(our_id) then
         return nil
@@ -842,6 +879,19 @@ local function run(msg, matches)
       savelog(msg.to.id, name_log.." ["..msg.from.id.."] requested group settings ")
       return show_group_settingsmod(msg, data, target)
     end
+
+  if matches[1] == 'public' then
+    local target = msg.to.id
+    if matches[2] == 'yes' then
+      savelog(msg.to.id, name_log.." ["..msg.from.id.."] set group to: public")
+      return set_public_membermod(msg, data, target)
+    end
+    if matches[2] == 'no' then
+      savelog(msg.to.id, name_log.." ["..msg.from.id.."] set group to: not public")
+      return unset_public_membermod(msg, data, target)
+    end
+  end
+
     if matches[1] == 'newlink' and not is_realm(msg) then
       if not is_momod(msg) then
         return "For moderators only!"
@@ -1018,6 +1068,7 @@ return {
   "^[!/](unlock) (.*)$",
   "^[!/](setflood) (%d+)$",
   "^[!/](settings)$",
+  "^[!/](public) (.*)$",
   "^[!/](modlist)$",
   "^[!/](newlink)$",
   "^[!/](link)$",
@@ -1027,3 +1078,4 @@ return {
   run = run
 }
 end
+
