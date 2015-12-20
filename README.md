@@ -144,15 +144,15 @@ _Sudo users and admins can also use this commands in all groups_
 >/banlist
 >>This command will return bans list
 
-### group name|member|arabic|flood lock
->/lock [name|member|arabic|flood]
+### group name|member|arabic|flood|bots lock
+>/lock [name|member|arabic|flood|bots]
 >>/lock flood
->>>This command will lock name|member|arabic|flood of groups
+>>>This command will lock name|member|arabic|flood|bots of groups
 
-### group name|member|arabic|flood unlock
->/unlock [name|member|arabic|flood]
+### group name|member|arabic|flood|bots unlock
+>/unlock [name|member|arabic|flood|bots]
 >>/unlock flood
->>>This command will unlock name|member|arabic|flood of groups
+>>>This command will unlock name|member|arabic|flood|bots of groups
 
 ### Group modlist|rules|about|member clean
 >/clean [modlist|rules|about|member]

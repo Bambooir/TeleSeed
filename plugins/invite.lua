@@ -2,9 +2,11 @@ do
 local function callbackres(extra, success, result) -- Callback for res_user in line 27
   local user = 'user#id'..result.id
 	local chat = 'chat#id'..extra.chatid
-	if is_banned(result.id, extra.chatid) or is_gbanned(result.id) then -- Ignore bans and globall bans
-		send_large_msg(chat, 'User is banned.')
-	else
+	if is_banned(result.id, extra.chatid) then -- Ignore bans
+            send_large_msg(chat, 'User is banned.')
+	elseif is_gbanned(result.id) then -- Ignore globall bans
+	    send_large_msg(chat, 'User is globaly banned.')
+	else    
 	    chat_add_user(chat, user, ok_cb, false) -- Add user on chat
 	end
 end
@@ -31,7 +33,7 @@ function run(msg, matches)
 end
 return {
     patterns = {
-      "^/invite (.*)$"
+      "^[!/]invite (.*)$"
     },
     run = run
 }

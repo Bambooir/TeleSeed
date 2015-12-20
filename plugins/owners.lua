@@ -141,8 +141,8 @@ local function run(msg, matches)
       if tonumber(matches[3]) == tonumber(msg.from.id) then 
         return "You can't unban yourself"
       end
-      local hash =  'banned:'..matches[1]..':'..user_id
-      redis:del(hash)
+      local hash =  'banned:'..matches[1]
+      redis:srem(hash, user_id)
       local name = user_print_name(msg.from)
       savelog(matches[1], name.." ["..msg.from.id.."] unbanned user ".. matches[3])
       return 'User '..user_id..' unbanned'
@@ -300,7 +300,7 @@ local function run(msg, matches)
     end
     if matches[1] == 'loggroup' and matches[2] and is_owner2(msg.from.id, matches[2]) then
       savelog(matches[2], "------")
-      send_document("user#id".. msg.from.id,"./groups/"..matches[2].."log.txt", ok_cb, false)
+      send_document("user#id".. msg.from.id,"./groups/logs/"..matches[2].."log.txt", ok_cb, false)
     end
   end
 end
