@@ -16,6 +16,7 @@ local function check_member(cb_extra, success, result)
           lock_name = 'yes',
           lock_photo = 'no',
           lock_member = 'no',
+          lock_bots = 'yes',
           flood = 'yes'
         }
       }
@@ -48,6 +49,7 @@ local function check_member_modadd(cb_extra, success, result)
           lock_name = 'yes',
           lock_photo = 'no',
           lock_member = 'no',
+          lock_bots = 'yes',
           flood = 'yes'
         }
       }
