@@ -515,6 +515,20 @@ local function promote(receiver, member_username, member_id)
   return send_large_msg(receiver, '@'..member_username..' has been promoted.')
 end
 
+local function promote_by_reply(extra, success, result)
+    local msg = result
+    local full_name = (msg.from.first_name or '')..' '..(msg.from.last_name or '')
+    if msg.from.username then
+      member_username = msg.from.username
+    else
+      member_username = full_name
+    end
+    local member_id = msg.from.id
+    if msg.to.type == 'chat' then
+      return promote(get_receiver(msg), member_username, member_id)
+    end  
+end
+
 local function demote(receiver, member_username, member_id)
   local data = load_data(_config.moderation.data)
   local group = string.gsub(receiver, 'chat#id', '')
@@ -527,6 +541,20 @@ local function demote(receiver, member_username, member_id)
   data[group]['moderators'][tostring(member_id)] = nil
   save_data(_config.moderation.data, data)
   return send_large_msg(receiver, '@'..member_username..' has been demoted.')
+end
+
+local function demote_by_reply(extra, success, result)
+    local msg = result
+    local full_name = (msg.from.first_name or '')..' '..(msg.from.last_name or '')
+    if msg.from.username then
+      member_username = msg.from.username
+    else
+      member_username = full_name
+    end
+    local member_id = msg.from.id
+    if msg.to.type == 'chat' then
+      return demote(get_receiver(msg), member_username, member_id)
+    end  
 end
 
 local function username_id(cb_extra, success, result)
@@ -776,6 +804,14 @@ local function run(msg, matches)
       return 'Please send me new group photo now'
     end
 
+    if matches[1] == 'promote' and not matches[2] then
+      if not is_owner(msg) then
+        return "Only the owner can prmote new moderators"
+      end
+      if type(msg.reply_id)~="nil" then
+          msgr = get_message(msg.reply_id, promote_by_reply, false)
+      end
+    end
     if matches[1] == 'promote' and matches[2] then
       if not is_owner(msg) then
         return "Only owner can promote"
@@ -784,6 +820,14 @@ local function run(msg, matches)
       local mod_cmd = 'promote' 
       savelog(msg.to.id, name_log.." ["..msg.from.id.."] promoted @".. member)
       chat_info(receiver, username_id, {mod_cmd= mod_cmd, receiver=receiver, member=member})
+    end
+    if matches[1] == 'demote' and not matches[2] then
+      if not is_owner(msg) then
+        return "Only the owner can demote moderators"
+      end
+      if type(msg.reply_id)~="nil" then
+          msgr = get_message(msg.reply_id, demote_by_reply, false)
+      end
     end
     if matches[1] == 'demote' and matches[2] then
       if not is_owner(msg) then
@@ -1054,11 +1098,13 @@ return {
   "^[!/](setname) (.*)$",
   "^[!/](setphoto)$",
   "^[!/](promote) (.*)$",
+  "^[!/](promote)",
   "^[!/](help)$",
   "^[!/](clean) (.*)$",
   "^[!/](kill) (chat)$",
   "^[!/](kill) (realm)$",
   "^[!/](demote) (.*)$",
+  "^[!/](demote)",
   "^[!/](set) ([^%s]+) (.*)$",
   "^[!/](lock) (.*)$",
   "^[!/](setowner) (%d+)$",
