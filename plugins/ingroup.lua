@@ -512,14 +512,14 @@ local function promote(receiver, member_username, member_id)
   end
   data[group]['moderators'][tostring(member_id)] = member_username
   save_data(_config.moderation.data, data)
-  return send_large_msg(receiver, '@'..member_username..' has been promoted.')
+  return send_large_msg(receiver, member_username..' has been promoted.')
 end
 
 local function promote_by_reply(extra, success, result)
     local msg = result
     local full_name = (msg.from.first_name or '')..' '..(msg.from.last_name or '')
     if msg.from.username then
-      member_username = msg.from.username
+      member_username = '@'.. msg.from.username
     else
       member_username = full_name
     end
@@ -540,14 +540,14 @@ local function demote(receiver, member_username, member_id)
   end
   data[group]['moderators'][tostring(member_id)] = nil
   save_data(_config.moderation.data, data)
-  return send_large_msg(receiver, '@'..member_username..' has been demoted.')
+  return send_large_msg(receiver, member_username..' has been demoted.')
 end
 
 local function demote_by_reply(extra, success, result)
     local msg = result
     local full_name = (msg.from.first_name or '')..' '..(msg.from.last_name or '')
     if msg.from.username then
-      member_username = msg.from.username
+      member_username = '@'..msg.from.username
     else
       member_username = full_name
     end
@@ -555,6 +555,17 @@ local function demote_by_reply(extra, success, result)
     if msg.to.type == 'chat' then
       return demote(get_receiver(msg), member_username, member_id)
     end  
+end
+
+local function setowner_by_reply(extra, success, result)
+  local msg = result
+  local receiver = get_receiver(msg)
+  local name_log = msg.from.print_name:gsub("_", " ")
+  data[tostring(msg.to.id)]['set_owner'] = tostring(msg.from.id)
+      save_data(_config.moderation.data, data)
+      savelog(msg.to.id, name_log.." ["..msg.from.id.."] setted ["..msg.from.id.."] as owner")
+      local text = msg.from.print_name:gsub("_", " ").." is the owner now"
+      return send_large_msg(receiver, text)
 end
 
 local function username_id(cb_extra, success, result)
@@ -565,7 +576,7 @@ local function username_id(cb_extra, success, result)
   for k,v in pairs(result.members) do
     vusername = v.username
     if vusername == member then
-      member_username = member
+      member_username = '@'..member
       member_id = v.id
       if mod_cmd == 'promote' then
         return promote(receiver, member_username, member_id)
@@ -589,7 +600,7 @@ local function modlist(msg)
   local i = 1
   local message = '\nList of moderators for ' .. string.gsub(msg.to.print_name, '_', ' ') .. ':\n'
   for k,v in pairs(data[tostring(msg.to.id)]['moderators']) do
-    message = message ..i..' - @'..v..' [' ..k.. '] \n'
+    message = message ..i..' - '..v..' [' ..k.. '] \n'
     i = i + 1
   end
   return message
@@ -797,13 +808,11 @@ local function run(msg, matches)
       
       savelog(msg.to.id, "Group { "..msg.to.print_name.." }  name changed to [ "..new_name.." ] by "..name_log.." ["..msg.from.id.."]")
     end
-  
     if matches[1] == 'setphoto' and is_momod(msg) then
       data[tostring(msg.to.id)]['settings']['set_photo'] = 'waiting'
       save_data(_config.moderation.data, data)
       return 'Please send me new group photo now'
     end
-
     if matches[1] == 'promote' and not matches[2] then
       if not is_owner(msg) then
         return "Only the owner can prmote new moderators"
@@ -964,7 +973,7 @@ local function run(msg, matches)
        savelog(msg.to.id, name_log.." ["..msg.from.id.."] requested group link ["..group_link.."]")
       return "Group link:\n"..group_link
     end
-    if matches[1] == 'setowner' then
+    if matches[1] == 'setowner' and matches[2] then
       if not is_owner(msg) then
         return "For owner only!"
       end
@@ -973,6 +982,14 @@ local function run(msg, matches)
       savelog(msg.to.id, name_log.." ["..msg.from.id.."] set ["..matches[2].."] as owner")
       local text = matches[2].." added as owner"
       return text
+    end
+    if matches[1] == 'setowner' and not matches[2] then
+      if not is_owner(msg) then
+        return "only for the owner!"
+      end
+      if type(msg.reply_id)~="nil" then
+          msgr = get_message(msg.reply_id, setowner_by_reply, false)
+      end
     end
     if matches[1] == 'owner' then
       local group_owner = data[tostring(msg.to.id)]['set_owner']
@@ -1108,6 +1125,7 @@ return {
   "^[!/](set) ([^%s]+) (.*)$",
   "^[!/](lock) (.*)$",
   "^[!/](setowner) (%d+)$",
+  "^[!/](setowner)",
   "^[!/](owner)$",
   "^[!/](res) (.*)$",
   "^[!/](setgpowner) (%d+) (%d+)$",-- (group id) (owner id)
