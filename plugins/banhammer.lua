@@ -98,12 +98,12 @@ local function username_id(cb_extra, success, result)
         if sender==member then
           return send_large_msg(receiver, "You can't kick yourself")
         end
-        if is_momod2(member_id, chat_id) then
+        if is_momod2(member_id, chat_id) and not is_admin2(sender) then
           return send_large_msg(receiver, "You can't kick mods/owner/admins")
         end
         return kick_user(member_id, chat_id)
       elseif get_cmd == 'ban' then
-        if is_momod2(member_id, chat_id) then
+        if is_momod2(member_id, chat_id) and not is_admin2(sender) then
           return send_large_msg(receiver, "You can't ban mods/owner/admins")
         end
         send_large_msg(receiver, 'User @'..member..' ['..member_id..'] banned')
