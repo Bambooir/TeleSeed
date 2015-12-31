@@ -16,7 +16,8 @@ local function check_member(cb_extra, success, result)
           lock_name = 'yes',
           lock_photo = 'no',
           lock_member = 'no',
-          flood = 'yes'
+          flood = 'yes',
+          lock_adds = 'no'
         }
       }
       save_data(_config.moderation.data, data)
@@ -48,7 +49,8 @@ local function check_member_modadd(cb_extra, success, result)
           lock_name = 'yes',
           lock_photo = 'no',
           lock_member = 'no',
-          flood = 'yes'
+          flood = 'yes',
+          lock_adds = 'no'
         }
       }
       save_data(_config.moderation.data, data)
@@ -111,7 +113,7 @@ local function show_group_settingsmod(msg, data, target)
     	bots_protection = data[tostring(msg.to.id)]['settings']['lock_bots']
    	end
   local settings = data[tostring(target)]['settings']
-  local text = "Group settings:\nLock group name : "..settings.lock_name.."\nLock group photo : "..settings.lock_photo.."\nLock group member : "..settings.lock_member.."\nflood sensitivity : "..NUM_MSG_MAX.."\nBot protection : "..bots_protection
+  local text = "Group settings:\nLock group name : "..settings.lock_name.."\nLock group photo : "..settings.lock_photo.."\nLock group member : "..settings.lock_member.."\nflood sensitivity : "..NUM_MSG_MAX.."\nBot protection : "..bots_protection.."\nAdds protection : "..settings.lock_adds
   return text
 end
 
@@ -287,6 +289,35 @@ local function unlock_group_photomod(msg, data, target)
     return 'Group photo has been unlocked'
   end
 end
+
+local function lock_group_adds(msg, data, target)
+  if not is_momod(msg) then
+    return "For moderators only!"
+  end
+  local group_adds_lock = data[tostring(target)]['settings']['lock_adds']
+  if group_adds_lock == 'yes' then
+    return 'Adds protection is already enabled"
+  else
+    data[tostring(target)]['settings']['lock_adds'] = 'yes'
+    save_data(_config.moderation.data, data)
+    return 'Adds protection has been enabled'
+  end
+end
+
+local function unlock_group_adds(msg, data, target)
+  if not is_momod(msg) then
+    return "For moderators only!"
+  end
+  local group_adds_lock = data[tostring(target)]['settings']['lock_adds']
+  if group_adds_lock == 'no' then
+    return 'Add protection is already disabled'
+  else
+    data[tostring(target)]['settings']['lock_adds'] = 'no'
+    save_data(_config.moderation.data, data)
+    return 'Adds protection has been disabled'
+  end
+end
+
 
 local function set_rulesmod(msg, data, target)
   if not is_momod(msg) then
@@ -679,6 +710,10 @@ local function run(msg, matches)
         savelog(msg.to.id, name_log.." ["..msg.from.id.."] locked bots ")
         return lock_group_bots(msg, data, target)
       end
+      If matches[2] == 'adds' then
+        savelog(msg.to.id, name_log.." ["..msg.from.id.."] locked adds ")
+        return lock_grpup_adds(msg, data, target)
+      end
     end
     if matches[1] == 'unlock' then 
       local target = msg.to.id
@@ -705,6 +740,10 @@ local function run(msg, matches)
       if matches[2] == 'bots' then
         savelog(msg.to.id, name_log.." ["..msg.from.id.."] unlocked bots ")
         return unlock_group_bots(msg, data, target)
+      end
+      if matches[2] == 'adds' then
+       savelog(msg.to.id, name_log.." ["..msg.from.id.."] locked bots ")
+        return lock_group_bots(msg, data, target)
       end
     end
     if matches[1] == 'settings' then
