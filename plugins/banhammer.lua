@@ -40,12 +40,19 @@ local function pre_process(msg)
           end
         end
       end
+<<<<<<< HEAD
      if data[tostring(msg.to.id)] then
        if data[tostring(msg.to.id)]['settings'] then
          if data[tostring(msg.to.id)]['settings']['lock_bots'] then 
            bots_protection = data[tostring(msg.to.id)]['settings']['lock_bots']
           end
         end
+=======
+      local bots_protection = "Yes"
+      local data = load_data(_config.moderation.data)
+      if data[tostring(msg.to.id)]['settings']['lock_bots'] then
+        bots_protection = data[tostring(msg.to.id)]['settings']['lock_bots']
+>>>>>>> master
       end
     if msg.action.user.username ~= nil then
       if string.sub(msg.action.user.username:lower(), -3) == 'bot' and not is_momod(msg) and bots_protection == "yes" then --- Will kick bots added by normal users
@@ -223,6 +230,7 @@ if matches[1]:lower() == 'kick' then
         msgr = get_message(msg.reply_id,Kick_by_reply, false)
       end
     end
+<<<<<<< HEAD
 	if string.match(matches[2], '^%d+$') then
 		if tonumber(matches[2]) == tonumber(our_id) then 
 			return
@@ -250,6 +258,35 @@ if matches[1]:lower() == 'kick' then
 	end
 end
 
+=======
+    if msg.to.type == 'chat' then
+      local user_id = matches[2]
+      local chat_id = msg.to.id
+      if string.match(matches[2], '^%d+$') then
+        if tonumber(matches[2]) == tonumber(our_id) then 
+          return
+        end
+        if not is_admin(msg) and is_momod2(matches[2], msg.to.id) then
+          return "you can't kick mods/owner/admins"
+        end
+        if tonumber(matches[2]) == tonumber(msg.from.id) then
+          return "You can't kick your self !"
+        end
+        local name = user_print_name(msg.from)
+        savelog(msg.to.id, name.." ["..msg.from.id.."] kicked user ".. matches[2])
+        kick_user(user_id, chat_id)
+      else
+        local member = string.gsub(matches[2], '@', '')
+        local get_cmd = 'kick'
+        local name = user_print_name(msg.from)
+        savelog(msg.to.id, name.." ["..msg.from.id.."] kicked user ".. matches[2])
+        chat_info(receiver, username_id, {get_cmd=get_cmd, receiver=receiver, chat_id=msg.to.id, member=member})
+      end
+    else
+      return 'This isn\'t a chat group'
+    end
+  end
+>>>>>>> master
 
   if not is_admin(msg) then
     return
