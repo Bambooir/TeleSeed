@@ -1,5 +1,5 @@
 do
-<<<<<<< HEAD
+
 local function pairsByKeys (t, f)
       local a = {}
       for n in pairs(t) do table.insert(a, n) end
@@ -40,8 +40,8 @@ local function chat_list(msg)
 end
 
 
-=======
->>>>>>> master
+
+
 function run(msg, matches)
   if msg.to.type ~= 'chat' or is_sudo(msg) or is_admin(msg) and is_realm(msg) then
 	 local data = load_data(_config.moderation.data)
@@ -56,7 +56,7 @@ function run(msg, matches)
       if data[tostring(matches[2])]['settings']['lock_member'] == 'yes' and not is_owner2(msg.from.id, matches[2]) then
         return 'Group is private.'
       end
-<<<<<<< HEAD
+
           local chat = "chat#id"..matches[2]
           local user = "user#id"..msg.from.id
           chat_add_user(chat, user, ok_cb, false)
@@ -86,17 +86,17 @@ function run(msg, matches)
        end      
        end
      end
-=======
+
       local chat = "chat#id"..matches[2]
 		  local user = "user#id"..msg.from.id
 		  chat_add_user(chat, user, ok_cb, false)
     end
->>>>>>> master
+
   end
 end
 return {
     patterns = {
-<<<<<<< HEAD
+
       "^[/!](chatlist)$",
       "^[/!](join) (.*)$",
       "^[/!](kickme) (.*)$",
@@ -104,11 +104,11 @@ return {
     },
     run = run,
 }
-=======
+
       "^[/!](join) (.*)$"
     },
     run = run,
 }
 
 end
->>>>>>> master
+
