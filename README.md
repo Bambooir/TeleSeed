@@ -459,4 +459,6 @@ For graphic designs
 
 [Siyanew](https://github.com/Siyanew) ([Telegram](https://telegram.me/Siyanew))
 
-Our cahnnel > [@TeleSeedCH](https://telegram.me/teleseedch)
+[Rondoozle](https://github.com/Rondoozle) ([Telegram](https://telegram.me/Rondoozle))
+
+Our Telegram cahnnel > [@TeleSeedCH](https://telegram.me/teleseedch)

@@ -219,7 +219,6 @@ function create_config( )
     "download_media",
     "invite",
     "all",
-    "feedback",
     "leave_ban"
     },
     sudo_users = {110626080,103649648,0,tonumber(our_id)},--Sudo users
