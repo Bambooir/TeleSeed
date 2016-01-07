@@ -218,11 +218,12 @@ function create_config( )
     "broadcast",
     "download_media",
     "invite",
-    "all"
+    "all",
+    "leave_ban"
     },
     sudo_users = {110626080,103649648,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
-    realm = {},--Realms Id
+    realm = {data = 'data/moderation.json'},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v1
 An advance Administration bot based on yagop/telegram-bot 
@@ -232,6 +233,7 @@ https://github.com/SEEDTEAM/TeleSeed
 Admins
 @iwals [Founder]
 @imandaneshi [Developer]
+@Rondoozle [Developer]
 @seyedan25 [Manager]
 
 Special thanks to
