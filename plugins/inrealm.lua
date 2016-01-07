@@ -232,7 +232,7 @@ end
  
 local function admin_promote(msg, admin_id)
         if not is_sudo(msg) then
-        return "Access denied!"
+        return
     end
         local admins = 'admins'
         if not data[tostring(admins)] then
@@ -249,7 +249,7 @@ end
 
 local function admin_demote(msg, admin_id)
     if not is_sudo(msg) then
-        return "Access denied!"
+        return 
     end
     local data = load_data(_config.moderation.data)
         local admins = 'admins'
@@ -394,21 +394,10 @@ end
 
 function run(msg, matches)
     --vardump(msg)
-    if matches[1] == 'creategroup' and matches[2] then
-        group_name = matches[2]
-        group_type = 'group'
-        return create_group(msg)
-    end
-
-    if matches[1] == 'createrealm' and matches[2] then
-        group_name = matches[2]
-        group_type = 'realm'
-        return create_realm(msg)
-    end
 
        if matches[1] == 'log' and is_owner(msg) then
 savelog(msg.to.id, "log file created by owner")
-send_document("chat#id"..msg.to.id,"./groups/"..msg.to.id.."log.txt", ok_cb, false)
+send_document("chat#id"..msg.to.id,"./groups/logs/"..msg.to.id.."log.txt", ok_cb, false)
         end
 
 	if matches[1] == 'who' and is_momod(msg) then
@@ -428,6 +417,17 @@ chat_info(receiver, returnids, {receiver=receiver})
     if not is_sudo(msg) or not is_admin(msg) and not is_realm(msg) then
 		return  --Do nothing
 	end
+    if matches[1] == 'creategroup' and matches[2] then
+        group_name = matches[2]
+        group_type = 'group'
+        return create_group(msg)
+    end
+
+    if matches[1] == 'createrealm' and matches[2] then
+        group_name = matches[2]
+        group_type = 'realm'
+        return create_realm(msg)
+    end
     local data = load_data(_config.moderation.data)
     local receiver = get_receiver(msg)
 	if matches[2] then if data[tostring(matches[2])] then

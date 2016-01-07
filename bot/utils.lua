@@ -679,7 +679,6 @@ function is_momod(msg)
   local var = false
   local data = load_data(_config.moderation.data)
   local user = msg.from.id
-  
   if data[tostring(msg.to.id)] then
     if data[tostring(msg.to.id)]['moderators'] then
       if data[tostring(msg.to.id)]['moderators'][tostring(user)] then
@@ -766,7 +765,7 @@ function ban_user(user_id, chat_id)
   if tonumber(user_id) == tonumber(our_id) then -- Ignore bot
     return
   end
-  if is_admin2(user_id) then -- Ignore admins
+  if is_momod(user_id) then -- Ignore admins
     return
   end
   -- Save to redis

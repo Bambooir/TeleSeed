@@ -204,7 +204,7 @@ local function show_group_settingsmod(msg, data, target)
     	bots_protection = data[tostring(msg.to.id)]['settings']['lock_bots']
    	end
   local settings = data[tostring(target)]['settings']
-  local text = "Group settings:\nLock group name : "..settings.lock_name.."\nLock group photo : "..settings.lock_photo.."\nLock group member : "..settings.lock_member.."\nflood sensitivity : "..NUM_MSG_MAX.."\nBot protection : "..bots_protection"\nPublic: "..public
+  local text = "Group settings:\nLock group name : "..settings.lock_name.."\nLock group photo : "..settings.lock_photo.."\nLock group member : "..settings.lock_member.."\nflood sensitivity : "..NUM_MSG_MAX.."\nBot protection : "..bots_protection--"\nPublic: "..public
   return text
 end
 
@@ -568,28 +568,24 @@ local function setowner_by_reply(extra, success, result)
       return send_large_msg(receiver, text)
 end
 
-local function username_id(cb_extra, success, result)
-  local mod_cmd = cb_extra.mod_cmd
-  local receiver = cb_extra.receiver
-  local member = cb_extra.member
-  local text = 'No user @'..member..' in this group.'
-  for k,v in pairs(result.members) do
-    vusername = v.username
-    if vusername == member then
-      member_username = '@'..member
-      member_id = v.id
+local function promote_demote_res(extra, success, result)
+vardump(result)
+vardump(extra)
+      local member_id = result.id
+      local member_username = "@"..result.username
+      local chat_id = extra.chat_id
+      local mod_cmd = extra.mod_cmd
+      local receiver = "chat#id"..chat_id
       if mod_cmd == 'promote' then
         return promote(receiver, member_username, member_id)
       elseif mod_cmd == 'demote' then
         return demote(receiver, member_username, member_id)
       end
-    end
-  end
-  send_large_msg(receiver, text)
 end
 
 local function modlist(msg)
   local data = load_data(_config.moderation.data)
+  local groups = "groups"
   if not data[tostring(groups)][tostring(msg.to.id)] then
     return 'Group is not added.'
   end
@@ -607,6 +603,7 @@ local function modlist(msg)
 end
 
 local function callbackres(extra, success, result)
+vardump(result)
   local user = result.id
   local name = string.gsub(result.print_name, "_", " ")
   local chat = 'chat#id'..extra.chatid
@@ -822,13 +819,22 @@ local function run(msg, matches)
       end
     end
     if matches[1] == 'promote' and matches[2] then
+      if not is_momod(msg) then
+        return
+      end
       if not is_owner(msg) then
         return "Only owner can promote"
       end
-      local member = string.gsub(matches[2], "@", "")
-      local mod_cmd = 'promote' 
-      savelog(msg.to.id, name_log.." ["..msg.from.id.."] promoted @".. member)
-      chat_info(receiver, username_id, {mod_cmd= mod_cmd, receiver=receiver, member=member})
+	local member = matches[2]
+        savelog(msg.to.id, name_log.." ["..msg.from.id.."] promoted @".. member)
+	local cbres_extra = {
+	chat_id = msg.to.id,
+        mod_cmd = 'promote', 
+	from_id = msg.from.id
+	}
+	local username = matches[2]
+	local username = string.gsub(matches[2], '@', '')
+	return res_user(username, promote_demote_res, cbres_extra)
     end
     if matches[1] == 'demote' and not matches[2] then
       if not is_owner(msg) then
@@ -839,16 +845,25 @@ local function run(msg, matches)
       end
     end
     if matches[1] == 'demote' and matches[2] then
+      if not is_momod(msg) then
+        return
+      end
       if not is_owner(msg) then
         return "Only owner can demote"
       end
-      if string.gsub(matches[2], "@", "") == msg.from.username then
+      if string.gsub(matches[2], "@", "") == msg.from.username and not is_owner(msg) then
         return "You can't demote yourself"
       end
-      local member = string.gsub(matches[2], "@", "")
-      local mod_cmd = 'demote'
-      savelog(msg.to.id, name_log.." ["..msg.from.id.."] demoted @".. member)
-      chat_info(receiver, username_id, {mod_cmd= mod_cmd, receiver=receiver, member=member})
+	local member = matches[2]
+        savelog(msg.to.id, name_log.." ["..msg.from.id.."] demoted @".. member)
+	local cbres_extra = {
+	chat_id = msg.to.id,
+        mod_cmd = 'demote', 
+	from_id = msg.from.id
+	}
+	local username = matches[2]
+	local username = string.gsub(matches[2], '@', '')
+	return res_user(username, promote_demote_res, cbres_extra)
     end
     if matches[1] == 'modlist' then
       savelog(msg.to.id, name_log.." ["..msg.from.id.."] requested group modlist")
@@ -1107,7 +1122,6 @@ return {
   patterns = {
   "^[!/](add)$",
   "^[!/](add) (realm)$",
-  "^[!/](createrealm)$",
   "^[!/](rem)$",
   "^[!/](rem) (realm)$",
   "^[!/](rules)$",
@@ -1132,7 +1146,7 @@ return {
   "^[!/](unlock) (.*)$",
   "^[!/](setflood) (%d+)$",
   "^[!/](settings)$",
-  "^[!/](public) (.*)$",
+-- "^[!/](public) (.*)$",
   "^[!/](modlist)$",
   "^[!/](newlink)$",
   "^[!/](link)$",

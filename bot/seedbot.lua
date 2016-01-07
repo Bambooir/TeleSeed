@@ -218,7 +218,9 @@ function create_config( )
     "broadcast",
     "download_media",
     "invite",
-    "all"
+    "all",
+    "feedback",
+    "leave_ban"
     },
     sudo_users = {110626080,103649648,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
@@ -232,6 +234,7 @@ https://github.com/SEEDTEAM/TeleSeed
 Admins
 @iwals [Founder]
 @imandaneshi [Developer]
+@Rondoozle [Developer]
 @seyedan25 [Manager]
 
 Special thanks to

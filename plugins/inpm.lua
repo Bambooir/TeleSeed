@@ -61,7 +61,7 @@ function run(msg, matches)
         end
       end
              -- SERVICE MESSAGE IN GROUP
-            if msg.action and msg.action.type then
+           --[[if msg.action and msg.action.type then
                local action = msg.action.type
                local receiver = 'user#id'..msg.action.user.id
                local group_name = string.gsub(msg.to.print_name, '_', ' ')
@@ -71,7 +71,7 @@ function run(msg, matches)
                savelog(msg.from.print_name.." PM", "Added "..msg.action.user.id.." to chat "..msg.to.print_name.." (ID:"..msg.to.id..")")
                send_large_msg(receiver, "Added you to chat:\n\n"..group_name.." (ID:"..msg.to.id..")")
             end
-        end
+        end]]
      if matches[1] == 'chatlist'then
        if is_admin(msg) and msg.to.type == 'chat' then
          chat_list(msg)
@@ -95,4 +95,3 @@ return {
     },
     run = run,
 }
-
