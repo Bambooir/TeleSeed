@@ -231,10 +231,10 @@ An advance Administration bot based on yagop/telegram-bot
 https://github.com/SEEDTEAM/TeleSeed
 
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@Rondoozle [Developer]
-@seyedan25 [Manager]
+@mrblackam[Founder]
+@mrblackam[Developer]
+@mrblackam [Developer]
+@mrblackam [Manager]
 
 Special thanks to
 awkward_potato
