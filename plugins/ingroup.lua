@@ -681,8 +681,8 @@ local function user_msgs(user_id, chat_id)
 end
 
 local function kick_zero(cb_extra, success, result)
-    local chat = "chat#id"..cb_extra.chat_id
     local chat_id = cb_extra.chat_id
+    local chat = "chat#id"..chat_id
     local ci_user
     local re_user
     for k,v in pairs(result.members) do
@@ -698,13 +698,15 @@ local function kick_zero(cb_extra, success, result)
         end
         if not si then
             if ci_user ~= our_id then
-                chat_del_user(chat, 'user#id'..ci_user, ok_cb, true)
+                if not is_momod2(ci_user, chat_id) then
+                  chat_del_user(chat, 'user#id'..ci_user, ok_cb, true)
+                end
             end
         end
     end
 end
 
-local function kick_inactive(chat_id, num)
+local function kick_inactive(chat_id, num, receiver)
     local hash = 'chat:'..chat_id..':users'
     local users = redis:smembers(hash)
     -- Get user info
@@ -713,7 +715,9 @@ local function kick_inactive(chat_id, num)
         local user_info = user_msgs(user_id, chat_id)
         local nmsg = user_info
         if tonumber(nmsg) < tonumber(num) then
-            chat_del_user('chat#id'..chat_id, 'user#id'..user_id, ok_cb, true)
+            if not is_momod2(user_id, chat_id) then
+              chat_del_user('chat#id'..chat_id, 'user#id'..user_id, ok_cb, true)
+            end
         end
     end
     return chat_info(receiver, kick_zero, {chat_id = chat_id})
@@ -1199,6 +1203,7 @@ local function run(msg, matches)
       return res_user(username,  callbackres, cbres_extra)
     end
     if matches[1] == 'kickinactive' then
+      --send_large_msg('chat#id'..msg.to.id, 'I\'m in matches[1]')
 	    if not is_momod(msg) then
 	      return 'Only a moderator can kick inactive users'
 	    end
@@ -1207,7 +1212,8 @@ local function run(msg, matches)
 	        num = matches[2]
 	    end
 	    local chat_id = msg.to.id
-      return kick_inactive(chat_id, num)
+	    local receiver = get_receiver(msg)
+      return kick_inactive(chat_id, num, receiver)
     end
   end 
 end
