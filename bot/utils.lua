@@ -530,17 +530,20 @@ function unescape_html(str)
 end
 
 
+
 --Check if this chat is realm or not
 function is_realm(msg)
   local var = false
-  for v,group in pairs(_config.realm) do
-    if group == msg.to.id then
-      var = true
-    end
+  local realms = 'realms'
+  local data = load_data(_config.moderation.data)
+  local chat = msg.to.id
+  if data[tostring(realms)] then
+    if data[tostring(realms)][tostring(msg.to.id)] then
+       var = true
+       end
+       return var
   end
-  return var
 end
-
 --Check if this chat is a group or not
 function is_group(msg)
   local var = false
