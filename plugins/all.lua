@@ -119,11 +119,11 @@ local function all(target, receiver)
   text = text.."\n\n"..stats
   local ban_list = ban_list(target)
   text = text.."\n\n"..ban_list
-  local file = io.open("./groups/"..target.."all.txt", "w")
+  local file = io.open("./groups/all/"..target.."all.txt", "w")
   file:write(text)
   file:flush()
   file:close()
-  send_document(receiver,"./groups/"..target.."all.txt", ok_cb, false)
+  send_document(receiver,"./groups/all/"..target.."all.txt", ok_cb, false)
   return
 end
 
