@@ -541,6 +541,20 @@ function is_realm(msg)
   return var
 end
 
+--Check if this chat is a group or not
+function is_group(msg)
+  local var = false
+  local groups = 'groups'
+  local data = load_data(_config.moderation.data)
+  local chat = msg.to.id
+  if data[tostring(groups)] then
+    if data[tostring(groups)][tostring(msg.to.id)] then
+       var = true
+       end
+       return var
+  end
+end
+
 
 function savelog(group, logtxt)
 
