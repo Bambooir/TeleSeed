@@ -596,8 +596,8 @@ local function setowner_by_reply(extra, success, result)
 end
 
 local function promote_demote_res(extra, success, result)
-vardump(result)
-vardump(extra)
+--vardump(result)
+--vardump(extra)
       local member_id = result.id
       local member_username = "@"..result.username
       local chat_id = extra.chat_id

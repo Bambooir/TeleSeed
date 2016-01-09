@@ -278,7 +278,7 @@ local function admin_list(msg)
         return message
 end
  
-local function group_list(msg)
+local function groups_list(msg)
     local data = load_data(_config.moderation.data)
         local groups = 'groups'
         if not data[tostring(groups)] then
@@ -407,7 +407,7 @@ send_document("chat#id"..msg.to.id,"./groups/logs/"..msg.to.id.."log.txt", ok_cb
 
 if matches[1] == 'log' and is_owner(msg) then
 savelog(msg.to.id, "log file created by owner")
-send_document("chat#id"..msg.to.id,"./groups/"..msg.to.id.."log.txt", ok_cb, false)
+send_document("chat#id"..msg.to.id,"./groups/logs/"..msg.to.id.."log.txt", ok_cb, false)
 end
 
 
@@ -426,7 +426,7 @@ chat_info(receiver, returnids, {receiver=receiver})
 	end
 
 
-    if not is_realm(msg) then
+    if not is_sudo(msg) or not is_admin(msg) and not is_realm(msg) then
 		return
 	end
     if matches[1] == 'creategroup' and matches[2] then
@@ -576,38 +576,34 @@ chat_info(receiver, returnids, {receiver=receiver})
                         local group_type = get_group_type(msg)
 			return group_type
 		end
-		if matches[1] == 'list' and matches[2] == 'admins' then
-			return admin_list(msg)
+ 		if matches[1] == 'list' then
+			if matches[2] == 'admins' then
+				return admin_list(msg)
+			end
+			if matches[2] == 'groups' then
+                  	if msg.to.type == 'chat' then
+				groups_list(msg)
+		        	send_document("chat#id"..msg.to.id, "./groups/lists/groups.txt", ok_cb, false)	
+				return "Group list created" --group_list(msg)
+                   	elseif msg.to.type == 'user' then 
+                       		groups_list(msg)
+		        	send_document("user#id"..msg.from.id, "./groups/lists/groups.txt", ok_cb, false)	
+				return "Group list created" --group_list(msg)
+                  	end
+			end
+			if matches[2] == 'realms' then
+                  	if msg.to.type == 'chat' then
+				realms_list(msg)
+		        	send_document("chat#id"..msg.to.id, "./groups/lists/realms.txt", ok_cb, false)	
+				return "Realms list created" --realms_list(msg)
+                   	elseif msg.to.type == 'user' then 
+                        	realms_list(msg)
+		        	send_document("user#id"..msg.from.id, "./groups/lists/realms.txt", ok_cb, false)	
+				return "Realms list created" --realms_list(msg)
+                  	end
+			end
+		    end
 		end
-		if matches[1] == 'list' and matches[2] == 'groups' then
-
-                  if msg.to.type == 'chat' then
-			groups_list(msg)
-		        send_document("chat#id"..msg.to.id, "./groups/groups.txt", ok_cb, false)	
-			return "Group list created" --group_list(msg)
-                   elseif msg.to.type == 'user' then 
-                        groups_list(msg)
-		        send_document("user#id"..msg.from.id, "./groups/groups.txt", ok_cb, false)	
-			return "Group list created" --group_list(msg)
-                  end
-		end
-		if matches[1] == 'list' and matches[2] == 'realms' then
-                  if msg.to.type == 'chat' then
-			realms_list(msg)
-		        send_document("chat#id"..msg.to.id, "./groups/lists/realms.txt", ok_cb, false)	
-			return "Realms list created" --realms_list(msg)
-                   elseif msg.to.type == 'user' then 
-                        realms_list(msg)
-		        send_document("user#id"..msg.from.id, "./groups/lists/realms.txt", ok_cb, false)	
-			return "Realms list created" --realms_list(msg)
-                  end
-		end
-
-			group_list(msg)
-		 send_document("chat#id"..msg.to.id, "groups.txt", ok_cb, false)	
-			return " Group list created" --group_list(msg)
-		end
-
 end
 
 
