@@ -22,7 +22,9 @@
 - [Features](#features)
 - [Commands](#commands)
 	- [Admins commands](#admins-commands)
+		- [Realm creation](#realm-creation)
 		- [Group creation](#group-creation)
+		- [Add or remove realms](#add-or-remove-realms)
 		- [Add or remove groups](#add-or-remove-groups)
 		- [Leaving](#leaving)
 		- [Everything about groups](#everything-about-groups)
@@ -36,6 +38,7 @@
 		- [Remove admin](#remove-admin)
 		- [Admins|group list in realm](#adminsgroup-list-in-realm)
 		- [Broadcast](#broadcast)
+		- [Realm help](#realm-help)
 	- [Global ban commands](#global-ban-commands)
 		- [Set group owner](#set-group-owner)
 		- [Bot stats](#bot-stats)
@@ -61,6 +64,7 @@
 		- [Id](#id)
 		- [Group stats](#group-stats)
 		- [Member list](#member-list)
+		- [Group help](#group-help)
 	- [In private commands](#in-private-commands)
 		- [Hammer](#hammer)
 		- [cleaning](#cleaning)
@@ -88,7 +92,23 @@
 >>[!/]creategroup SEED
 >>>will create a group
 >>>
->>>_Only works in realms But sudo users can use it everywhere_
+>>>_Only works in realms for admins but, sudo users can use it everywhere_
+
+### Realm creation
+>[!/]createrealm [realm name]
+>
+>>[!/]createrealm SEED
+>>>will create a realm
+>>>
+>>>_Only works in realms for admins but, sudo users can use it everywhere_
+
+###Add or remove realms
+>[!/]add realm
+>>This command will add that group
+>
+>[!/]rem realm
+>>This command will remove that group
+
 
 ###Add or remove groups
 >[!/]add
@@ -198,6 +218,13 @@
 ### Bot stats 
 >[!/]stats teleseed
 >>This command will return bot stats
+
+# Realm Help
+>/[!/]help
+>>Get realm commands list
+
+
+
 
 ## owners and mods commands
 
@@ -340,6 +367,10 @@ _Sudo users and admins can also use this commands in all groups_
 >[!/]wholist
 >>This command will return member list
 
+# Group Help
+>/[!/]help
+>>Get commands list
+
 
 
 ## in private commands
@@ -389,7 +420,8 @@ _Sudo users and admins can also use this commands in all groups_
 
 ### Join
 >/[!/]oin [group_id]
->> THis command will add user in [group_id]
+>> This command will add user in [group_id]
+
 
 **U can use both "/" and "!"**
 
@@ -417,18 +449,25 @@ sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgr
 ```
 ### Realm configuration 
 
-After you ran bot for first time,turn it off
+After you ran bot for first time, go to bot and use !id command
 
-create an empty group with it
+Get your id then, stop bot
 
-run it again
+open file ./data/config.lua 
 
-obtain that groups id using /id and add its id to realms table in config
-
-```lua
-realm = {},--Realms Id
+add your id to the "sudo_users" section in the following format:
+```
+  sudo_users = {
+    110626080,
+    103649648,
+    111020322,
+    0,
+    YourID
+  }
 ```
 then start the bot again
+
+Create a realm using !createrealm command
 
 
 # Support and development
@@ -441,7 +480,7 @@ _If you are using /join service for first time you have to send it 11 times ( Bo
 # Special thanks to
 [@seyedan25](https://telegram.me/seyedan25)
 
-For Managing [@teleseed](https://telegram.me/TeleSeed) on telegram
+For Managing [@teleseed](https://telegram.me/TeleSeed) on Telegram
 
 [@Vamptacus](https://telegram.me/Vamptacus)
 
@@ -461,4 +500,4 @@ For graphic designs
 
 [Rondoozle](https://github.com/Rondoozle) ([Telegram](https://telegram.me/Rondoozle))
 
-Our Telegram cahnnel > [@TeleSeedCH](https://telegram.me/teleseedch)
+Our Telegram cahnnels > English: [@TeleSeedCH](https://telegram.me/teleseedch) Persian: [@IranSeed](https://telegram.me/iranseed)

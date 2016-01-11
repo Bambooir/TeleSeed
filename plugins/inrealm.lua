@@ -542,7 +542,7 @@ function run(msg, matches)
 
 	    end 
         end
-    	if matches[1] == 'help' then
+    	if matches[1] == 'help' and is_realm(msg) then
       		savelog(msg.to.id, name_log.." ["..msg.from.id.."] Used /help")
      		return help()
     	end
