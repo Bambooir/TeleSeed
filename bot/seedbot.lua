@@ -299,6 +299,16 @@ Get a list of all realms
 !log
 Grt a logfile of current group or realm
 
+!broadcast [text]
+!broadcast Hello !
+Send text to all groups
+Only sudo users can run this command
+
+!br [group_id] [text]
+!br 123456789 Hello !
+This command will send text to [group_id]
+
+
 **U can use both "/" and "!" 
 
 
