@@ -1187,7 +1187,7 @@ local function run(msg, matches)
      end
    end
     if matches[1] == 'help' then
-      if not is_momod(msg) and not is_realm(msg) then
+      if not is_momod(msg) or is_realm(msg) then
         return
       end
       savelog(msg.to.id, name_log.." ["..msg.from.id.."] Used /help")
