@@ -11,7 +11,6 @@ local function create_group(msg)
         end
 end
 
-
 local function create_realm(msg)
         -- superuser and admins only (because sudo are always has privilege)
         if is_sudo(msg) or is_realm(msg) and is_admin(msg) then
@@ -53,7 +52,6 @@ local function get_group_type(msg)
   end 
 end
 
-
 local function callbackres(extra, success, result)
 --vardump(result)
   local user = result.id
@@ -62,7 +60,6 @@ local function callbackres(extra, success, result)
   send_large_msg(chat, user..'\n'..name)
   return user
 end
-
 
 local function set_description(msg, data, target, about)
     if not is_admin(msg) then
@@ -324,7 +321,7 @@ local function groups_list(msg)
         file:flush()
         file:close()
         return message
-      
+       
 end
 local function realms_list(msg)
     local data = load_data(_config.moderation.data)
@@ -355,7 +352,6 @@ local function realms_list(msg)
         file:flush()
         file:close()
         return message
-
 end
 local function admin_user_promote(receiver, member_username, member_id)
         local data = load_data(_config.moderation.data)
@@ -406,14 +402,6 @@ local function username_id(cb_extra, success, result)
    send_large_msg(receiver, text)
 end
 
-
-function run(msg, matches)
-    --vardump(msg)
-       if matches[1] == 'log' and is_owner(msg) then
-savelog(msg.to.id, "log file created by owner")
-send_document("chat#id"..msg.to.id,"./groups/logs/"..msg.to.id.."log.txt", ok_cb, false)
-        end
-
 local function set_log_group(msg)
   if not is_admin(msg) then
     return 
@@ -442,12 +430,10 @@ local function unset_log_group(msg)
   end
 end
 
-
 local function help()
   local help_text = tostring(_config.help_text_realm)
   return help_text
 end
-
 
 function run(msg, matches)
     --vardump(msg)
@@ -456,7 +442,6 @@ function run(msg, matches)
 		savelog(msg.to.id, "log file created by owner")
 		send_document("chat#id"..msg.to.id,"./groups/"..msg.to.id.."log.txt", ok_cb, false)
         end
-
 
 	if matches[1] == 'who' and is_momod(msg) then
 		local name = user_print_name(msg.from)
@@ -545,7 +530,7 @@ function run(msg, matches)
                     rename_chat(to_rename, group_name_set, ok_cb, false)
                     savelog(msg.to.id, "Realm { "..msg.to.print_name.." }  name changed to [ "..new_name.." ] by "..name_log.." ["..msg.from.id.."]")
                 end
-		if matches[1] == 'setname' and is_admin(msg) then
+		if matches[1] == 'setgpname' and is_admin(msg) then
 		    local new_name = string.gsub(matches[3], '_', ' ')
 		    data[tostring(matches[2])]['settings']['set_name'] = new_name
 		    save_data(_config.moderation.data, data)
@@ -654,10 +639,6 @@ function run(msg, matches)
 			return "Realms list created" --realms_list(msg)
                   end
 		end
-			group_list(msg)
-		 send_document("chat#id"..msg.to.id, "groups.txt", ok_cb, false)	
-			return " Group list created" --group_list(msg)
-		end
    		 if matches[1] == 'res' and is_momod(msg) then 
       			local cbres_extra = {
         			chatid = msg.to.id
@@ -667,8 +648,8 @@ function run(msg, matches)
       			savelog(msg.to.id, name_log.." ["..msg.from.id.."] Used /res "..username)
       			return res_user(username,  callbackres, cbres_extra)
     end
-
 end
+
 
 
 return {
@@ -679,14 +660,12 @@ return {
     "^[!/](setrules) (%d+) (.*)$",
     "^[!/](setname) (.*)$",
     "^[!/](setgpname) (%d+) (.*)$",
+    "^[!/](setname) (%d+) (.*)$",
         "^[!/](lock) (%d+) (.*)$",
     "^[!/](unlock) (%d+) (.*)$",
     "^[!/](setting) (%d+)$",
         "^[!/](wholist)$",
         "^[!/](who)$",
-        "^[!/](type)$",
-    "^[!/](kill) (chat) (%d+)$",
-    "^[!/](kill) (realm) (%d+)$",
         "^[!/](type)$",
     "^[!/](kill) (chat) (%d+)$",
     "^[!/](kill) (realm) (%d+)$",
@@ -700,4 +679,5 @@ return {
   run = run
 }
 end
+
 
