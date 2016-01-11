@@ -760,7 +760,7 @@ function ban_user(user_id, chat_id)
   if tonumber(user_id) == tonumber(our_id) then -- Ignore bot
     return
   end
-  if is_momod(user_id) then -- Ignore admins
+  if is_admin2(user_id) then -- Ignore admins
     return
   end
   -- Save to redis

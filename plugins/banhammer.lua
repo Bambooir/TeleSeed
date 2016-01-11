@@ -166,27 +166,27 @@ local function run(msg, matches)
       local chat_id = msg.to.id
       if string.match(matches[2], '^%d+$') then
         if tonumber(matches[2]) == tonumber(our_id) then 
-          return
+         	return
         end
-        if not is_admin(msg) and is_momod2(tonumber(matches[2]), msg.to.id) then
-          return "you can't ban mods/owner/admins"
+        if not is_admin(msg) and is_momod2(matches[2], msg.to.id) then
+          	return "you can't ban mods/owner/admins"
         end
         if tonumber(matches[2]) == tonumber(msg.from.id) then
-          return "You can't ban your self !"
+          	return "You can't ban your self !"
         end
         local name = user_print_name(msg.from)
         savelog(msg.to.id, name.." ["..msg.from.id.."] baned user ".. matches[2])
         ban_user(user_id, chat_id)
       else
-	local cbres_extra = {
-	chat_id = msg.to.id,
-	get_cmd = 'ban',
-	from_id = msg.from.id
-	}
-	local username = matches[2]
-	local username = string.gsub(matches[2], '@', '')
-	res_user(username, kick_ban_res, cbres_extra)
-    end
+		local cbres_extra = {
+		chat_id = msg.to.id,
+		get_cmd = 'ban',
+		from_id = msg.from.id
+		}
+		local username = matches[2]
+		local username = string.gsub(matches[2], '@', '')
+		res_user(username, kick_ban_res, cbres_extra)
+    	end
   end
 
 
@@ -198,21 +198,21 @@ local function run(msg, matches)
       local chat_id = msg.to.id
       local targetuser = matches[2]
       if string.match(targetuser, '^%d+$') then
-        local user_id = targetuser
-        local hash =  'banned:'..chat_id
-        redis:srem(hash, user_id)
-        local name = user_print_name(msg.from)
-        savelog(msg.to.id, name.." ["..msg.from.id.."] unbaned user ".. matches[2])
-        return 'User '..user_id..' unbanned'
+        	local user_id = targetuser
+        	local hash =  'banned:'..chat_id
+        	redis:srem(hash, user_id)
+        	local name = user_print_name(msg.from)
+        	savelog(msg.to.id, name.." ["..msg.from.id.."] unbaned user ".. matches[2])
+        	return 'User '..user_id..' unbanned'
       else
-	local cbres_extra = {
-	chat_id = msg.to.id,
-	get_cmd = 'unban',
-	from_id = msg.from.id
-	}
-	local username = matches[2]
-	local username = string.gsub(matches[2], '@', '')
-	res_user(username, kick_ban_res, cbres_extra)
+		local cbres_extra = {
+			chat_id = msg.to.id,
+			get_cmd = 'unban',
+			from_id = msg.from.id
+		}
+		local username = matches[2]
+		local username = string.gsub(matches[2], '@', '')
+		res_user(username, kick_ban_res, cbres_extra)
 	end
  end
 
@@ -242,9 +242,9 @@ if matches[1]:lower() == 'kick' then
 		kick_user(user_id, chat_id)
 	else
 		local cbres_extra = {
-		chat_id = msg.to.id,
-		get_cmd = 'kick',
-		from_id = msg.from.id
+			chat_id = msg.to.id,
+			get_cmd = 'kick',
+			from_id = msg.from.id
 		}
 		local username = matches[2]
 		local username = string.gsub(matches[2], '@', '')
@@ -266,39 +266,39 @@ end
       local targetuser = matches[2]
       if string.match(targetuser, '^%d+$') then
         if tonumber(matches[2]) == tonumber(our_id) then
-         return false 
+         	return false 
         end
-        banall_user(targetuser)
-        return 'User ['..user_id..' ] globally banned'
+        	banall_user(targetuser)
+       		return 'User ['..user_id..' ] globally banned'
       else
 	local cbres_extra = {
-	chat_id = msg.to.id,
-	get_cmd = 'banall',
-	from_id = msg.from.id
+		chat_id = msg.to.id,
+		get_cmd = 'banall',
+		from_id = msg.from.id
 	}
-	local username = matches[2]
-	local username = string.gsub(matches[2], '@', '')
-	res_user(username, kick_ban_res, cbres_extra)
-      end
+		local username = matches[2]
+		local username = string.gsub(matches[2], '@', '')
+		res_user(username, kick_ban_res, cbres_extra)
+      	end
   end
   if matches[1]:lower() == 'unbanall' then -- Global unban
     local user_id = matches[2]
     local chat_id = msg.to.id
       if string.match(matches[2], '^%d+$') then
         if tonumber(matches[2]) == tonumber(our_id) then 
-          return false 
+          	return false 
         end
-        unbanall_user(user_id)
-        return 'User ['..user_id..' ] removed from global ban list'
+       		unbanall_user(user_id)
+        	return 'User ['..user_id..' ] removed from global ban list'
       else
 	local cbres_extra = {
-	chat_id = msg.to.id,
-	get_cmd = 'unbanall',
-	from_id = msg.from.id
+		chat_id = msg.to.id,
+		get_cmd = 'unbanall',
+		from_id = msg.from.id
 	}
-	local username = matches[2]
-	local username = string.gsub(matches[2], '@', '')
-	res_user(username, kick_ban_res, cbres_extra)
+		local username = matches[2]
+		local username = string.gsub(matches[2], '@', '')
+		res_user(username, kick_ban_res, cbres_extra)
       end
   end
   if matches[1]:lower() == "gbanlist" then -- Global ban list

@@ -630,7 +630,7 @@ local function modlist(msg)
 end
 
 local function callbackres(extra, success, result)
-vardump(result)
+--vardump(result)
   local user = result.id
   local name = string.gsub(result.print_name, "_", " ")
   local chat = 'chat#id'..extra.chatid
