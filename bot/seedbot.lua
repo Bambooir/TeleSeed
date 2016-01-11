@@ -15,7 +15,7 @@ function on_msg_receive (msg)
   local receiver = get_receiver(msg)
   print (receiver)
 
-  -- vardump(msg)
+  --vardump(msg)
   msg = pre_process_service_msg(msg)
   if msg_valid(msg) then
     msg = pre_process_msg(msg)
@@ -221,11 +221,10 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {110626080,103649648,0,tonumber(our_id)},--Sudo users
+    sudo_users = {110626080,103649648,111020322,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
-    realm = {data = 'data/moderation.json'},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v1
+    about_text = [[Teleseed v2 - Open Source
 An advance Administration bot based on yagop/telegram-bot 
 
 https://github.com/SEEDTEAM/TeleSeed
@@ -244,6 +243,71 @@ Vamptacus
 
 Our channels
 @teleseedch [English]
+@iranseed [persian]
+]],
+    help_text_realm = [[
+Realm Commands:
+
+!creategroup [Name]
+Create a group
+
+!createrealm [Name]
+Create a realm
+
+!setname [Name]
+Set realm name
+
+!setabout [GroupID] [Text]
+Set a group's about text
+
+!setrules [GroupID] [Text]
+Set a group's rules
+
+!lock [GroupID] [setting]
+Lock a group's setting
+
+!unlock [GroupID] [setting]
+Unock a group's setting
+
+!wholist
+Get a list of members in group/realm
+
+!who
+Get a file of members in group/realm
+
+!type
+Get group type
+
+!kill chat [GroupID]
+Kick all memebers and delete group
+
+!kill realm [RealmID]
+Kick all members and delete realm
+
+!addadmin [id|username]
+Promote an admin by id OR username *Sudo only
+
+!removeadmin [id|username]
+Demote an admin by id OR username *Sudo only
+
+!list groups
+Get a list of all groups
+
+!list realms
+Get a list of all realms
+
+!log
+Grt a logfile of current group or realm
+
+**U can use both "/" and "!" 
+
+
+*Only admins and sudo can add bots in group
+
+
+*Only admins and sudo can use kick,ban,unban,newlink,setphoto,setname,lock,unlock,set rules,set about and settings commands
+
+*Only ad can use res, setowner, commands
 ]],
     help_text = [[
 Commands list :
@@ -289,11 +353,11 @@ return group id or user id
 
 !help
 
-!lock [member|name|bots]
-Locks [member|name|bots] 
+!lock [member|name|bots|leave]	
+Locks [member|name|bots|leaveing] 
 
-!unlock [member|name|photo|bots]
-Unlocks [member|name|photo|bots]
+!unlock [member|name|bots|leave]
+Unlocks [member|name|bots|leaving]
 
 !set rules <text>
 Set <text> as rules
@@ -352,7 +416,6 @@ will return group ban list
 *Only owner can use res,setowner,promote,demote and log commands
 
 ]]
-
   }
   serialize_to_file(config, './data/config.lua')
   print('saved config into ./data/config.lua')

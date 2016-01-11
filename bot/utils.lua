@@ -530,15 +530,32 @@ function unescape_html(str)
 end
 
 
+
 --Check if this chat is realm or not
 function is_realm(msg)
   local var = false
-  for v,group in pairs(_config.realm) do
-    if group == msg.to.id then
-      var = true
-    end
+  local realms = 'realms'
+  local data = load_data(_config.moderation.data)
+  local chat = msg.to.id
+  if data[tostring(realms)] then
+    if data[tostring(realms)][tostring(msg.to.id)] then
+       var = true
+       end
+       return var
   end
-  return var
+end
+--Check if this chat is a group or not
+function is_group(msg)
+  local var = false
+  local groups = 'groups'
+  local data = load_data(_config.moderation.data)
+  local chat = msg.to.id
+  if data[tostring(groups)] then
+    if data[tostring(groups)][tostring(msg.to.id)] then
+       var = true
+       end
+       return var
+  end
 end
 
 
@@ -743,7 +760,7 @@ function ban_user(user_id, chat_id)
   if tonumber(user_id) == tonumber(our_id) then -- Ignore bot
     return
   end
-  if is_momod(user_id) then -- Ignore admins
+  if is_admin2(user_id) then -- Ignore admins
     return
   end
   -- Save to redis

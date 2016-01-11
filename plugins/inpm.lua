@@ -1,5 +1,4 @@
 do
-
 local function pairsByKeys (t, f)
       local a = {}
       for n in pairs(t) do table.insert(a, n) end
@@ -36,10 +35,7 @@ local function chat_list(msg)
         file:flush()
         file:close()
         return message
-       
 end
-
-
 
 
 function run(msg, matches)
@@ -56,7 +52,6 @@ function run(msg, matches)
       if data[tostring(matches[2])]['settings']['lock_member'] == 'yes' and not is_owner2(msg.from.id, matches[2]) then
         return 'Group is private.'
       end
-
           local chat = "chat#id"..matches[2]
           local user = "user#id"..msg.from.id
           chat_add_user(chat, user, ok_cb, false)
@@ -84,19 +79,13 @@ function run(msg, matches)
          chat_list(msg)
          send_document("user#id"..msg.from.id, "./groups/lists/listed_groups.txt", ok_cb, false) 
        end      
-       end
-     end
-
-      local chat = "chat#id"..matches[2]
-		  local user = "user#id"..msg.from.id
-		  chat_add_user(chat, user, ok_cb, false)
     end
-
   end
 end
+
+
 return {
     patterns = {
-
       "^[/!](chatlist)$",
       "^[/!](join) (.*)$",
       "^[/!](kickme) (.*)$",
@@ -104,11 +93,7 @@ return {
     },
     run = run,
 }
-
-      "^[/!](join) (.*)$"
-    },
-    run = run,
-}
-
 end
+
+
 

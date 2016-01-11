@@ -32,11 +32,11 @@ local function chat_stats(chat_id)
   for k,user in pairs(users_info) do
     text = text..user.name..' = '..user.msgs..'\n'
   end
-  local file = io.open("./groups/"..chat_id.."stats.txt", "w")
+  local file = io.open("./groups/lists/"..chat_id.."stats.txt", "w")
   file:write(text)
   file:flush()
   file:close() 
-  send_document("chat#id"..chat_id,"./groups/"..chat_id.."stats.txt", ok_cb, false)
+  send_document("chat#id"..chat_id,"./groups/lists/"..chat_id.."stats.txt", ok_cb, false)
   return --text
 end
 
