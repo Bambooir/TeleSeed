@@ -307,7 +307,7 @@ Grt a logfile of current group or realm
 
 *Only admins and sudo can use kick,ban,unban,newlink,setphoto,setname,lock,unlock,set rules,set about and settings commands
 
-*Only ad can use res, setowner, commands
+*Only admins and sudo can use res, setowner, commands
 ]],
     help_text = [[
 Commands list :
