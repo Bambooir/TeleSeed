@@ -35,7 +35,6 @@ local function chat_list(msg)
         file:flush()
         file:close()
         return message
-       
 end
 
 local function run(msg, matches)
@@ -77,7 +76,6 @@ local function run(msg, matches)
 end
 end
 
-
 return {
     patterns = {
       "^[/!](chats)$",
@@ -89,3 +87,4 @@ return {
     run = run,
 }
 end
+
