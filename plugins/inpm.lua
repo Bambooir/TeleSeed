@@ -35,7 +35,6 @@ local function chat_list(msg)
         file:flush()
         file:close()
         return message
-       
 end
 
 local function run(msg, matches)
@@ -69,14 +68,15 @@ local function run(msg, matches)
      end
      if matches[1] == 'chatlist'then
        if is_admin(msg) and msg.to.type == 'chat' then
+	 chat_list(msg)
          send_document("chat#id"..msg.from.id, "./groups/lists/listed_groups.txt", ok_cb, false)
        elseif msg.to.type ~= 'chat' then
+	 chat_list(msg)
          send_document("user#id"..msg.from.id, "./groups/lists/listed_groups.txt", ok_cb, false) 
        end      
      end
 end
 end
-
 
 return {
     patterns = {
