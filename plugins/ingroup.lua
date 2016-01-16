@@ -712,7 +712,7 @@ local function run(msg, matches)
       end
       If matches[2] == 'adds' then
         savelog(msg.to.id, name_log.." ["..msg.from.id.."] locked adds ")
-        return lock_grpup_adds(msg, data, target)
+        return lock_group_adds(msg, data, target)
       end
     end
     if matches[1] == 'unlock' then 
@@ -742,8 +742,8 @@ local function run(msg, matches)
         return unlock_group_bots(msg, data, target)
       end
       if matches[2] == 'adds' then
-       savelog(msg.to.id, name_log.." ["..msg.from.id.."] locked adds ")
-        return lock_group_bots(msg, data, target)
+       savelog(msg.to.id, name_log.." ["..msg.from.id.."] unlocked adds ")
+        return unlock_group_adds(msg, data, target)
       end
     end
     if matches[1] == 'settings' then
