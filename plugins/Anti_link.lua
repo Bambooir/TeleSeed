@@ -12,7 +12,7 @@ local function run(msg, matches)
     end
     local chat = get_receiver(msg)
     local user = "user#id"..msg.from.id
-    if lock_adds == "yes" then
+    if lock_adds == "yes" and not is_owner(msg) then
         send_large_msg(chat, 'Adds is not allowed here!!')
         chat_del_user(chat, user, ok_cb, true)
     end
