@@ -214,8 +214,10 @@ local function returnids(cb_extra, success, result)
     local chatname = result.print_name
     local text = 'Users in '..string.gsub(chatname,"_"," ")..' ('..result.id..'):'..'\n'..''
     for k,v in pairs(result.members) do
-        local username = ""
-        text = text .. "- " .. string.gsub(v.print_name,"_"," ") .. "  (" .. v.id .. ") \n"
+    	if v.print_name then
+        	local username = ""
+        	text = text .. "- " .. string.gsub(v.print_name,"_"," ") .. "  (" .. v.id .. ") \n"
+        end
     end
     send_large_msg(receiver, text)
         local file = io.open("./groups/lists/"..result.id.."memberlist.txt", "w")
@@ -230,8 +232,10 @@ local function returnidsfile(cb_extra, success, result)
     local chatname = result.print_name
     local text = 'Users in '..string.gsub(chatname,"_"," ")..' ('..result.id..'):'..'\n'..''
     for k,v in pairs(result.members) do
-        local username = ""
-        text = text .. "- " .. string.gsub(v.print_name,"_"," ") .. "  (" .. v.id .. ") \n"
+    	if v.print_name then
+        	local username = ""
+        	text = text .. "- " .. string.gsub(v.print_name,"_"," ") .. "  (" .. v.id .. ") \n"
+        end
     end
         local file = io.open("./groups/lists/"..result.id.."memberlist.txt", "w")
         file:write(text)
