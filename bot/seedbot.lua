@@ -304,8 +304,8 @@ Grt a logfile of current group or realm
 Send text to all groups
 Only sudo users can run this command
 
-!br [group_id] [text]
-!br 123456789 Hello !
+!bc [group_id] [text]
+!bc 123456789 Hello !
 This command will send text to [group_id]
 
 
