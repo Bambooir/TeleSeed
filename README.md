@@ -180,7 +180,7 @@
 >>>_Only works in realms_ [username]
 
 ### Admins|group list in realm
->[!/]ist [admins|groups]
+>[!/]list [admins|groups]
 >>[!/]list groups
 >>>This command will return admins|groups list
 
@@ -191,8 +191,8 @@
 >>>
 >>>_Only sudo users can run this command_
 >
->/br [group_id] [text]
->>/br 123456789 Hello !
+>/bc [group_id] [text]
+>>/bc 123456789 Hello !
 >>>This command will send text to [group_id]
 
 ##Global ban commands
@@ -310,7 +310,7 @@ _Sudo users and admins can also use this commands in all groups_
 
 ### Flood sensitivity
 >[!/]setflood [value]
->>[!/]set flood 15  
+>>[!/]setflood 15  
 >>> will set flood sensitivity to [value]
 
 ### Group rules and about
