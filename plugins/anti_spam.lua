@@ -78,7 +78,7 @@ local function pre_process(msg)
         return
       end
       kick_user(user, chat)
-      if msg.chat.type == "user" then
+      if msg.to.type == "user" then
         block_user("user#id"..msg.from.id,ok_cb,false)--Block user if spammed in private
       end
       local name = user_print_name(msg.from)
