@@ -724,6 +724,10 @@ local function kick_inactive(chat_id, num, receiver)
 end
 
 local function run(msg, matches)
+  local deez_nuts = 'group:name'..msg.to.id
+  local is_deez_nuts = redis:get(deez_nuts)
+  local the_user = 'photo:changer'..msg.from.id
+  local is_the_user = redis:get(the_user)
   local data = load_data(_config.moderation.data)
   local receiver = get_receiver(msg)
    local name_log = user_print_name(msg.from)
@@ -874,7 +878,31 @@ local function run(msg, matches)
         return nil
       end
     end
-    if matches[1] == 'setname' and is_momod(msg) then
+    if matches[1] == 'setname' and not matches[2] then
+        local chat = 'chat#id'..msg.to.id
+        local deez_nuts = 'group:name'..msg.to.id
+        local is_deez_nuts = redis:get(deez_nuts)
+        redis:set(deez_nuts, "waiting")
+        redis:set(the_user, true)
+        send_large_msg(chat, 'Send the new name now')
+    end
+    if matches[1] and is_deez_nuts and is_the_user then
+        local chat = 'chat#id'..msg.to.id
+        if is_deez_nuts == "waiting" then
+            local new_name = string.gsub(matches[1], '_', ' ')
+            data[tostring(msg.to.id)]['settings']['set_name'] = new_name
+            save_data(_config.moderation.data, data)
+            data[tostring(msg.to.id)]['settings']['lock_name'] = 'yes'
+            save_data(_config.moderation.data, data)
+            local group_name_set = data[tostring(msg.to.id)]['settings']['set_name']
+            local to_rename = 'chat#id'..msg.to.id
+            rename_chat(to_rename, group_name_set, ok_cb, false)
+            send_large_msg(chat, 'Name has been changed to\n\n'..matches[1])
+            redis:del(deez_nuts)
+            redis:del(the_user)
+        end
+    end
+    if matches[1] == 'setname' and matches[2] and is_momod(msg) then
       local new_name = string.gsub(matches[2], '_', ' ')
       data[tostring(msg.to.id)]['settings']['set_name'] = new_name
       save_data(_config.moderation.data, data)
@@ -1252,6 +1280,8 @@ return {
   "^[!/](link)$",
   "^[!/](kickinactive)$",
   "^[!/](kickinactive) (%d+)$",
+  "^[!/]([Ss]etname)$",
+  "^(.*)$",
   "%[(photo)%]",
   "^!!tgservice (.+)$",
   },
