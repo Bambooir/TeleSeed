@@ -33,8 +33,4 @@ usage = {
   },
   run = run
 }
---Manufacturer @imandaneshi--shared by @Blackhatchannel
 
-پلاگین تگ آل
-
-Plugin=Tagall
