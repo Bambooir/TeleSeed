@@ -25,7 +25,7 @@
 
 * [HaMeD](telegram.me/tehran980) = Sudo
 * [amin](telegram.me/Boy_Crazy) = Sudo
-
+* Tnx To @MrHalix
 
 # BossTG Development
 * _You can send [!development] in @BossTG For join to development_
