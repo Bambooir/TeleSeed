@@ -28,4 +28,4 @@
 
 
 # BossTG Development
-* **You can send [!development] in @BossTG For join to development**
+* _You can send [!development] in @BossTG For join to development_
