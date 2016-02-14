@@ -36,7 +36,10 @@
 * **BossTG Development[FA]
 * شما میتوانید با ارسال دستور 
 * /development در پیوی ربات @BossTG 
-عضو گروه شوید اگر میخواهید پلاگینی که خودتون نوشتید یا از جایی گرفتین و میخواین اون رو تو سورس ما اوپن کنین با ارسال Pull میتوانید پلاگین خود را در سورس ما قرار دهید
+میتوانید عضو گروه شوید
+
+# Pull request
+* you can send pull request for edit and add plugin
 
 # Channel BossTG
 * [BossTG](telegram.me/BossTGch)
