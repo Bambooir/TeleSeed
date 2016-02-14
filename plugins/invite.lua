@@ -1,41 +1,79 @@
+--[[
+Invite other user to the chat group.
+Use !invite ********* (where ********* is id_number) to invite a user by id_number.
+This is the most reliable method.
+Use !invite @username to invite a user by @username.
+Less reliable. Some users don't have @username.
+Use !invite Type print_name Here to invite a user by print_name.
+Unreliable. Avoid if possible.
+]]--
+
 do
-local function callbackres(extra, success, result) -- Callback for res_user in line 27
-  local user = 'user#id'..result.id
-	local chat = 'chat#id'..extra.chatid
-	if is_banned(result.id, extra.chatid) then -- Ignore bans
-            send_large_msg(chat, 'User is banned.')
-	elseif is_gbanned(result.id) then -- Ignore globall bans
-	    send_large_msg(chat, 'User is globaly banned.')
-	else    
-	    chat_add_user(chat, user, ok_cb, false) -- Add user on chat
-	end
+
+-- Think it's kind of useless. Just to suppress '*** lua: attempt to call a nil value'
+local function callback(extra, success, result)
+  if success == 1 and extra ~= false then
+    return extra.text
+  else
+    return send_large_msg(chat, "Can't invite user to this group.")
+  end
 end
-function run(msg, matches)
-  local data = load_data(_config.moderation.data)
-  if not is_realm(msg) then
-    if data[tostring(msg.to.id)]['settings']['lock_member'] == 'yes' and not is_admin(msg) then
-		  return 'Group is private.'
+
+local function resolve_username(extra, success, result)
+  local chat = extra.chat
+  if success == 1 then
+    local user = 'user#id'..result.id
+    chat_add_user(chat, user, callback, false)
+    return extra.text
+  else
+    return send_large_msg(chat, "Can't invite user to this group.")
+  end
+end
+
+local function action_by_reply(extra, success, result)
+  if success == 1 then
+    chat_add_user('chat#id'..result.to.id, 'user#id'..result.from.id, callback, false)
+  else
+    return send_large_msg('chat#id'..result.to.id, "Can't invite user to this group.")
+  end
+end
+
+local function run(msg, matches)
+  local user_id = matches[1]
+  local chat = 'chat#id'..msg.to.id
+  local text = "Add: "..user_id.." to "..chat
+  if msg.to.type == 'chat' then
+    if msg.reply_id and msg.text == "!invite" then
+      msgr = get_message(msg.reply_id, action_by_reply, {msg=msg})
     end
+    if string.match(user_id, '^%d+$') then
+      user = 'user#id'..user_id
+      chat_add_user(chat, user, callback, {chat=chat, text=text})
+    elseif string.match(user_id, '^@.+$') then
+      username = string.gsub(user_id, '@', '')
+      msgr = res_user(username, resolve_username, {chat=chat, text=text})
+    else
+      user = string.gsub(user_id, ' ', '_')
+      chat_add_user(chat, user, callback, {chat=chat, text=text})
+    end
+  else
+    return 'This isnt a chat group!'
   end
-  if msg.to.type ~= 'chat' then 
-    return
-  end
-  if not is_momod(msg) then
-    return
-  end
-  --if not is_admin(msg) then -- For admins only !
-    --return 'Only admins can invite.'
-  --end
-	local cbres_extra = {chatid = msg.to.id}
-  local username = matches[1]
-  local username = username:gsub("@","")
-  res_user(username,  callbackres, cbres_extra)
 end
+
 return {
-    patterns = {
-      "^[!/]invite (.*)$"
-    },
-    run = run
+  description = 'Invite other user to the chat group.',
+  usage = {
+    -- Need space in front of this, so bot won't consider it as a command
+    ' !invite [id|user_name|name]'
+  },
+  patterns = {
+    "^!invite$",
+    "^!invite (.*)$",
+    "^!invite (%d+)$"
+  },
+  run = run,
+  privileged = true
 }
 
 end
