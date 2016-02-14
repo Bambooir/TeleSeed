@@ -32,5 +32,20 @@
 * [Mrhalix](telegram.me/Mrhalix)
 
 
-# BossTG Development
-* _You can send [!development] in @BossTG For join to development_
+# [BossTG Development](telegram.me/BossTGch)
+* **BossTG Development[FA]
+* شما میتوانید با ارسال دستور 
+* /development در پیوی ربات @BossTG 
+* عضو گروه شوید
+* در ضمن همه میتوانند با ارسال pull پلاگین های جدید
+* خودشون رو در سورس ما قرار دهند
+* ما سعی داریم این سورس رو بزرگ ترین سورس بکنیم
+* تا همه به خوبی بتوانند برای خودشان یک ربات کامل
+* داشته باشند
+
+# Channel BossTG
+* [BossTG](telegram.me/BossTGch)
+
+# my Music blog
+
+* [MusicGold](musicgold.loxblog.com)
