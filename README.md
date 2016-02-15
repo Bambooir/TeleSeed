@@ -37,11 +37,13 @@ sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgr
 * [Mrhalix](telegram.me/Mrhalix)
 
 
-# [BossTG Development](telegram.me/BossTGch)
-* **BossTG Development[FA]
-* شما میتوانید با ارسال دستور 
-* /development در پیوی ربات @BossTG 
-میتوانید عضو گروه شوید
+# tehran980 Offline for ever
+
+* دوستان بابت مسائل خیلی مهم نتونستم بمونم تو تلگرام ولی این صفحه رو همیشه سعی میکنم اپدیت  میکنم در ضمن الان یوزر من روی کانالم قرار گرفته و دوستام دارن کانالمو اداره میکنن الان فقط تو 
+[MusicGold](musicgold.loxblog.com)
+و
+[iteghamed](hamedahmadi243.iteg.ir)
+در دسترس هستم
 
 # Pull request
 * you can send pull request for edit and add plugin
