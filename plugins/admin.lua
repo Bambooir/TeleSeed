@@ -168,6 +168,21 @@ local function run(msg,matches)
     if matches[1] == "whois" then
       user_info("user#id"..matches[2],user_info_callback,{msg=msg})
     end
+    if matches[1] == "sync_gbans" then
+    	if not is_sudo(msg) then-- Sudo only
+    		return
+    	end
+    	local url = "http://seedteam.ir/Teleseed/Global_bans.json"
+    	local SEED_gbans = http.request(url)
+    	local jdat = json:decode(SEED_gbans)
+    	for k,v in pairs(jdat) do
+  		if not tonumber(v) == tonumber(our_id) and not is_admin2(v) then-- Ignore bot and admins :)
+  			redis:hset('user:'..v, 'print_name', k)
+  			redis:sadd('gbanned', v)
+      			print(k, v.." Globally banned")
+      		end
+    	end
+    end
     return
 end
 return {
@@ -183,7 +198,8 @@ return {
 	"^[!/](contactlist)$",
 	"^[!/](dialoglist)$",
 	"^[!/](delcontact) (%d+)$",
-	"^[!/](whois) (%d+)$"
+	"^[!/](whois) (%d+)$",
+	"^/(sync_gbans)$"--sync your global bans with seed
   },
   run = run,
 }
