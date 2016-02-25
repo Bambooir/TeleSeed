@@ -806,18 +806,22 @@ end
 
 -- Returns chat_id ban list
 function ban_list(chat_id)
-  local hash =  'banned:'..chat_id
-  local list = redis:smembers(hash)
-  local text = "Ban list !\n\n"
-  for k,v in pairs(list) do
- 		local user_info = redis:hgetall('user:'..v)
-		if user_info and user_info.print_name then
-   	text = text..k.." - "..string.gsub(user_info.print_name, "_", " ").." ["..v.."]\n"
-  	else 
-    text = text..k.." - "..v.."\n"
+	local hash =  'banned:'..chat_id
+	local list = redis:smembers(hash)
+	local text = "Ban list !\n\n"
+	for k,v in pairs(list) do
+		local user_info = redis:hgetall('user:'..v)
+		if user_info then
+			if user_info.print_name then
+				text = text..k.." - "..string.gsub(user_info.print_name, "_", " ").." ["..v.."]\n"
+			elseif user_info.username then
+				text = text..k.." - @"..string.gsub(user_info.username, "_", " ").." ["..v.."]\n"
+                        else 
+          	                text = text..k.." - "..v.."\n"
+  	                end
 		end
 	end
- return text
+	return text
 end
 
 -- Returns globally ban list
@@ -826,14 +830,18 @@ function banall_list()
   local list = redis:smembers(hash)
   local text = "global bans !\n\n"
   for k,v in pairs(list) do
-		 		local user_info = redis:hgetall('user:'..v)
-		if user_info and user_info.print_name then
-   	text = text..k.." - "..string.gsub(user_info.print_name, "_", " ").." ["..v.."]\n"
-  	else 
-    text = text..k.." - "..v.."\n"
+	local user_info = redis:hgetall('user:'..v)
+		if user_info then
+			if user_info.print_name then
+				text = text..k.." - "..string.gsub(user_info.print_name, "_", " ").." ["..v.."]\n"
+			elseif user_info.username then
+				text = text..k.." - @"..string.gsub(user_info.username, "_", " ").." ["..v.."]\n"
+                        else 
+          	                text = text..k.." - "..v.."\n"
+  	                end
 		end
 	end
- return text
+	return text
 end
 
 -- /id by reply
