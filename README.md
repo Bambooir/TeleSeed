@@ -37,14 +37,7 @@ sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgr
 * [Mrhalix](telegram.me/Mrhalix)
 
 
-# tehran980 Offline for ever
-
-* دوستان بابت مسائل خیلی مهم نتونستم بمونم تو تلگرام ولی این صفحه رو همیشه سعی میکنم اپدیت  میکنم در ضمن الان یوزر من روی کانالم قرار گرفته و دوستام دارن کانالمو اداره میکنن الان فقط تو 
-[MusicGold](musicgold.loxblog.com)
-و
-[iteghamed](hamedahmadi243.iteg.ir)
-در دسترس هستم
-
+# [admin](telegram.me/tehran980)
 # Pull request
 * you can send pull request for edit and add plugin
 
