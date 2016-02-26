@@ -194,8 +194,8 @@
 >>>
 >>>_Only sudo users can run this command_
 >
->/bc [group_id] [text]
->>/bc 123456789 Hello !
+>[!/]bc [group_id] [text]
+>>[!/]bc 123456789 Hello !
 >>>This command will send text to [group_id]
 
 ##Global ban commands
@@ -223,7 +223,7 @@
 >>This command will return bot stats
 
 # Realm Help
->/[!/]help
+>[!/]help
 >>Get realm commands list
 
 
@@ -371,7 +371,7 @@ _Sudo users and admins can also use this commands in all groups_
 >>This command will return member list
 
 # Group Help
->/[!/]help
+>[!/]help
 >>Get commands list
 
 
@@ -414,15 +414,15 @@ _Sudo users and admins can also use this commands in all groups_
 >[!/]changrules [group_id] [rules]
 >>[!/]changrules 123456789 rules !
 >
->/changeabout [group_id] [about]
->>/changeabout 123456789 about !
+>[!/]changeabout [group_id] [about]
+>>[!/]changeabout 123456789 about !
 
 ### Group log
->/loggroup [group_id]
->>/loggroup 123456789
+>[!/]loggroup [group_id]
+>>[!/]loggroup 123456789
 
 ### Join
->/[!/]oin [group_id]
+>[!/]oin [group_id]
 >> This command will add user in [group_id]
 
 
