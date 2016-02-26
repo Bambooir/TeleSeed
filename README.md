@@ -44,6 +44,6 @@ sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgr
 # Channel BossTG
 * [BossTG](telegram.me/BossTGch)
 
-# my Music blog
+# my channel
 
-* [MusicGold](musicgold.loxblog.com)
+* [android](telegram.me/newsandroid)
