@@ -815,7 +815,7 @@ function ban_list(chat_id)
 			if user_info.print_name then
 				text = text..k.." - "..string.gsub(user_info.print_name, "_", " ").." ["..v.."]\n"
 			elseif user_info.username then
-				text = text..k.." - @"..string.gsub(user_info.username, "_", " ").." ["..v.."]\n"
+				text = text..k.." - @"..user_info.username.." ["..v.."]\n"
                         else 
           	                text = text..k.." - "..v.."\n"
   	                end
@@ -835,7 +835,7 @@ function banall_list()
 			if user_info.print_name then
 				text = text..k.." - "..string.gsub(user_info.print_name, "_", " ").." ["..v.."]\n"
 			elseif user_info.username then
-				text = text..k.." - @"..string.gsub(user_info.username, "_", " ").." ["..v.."]\n"
+				text = text..k.." - @"..user_info.username.." ["..v.."]\n"
                         else 
           	                text = text..k.." - "..v.."\n"
   	                end
