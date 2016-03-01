@@ -1,92 +1,92 @@
-# [TeleSeed](https://telegram.me/TeleSeed) 
+# [TeleSeed](https://telegram.me/TeleSeed)
 
 [![Join the chat at https://gitter.im/SEEDTEAM/TeleSeed](https://badges.gitter.im/SEEDTEAM/TeleSeed.svg)](https://gitter.im/SEEDTEAM/TeleSeed?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-**An advance and powerful Administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under [GNU General public License](https://github.com/SEEDTEAM/TeleSeed/blob/master/LICENSE)**
+**An advanced and powerful administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under the [GNU General Public License](https://github.com/SEEDTEAM/TeleSeed/blob/master/LICENSE)**
 # Features
 
-* **A powerful Anti spam with custom sensitivity For each group**
-* **Multiple Realms(admin groups)**
-* **recalcitrant to any kind of spamming(Xy bots,name|photo changers and ...)**
-* **Global ban**
+* **A powerful antispam system with custom sensitivity for each group**
+* **Multiple realms (admin groups)**
+* **Recalcitrant to any kind of spamming (X/Y bots, name/photo changers, etc.)**
+* **Global banning**
 * **Broadcast to all groups**
-* **Group link**
-* **Kick,ban and unban by reply**
-* **Groups,ban and global bans list**
-* **Logging anything that happens in group !**
-* **Invite by username**
-* **Group administration in bots private**
-* **Only mods,owner and admin can add bots**
+* **Group links**
+* **Kick, ban and unban by reply**
+* **Groups, ban and global ban list**
+* **Logging anything that happens in group!**
+* **Invitation by username**
+* **Group administration via private messages**
+* **Only mods, owner and admin can add bots**
 * **Arabic lock**
-* **And ...**
+* **And more!**
 
-**Table of Contents** 
+**Table of Contents**
 - [TeleSeed](#teleseed)
 - [Features](#features)
 - [Commands](#commands)
 	- [Admins commands](#admins-commands)
 		- [Realm creation](#realm-creation)
 		- [Group creation](#group-creation)
-		- [Add or remove realms](#add-or-remove-realms)
-		- [Add or remove groups](#add-or-remove-groups)
-		- [Leaving](#leaving)
+		- [Adding and removing realms](#add-or-remove-realms)
+		- [Adding and removing groups](#add-or-remove-groups)
+		- [Leaving groups](#leaving)
 		- [Everything about groups](#everything-about-groups)
-		- [Setting description in realm](#setting-description-in-realm)
-		- [Setting group name in realm](#setting-group-name-in-realm)
+		- [Setting descriptions in realms](#setting-description-in-realm)
+		- [Setting group names in realms](#setting-group-name-in-realm)
 		- [Setting rules in realm](#setting-rules-in-realm)
-		- [lock groups name|flood|photo|member in realm](#lock-groups-namefloodphotomember-in-realm)
-		- [Unlock groups name|flood|photo|member](#unlock-groups-namefloodphotomember)
-	- [Group setting in realm](#group-setting-in-realm)
-		- [Add admin](#add-admin)
-		- [Remove admin](#remove-admin)
-		- [Admins|group list in realm](#adminsgroup-list-in-realm)
-		- [Broadcast](#broadcast)
+		- [Locking group names/photos/flood/members in realm](#lock-groups-namefloodphotomember-in-realm)
+		- [Unlocking group names/photos/flood/members](#unlock-groups-namefloodphotomember)
+	- [Group settings in realm](#group-setting-in-realm)
+		- [Adding admins](#add-admin)
+		- [Removing admins](#remove-admin)
+		- [Admin/group listing in realm](#adminsgroup-list-in-realm)
+		- [Broadcasting](#broadcast)
 		- [Realm help](#realm-help)
 	- [Global ban commands](#global-ban-commands)
 		- [Set group owner](#set-group-owner)
 		- [Bot stats](#bot-stats)
-	- [owners and mods commands](#owners-and-mods-commands)
+	- [Owner and mod commands](#owners-and-mods-commands)
 		- [Hammer](#hammer)
-		- [group name|member|arabic|flood|bots lock](#group-namememberarabicfloodbots-lock)
-		- [group name|member|arabic|flood|bots unlock](#group-namememberarabicfloodbots-unlock)
-		- [Group modlist|rules|about|member clean](#group-modlistrulesaboutmember-clean)
-		- [Set groups rules|about](#set-groups-rulesabout)
-		- [Setting or changing group owner](#setting-or-changing-group-photo)
-		- [Setting or changing group photo](#setting-or-changing-group-photo)
-		- [Changing group name](#changing-group-name)
-		- [Group link](#group-link)
-		- [Promote and demote mods](#promote-and-demote-mods)
-		- [Resolve username](#resolve-username)
+		- [Locking a group's name/members/bots/arabic/flood](#group-namememberarabicfloodbots-lock)
+		- [Unlocking a group's name/members/bots/arabic/flood](#group-namememberarabicfloodbots-unlock)
+		- [Cleaning a group's modlist/rules/about/members](#group-modlistrulesaboutmember-clean)
+		- [Seting a group's rules/about](#set-groups-rulesabout)
+		- [Setting or changing a group's owner](#setting-or-changing-group-photo)
+		- [Setting or changing a group's photo](#setting-or-changing-group-photo)
+		- [Changing a group's name](#changing-group-name)
+		- [Group links](#group-link)
+		- [Promoting and demoting mods](#promote-and-demote-mods)
+		- [Resolving usernames](#resolve-username)
 		- [Flood sensitivity](#flood-sensitivity)
 		- [Group rules and about](#group-rules-and-about)
 		- [Group settings](#group-settings)
-		- [modlist](#modlist)
+		- [Modlist](#modlist)
 		- [Help](#help)
 		- [Owner](#owner)
-		- [Save and get](#save-and-get)
+		- [Save and Get](#save-and-get)
 		- [Id](#id)
 		- [Group stats](#group-stats)
 		- [Member list](#member-list)
 		- [Group help](#group-help)
 	- [In private commands](#in-private-commands)
 		- [Hammer](#hammer)
-		- [cleaning](#cleaning)
-		- [setting flood sensitivity](#setting-flood-sensitivity)
-		- [lock groups member|name](#lock-groups-membername)
-			- [unlock groups member|name](#unlock-groups-membername)
+		- [Cleaning](#cleaning)
+		- [Setting flood sensitivity](#setting-flood-sensitivity)
+		- [Locking a group's members/name](#lock-groups-membername)
+		- [Unlocking a group's members/name](#unlock-groups-membername)
 		- [Group link](#group-link)
-		- [change name|rules|name](#change-namerulesname)
+		- [Changing name/rules](#change-namerulesname)
 		- [Group log](#group-log)
 		- [Join](#join)
 - [Installation](#installation)
-		- [One command](#one-command)
-		- [Realm configuration](#realm-configuration)
+	- [One command](#one-command)
+	- [Realm configuration](#realm-configuration)
 - [Support and development](#support-and-development)
 - [Special thanks to:](#special-thanks-to)
 - [Our team!](#our-team-)
 
 
-# Commands 
+# Commands
 ## Admins commands
 **Only admins and sudo users can run these commands**
 ### Group creation
@@ -138,7 +138,7 @@
 >>>This command will set [text] as description of [Group_id]
 
 
-### Setting group name in realm 
+### Setting group name in realm
 > [!/]setname [Group_id] [text]
 >>[!/]setname 123456789 SEED
 >>>This command will set [text] as name of [Group_id]
@@ -218,7 +218,7 @@
 >>[!/]setgpowner 123456789 987654321
 >>>This command will set [User_id] as the owner of [group_id]
 
-### Bot stats 
+### Bot stats
 >[!/]stats teleseed
 >>This command will return bot stats
 
@@ -291,7 +291,7 @@ _Sudo users and admins can also use this commands in all groups_
 >>>This command will set [name] as name of groups
 
 ### Group link
->[!/]newlink 
+>[!/]newlink
 >>This command will revoke group link
 >
 >[!/]link
@@ -313,7 +313,7 @@ _Sudo users and admins can also use this commands in all groups_
 
 ### Flood sensitivity
 >[!/]setflood [value]
->>[!/]setflood 15  
+>>[!/]setflood 15
 >>> will set flood sensitivity to [value]
 
 ### Group rules and about
@@ -333,11 +333,11 @@ _Sudo users and admins can also use this commands in all groups_
 >>This command will return group moderators
 >>>_normal users can use it too_
 
-###Help 
+###Help
 >[!/]help
 
 ### Owner
->[!/]owner 
+>[!/]owner
 >>This command will return owners id
 
 ### Save and get
@@ -354,10 +354,10 @@ _Sudo users and admins can also use this commands in all groups_
 >>This command will return user or group id
 >>_can be triggered by reply_
 >>
->>_Normal users can use it_ 
+>>_Normal users can use it_
 
 ### group stats
->[!/]stats 
+>[!/]stats
 >>This command will return group message statistic in a .txt file
 >
 >[!/]statslist
@@ -428,15 +428,14 @@ _Sudo users and admins can also use this commands in all groups_
 
 **U can use both "/" and "!"**
 
-# Installation 
+# Installation
 
-```bash
-# Tested on Ubuntu 14.04, for other OSs check out https://github.com/yagop/telegram-bot/wiki/Installation
+```sh
+# Install dependencies.
+# Tested on Ubuntu 14.04. For other OSs, check out https://github.com/yagop/telegram-bot/wiki/Installation
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev
-```
 
-```bash
-# lets install the bot
+# Let's install the bot.
 cd $HOME
 git clone https://github.com/SEEDTEAM/TeleSeed.git
 cd TeleSeed
@@ -445,20 +444,16 @@ chmod +x launch.sh
 ./launch.sh # Enter a phone number & confirmation code.
 ```
 ### One command
-To install everything in one command on debian-based distros, use: (useful for VPS deployment)
+To install everything in one command (useful for VPS deployment) on Debian-based distros, use:
 ```sh
 #https://github.com/yagop/telegram-bot/wiki/Installation
 sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/SEEDTEAM/TeleSeed.git && cd TeleSeed && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
-### Realm configuration 
+### Realm configuration
 
-After you ran bot for first time, go to bot and use !id command
+After you run the bot for first time, send it `!id`. Get your ID and stop the bot.
 
-Get your id then, stop bot
-
-open file ./data/config.lua 
-
-add your id to the "sudo_users" section in the following format:
+Open ./data/config.lua and add your ID to the "sudo_users" section in the following format:
 ```
   sudo_users = {
     110626080,
@@ -468,32 +463,30 @@ add your id to the "sudo_users" section in the following format:
     YourID
   }
 ```
-then start the bot again
+The restart the bot.
 
-Create a realm using !createrealm command
+Create a realm using the `!createrealm` command.
 
 
 # Support and development
 
-Check out this tutorial by: [Telegram Geeks](http://telegramgeeks.com/2016/01/teleseed-tutorial/) for further assistance with setup and installation.
+Check out this [tutorial by Telegram Geeks](http://telegramgeeks.com/2016/01/teleseed-tutorial/) for further assistance with setup and installation.
 
 Do not contact **us** In private for support.
 Join our bot development group by sending `/join 56670147` to [@TeleSeed](https://telegram.me/TeleSeed)
 
-_If you are using /join service for first time you have to send it 11 times ( Bot is spam reported )_
-
 # Special thanks to
 [@seyedan25](https://telegram.me/seyedan25)
 
-For Managing [@teleseed](https://telegram.me/TeleSeed) on Telegram
+For managing [@teleseed](https://telegram.me/TeleSeed) on Telegram.
 
 [@Vamptacus](https://telegram.me/Vamptacus)
 
-For graphic designs
+For graphic designs.
 
-[@topkecleon](https://github.com/topkecleon)
+[topkecleon](https://github.com/topkecleon)
 
-[@JuanPotato](https://github.com/JuanPotato)
+[Juan Potato](https://github.com/JuanPotato)
 
 # Our team!
 
@@ -505,4 +498,8 @@ For graphic designs
 
 [Rondoozle](https://github.com/Rondoozle) ([Telegram](https://telegram.me/Rondoozle))
 
-Our Telegram cahnnels > English: [@TeleSeedCH](https://telegram.me/teleseedch) Persian: [@IranSeed](https://telegram.me/iranseed)
+###Our Telegram channels:
+
+English: [@TeleSeedCH](https://telegram.me/teleseedch)
+
+Persian: [@IranSeed](https://telegram.me/iranseed)
