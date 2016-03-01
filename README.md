@@ -2,7 +2,7 @@
 
 [![Join the chat at https://gitter.im/SEEDTEAM/TeleSeed](https://badges.gitter.im/SEEDTEAM/TeleSeed.svg)](https://gitter.im/SEEDTEAM/TeleSeed?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-**An advanced and powerful administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under the [GNU General Public License](https://github.com/SEEDTEAM/TeleSeed/blob/master/LICENSE)**
+**An advanced and powerful administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under the [GNU General Public License](https://github.com/SEEDTEAM/TeleSeed/blob/master/LICENSE)**.
 # Features
 
 * **A powerful antispam system with custom sensitivity for each group**
@@ -13,7 +13,7 @@
 * **Group links**
 * **Kick, ban and unban by reply**
 * **Groups, ban and global ban list**
-* **Logging anything that happens in group!**
+* **Logging anything that happens in a group**
 * **Invitation by username**
 * **Group administration via private messages**
 * **Only mods, owner and admin can add bots**
@@ -31,8 +31,8 @@
 		- [Adding and removing groups](#add-or-remove-groups)
 		- [Leaving groups](#leaving)
 		- [Everything about groups](#everything-about-groups)
-		- [Setting descriptions in realms](#setting-description-in-realm)
-		- [Setting group names in realms](#setting-group-name-in-realm)
+		- [Setting descriptions in realm](#setting-description-in-realm)
+		- [Setting group names in realm](#setting-group-name-in-realm)
 		- [Setting rules in realm](#setting-rules-in-realm)
 		- [Locking group names/photos/flood/members in realm](#lock-groups-namefloodphotomember-in-realm)
 		- [Unlocking group names/photos/flood/members](#unlock-groups-namefloodphotomember)
@@ -88,7 +88,7 @@
 
 # Commands
 ## Admins commands
-**Only admins and sudo users can run these commands**
+**Only admins and sudo users can run these commands.**
 ### Group creation
 >[!/]creategroup [group name]
 >
@@ -463,16 +463,15 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
     YourID
   }
 ```
-The restart the bot.
+Then restart the bot.
 
 Create a realm using the `!createrealm` command.
-
 
 # Support and development
 
 Check out this [tutorial by Telegram Geeks](http://telegramgeeks.com/2016/01/teleseed-tutorial/) for further assistance with setup and installation.
 
-Do not contact **us** In private for support.
+**Do not contact us** in private for support.
 Join our bot development group by sending `/join 56670147` to [@TeleSeed](https://telegram.me/TeleSeed)
 
 # Special thanks to
