@@ -83,7 +83,7 @@
 	- [Realm configuration](#realm-configuration)
 - [Support and development](#support-and-development)
 - [Special thanks to:](#special-thanks-to)
-- [Our team!](#our-team-)
+- [Our team!](#our-team)
 
 
 # Commands
@@ -129,41 +129,41 @@
 >>This command will return everything about that group
 >
 >[!/]all [group_id]
->>_Only onwer,admin and sudo users can use this command
+>>_Only onwer, admin and sudo users can use this command_
 
 
 ### Setting description in realm
-> [!/]setabout [Group_id] [text]
+> [!/]setabout [group_id] [text]
 >>[!/]setabout 123456789 about
->>>This command will set [text] as description of [Group_id]
+>>>This command will set [text] as description of [group_id]
 
 
 ### Setting group name in realm
-> [!/]setname [Group_id] [text]
+> [!/]setname [group_id] [text]
 >>[!/]setname 123456789 SEED
->>>This command will set [text] as name of [Group_id]
+>>>This command will set [text] as name of [group_id]
 
 ### Setting rules in realm
-> [!/]setrules [Group_id] [text]
+> [!/]setrules [group_id] [text]
 >>[!/]setrules 123456789 rules !
->>>This command will set [text] as rules of [Group_id]
+>>>This command will set [text] as rules of [group_id]
 
 
 ### Lock groups name|flood|photo|member in realm
-> [!/]lock [Group_id] [name|flood|photo|member]
+> [!/]lock [group_id] [name|flood|photo|member]
 >>[!/]lock 123456789 name
->>>This command will lock name|flood|photo|member of [Group_id]
+>>>This command will lock name|flood|photo|member of [group_id]
 
 
 ### Unlock groups name|flood|photo|member
-> [!/]Unlock [Group_id] [name|flood|photo|member]
->>[!/]Unlock 123456789 name
->>>This command will unlock name|flood|photo|member of [Group_id]
+> [!/]unlock [group_id] [name|flood|photo|member]
+>>[!/]unlock 123456789 name
+>>>This command will unlock name|flood|photo|member of [group_id]
 
 ## Group setting in realm
->[!/]setting [Group_id]
+>[!/]setting [group_id]
 >>[!/]setting 12345678
->>>This command will return settings of [Group_id]
+>>>This command will return settings of [group_id]
 
 ### Add admin
 >[!/]addadmin [username]
@@ -173,8 +173,6 @@
 >>>_Only works in realms_
 
 ### Remove admin
->[!/]removeadmin [username]
->
 >[!/]removeadmin [username]
 >
 >>[!/]removeadmin @username
@@ -202,6 +200,10 @@
 >[!/]banall [id]
 >>[!/]banall 123456789
 >>>This commands will globally ban [id]
+>
+>/sync_gbans
+>>Sync your global bans with teleseed
+>
 >[!/]unbanall [id]
 >>[!/]unbanall 123456789
 >>>This commands will remove [id] from global bans
@@ -211,7 +213,7 @@
 >
 >[!/]banlist [group_id]
 >>[!/]banlist 123456789
->>>This command will return banned user Of [group_id]
+>>>This command will return banned user of [group_id]
 
 ### Set group owner
 >[!/]setgpowner [group_id] [User_id]
