@@ -1095,11 +1095,16 @@ local function run(msg, matches)
     end
     if matches[1] == 'owner' then
       local group_owner = data[tostring(msg.to.id)]['set_owner']
+      local user_info = redis:hgetall('user:'..group_owner)
       if not group_owner then 
         return "no owner,ask admins in support groups to set owner for your group"
       end
       savelog(msg.to.id, name_log.." ["..msg.from.id.."] used /owner")
-      return "Group owner is ["..group_owner..']'
+      if user_info.username then
+      	return "Group onwer is @"..user_info.username.." ["..group_owner.."]"
+      else
+      	return "Group owner is ["..group_owner..']'
+      end
     end
     if matches[1] == 'setgpowner' then
       local receiver = "chat#id"..matches[2]
