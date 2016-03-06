@@ -497,7 +497,7 @@ For graphic designs.
 
 [Siyanew](https://github.com/Siyanew) ([Telegram](https://telegram.me/Siyanew))
 
-[Rondoozle](https://github.com/Rondoozle) ([Telegram](https://telegram.me/Rondoozle))
+[Rondoozle](https://github.com/Rondoozle) ([Telegram](https://telegram.me/POTUS))
 
 ###Our Telegram channels:
 
