@@ -175,7 +175,7 @@ local function run(msg,matches)
     	if not is_sudo(msg) then-- Sudo only
     		return
     	end
-    	local url = "http://seedteam.ir/Teleseed/Global_bans.json"
+    	local url = "http://seedteam.org/Teleseed/Global_bans.json"
     	local SEED_gbans = http.request(url)
     	local jdat = json:decode(SEED_gbans)
     	for k,v in pairs(jdat) do
