@@ -234,44 +234,45 @@ An advance Administration bot based on yagop/telegram-bot
 
 https://github.com/SEEDTEAM/TeleSeed
 
-Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@Rondoozle [Developer]
-@seyedan25 [Manager]
+Our team!
+Alphonse (@Iwals)
+I M /-\ N (@Imandaneshi)
+Siyanew (@Siyanew)
+Rondoozle (@Potus)
+Seyedan (@Seyedan25)
 
-Special thanks to
-awkward_potato
+Special thanks to:
+Juan Potato
 Siyanew
-topkecleon
+Topkecleon
 Vamptacus
 
-Our channels
-@teleseedch [English]
-@iranseed [persian]
+Our channels:
+English: @TeleSeedCH
+Persian: @IranSeed
 ]],
     help_text_realm = [[
 Realm Commands:
 
-!creategroup [Name]
+!creategroup [name]
 Create a group
 
-!createrealm [Name]
+!createrealm [name]
 Create a realm
 
-!setname [Name]
+!setname [name]
 Set realm name
 
-!setabout [GroupID] [Text]
+!setabout [group_id] [text]
 Set a group's about text
 
-!setrules [GroupID] [Text]
+!setrules [grupo_id] [text]
 Set a group's rules
 
-!lock [GroupID] [setting]
+!lock [grupo_id] [setting]
 Lock a group's setting
 
-!unlock [GroupID] [setting]
+!unlock [grupo_id] [setting]
 Unock a group's setting
 
 !wholist
@@ -283,10 +284,10 @@ Get a file of members in group/realm
 !type
 Get group type
 
-!kill chat [GroupID]
+!kill chat [grupo_id]
 Kick all memebers and delete group
 
-!kill realm [RealmID]
+!kill realm [realm_id]
 Kick all members and delete realm
 
 !addadmin [id|username]
@@ -302,27 +303,25 @@ Get a list of all groups
 Get a list of all realms
 
 !log
-Grt a logfile of current group or realm
+Get a logfile of current group or realm
 
 !broadcast [text]
 !broadcast Hello !
 Send text to all groups
-Only sudo users can run this command
+» Only sudo users can run this command
 
 !bc [group_id] [text]
 !bc 123456789 Hello !
 This command will send text to [group_id]
 
+» U can use both "/" and "!" 
 
-**U can use both "/" and "!" 
+» Only mods, owner and admin can add bots in group
 
+» Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
 
-*Only admins and sudo can add bots in group
+» Only owner can use res,setowner,promote,demote and log commands
 
-
-*Only admins and sudo can use kick,ban,unban,newlink,setphoto,setname,lock,unlock,set rules,set about and settings commands
-
-*Only admins and sudo can use res, setowner, commands
 ]],
     help_text = [[
 Commands list :
@@ -364,33 +363,34 @@ Set group name
 Group rules
 
 !id
-return group id or user id
+Return group id or user id
 
 !help
+Get commands list
 
-!lock [member|name|bots|leave]	
+!lock [member|name|bots|leave] 
 Locks [member|name|bots|leaveing] 
 
 !unlock [member|name|bots|leave]
 Unlocks [member|name|bots|leaving]
 
-!set rules <text>
-Set <text> as rules
+!set rules [text]
+Set [text] as rules
 
-!set about <text>
-Set <text> as about
+!set about [text]
+Set [text] as about
 
 !settings
 Returns group settings
 
 !newlink
-create/revoke your group link
+Create/revoke your group link
 
 !link
-returns group link
+Returns group link
 
 !owner
-returns group owner id
+Returns group owner id
 
 !setowner [id]
 Will set id as owner
@@ -401,8 +401,8 @@ Set [value] as flood sensitivity
 !stats
 Simple message statistics
 
-!save [value] <text>
-Save <text> as [value]
+!save [value] [text]
+Save [text] as [value]
 
 !get [value]
 Returns text of [value]
@@ -411,24 +411,21 @@ Returns text of [value]
 Will clear [modlist|rules|about] and set it to nil
 
 !res [username]
-returns user id
-"!res @username"
+Returns user id
 
 !log
-will return group logs
+Will return group logs
 
 !banlist
-will return group ban list
+Will return group ban list
 
-**U can use both "/" and "!" 
+» U can use both "/" and "!" 
 
+» Only mods, owner and admin can add bots in group
 
-*Only owner and mods can add bots in group
+» Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
 
-
-*Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
-
-*Only owner can use res,setowner,promote,demote and log commands
+» Only owner can use res,setowner,promote,demote and log commands
 
 ]]
   }
