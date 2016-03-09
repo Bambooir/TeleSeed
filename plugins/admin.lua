@@ -241,7 +241,23 @@ local function run(msg,matches)
     end
     if matches[1] == "dialoglist" then
       get_dialog_list(get_dialog_list_callback, {target = msg.from.id})
-      return "I've sent a group dialog list with both json and text format to your private"
+      return "I've sent a group dialog list with both json and text format to your private messages"
+    end
+    if matches[1] == "whois" then
+      user_info("user#id"..matches[2],user_info_callback,{msg=msg})
+    end
+    if matches[1] == "sync_gbans" then
+    	if not is_sudo(msg) then-- Sudo only
+    		return
+    	end
+    	local url = "http://seedteam.org/Teleseed/Global_bans.json"
+    	local SEED_gbans = http.request(url)
+    	local jdat = json:decode(SEED_gbans)
+    	for k,v in pairs(jdat) do
+			redis:hset('user:'..v, 'print_name', k)
+			banall_user(v)
+      		print(k, v.." Globally banned")
+    	end
     end
 	if matches[1] == 'reload' then
 		receiver = get_receiver(msg)
