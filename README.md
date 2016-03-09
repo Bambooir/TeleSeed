@@ -1,6 +1,6 @@
 # [TeleSeed](https://telegram.me/TeleSeed)
 
-[![Join the chat at https://gitter.im/SEEDTEAM/TeleSeed](https://badges.gitter.im/SEEDTEAM/TeleSeed.svg)](https://gitter.im/SEEDTEAM/TeleSeed?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![https://gitter.im/SEEDTEAM/TeleSeed](https://badges.gitter.im/SEEDTEAM/TeleSeed.svg)](https://gitter.im/SEEDTEAM/TeleSeed?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 **An advanced and powerful administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under the [GNU General Public License](https://github.com/SEEDTEAM/TeleSeed/blob/master/LICENSE)**.
 # Features
@@ -62,7 +62,7 @@ TeleSeed has several commands that are only usable at certain ranks.
 | [#!/]unban | Unbans user from group/SuperGroup. | Y | Y |
 | [#!/]id [username|reply] | For userID's: !id @username (**ONLY IN SuperSroups**) or reply `!id` in any group. | Y | Y |
 | [#!/]id from | Returns ID of user a message is forwarded from. | N | Y |
-| [#!/]kickme | Kicks user from SuperGroup \nIn SuperGroup: **Must be unblocked by owner or use `#join` by pm to return** | Y | Y |
+| [#!/]kickme | Kicks user from SuperGroup / In SuperGroup: **Must be unblocked by owner or use `#join` by pm to return** | Y | Y |
 | [#!/]setowner | Sets group/SuperGroup owner. | Y | Y |
 | [#!/]promote | Promote a group/SuperGroup moderator. | Y | Y |
 | [#!/]demote | Demote a group/SuperGroup moderator. | Y | Y |
@@ -82,7 +82,7 @@ TeleSeed has several commands that are only usable at certain ranks.
 | [#!/]mute [mute](#mutes) | mute group message types. | Y | Y |
 | [#!/]unmute [mute](#mutes) | unmute group message types. | Y | Y |
 | [#!/]setflood [value](#settings) | Set [value] as flood sensitivity.| Y | Y |
-| [#!/]muteuser [username/id/reply] | Mute and unmute a user in chat.\n_If a muted user posts a message, the message is deleted automaically_\n_only owners can mute | mods and owners can unmute_ | Y | Y |
+| [#!/]muteuser [username/id/reply] | Mute and unmute a user in chat. ***If a muted user posts a message, the message is deleted automaically only owners can mute | mods and owners can unmute*** | Y | Y |
 | [#!/]mutelist | Returns list of muted users in group/SuperGroup. | Y | Y |
 | [#!/]muteslist | Returns mutes for group/SuperGroup. | Y | Y |
 | [#!/]settings | Returns a list of group/SuperGroup settings. | Y | Y |
@@ -92,13 +92,13 @@ TeleSeed has several commands that are only usable at certain ranks.
 | [#!/]clean [rules|about|modlist|mutelist] | Clears rules, about, modlist, or mutelist | Y | Y |
 | [#!/]del | Deletes a message by reply. | N | Y |
 | [#!/]res [username] | Returns users name and id by username. | Y | Y |
-| [#!/]log | Returns group logs.\n_In SuperGroups:_Search for kick reasons using [#RTL|#spam|#lockmember] | Y | Y |
+| [#!/]log | Returns group logs.***In SuperGroups:*** Search for kick reasons using [#RTL|#spam|#lockmember] | Y | Y |
 
 ##Owner commands {#moderator_commands}
 
-| Command | Description |  In group/SuperGroup? |  In private? |
+| Command | Description |   groups/SuperGroups? |  In private? |
 |:--------|:------------|:----------------------|:-------------|
-| [#!/]muteuser [username/id/reply] | Mute and unmute a user in chat.\n_If a muted user posts a message, the message is deleted automaically_\n_only owners can mute | mods and owners can unmute_ |  | N |
+| [#!/]muteuser [username/id/reply] | Mute and unmute a user in chat.***If a muted user posts a message, the message is deleted automaically / only owners can mute / mods and owners can unmute*** |  | N |
 | [#!/]all | Returns all available information about current group. | Y | N |
 | [#!/]all [GroupID] | Returns all available information about group by GroupID. | Y | N |
 | [#!/]owners [GroupID] [kick|ban|unban] [UserID] | Kick, ban, or unban a user from a group by GroupID and UserID. | N | Y |
@@ -149,8 +149,8 @@ TeleSeed has several commands that are only usable at certain ranks.
 | [#!/]pmunblock [UserID] | Unblock a user from bot private message and bot photo. | Y | Y | Y |
 | [#!/]markread [on|off] | Toggle bot to doubble check or not doubble check messages. | Y | Y | Y |
 | [#!/]setbotphoto | Set bot photo. | Y | Y | Y |
-| [#!/]contactlist | Bot will generate a list of all it's contacts\nand send it by private message of command sender  | Y | Y | Y |
-| [#!/]dialoglist | Bot will generate a list of all it's private message users\nand send it by private message of command sender  | Y | Y | Y |
+| [#!/]contactlist | Bot will generate a list of all it's contacts***and send it by private message of command sender  | Y | Y | Y |
+| [#!/]dialoglist | Bot will generate a list of all it's private message users***and send it by private message of command sender  | Y | Y | Y |
 | [#!/]delcontact | Delete bot contact. | Y | Y | Y |
 | [#!/]reload | Reloads all bot plugins | Y | Y | Y |
 | [#!/]updateid | Adds long_id to moderation data for groups. | Y | Y | Y |
@@ -201,9 +201,9 @@ TeleSeed has several commands that are only usable at certain ranks.
 | [#!/]mute gifs |
 | [#!/]mute all |
 
-**Groups: _If "muted" message type: user is kicked if message type is posted_**
+**Groups: If "muted" message type: user is kicked if message type is posted**
 
-**SuperGroups: _A "muted" message type is auto-deleted if posted_ **
+**SuperGroups: A "muted" message type is auto-deleted if posted **
 
 ### Ranks {#ranks}
 
@@ -232,7 +232,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/SEEDTEAM/TeleSeed.git -b test
+git clone https://github.com/SEEDTEAM/TeleSeed.git -b supergroups
 cd TeleSeed
 chmod +x launch.sh
 ./launch.sh install
@@ -242,7 +242,7 @@ chmod +x launch.sh
 To install everything in one command (useful for VPS deployment) on Debian-based distros, use:
 ```sh
 #https://github.com/yagop/telegram-bot/wiki/Installation
-sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/SEEDTEAM/TeleSeed.git -b test && cd TeleSeed && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/SEEDTEAM/TeleSeed.git -b supergroups && cd TeleSeed && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 
 * * *
