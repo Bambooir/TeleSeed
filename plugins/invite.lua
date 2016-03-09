@@ -1,5 +1,6 @@
 do
 local function callbackres(extra, success, result)
+--vardump(result)
   local user = 'user#id'..result.peer_id
 	local chat = 'chat#id'..extra.chatid
 	local channel = 'channel#id'..extra.chatid
