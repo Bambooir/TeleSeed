@@ -18,7 +18,7 @@
 * **Group administration via private messages**
 * **Only mods, owner and admin can add bots in groups**
 * **Arabic lock**
-* **Chat list
+* **Chat list**
 * **And more!**
 
 
@@ -156,7 +156,8 @@ TeleSeed has several commands that are only usable at certain ranks.
 | [#!/]updateid | Adds long_id to moderation data for groups. | Y | Y | Y |
 | [#!/]!bc [group_id] [text] | This command will send text to [group_id]| Y | Y | Y |
 | [#!/]leave | Bot will leave that group and can only be re-invited by an admin with bot phone number | Y | Y | Y |
-
+| [#!/]mp | (Mod Promote) Set user as a mod of supergroup. **TESTING** | N | Y | N |
+| [#!/]md | (Mod demote) Removes user from mod of supergroup. **TESTING**| N | Y | N |
 
 ## Sudo Commands {#sudo_commands}
 
