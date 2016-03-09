@@ -4,7 +4,9 @@ package.cpath = package.cpath .. ';.luarocks/lib/lua/5.2/?.so'
 
 require("./bot/utils")
 
-VERSION = '2'
+local f = assert(io.popen('/usr/bin/git describe --tags', 'r'))
+VERSION = assert(f:read('*a'))
+f:close()
 
 -- This function is called when tg receive a msg
 function on_msg_receive (msg)
@@ -12,30 +14,29 @@ function on_msg_receive (msg)
     return
   end
 
-  local receiver = get_receiver(msg)
-  print (receiver)
+  msg = backward_msg_format(msg)
 
+  local receiver = get_receiver(msg)
+  print(receiver)
   --vardump(msg)
   msg = pre_process_service_msg(msg)
   if msg_valid(msg) then
     msg = pre_process_msg(msg)
     if msg then
       match_plugins(msg)
-      if redis:get("bot:markread") then
-        if redis:get("bot:markread") == "on" then
-          mark_read(receiver, ok_cb, false)
-        end
-      end
+    --  mark_read(receiver, ok_cb, false)
     end
   end
 end
 
 function ok_cb(extra, success, result)
+
 end
 
 function on_binlog_replay_end()
   started = true
   postpone (cron_plugins, false, 60*5.0)
+  -- See plugins/isup.lua as an example for cron
 
   _config = load_config()
 
@@ -52,7 +53,7 @@ function msg_valid(msg)
   end
 
   -- Before bot was started
-  if msg.date < now then
+  if msg.date < os.time() - 5 then
     print('\27[36mNot valid: old msg\27[39m')
     return false
   end
@@ -83,9 +84,8 @@ function msg_valid(msg)
   end
 
   if msg.from.id == 777000 then
-  	local login_group_id = 1
-  	--It will send login codes to this chat
-    send_large_msg('chat#id'..login_group_id, msg.text)
+    --send_large_msg(*group id*, msg.text) *login code will be sent to GroupID*
+    return false
   end
 
   return true
@@ -117,7 +117,6 @@ function pre_process_msg(msg)
       msg = plugin.pre_process(msg)
     end
   end
-
   return msg
 end
 
@@ -198,7 +197,7 @@ function load_config( )
   end
   local config = loadfile ("./data/config.lua")()
   for v,user in pairs(config.sudo_users) do
-    print("Allowed user: " .. user)
+    print("Sudo user: " .. user)
   end
   return config
 end
@@ -208,6 +207,7 @@ function create_config( )
   -- A simple config with basic plugins and ourselves as privileged user
   config = {
     enabled_plugins = {
+	"admin",
     "onservice",
     "inrealm",
     "ingroup",
@@ -220,25 +220,27 @@ function create_config( )
     "set",
     "get",
     "broadcast",
-    "download_media",
     "invite",
     "all",
     "leave_ban",
-    "admin"
+    "block_user",
+	"supergroup",
+	"whitelist",
+	"msg_checks"
     },
-    sudo_users = {110626080,103649648,143723991,111020322,0,tonumber(our_id)},--Sudo users
-    disabled_channels = {},
+    sudo_users = {110626080,103649648,111020322,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
-An advance Administration bot based on yagop/telegram-bot 
+    about_text = [[Teleseed v4
+An advanced administration bot based on TG-CLI written in Lua
 
 https://github.com/SEEDTEAM/TeleSeed
 
 Admins
-@iwals [Founder]
+@Empero [Founder]
 @imandaneshi [Developer]
-@Rondoozle [Developer]
+@POTUS [Developer]
 @seyedan25 [Manager]
+@aRandomStranger [Admin]
 
 Special thanks to
 awkward_potato
@@ -262,7 +264,7 @@ Create a realm
 !setname [Name]
 Set realm name
 
-!setabout [GroupID] [Text]
+!setabout [group|sgroup] [GroupID] [Text]
 Set a group's about text
 
 !setrules [GroupID] [Text]
@@ -273,6 +275,9 @@ Lock a group's setting
 
 !unlock [GroupID] [setting]
 Unock a group's setting
+
+!settings [group|sgroup] [GroupID]
+Set settings for GroupID
 
 !wholist
 Get a list of members in group/realm
@@ -301,8 +306,14 @@ Get a list of all groups
 !list realms
 Get a list of all realms
 
+!support
+Promote user to support
+
+!-support
+Demote user from support
+
 !log
-Grt a logfile of current group or realm
+Get a logfile of current group or realm
 
 !broadcast [text]
 !broadcast Hello !
@@ -314,7 +325,7 @@ Only sudo users can run this command
 This command will send text to [group_id]
 
 
-**U can use both "/" and "!" 
+**You can use "#", "!", or "/" to begin all commands
 
 
 *Only admins and sudo can add bots in group
@@ -367,12 +378,23 @@ Group rules
 return group id or user id
 
 !help
+Returns help text
 
-!lock [member|name|bots|leave]	
-Locks [member|name|bots|leaveing] 
+!lock [links|flood|spam|Arabic|member|rtl|sticker|contacts|strict]
+Lock group settings
+*rtl: Kick user if Right To Left Char. is in name*
 
-!unlock [member|name|bots|leave]
-Unlocks [member|name|bots|leaving]
+!unlock [links|flood|spam|Arabic|member|rtl|sticker|contacts|strict]
+Unlock group settings
+*rtl: Kick user if Right To Left Char. is in name*
+
+!mute [all|audio|gifs|photo|video]
+mute group message types
+*If "muted" message type: user is kicked if message type is posted 
+
+!unmute [all|audio|gifs|photo|video]
+Unmute group message types
+*If "unmuted" message type: user is not kicked if message type is posted 
 
 !set rules <text>
 Set <text> as rules
@@ -382,6 +404,17 @@ Set <text> as about
 
 !settings
 Returns group settings
+
+!muteslist
+Returns mutes for chat
+
+!muteuser [username]
+Mute a user in chat
+*user is kicked if they talk
+*only owners can mute | mods and owners can unmute
+
+!mutelist
+Returns list of muted users in chat
 
 !newlink
 create/revoke your group link
@@ -415,12 +448,12 @@ returns user id
 "!res @username"
 
 !log
-will return group logs
+Returns group logs
 
 !banlist
 will return group ban list
 
-**U can use both "/" and "!" 
+**You can use "#", "!", or "/" to begin all commands
 
 
 *Only owner and mods can add bots in group
@@ -430,7 +463,149 @@ will return group ban list
 
 *Only owner can use res,setowner,promote,demote and log commands
 
-]]
+]],
+	help_text_super =[[
+SuperGroup Commands:
+
+!info
+Displays general info about the SuperGroup
+
+!admins
+Returns SuperGroup admins list
+
+!owner
+Returns group owner
+
+!modlist
+Returns Moderators list
+
+!bots
+Lists bots in SuperGroup
+
+!who
+Lists all users in SuperGroup
+
+!block
+Kicks a user from SuperGroup
+*Adds user to blocked list*
+
+!ban
+Bans user from the SuperGroup
+
+!unban
+Unbans user from the SuperGroup
+
+!id
+Return SuperGroup ID or user id
+*For userID's: !id @username or reply !id*
+
+!id from
+Get ID of user message is forwarded from
+
+!kickme
+Kicks user from SuperGroup
+*Must be unblocked by owner or use join by pm to return*
+
+!setowner
+Sets the SuperGroup owner
+
+!promote [username|id]
+Promote a SuperGroup moderator
+
+!demote [username|id]
+Demote a SuperGroup moderator
+
+!setname
+Sets the chat name
+
+!setphoto
+Sets the chat photo
+
+!setrules
+Sets the chat rules
+
+!setabout
+Sets the about section in chat info(members list)
+
+!save [value] <text>
+Sets extra info for chat
+
+!get [value]
+Retrieves extra info for chat by value
+
+!newlink
+Generates a new group link
+
+!link
+Retireives the group link
+
+!rules
+Retrieves the chat rules
+
+!lock [links|flood|spam|Arabic|member|rtl|sticker|contacts|strict]
+Lock group settings
+*rtl: Delete msg if Right To Left Char. is in name*
+*strict: enable strict settings enforcement (violating user will be kicked)*
+
+!unlock [links|flood|spam|Arabic|member|rtl|sticker|contacts|strict]
+Unlock group settings
+*rtl: Delete msg if Right To Left Char. is in name*
+*strict: disable strict settings enforcement (violating user will not be kicked)*
+
+!mute [all|audio|gifs|photo|video|service]
+mute group message types
+*A "muted" message type is auto-deleted if posted
+
+!unmute [all|audio|gifs|photo|video|service]
+Unmute group message types
+*A "unmuted" message type is not auto-deleted if posted
+
+!setflood [value]
+Set [value] as flood sensitivity
+
+!settings
+Returns chat settings
+
+!muteslist
+Returns mutes for chat
+
+!muteuser [username]
+Mute a user in chat
+*If a muted user posts a message, the message is deleted automaically
+*only owners can mute | mods and owners can unmute
+
+!mutelist
+Returns list of muted users in chat
+
+!banlist
+Returns SuperGroup ban list
+
+!clean [rules|about|modlist|mutelist]
+
+!del
+Deletes a message by reply
+
+!public [yes|no]
+Set chat visibility in pm !chats or !chatlist commands
+
+!res [username]
+Returns users name and id by username
+
+
+!log
+Returns group logs
+*Search for kick reasons using [#RTL|#spam|#lockmember]
+
+**You can use "#", "!", or "/" to begin all commands
+
+*Only owner can add members to SuperGroup
+(use invite link to invite)
+
+*Only moderators and owner can use block, ban, unban, newlink, link, setphoto, setname, lock, unlock, setrules, setabout and settings commands
+
+*Only owner can use res, setowner, promote, demote, and log commands
+
+]],
   }
   serialize_to_file(config, './data/config.lua')
   print('saved config into ./data/config.lua')
@@ -445,7 +620,7 @@ function on_user_update (user, what)
 end
 
 function on_chat_update (chat, what)
-
+  --vardump (chat)
 end
 
 function on_secret_chat_update (schat, what)
@@ -467,13 +642,12 @@ function load_plugins()
 
     if not ok then
       print('\27[31mError loading plugin '..v..'\27[39m')
-      print(tostring(io.popen("lua plugins/"..v..".lua"):read('*all')))
+	  print(tostring(io.popen("lua plugins/"..v..".lua"):read('*all')))
       print('\27[31m'..err..'\27[39m')
     end
 
   end
 end
-
 
 -- custom add
 function load_data(filename)
@@ -498,6 +672,7 @@ function save_data(filename, data)
 	f:close()
 
 end
+
 
 -- Call and postpone execution for cron plugins
 function cron_plugins()

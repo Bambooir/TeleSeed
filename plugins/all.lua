@@ -1,5 +1,4 @@
 do
-data = load_data(_config.moderation.data)
 local function get_msgs_user_chat(user_id, chat_id)
   local user_info = {}
   local uhash = 'user:'..user_id
@@ -34,23 +33,9 @@ local function get_group_type(target)
   local data = load_data(_config.moderation.data)
   local group_type = data[tostring(target)]['group_type']
     if not group_type or group_type == nil then
-       return 'No group type available.'
+       return 'No group type available.\nUse /type in the group to set type.'
     end
-      return group_type
-end
-local function show_group_settings(target)
-  local data = load_data(_config.moderation.data)
-  if data[tostring(target)] then
-    if data[tostring(target)]['settings']['flood_msg_max'] then
-      NUM_MSG_MAX = tonumber(data[tostring(target)]['settings']['flood_msg_max'])
-      print('custom'..NUM_MSG_MAX)
-    else 
-      NUM_MSG_MAX = 5
-    end
-  end
-  local settings = data[tostring(target)]['settings']
-  local text = "Lock group name : "..settings.lock_name.."\nLock group photo : "..settings.lock_photo.."\nLock group member : "..settings.lock_member.."\nflood sensitivity : "..NUM_MSG_MAX
-  return text
+    return group_type
 end
 
 local function get_description(target)
@@ -101,12 +86,17 @@ local function get_link(target)
   return "Group link:\n"..group_link
 end
 
-local function all(target, receiver)
+local function all(msg,target,receiver)
   local text = "All the things I know about this group\n\n"
   local group_type = get_group_type(target)
   text = text.."Group Type: \n"..group_type
-  local settings = show_group_settings(target)
-  text = text.."\n\nGroup settings: \n"..settings
+  if group_type == "Group" or group_type == "Realm" then
+	local settings = show_group_settingsmod(msg,target)
+	text = text.."\n\n"..settings
+  elseif group_type == "SuperGroup" then
+	local settings = show_supergroup_settingsmod(msg,target)
+	text = text..'\n\n'..settings
+  end
   local rules = get_rules(target)
   text = text.."\n\nRules: \n"..rules
   local description = get_description(target)
@@ -117,6 +107,10 @@ local function all(target, receiver)
   text = text.."\n\nLink: \n"..link
   local stats = chat_stats(target)
   text = text.."\n\n"..stats
+  local mutes_list = mutes_list(target)
+  text = text.."\n\n"..mutes_list
+  local muted_user_list = muted_user_list(target)
+  text = text.."\n\n"..muted_user_list
   local ban_list = ban_list(target)
   text = text.."\n\n"..ban_list
   local file = io.open("./groups/all/"..target.."all.txt", "w")
@@ -127,29 +121,26 @@ local function all(target, receiver)
   return
 end
 
-function run(msg, matches)
+local function run(msg, matches)
   if matches[1] == "all" and matches[2] and is_owner2(msg.from.id, matches[2]) then
     local receiver = get_receiver(msg)
     local target = matches[2]
-    return all(target, receiver)
+    return all(msg,target,receiver)
   end
   if not is_owner(msg) then
     return
   end
   if matches[1] == "all" and not matches[2] then
     local receiver = get_receiver(msg)
-    if not is_owner(msg) then
-      return
-    end
-    return all(msg.to.id, receiver)
+    return all(msg,msg.to.id,receiver)
   end
 end
 
 
 return {
   patterns = {
-  "^[!/](all)$",
-  "^[!/](all) (%d+)$"
+  "^[#!/](all)$",
+  "^[#!/](all) (%d+)$"
   },
   run = run
 }

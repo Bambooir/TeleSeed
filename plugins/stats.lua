@@ -11,7 +11,7 @@ local function get_msgs_user_chat(user_id, chat_id)
   return user_info
 end
 
-local function chat_stats(chat_id)
+local function chat_stats(receiver, chat_id)
   -- Users on chat
   local hash = 'chat:'..chat_id..':users'
   local users = redis:smembers(hash)
@@ -24,11 +24,11 @@ local function chat_stats(chat_id)
   end
   -- Sort users by msgs number
   table.sort(users_info, function(a, b) 
-      if a.msgs and b.msgs then
+    if a.msgs and b.msgs then
         return a.msgs > b.msgs
-      end
-    end)
-  local text = 'users in this chat \n'
+    end
+  end)
+  local text = 'Users in this chat \n'
   for k,user in pairs(users_info) do
     text = text..user.name..' = '..user.msgs..'\n'
   end
@@ -36,7 +36,7 @@ local function chat_stats(chat_id)
   file:write(text)
   file:flush()
   file:close() 
-  send_document("chat#id"..chat_id,"./groups/lists/"..chat_id.."stats.txt", ok_cb, false)
+  send_document(receiver,"./groups/lists/"..chat_id.."stats.txt", ok_cb, false)
   return --text
 end
 
@@ -60,7 +60,7 @@ local function chat_stats2(chat_id)
       end
     end)
 
-  local text = 'users in this chat \n'
+  local text = 'Users in this chat \n'
   for k,user in pairs(users_info) do
     text = text..user.name..' = '..user.msgs..'\n'
   end
@@ -74,9 +74,9 @@ local function bot_stats()
     local count = 0
 
     repeat
-      local r = redis.call("SCAN", cursor, "MATCH", KEYS[1])
-      cursor = r[1]
-      count = count + #r[2]
+    local r = redis.call("SCAN", cursor, "MATCH", KEYS[1])
+    cursor = r[1]
+    count = count + #r[2]
     until cursor == '0'
     return count]]
 
@@ -111,24 +111,25 @@ local function run(msg, matches)
       if not is_momod(msg) then
         return "For mods only !"
       end
-      if msg.to.type == 'chat' then
+      if msg.to.type == 'chat' or msg.to.type == 'channel' then
+	    local receiver = get_receiver(msg)
         local chat_id = msg.to.id
         local name = user_print_name(msg.from)
         savelog(msg.to.id, name.." ["..msg.from.id.."] requested group stats ")
-        return chat_stats(chat_id)
+        return chat_stats(receiver, chat_id)
       else
         return
       end
     end
     if matches[2] == "teleseed" then -- Put everything you like :)
-      if not is_admin(msg) then
+      if not is_admin1(msg) then
         return "For admins only !"
       else
         return bot_stats()
       end
     end
     if matches[2] == "group" then
-      if not is_admin(msg) then
+      if not is_admin1(msg) then
         return "For admins only !"
       else
         return chat_stats(matches[3])
@@ -136,15 +137,15 @@ local function run(msg, matches)
     end
   end
 end
+
 return {
   patterns = {
-    "^[!/]([Ss]tats)$",
-    "^[!/]([Ss]tatslist)$",
-    "^[!/]([Ss]tats) (group) (%d+)",
-    "^[!/]([Ss]tats) (teleseed)",-- Put everything you like :)
-		"^[!/]([Tt]eleseed)"-- Put everything you like :)
+    "^[#!/]([Ss]tats)$",
+    "^[#!/]([Ss]tatslist)$",
+    "^[#!/]([Ss]tats) (group) (%d+)",
+    "^[#!/]([Ss]tats) (teleseed)",
+	"^[#!/]([Tt]eleseed)"
     }, 
   run = run
 }
-
 end

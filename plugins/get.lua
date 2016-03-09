@@ -1,5 +1,5 @@
 local function get_variables_hash(msg)
-  if msg.to.type == 'chat' then
+  if msg.to.type == 'chat' or msg.to.type == 'channel' then
     return 'chat:'..msg.to.id..':variables'
   end
 end 
@@ -11,7 +11,7 @@ local function get_value(msg, var_name)
     if not value then
       return
     else
-      return var_name..' :\n'..value
+      return var_name..':\n'..value
     end
   end
 end
@@ -31,7 +31,7 @@ end
 
 return {
   patterns = {
-    "^([!/]get) (.+)$"
+    "^([#!/]get) (.+)$"
   },
   run = run
 }
