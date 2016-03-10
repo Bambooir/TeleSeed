@@ -5,7 +5,7 @@ local function check_member_logadd(cb_extra, success, result)
 	local msg = cb_extra.msg
 	for k,v in pairs(result) do
 		local member_id = v.peer_id
-		if member_id == our_id then
+		if member_id ~= our_id then
 		local GBan_log = 'GBan_log'
 		if not data[tostring(GBan_log)] then
 			data[tostring(GBan_log)] = {}
@@ -30,7 +30,7 @@ local function check_member_logrem(cb_extra, success, result)
 	local msg = cb_extra.msg
 	for k,v in pairs(result) do
 		local member_id = v.peer_id
-		if member_id == our_id then
+		if member_id ~= our_id then
 		local GBan_log = 'GBan_log'
 		if not data[tostring(GBan_log)] then
 			data[tostring(GBan_log)] = nil
@@ -68,7 +68,7 @@ end
 local function logadd(msg)
 	local data = load_data(_config.moderation.data)
 	local receiver = get_receiver(msg)
-    channel_get_admins(receiver, check_member_logadd,{receiver = receiver, data = data, msg = msg})
+    channel_get_users(receiver, check_member_logadd,{receiver = receiver, data = data, msg = msg})
 end
 
 --Function to remove log supergroup
