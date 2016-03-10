@@ -1,53 +1,3 @@
---check member add log SuperGroup
-local function check_member_logadd(cb_extra, success, result)
-	local receiver = cb_extra.receiver
-	local data = cb_extra.data
-	local msg = cb_extra.msg
-	for k,v in pairs(result) do
-		local member_id = v.peer_id
-		if member_id ~= our_id then
-		local GBan_log = 'GBan_log'
-		if not data[tostring(GBan_log)] then
-			data[tostring(GBan_log)] = {}
-			save_data(_config.moderation.data, data)
-		end
-			data[tostring(GBan_log)][tostring(msg.to.id)] = msg.to.peer_id
-			save_data(_config.moderation.data, data)
-			local text = 'Log_SuperGroup has has been set!'
-			reply_msg(msg.id,text,ok_cb,false)
-			return
-		else 
-			reply_msg(msg.id,"Failed to set log SuperGroup",ok_cb, false)
-			return
-		end
-	end
-end
-
---Check Members rem log SuperGroup
-local function check_member_logrem(cb_extra, success, result)
-	local receiver = cb_extra.receiver
-	local data = cb_extra.data
-	local msg = cb_extra.msg
-	for k,v in pairs(result) do
-		local member_id = v.peer_id
-		if member_id ~= our_id then
-		local GBan_log = 'GBan_log'
-		if not data[tostring(GBan_log)] then
-			data[tostring(GBan_log)] = nil
-			save_data(_config.moderation.data, data)
-		end
-			data[tostring(GBan_log)][tostring(msg.to.id)] = nil
-			save_data(_config.moderation.data, data)
-			local text = 'Log_SuperGroup has has been removed!'
-			reply_msg(msg.id,text,ok_cb,false)
-			return
-		else 
-			reply_msg(msg.id,"Failed to remove log SuperGroup",ok_cb,false)
-			return
-		end
-	end
-end
-
 local function set_bot_photo(msg, success, result)
   local receiver = get_receiver(msg)
   if success then
@@ -68,14 +18,32 @@ end
 local function logadd(msg)
 	local data = load_data(_config.moderation.data)
 	local receiver = get_receiver(msg)
-    channel_get_users(receiver, check_member_logadd,{receiver = receiver, data = data, msg = msg})
+	local GBan_log = 'GBan_log'
+   	if not data[tostring(GBan_log)] then
+		data[tostring(GBan_log)] = {}
+		save_data(_config.moderation.data, data)
+	end
+	data[tostring(GBan_log)][tostring(msg.to.id)] = msg.to.peer_id
+	save_data(_config.moderation.data, data)
+	local text = 'Log_SuperGroup has has been set!'
+	reply_msg(msg.id,text,ok_cb,false)
+	return
 end
 
 --Function to remove log supergroup
 local function logrem(msg)
 	local data = load_data(_config.moderation.data)
     local receiver = get_receiver(msg)
-    channel_get_users(receiver, check_member_logrem,{receiver = receiver, data = data, msg = msg})
+	local GBan_log = 'GBan_log'
+	if not data[tostring(GBan_log)] then
+		data[tostring(GBan_log)] = nil
+		save_data(_config.moderation.data, data)
+	end
+	data[tostring(GBan_log)][tostring(msg.to.id)] = nil
+	save_data(_config.moderation.data, data)
+	local text = 'Log_SuperGroup has has been removed!'
+	reply_msg(msg.id,text,ok_cb,false)
+	return
 end
 
 

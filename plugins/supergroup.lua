@@ -686,9 +686,9 @@ function get_message_callback(extra, success, result)
 	elseif get_cmd == "setowner" then
 		local group_owner = data[tostring(result.to.peer_id)]['set_owner']
 		if group_owner then
+		local channel_id = 'channel#id'..result.to.peer_id
 			if not is_admin2(tonumber(group_owner)) and not is_support(tonumber(group_owner)) then
-        local channel_id = 'channel#id'..result.to.peer_id
-        local user = "user#id"..group_owner
+				local user = "user#id"..group_owner
 				channel_demote(channel_id, user, ok_cb, false)
 			end
 			local user_id = "user#id"..result.from.peer_id
