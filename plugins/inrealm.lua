@@ -944,6 +944,9 @@ function run(msg, matches)
 			end
 		end
 		if matches[1] == 'addadmin' then
+		    if not is_sudo(msg) then-- Sudo only
+				return
+			end
 			if string.match(matches[2], '^%d+$') then
 				local admin_id = matches[2]
 				print("user "..admin_id.." has been promoted as admin")
@@ -955,6 +958,9 @@ function run(msg, matches)
 			end
 		end
 		if matches[1] == 'removeadmin' then
+		    if not is_sudo(msg) then-- Sudo only
+				return
+			end
 			if string.match(matches[2], '^%d+$') then
 				local admin_id = matches[2]
 				print("user "..admin_id.." has been demoted")

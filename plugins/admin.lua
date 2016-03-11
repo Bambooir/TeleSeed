@@ -200,10 +200,16 @@ local function run(msg,matches)
     	import_chat_link(hash,ok_cb,false)
     end
     if matches[1] == "contactlist" then
+	    if not is_sudo(msg) then-- Sudo only
+    		return
+    	end
       get_contact_list(get_contact_list_callback, {target = msg.from.id})
       return "I've sent contact list with both json and text format to your private"
     end
     if matches[1] == "delcontact" then
+	    if not is_sudo(msg) then-- Sudo only
+    		return
+    	end
       del_contact("user#id"..matches[2],ok_cb,false)
       return "User "..matches[2].." removed from contact list"
     end
