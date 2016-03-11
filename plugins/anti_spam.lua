@@ -55,8 +55,8 @@ local function pre_process(msg)
 
   --Load moderation data
   local data = load_data(_config.moderation.data)
-  if data[tostring(msg.to.id)] and not data[tostring(msg.to.id)]['group_type'] == 'GBan_log' then
-    --Check if flood is one or off
+  if data[tostring(msg.to.id)] then
+    --Check if flood is on or off
     if data[tostring(msg.to.id)]['settings']['flood'] == 'no' then
       return msg
     end
