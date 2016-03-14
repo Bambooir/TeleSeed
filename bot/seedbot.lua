@@ -240,7 +240,7 @@ An advanced administration bot based on TG-CLI written in Lua
 https://github.com/SEEDTEAM/TeleSeed
 
 Admins
-@Empero [Founder]
+@iwals [Founder]
 @imandaneshi [Developer]
 @POTUS [Developer]
 @seyedan25 [Manager]
