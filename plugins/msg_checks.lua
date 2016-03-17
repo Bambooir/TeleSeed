@@ -10,6 +10,8 @@ if is_chat_msg(msg) or is_super_group(msg) then
 	local to_chat = msg.to.type == 'chat'
 	if data[tostring(msg.to.id)] and data[tostring(msg.to.id)]['settings'] then
 		settings = data[tostring(msg.to.id)]['settings']
+	else
+		return
 	end
 	if settings.lock_arabic then
 		lock_arabic = settings.lock_arabic
