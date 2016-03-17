@@ -1026,6 +1026,7 @@ function has_mutes(chat_id)
 	mutes = {[1]= "Audio: no",[2]= "Photo: no",[3]= "All: no",[4]="Documents: no",[5]="Text: no",[6]= "Video: no",[7]= "Gifs: no"}
 	local hash = 'mute:'..chat_id
 	for k,v in pairsByKeys(mutes) do
+		setting = v
 		local has_mutes = redis:sismember(hash, mutes)
 		return has_mutes or false
 	end
