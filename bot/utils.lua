@@ -1027,7 +1027,7 @@ function has_mutes(chat_id)
 	local hash = 'mute:'..chat_id
 	for k,v in pairsByKeys(mutes) do
 		setting = v
-		local has_mutes = redis:sismember(hash, mutes)
+		local has_mutes = redis:sismember(hash, settings)
 		return has_mutes or false
 	end
 end
