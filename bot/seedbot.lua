@@ -255,6 +255,9 @@ Vamptacus
 Our channels
 @teleseedch [English]
 @iranseed [persian]
+
+Our website :
+http://teleseed.seedteam.org/
 ]],
     help_text_realm = [[
 Realm Commands:
