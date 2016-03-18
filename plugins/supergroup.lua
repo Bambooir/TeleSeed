@@ -955,6 +955,7 @@ if get_cmd == "channel_block" then
         savelog(msg.to.id, name_log.." ["..msg.from.id.."] kicked: ["..v.peer_id.."]")
       end
       kick_user(user_id, channel_id)
+      return
     end
   end
 elseif get_cmd == "setadmin" then
@@ -980,8 +981,10 @@ elseif get_cmd == "setadmin" then
 		local receiver = channel_id
 		local user_id = v.peer_id
 		promote_admin(receiver, member_username, user_id)
+		
     end
     send_large_msg(channel_id, text)
+    return
  end
  elseif get_cmd == 'setowner' then
 	for k,v in pairs(result) do
