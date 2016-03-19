@@ -24,7 +24,7 @@
 
 * * *
 
-##Commands
+## Commands
 TeleSeed has several commands that are only usable at certain ranks.
 
 
@@ -40,12 +40,12 @@ TeleSeed has several commands that are only usable at certain ranks.
 |:--------|:------------|
 | [#!/]help | Returns help text. |
 | [#!/]superhelp | Returns SuperGroup help text. |
-| [#!/]Chats | Returns public chats in a message(s). |
-| [#!/]Chatlist | Returns public chats in a .txt document. |
+| [#!/]chats | Returns public chats in a message(s). |
+| [#!/]chatlist | Returns public chats in a .txt document. |
 | [#!/]join [GroupID] | Join a public chat by id |
 
 
-#Moderator commands {#moderator_commands}
+## Moderator commands {#moderator_commands}
 
 | Command | Description | Groups? | SuperGroups? |
 |:--------|:------------|:--------|:-------------|
@@ -60,7 +60,7 @@ TeleSeed has several commands that are only usable at certain ranks.
 | [#!/]kick | kicks user from group. | Y | N |
 | [#!/]ban | Bans user from the group/SuperGroup. | Y | Y |
 | [#!/]unban | Unbans user from group/SuperGroup. | Y | Y |
-| [#!/]id [username|reply] | For userID's: !id @username (**ONLY IN SuperSroups**) or reply `!id` in any group. | Y | Y |
+| [#!/]id [username<html>&#124;</html>reply] | For userID's: !id @username (**ONLY IN SuperSroups**) or reply `!id` in any group. | Y | Y |
 | [#!/]id from | Returns ID of user a message is forwarded from. | N | Y |
 | [#!/]kickme | Kicks user from SuperGroup / In SuperGroup: **Must be unblocked by owner or use `#join` by pm to return** | Y | Y |
 | [#!/]setowner | Sets group/SuperGroup owner. | Y | Y |
@@ -82,27 +82,27 @@ TeleSeed has several commands that are only usable at certain ranks.
 | [#!/]mute [mute](#mutes) | mute group message types. | Y | Y |
 | [#!/]unmute [mute](#mutes) | unmute group message types. | Y | Y |
 | [#!/]setflood [value](#settings) | Set [value] as flood sensitivity.| Y | Y |
-| [#!/]muteuser [username/id/reply] | Mute and unmute a user in chat. ***If a muted user posts a message, the message is deleted automaically only owners can mute | mods and owners can unmute*** | Y | Y |
+| [#!/]muteuser [username<html>&#124;</html>id<html>&#124;</html>reply] | Mute and unmute a user in chat. ***If a muted user posts a message, the message is deleted automaically only owners can mute <html>&#124;</html> mods and owners can unmute*** | Y | Y |
 | [#!/]mutelist | Returns list of muted users in group/SuperGroup. | Y | Y |
 | [#!/]muteslist | Returns mutes for group/SuperGroup. | Y | Y |
 | [#!/]settings | Returns a list of group/SuperGroup settings. | Y | Y |
 | [#!/]stats | Returns simple message statistics in a .txt document. | Y | Y |
 | [#!/]statslist | Returns simple message statistics in a message. | Y | Y |
 | [#!/]banlist | Returns group/SuperGroup banlist. | Y | Y |
-| [#!/]clean [rules|about|modlist|mutelist] | Clears rules, about, modlist, or mutelist | Y | Y |
+| [#!/]clean [rules<html>&#124;</html>about<html>&#124;</html>modlist<html>&#124;</html>mutelist] | Clears rules, about, modlist, or mutelist | Y | Y |
 | [#!/]del | Deletes a message by reply. | N | Y |
 | [#!/]res [username] | Returns users name and id by username. | Y | Y |
-| [#!/]log | Returns group logs.***In SuperGroups:*** Search for kick reasons using [#RTL|#spam|#lockmember] | Y | Y |
+| [#!/]log | Returns group logs.***In SuperGroups:*** Search for kick reasons using [#RTL<html>&#124;</html>#spam<html>&#124;</html>#lockmember] | Y | Y |
 
-##Owner commands {#moderator_commands}
+## Owner commands {#moderator_commands}
 
 | Command | Description |   groups/SuperGroups? |  In private? |
 |:--------|:------------|:----------------------|:-------------|
-| [#!/]muteuser [username/id/reply] | Mute and unmute a user in chat.***If a muted user posts a message, the message is deleted automaically / only owners can mute / mods and owners can unmute*** |  | N |
+| [#!/]muteuser [username<html>&#124;</html>id<html>&#124;</html>reply] | Mute and unmute a user in chat.***If a muted user posts a message, the message is deleted automaically / only owners can mute / mods and owners can unmute*** |  | N |
 | [#!/]all | Returns all available information about current group. | Y | N |
 | [#!/]all [GroupID] | Returns all available information about group by GroupID. | Y | N |
-| [#!/]owners [GroupID] [kick|ban|unban] [UserID] | Kick, ban, or unban a user from a group by GroupID and UserID. | N | Y |
-| [#!/]owners [GroupID] clean  [modlist|rules|about] | Clear options by GroupID. | N | Y |
+| [#!/]owners [GroupID] [kick<html>&#124;</html>ban<html>&#124;</html>unban] [UserID] | Kick, ban, or unban a user from a group by GroupID and UserID. | N | Y |
+| [#!/]owners [GroupID] clean  [modlist<html>&#124;</html>rules<html>&#124;</html>about] | Clear options by GroupID. | N | Y |
 | [#!/]owners [GroupID] setflood [value] | Set flood for a group by GroupID and a value [1-5]. | N | Y |
 | [#!/]owners [GroupID] lock [setting] | Lock settings for a group by GroupID. | N | Y |
 | [#!/]owner [GroupID] unlock [setting] | Unlock settings for a group by GroupID. | N | Y |
@@ -112,8 +112,8 @@ TeleSeed has several commands that are only usable at certain ranks.
 | [#!/]changrules [GroupID] [rules] | Change a group's rules by GroupID. | N  | Y |
 | [#!/]changeabout [GroupID] [about] | Change a group's about by GroupID. | N | Y |
 | [#!/]loggroup [GroupID] | get group logs by GroupID. | N | Y |
- 
-##Admin commands
+
+## Admin commands
 
 | Command | Description | Groups? | SuperGroups? | Realms? |
 |:--------|:------------|:--------|:-------------|:--------|
@@ -123,8 +123,8 @@ TeleSeed has several commands that are only usable at certain ranks.
 | [#!/]rem | Remove a group from moderation.json. | Y | Y | Y |
 | [#!/]rem [GroupID] | Remove a group from moderation by GroupID. | Y | Y | Y |
 | [#!/]setname [Name] | Set realm name. | N | -- | Y |
-| [#!/]setabout [group|sgroup] [GroupID] [Text] | Set a group's about text. | Y | Y | Y |
-| [#!/]setrules [group|sgroup] [GroupID] [Text] | Set a group's rules. | Y | Y | Y |
+| [#!/]setabout [group<html>&#124;</html>sgroup] [GroupID] [Text] | Set a group's about text. | Y | Y | Y |
+| [#!/]setrules [group<html>&#124;</html>sgroup] [GroupID] [Text] | Set a group's rules. | Y | Y | Y |
 | [#!/]lock [GroupID] [setting] | Lock a group's setting. | Y | Y | Y |
 | [#!/]lock [GroupID] [setting] | Lock a group's setting. | Y | Y | Y |
 | [#!/]unlock [GroupID] [setting] | Unlock a group's setting. | Y | Y | Y |
@@ -135,9 +135,9 @@ TeleSeed has several commands that are only usable at certain ranks.
 | [#!/]remlog | Remove a Log_SuperGroup for GBan log. | N | Y | N |
 | [#!/]kill chat [GroupID] | Kick all users and remove a group from moderation. | Y | Y | Y |
 | [#!/]kill realm [RealmID] | Kick all users and remove a realm from moderation. | Y | Y | Y |
-| [#!/]banall [id|usename] | Ban a user from all moderated groups where bot is an admin (#global_ban) | Y | Y | Y |
-| [#!/]unbanall [id|usename] | Unban a user from all moderated groups where bot is an admin (#global_ban) | Y | Y | Y |
-| [#!/]gbanlist [id|usename] | Returns a list of all globally banned user | Y | Y | Y |
+| [#!/]banall [id<html>&#124;</html>usename] | Ban a user from all moderated groups where bot is an admin (#global_ban) | Y | Y | Y |
+| [#!/]unbanall [id<html>&#124;</html>usename] | Unban a user from all moderated groups where bot is an admin (#global_ban) | Y | Y | Y |
+| [#!/]gbanlist [id<html>&#124;</html>usename] | Returns a list of all globally banned user | Y | Y | Y |
 | [#!/]list groups | Returns a list of all groups. | Y | Y | Y |
 | [#!/]list realms | Returns a list of all realms. | Y | Y | Y |
 | [#!/]whitelist | User/Bot will not be subject to message checks. | Y | Y | Y |
@@ -147,14 +147,14 @@ TeleSeed has several commands that are only usable at certain ranks.
 | [#!/]import <GroupLink> | Bot joins a group by GroupLink. | Y | Y | Y |
 | [#!/]pmblock [UserID] | Block a user from bot private message and bot photo. | Y | Y | Y |
 | [#!/]pmunblock [UserID] | Unblock a user from bot private message and bot photo. | Y | Y | Y |
-| [#!/]markread [on|off] | Toggle bot to doubble check or not doubble check messages. | Y | Y | Y |
+| [#!/]markread [on<html>&#124;</html>off] | Toggle bot to doubble check or not doubble check messages. | Y | Y | Y |
 | [#!/]setbotphoto | Set bot photo. | Y | Y | Y |
 | [#!/]contactlist | Bot will generate a list of all it's contacts***and send it by private message of command sender  | Y | Y | Y |
 | [#!/]dialoglist | Bot will generate a list of all it's private message users***and send it by private message of command sender  | Y | Y | Y |
 | [#!/]delcontact | Delete bot contact. | Y | Y | Y |
 | [#!/]reload | Reloads all bot plugins | Y | Y | Y |
 | [#!/]updateid | Adds long_id to moderation data for groups. | Y | Y | Y |
-| [#!/]!bc [group_id] [text] | This command will send text to [group_id]| Y | Y | Y |
+| [#!/]!bc [GroupID] [text] | This command will send text to [GroupID]| Y | Y | Y |
 | [#!/]leave | Bot will leave that group and can only be re-invited by an admin with bot phone number | Y | Y | Y |
 | [#!/]mp | (Mod Promote) Set user as a mod of supergroup. **TESTING** | N | Y | N |
 | [#!/]md | (Mod demote) Removes user from mod of supergroup. **TESTING**| N | Y | N |
@@ -163,8 +163,8 @@ TeleSeed has several commands that are only usable at certain ranks.
 
 | Command | Groups? | SuperGroups? | Realms? |
 |:--------|:--------|:-------------|---------|
-| [#!/]addadmin [id|username] | Set a user as bot admin. | Y | Y | Y |
-| [#!/]removeadmin [id|username] | Remove a user from bot admin. | Y | Y | Y |
+| [#!/]addadmin [id<html>&#124;</html>username] | Set a user as bot admin. | Y | Y | Y |
+| [#!/]removeadmin [id<html>&#124;</html>username] | Remove a user from bot admin. | Y | Y | Y |
 | [#!/]sync_gbans | Sync your GBans with official @TeleSeed | Y | Y | Y |
 
 
@@ -172,18 +172,18 @@ TeleSeed has several commands that are only usable at certain ranks.
 
 | Command | Groups? | SuperGroups? |
 |:--------|:--------|:-------------|
-| [#!/](un)lock links | Y | Y |
-| [#!/](un)lock flood | Y | Y |
-| [#!/]setflood [5-20] | Y | Y |
-| [#!/](un)lock bots | Y | N |
-| [#!/](un)lock spam | Y | Y |
-| [#!/](un)lock arabic | Y | Y |
-| [#!/](un)lock member | Y | Y |
-| [#!/](un)lock leave | Y | N |
-| [#!/](un)lock RTL | Y | Y |
-| [#!/](un)lock sticker | Y| Y |
-| [#!/]public [yes|no] | Y | Y |
-| [#!/](un)lock strict | N | Y |
+| <html>&#91;</html>#!/](un)lock links | Y | Y |
+| <html>&#91;</html>#!/](un)lock flood | Y | Y |
+| <html>&#91;</html>#!/]setflood [5-20] | Y | Y |
+| <html>&#91;</html>#!/](un)lock bots | Y | N |
+| <html>&#91;</html>#!/](un)lock spam | Y | Y |
+| <html>&#91;</html>#!/](un)lock arabic | Y | Y |
+| <html>&#91;</html>#!/](un)lock member | Y | Y |
+| <html>&#91;</html>#!/](un)lock leave | Y | N |
+| <html>&#91;</html>#!/](un)lock RTL | Y | Y |
+| <html>&#91;</html>#!/](un)lock sticker | Y| Y |
+| <html>&#91;</html>#!/]public [yes<html>&#124;</html>no] | Y | Y |
+| <html>&#91;</html>#!/](un)lock strict | N | Y |
 
 /lock [setting] and /unlock [setting]: sets allowed actions and content for groups/SuperGroups
 	***/lock strict*** in a supergroup, if strict is locked users will be kicked for violations of settings or mutes
@@ -198,7 +198,7 @@ TeleSeed has several commands that are only usable at certain ranks.
 | [#!/]mute audio |
 | [#!/]mute video |
 | [#!/]mute photo |
-| [#!/]mute documents | 
+| [#!/]mute documents |
 | [#!/]mute gifs |
 | [#!/]mute all |
 
@@ -211,10 +211,10 @@ TeleSeed has several commands that are only usable at certain ranks.
 | Rank | Description |
 |:------|:------------|
 | Banned | Cannot enter the group(s). |
-| User | Default rank. | 
+| User | Default rank. |
 | Moderator | Can set settings and kick/ban/unban users from a group. Can unmute users. |
 | Owner | Can mute users. Can promote/demote moderators. Can set SuperGroup admins. |
-| Support | Can globally unban users. Acts as owner of all groups. | 
+| Support | Can globally unban users. Acts as owner of all groups. |
 | Administrator | Can globally ban/unban users. Can promote/demote owners. |
 | Sudo | Can add[#!/]remove groups. Can broadcast. Can promote/demote administrators. |
 
@@ -270,11 +270,11 @@ Create a realm using the `!createrealm` command.
 
 **Creating a LOG SuperGroup**
 	-For GBan Log
-	
+
 	1. Create a group using the `!creategroup` command.
 	2. Add two members or bots, then use `#Tosuper` to convert to a SuperSroup.
 	3. Use the `#addlog` command and your ***LOG SuperGroup(s)*** will be set.
-	Note: you can set multiple Log SuperGroups 
+	Note: you can set multiple Log SuperGroups
 
 * * *
 
@@ -310,7 +310,7 @@ For graphic designs.
 
 [Rondoozle](https://github.com/Rondoozle) ([Telegram](https://telegram.me/POTUS))
 
-###Our Telegram channels:
+### Our Telegram channels:
 
 English: [@TeleSeedCH](https://telegram.me/teleseedch)
 
