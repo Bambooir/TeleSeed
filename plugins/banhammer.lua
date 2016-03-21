@@ -238,7 +238,7 @@ local support_id = msg.from.id
 if matches[1]:lower() == 'kick' then
     if type(msg.reply_id)~="nil" and is_momod(msg) then
       if is_admin1(msg) then
-        local msgr = get_message(msg.reply_id,Kick_by_reply_admins, false)
+        msgr = get_message(msg.reply_id,Kick_by_reply_admins, false)
       else
         msgr = get_message(msg.reply_id,Kick_by_reply, false)
       end
