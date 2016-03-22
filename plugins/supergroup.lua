@@ -459,7 +459,7 @@ local function set_public_membermod(msg, data, target)
   local group_public_lock = data[tostring(target)]['settings']['public']
   local long_id = data[tostring(target)]['long_id']
   if not long_id then
-	data[tostring(target)]['long_id'] = msg.to.peer_id 
+	data[tostring(target)]['long_id'] = msg.to.peer_id
 	save_data(_config.moderation.data, data)
   end
   if group_public_lock == 'yes' then
@@ -478,14 +478,14 @@ local function unset_public_membermod(msg, data, target)
   local group_public_lock = data[tostring(target)]['settings']['public']
   local long_id = data[tostring(target)]['long_id']
   if not long_id then
-	data[tostring(target)]['long_id'] = msg.to.peer_id 
+	data[tostring(target)]['long_id'] = msg.to.peer_id
 	save_data(_config.moderation.data, data)
   end
   if group_public_lock == 'no' then
     return 'Group is not public'
   else
     data[tostring(target)]['settings']['public'] = 'no'
-	data[tostring(target)]['long_id'] = msg.to.long_id 
+	data[tostring(target)]['long_id'] = msg.to.long_id
     save_data(_config.moderation.data, data)
     return 'SuperGroup is now: not public'
   end
@@ -981,7 +981,7 @@ elseif get_cmd == "setadmin" then
 		local receiver = channel_id
 		local user_id = v.peer_id
 		promote_admin(receiver, member_username, user_id)
-		
+
     end
     send_large_msg(channel_id, text)
     return
@@ -1034,6 +1034,9 @@ end
 --'Set supergroup photo' function
 local function set_supergroup_photo(msg, success, result)
   local data = load_data(_config.moderation.data)
+  if not data[tostring(msg.to.id)] then
+      return
+  end
   local receiver = get_receiver(msg)
   if success then
     local file = 'data/photos/channel_photo_'..msg.to.id..'.jpg'
@@ -1053,7 +1056,7 @@ end
 --Run function
 local function run(msg, matches)
 	if msg.to.type == 'chat' then
-		if matches[1] == 'tosuper' then 
+		if matches[1] == 'tosuper' then
 			if not is_admin1(msg) then
 				return
 			end
@@ -1097,6 +1100,9 @@ local function run(msg, matches)
 			rem_mutes(msg.to.id)
 		end
 
+		if not data[tostring(msg.to.id)] then
+			return
+		end
 		if matches[1] == "info" then
 			if not is_owner(msg) then
 				return
