@@ -2,9 +2,9 @@ URL = require "socket.url"
 http = require "socket.http"
 https = require "ssl.https"
 ltn12 = require "ltn12"
-serpent = require "serpent"
-feedparser = require "feedparser"
 
+serpent = (loadfile "./libs/serpent.lua")()
+feedparser = (loadfile "./libs/feedparser.lua")()
 json = (loadfile "./libs/JSON.lua")()
 mimetype = (loadfile "./libs/mimetype.lua")()
 redis = (loadfile "./libs/redis.lua")()
@@ -702,7 +702,7 @@ function is_owner(msg)
       end
     end
   end
-  
+
   local hash = 'support'
   local support = redis:sismember(hash, user)
 	if support then
@@ -734,7 +734,7 @@ function is_owner2(user_id, group_id)
       end
     end
   end
-  
+
   local hash = 'support'
   local support = redis:sismember(hash, user)
 	if support then
@@ -746,7 +746,7 @@ function is_owner2(user_id, group_id)
       var = true
     end
   end
-  
+
   for v,user in pairs(_config.sudo_users) do
     if user == user_id then
         var = true
@@ -812,7 +812,7 @@ function is_momod(msg)
       end
     end
   end
-  
+
   local hash = 'support'
   local support = redis:sismember(hash, user)
 	if support then
@@ -852,7 +852,7 @@ function is_momod2(user_id, group_id)
       end
     end
   end
-  
+
   local hash = 'support'
   local support = redis:sismember(hash, user_id)
 	if support then
@@ -1163,7 +1163,7 @@ function ban_by_reply(extra, success, result)
 	local chat = 'chat#id'..result.to.peer_id
  	local channel = 'channel#id'..result.to.peer_id
 	if tonumber(result.from.peer_id) == tonumber(our_id) then -- Ignore bot
-		return 
+		return
 	end
 	if is_momod2(result.from.peer_id, result.to.peer_id) then -- Ignore mods,owner,admin
 		return "you can't kick mods,owner and admins"
@@ -1171,7 +1171,7 @@ function ban_by_reply(extra, success, result)
 		ban_user(result.from.peer_id, result.to.peer_id)
 		send_large_msg(chat, "User "..result.from.peer_id.." Banned")
 	else
-		return 
+		return
 	end
 end
 
@@ -1207,7 +1207,7 @@ function unban_by_reply(extra, success, result)
 		local hash =  'banned:'..result.to.peer_id
 		redis:srem(hash, result.from.peer_id)
 	else
-		return 
+		return
   end
 end
 function banall_by_reply(extra, success, result)
@@ -1215,7 +1215,7 @@ function banall_by_reply(extra, success, result)
 		local chat = 'chat#id'..result.to.peer_id
 		local channel = 'channel#id'..result.to.peer_id
     if tonumber(result.from.peer_id) == tonumber(our_id) then -- Ignore bot
-		return 
+		return
     end
     if is_admin2(result.from.peer_id) then -- Ignore admins
 		return
@@ -1225,7 +1225,7 @@ function banall_by_reply(extra, success, result)
 		chat_del_user(chat, 'user#id'..result.from.peer_id, ok_cb, false)
 		send_large_msg(chat, "User "..name.."["..result.from.peer_id.."] globally banned")
 	else
-		return 
+		return
   end
 end
 end
