@@ -105,7 +105,7 @@
 >>>
 >>>_Only works in realms for admins but, sudo users can use it everywhere_
 
-###Add or remove realms
+### Add or remove realms
 >[!/]add realm
 >>This command will add that group
 >
@@ -113,18 +113,18 @@
 >>This command will remove that group
 
 
-###Add or remove groups
+### Add or remove groups
 >[!/]add
 >>This command will add that group
 >
 >[!/]rem
 >>This command will remove that group
 
-###Leaving
+### Leaving
 >[!/]leave
 >>Bot will leave that group
 
-###Everything about groups
+### Everything about groups
 >[!/]all
 >>This command will return everything about that group
 >
@@ -196,7 +196,7 @@
 >>[!/]bc 123456789 Hello !
 >>>This command will send text to [group_id]
 
-##Global ban commands
+## Global ban commands
 >[!/]banall [id]
 >>[!/]banall 123456789
 >>>This commands will globally ban [id]
@@ -231,7 +231,7 @@
 
 
 
-## owners and mods commands
+## Owners and mods commands
 
 _Sudo users and admins can also use this commands in all groups_
 
@@ -254,12 +254,12 @@ _Sudo users and admins can also use this commands in all groups_
 >[!/]banlist
 >>This command will return bans list
 
-### group name|member|arabic|flood|bots lock
+### Group name|member|arabic|flood|bots lock
 >[!/]lock [name|member|arabic|flood|bots]
 >>[!/]lock flood
 >>>This command will lock name|member|arabic|flood|bots of groups
 
-### group name|member|arabic|flood|bots unlock
+### Group name|member|arabic|flood|bots unlock
 >[!/]unlock [name|member|arabic|flood|bots]
 >>[!/]unlock flood
 >>>This command will unlock name|member|arabic|flood|bots of groups
@@ -330,12 +330,12 @@ _Sudo users and admins can also use this commands in all groups_
 >[!/]setting
 >>This command will return group settings
 
-### modlist
+### Modlist
 >[!/]modlist
 >>This command will return group moderators
 >>>_normal users can use it too_
 
-###Help
+### Help
 >[!/]help
 
 ### Owner
@@ -358,14 +358,14 @@ _Sudo users and admins can also use this commands in all groups_
 >>
 >>_Normal users can use it_
 
-### group stats
+### Group stats
 >[!/]stats
 >>This command will return group message statistic in a .txt file
 >
 >[!/]statslist
 >>This command will return group message statistic
 
-### member list
+### Member list
 >[!/]who
 >>This command will return member list in a .txt file
 >
@@ -378,7 +378,7 @@ _Sudo users and admins can also use this commands in all groups_
 
 
 
-## in private commands
+## In private commands
 
 **These commands only works in bots private**
 
@@ -386,15 +386,15 @@ _Sudo users and admins can also use this commands in all groups_
 >[!/]owners group_id [kick|ban|unban] user_id
 >>[!/]owners 1234567 kick 1234567
 
-### cleaning
+### Cleaning
 >[!/]owners group_id clean  [modlist|rules|about]
 >>[!/]owners 1234567 clean modlist
 
-### setting flood sensitivity
+### Setting flood sensitivity
 >[!/]owners group_id setflood value
 >>[!/]owners 1234567 setflood 17
 
-### lock groups member|name
+### Lock groups member|name
 >[!/]owners group_id lock [member|name]
 >>[!/]owners 1234567 lock member
 
@@ -409,7 +409,7 @@ _Sudo users and admins can also use this commands in all groups_
 >[!/]owners group_id new link
 >>[!/]owners 1234567 new link
 
-### change name|rules|name
+### Change name|rules|name
 >[!/]changename [group_id] [name]
 >>[!/]changename 123456789 SEED
 >
@@ -499,7 +499,7 @@ For graphic designs.
 
 [Rondoozle](https://github.com/Rondoozle) ([Telegram](https://telegram.me/POTUS))
 
-###Our Telegram channels:
+### Our Telegram channels:
 
 English: [@TeleSeedCH](https://telegram.me/teleseedch)
 
