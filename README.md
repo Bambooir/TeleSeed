@@ -18,6 +18,7 @@
 * **Group administration via private messages**
 * **Only mods, owner and admin can add bots in groups**
 * **Arabic lock**
+* **Lock TgService**
 * **Chat list**
 * **And more!**
 
@@ -181,6 +182,7 @@ TeleSeed has several commands that are only usable at certain ranks.
 | <html>&#91;</html>#!/](un)lock member | Y | Y |
 | <html>&#91;</html>#!/](un)lock leave | Y | N |
 | <html>&#91;</html>#!/](un)lock RTL | Y | Y |
+| <html>&#91;</html>#!/](un)lock tgservice | N | Y |
 | <html>&#91;</html>#!/](un)lock sticker | Y| Y |
 | <html>&#91;</html>#!/]public [yes<html>&#124;</html>no] | Y | Y |
 | <html>&#91;</html>#!/](un)lock strict | N | Y |
