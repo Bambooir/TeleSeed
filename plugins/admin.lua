@@ -183,7 +183,7 @@ local function run(msg,matches)
     if matches[1] == "pm" then
     	local text = "Message From "..(msg.from.username or msg.from.last_name).."\n\nMessage : "..matches[3]
     	send_large_msg("user#id"..matches[2],text)
-    	return "Message has been sended"
+    	return "Message has been sent"
     end
     
     if matches[1] == "pmblock" then
