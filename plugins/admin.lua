@@ -181,9 +181,11 @@ local function run(msg,matches)
     	return
     end
     if matches[1] == "pm" then
-    	send_large_msg("user#id"..matches[2],matches[3])
-    	return "Msg sent"
+    	local text = "Message From "..(msg.from.username or msg.from.last_name).."\n\nMessage : "..matches[3]
+    	send_large_msg("user#id"..matches[2],text)
+    	return "Message has been sended"
     end
+    
     if matches[1] == "pmblock" then
     	if is_admin2(matches[2]) then
     		return "You can't block admins"
@@ -220,6 +222,22 @@ local function run(msg,matches)
     add_contact(phone, first_name, last_name, ok_cb, false)
    return "User With Phone +"..matches[2].." has been added"
 end
+ if matches[1] == "sendcontact" and is_sudo(msg) then
+    phone = matches[2]
+    first_name = matches[3]
+    last_name = matches[4]
+    send_contact(get_receiver(msg), phone, first_name, last_name, ok_cb, false)
+end
+ if matches[1] == "mycontact" and is_sudo(msg) then
+	if not msg.from.phone then
+		retrurn "I must Have Your Phone Number!"
+    end
+    phone = msg.from.phone
+    first_name = (msg.from.first_name or msg.from.phone)
+    last_name = (msg.from.last_name or msg.from.id)
+    send_contact(get_receiver(msg), phone, first_name, last_name, ok_cb, false)
+end
+
     if matches[1] == "dialoglist" then
       get_dialog_list(get_dialog_list_callback, {target = msg.from.id})
       return "I've sent a group dialog list with both json and text format to your private messages"
@@ -299,6 +317,8 @@ return {
 	"^[#!/](dialoglist)$",
 	"^[#!/](delcontact) (%d+)$",
 	"^[#!/](addcontact) (.*) (.*) (.*)$", 
+	"^[#!/](sendcontact) (.*) (.*) (.*)$",
+	"^[#!/](mycontact)$",
 	"^[#/!](reload)$",
 	"^[#/!](updateid)$",
 	"^[#/!](addlog)$",
