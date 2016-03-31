@@ -83,12 +83,10 @@ if is_chat_msg(msg) or is_super_group(msg) then
 				end
 		end
 		if msg.service then 
-			if lock_tgservice == "yes" and not is_momod(msg) then
+			if lock_tgservice == "yes" then
 				delete_msg(msg.id, ok_cb, false)
 				if to_chat then
-					username = "@"..msg.from.username
-					--kick_user(msg.from.id, msg.to.id)  Enable This If You Want To Use It In A Chat , Work's For Lock member and joing with link
-					--return "Tgservice Is Not Allowed User "..(username or msg.from.print_name).." ["..msg.from.id.."]\nStatus : User Kicked"
+					return
 				end
 			end
 		end
