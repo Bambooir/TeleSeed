@@ -23,6 +23,11 @@ if is_chat_msg(msg) or is_super_group(msg) then
 	else
 		lock_rtl = 'no'
 	end
+	if settings.lock_tgservice then
+		lock_tgservice = settings.lock_tgservice
+	else
+		lock_tgservice = 'no'
+	end
 	if settings.lock_link then
 		lock_link = settings.lock_link
 	else
@@ -68,7 +73,15 @@ if is_chat_msg(msg) or is_super_group(msg) then
 					delete_msg(msg.id, ok_cb, false)
 					kick_user(msg.from.id, msg.to.id)
 				end
+		end
+		if msg.service then --Msg.service Cheks
+			if lock_tgservice == "yes" then
+				delete_msg(msg.id, ok_cb, false)
+				if to_chat then
+				--kick_user(msg.from.id, msg.to.id)
+						end
 			end
+	end
 			local is_link_msg = msg.text:match("[Tt][Ee][Ll][Ee][Gg][Rr][Aa][Mm].[Mm][Ee]/") or msg.text:match("[Tt][Ll][Gg][Rr][Mm].[Mm][Ee]/")
 			local is_bot = msg.text:match("?[Ss][Tt][Aa][Rr][Tt]=")
 			if is_link_msg and lock_link == "yes" and not is_bot then
