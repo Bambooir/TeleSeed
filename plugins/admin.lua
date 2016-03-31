@@ -213,6 +213,13 @@ local function run(msg,matches)
       del_contact("user#id"..matches[2],ok_cb,false)
       return "User "..matches[2].." removed from contact list"
     end
+    if matches[1] == "addcontact" and is_sudo(msg) then
+    phone = matches[2]
+    first_name = matches[3]
+    last_name = matches[4]
+    add_contact(phone, first_name, last_name, ok_cb, false)
+   return "User With Phone +"..matches[2].." has been added"
+end
     if matches[1] == "dialoglist" then
       get_dialog_list(get_dialog_list_callback, {target = msg.from.id})
       return "I've sent a group dialog list with both json and text format to your private messages"
@@ -291,6 +298,7 @@ return {
 	"^[#!/](contactlist)$",
 	"^[#!/](dialoglist)$",
 	"^[#!/](delcontact) (%d+)$",
+	"^[#!/](addcontact) (.*) (.*) (.*)$", 
 	"^[#/!](reload)$",
 	"^[#/!](updateid)$",
 	"^[#/!](addlog)$",
