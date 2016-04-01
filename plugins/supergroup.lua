@@ -366,7 +366,7 @@ local function unlock_group_tgservice(msg, data, target)
   if group_tgservice_lock == 'no' then
     return 'TgService Is Not Locked!'
   else
-    data[tostring(target)]['settings']['lock_rtl'] = 'no'
+    data[tostring(target)]['settings']['lock_tgservice'] = 'no'
     save_data(_config.moderation.data, data)
     return 'Tgservice has been unlocked'
   end
