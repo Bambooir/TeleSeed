@@ -230,7 +230,7 @@ end
 end
  if matches[1] == "mycontact" and is_sudo(msg) then
 	if not msg.from.phone then
-		retrurn "I must Have Your Phone Number!"
+		return "I must Have Your Phone Number!"
     end
     phone = msg.from.phone
     first_name = (msg.from.first_name or msg.from.phone)
