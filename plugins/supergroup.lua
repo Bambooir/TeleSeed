@@ -366,7 +366,7 @@ local function unlock_group_tgservice(msg, data, target)
   if group_tgservice_lock == 'no' then
     return 'TgService Is Not Locked!'
   else
-    data[tostring(target)]['settings']['lock_rtl'] = 'no'
+    data[tostring(target)]['settings']['lock_tgservice'] = 'no'
     save_data(_config.moderation.data, data)
     return 'Tgservice has been unlocked'
   end
@@ -404,7 +404,7 @@ local function lock_group_contacts(msg, data, target)
   if not is_momod(msg) then
     return
   end
-  local group_rtl_lock = data[tostring(target)]['settings']['lock_contacts']
+  local group_contacts_lock = data[tostring(target)]['settings']['lock_contacts']
   if group_contacts_lock == 'yes' then
     return 'Contact posting is already locked'
   else
