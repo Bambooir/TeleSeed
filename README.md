@@ -78,11 +78,11 @@ TeleSeed has several commands that are only usable at certain ranks.
 | [#!/]setlink | Set a new SuperGroup link _If bot is not creator_. | N | Y |
 | [#!/]link | Retrieves the group/SuperGroup link. | Y | Y |
 | [#!/]rules | Retrieves the group/SuperGroup rules. | Y | Y |
-| [#!/]lock [setting](#settings) | Lock group/SuperGroup settings. | Y | Y |
-| [#!/]unlock [setting](#settings) | Unlock group/SuperGroup. | Y | Y |
-| [#!/]mute [mute](#mutes) | mute group message types. | Y | Y |
-| [#!/]unmute [mute](#mutes) | unmute group message types. | Y | Y |
-| [#!/]setflood [value](#settings) | Set [value] as flood sensitivity.| Y | Y |
+| [#!/]lock [setting](#settings-settings) | Lock group/SuperGroup settings. | Y | Y |
+| [#!/]unlock [setting](#settings-settings) | Unlock group/SuperGroup. | Y | Y |
+| [#!/]mute [mute]#mutes-mutes) | mute group message types. | Y | Y |
+| [#!/]unmute [mute](#mutes-mutes) | unmute group message types. | Y | Y |
+| [#!/]setflood [value](#settings-settings) | Set [value] as flood sensitivity.| Y | Y |
 | [#!/]muteuser [username<html>&#124;</html>id<html>&#124;</html>reply] | Mute and unmute a user in chat. ***If a muted user posts a message, the message is deleted automaically only owners can mute <html>&#124;</html> mods and owners can unmute*** | Y | Y |
 | [#!/]mutelist | Returns list of muted users in group/SuperGroup. | Y | Y |
 | [#!/]muteslist | Returns mutes for group/SuperGroup. | Y | Y |
