@@ -470,7 +470,7 @@ function send_large_msg_callback(cb_extra, success, result)
   local text_max = 4096
   local destination = cb_extra.destination
   local text = cb_extra.text
-  if not text then
+  if not text or text ~= '' then
     return
   end
   local text_len = string.len(text)
