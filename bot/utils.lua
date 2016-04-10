@@ -470,7 +470,7 @@ function send_large_msg_callback(cb_extra, success, result)
   local text_max = 4096
   local destination = cb_extra.destination
   local text = cb_extra.text
-  if not text or text ~= '' then
+  if not text then
     return
   end
   local text_len = string.len(text)
@@ -1108,9 +1108,10 @@ function muted_user_list(chat_id)
 			local print_name = string.gsub(print_name, "‮", "")
 			text = text..k.." - "..print_name.." ["..v.."]\n"
 		else
-		text = text..k.." - [ "..v.." ]\n"
+		    text = text..k.." - [ "..v.." ]\n"
+	    end
 	end
-  return text
+    return text
 end
 
 --End Chat Mutes
@@ -1230,5 +1231,4 @@ function banall_by_reply(extra, success, result)
 	else
 		return
   end
-end
 end
