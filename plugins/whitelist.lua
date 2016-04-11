@@ -50,7 +50,7 @@ if matches[1] == "whitelist" and is_admin1(msg) then
 		local is_whitelisted = redis:sismember(hash, user_id)      
 		if is_whitelisted then
 			redis:srem(hash, user_id)
-			return "User/Bot ["..user_id.."] removed from whitelist"
+			return "user/Bot ["..user_id.."] removed from whitelist"
 		else
 			redis:sadd(hash, user_id)
 			return "User/Bot ["..user_id.."] added to whitelist"
