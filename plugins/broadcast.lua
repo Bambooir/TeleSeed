@@ -2,7 +2,7 @@ local function run(msg, matches)
 	if matches[1] == 'bc' and is_admin1(msg) then
 		local response = matches[3]
 		--send_large_msg("chat#id"..matches[2], response)
-		send_large_msg("channel#id"..matches[2], response)
+		post_large_msg(matches[2], response)
 	end
 	if matches[1] == 'broadcast' then
 		if is_sudo(msg) then -- Only sudo !
@@ -22,7 +22,7 @@ end
 return {
   patterns = {
     "^[#!/](broadcast) +(.+)$",
-    "^[#!/](bc) (%d+) (.*)$"
+    "^[#!/](bc) (.*) (.*)$"
   },
   run = run
 }
