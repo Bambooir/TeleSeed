@@ -39,5 +39,7 @@ luac.out
 *.x86_64
 *.hex
 
-#Data
-data/*
+#TeleSeed Data
+data/*.*
+data/photos/*.*
+data/tmp/*.*
