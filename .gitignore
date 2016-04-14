@@ -43,3 +43,6 @@ luac.out
 data/*.*
 data/photos/*.*
 data/tmp/*.*
+!data/tmp/.gitkeep
+!data/photos/.gitkeep
+!data/.gitkeep
