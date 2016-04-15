@@ -315,7 +315,6 @@ return {
 	"^[#!/](setbotphoto)$",
 	"^[#!/](contactlist)$",
 	"^[#!/](dialoglist)$",
-	"^[#/!](sync_gbans)$",
 	"^[#!/](delcontact) (%d+)$",
 	"^[#!/](addcontact) (.*) (.*) (.*)$", 
 	"^[#!/](sendcontact) (.*) (.*) (.*)$",
