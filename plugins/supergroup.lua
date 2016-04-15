@@ -102,6 +102,16 @@ else
     send_large_msg(cb_extra.receiver, text)
 end
 
+local function callback_clean_bots (extra, success, result)
+	local msg = extra.msg
+	local receiver = 'channel#id'..msg.to.id
+	local channel_id = msg.to.id
+	for k,v in pairs(result) do
+		local bot_id = v.peer_id
+		kick_user(bot_id,channel_id)
+	end
+end
+
 --Get and output info about supergroup
 local function callback_info(cb_extra, success, result)
 local title ="Info for SuperGroup: ["..result.title.."]\n\n"
@@ -1631,6 +1641,10 @@ local function run(msg, matches)
 				end
 				local username = ""
 				channel_set_username(receiver, username, ok_username_cb, {receiver=receiver})
+			end
+			if matches[2] == "bots" and is_momod(msg) then
+				savelog(msg.to.id, name_log.." ["..msg.from.id.."] kicked all SuperGroup bots")
+				channel_get_bots(receiver, callback_clean_bots, {msg = msg})
 			end
 		end
 

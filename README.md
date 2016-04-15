@@ -29,14 +29,14 @@
 TeleSeed has several commands that are only usable at certain ranks.
 
 
-## General Commands {#general_commands}
+## General Commands
 | Command | Description |
 |:--------|:------------|
 | [#!/]id | Returns group/SuperGroup ID or user id in pm. |
 | [#!/]teleseed | Returns bot information. |
 
 
-## Private Message Commands {#privmsg_commands}
+## Private Message Commands
 | Command | Description |
 |:--------|:------------|
 | [#!/]help | Returns help text. |
@@ -46,7 +46,7 @@ TeleSeed has several commands that are only usable at certain ranks.
 | [#!/]join [GroupID] | Join a public chat by id |
 
 
-## Moderator commands {#moderator_commands}
+## Moderator commands 
 
 | Command | Description | Groups? | SuperGroups? |
 |:--------|:------------|:--------|:-------------|
@@ -90,12 +90,12 @@ TeleSeed has several commands that are only usable at certain ranks.
 | [#!/]stats | Returns simple message statistics in a .txt document. | Y | Y |
 | [#!/]statslist | Returns simple message statistics in a message. | Y | Y |
 | [#!/]banlist | Returns group/SuperGroup banlist. | Y | Y |
-| [#!/]clean [rules<html>&#124;</html>about<html>&#124;</html>modlist<html>&#124;</html>mutelist] | Clears rules, about, modlist, or mutelist | Y | Y |
+| [#!/]clean [rules<html>&#124;</html>about<html>&#124;</html>modlisthtml>&#124;</html>bots<html>&#124;</html>mutelist] | Clears rules, about, modlist, bots, or mutelist | Y | Y |
 | [#!/]del | Deletes a message by reply. | N | Y |
 | [#!/]res [username] | Returns users name and id by username. | Y | Y |
 | [#!/]log | Returns group logs.***In SuperGroups:*** Search for kick reasons using [#RTL<html>&#124;</html>#spam<html>&#124;</html>#lockmember] | Y | Y |
 
-## Owner commands {#moderator_commands}
+## Owner commands
 
 | Command | Description |   groups/SuperGroups? |  In private? |
 |:--------|:------------|:----------------------|:-------------|
@@ -160,7 +160,7 @@ TeleSeed has several commands that are only usable at certain ranks.
 | [#!/]mp | (Mod Promote) Set user as a mod of supergroup. **TESTING** | N | Y | N |
 | [#!/]md | (Mod demote) Removes user from mod of supergroup. **TESTING**| N | Y | N |
 
-## Sudo Commands {#sudo_commands}
+## Sudo Commands 
 
 | Command | Groups? | SuperGroups? | Realms? |
 |:--------|:--------|:-------------|---------|
@@ -169,7 +169,7 @@ TeleSeed has several commands that are only usable at certain ranks.
 | [#!/]sync_gbans | Sync your GBans with official @TeleSeed | Y | Y | Y |
 
 
-## Settings {#settings}
+## Settings 
 
 | Command | Groups? | SuperGroups? |
 |:--------|:--------|:-------------|
@@ -193,7 +193,7 @@ TeleSeed has several commands that are only usable at certain ranks.
 /public [yes|no]: Set group/SuperGroup visibility in pm `!chats` or `!chatlist` commands.
 
 
-### Mutes {#mutes}
+### Mutes
 
 | Command |
 |:--------|
@@ -208,7 +208,7 @@ TeleSeed has several commands that are only usable at certain ranks.
 
 **SuperGroups: A "muted" message type is auto-deleted if posted **
 
-### Ranks {#ranks}
+### Ranks 
 
 | Rank | Description |
 |:------|:------------|

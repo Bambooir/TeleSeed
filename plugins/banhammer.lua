@@ -254,7 +254,6 @@ if matches[1]:lower() == 'kick' then
 		end
     local user_id = matches[2]
     local chat_id = msg.to.id
-    print("sexy")
 		local print_name = user_print_name(msg.from):gsub("‮", "")
 		local name = print_name:gsub("_", "")
 		savelog(msg.to.id, name.." ["..msg.from.id.."] kicked user ".. matches[2])
