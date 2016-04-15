@@ -446,7 +446,7 @@ function send_order_msg_callback(cb_extra, success, result)
          send_document(destination, nmsg, send_order_msg_callback, new_cb_extra)
       elseif typ == 'image' or typ == 'photo' then
          send_photo(destination, nmsg, send_order_msg_callback, new_cb_extra)
-      elseif typ == 'audio' then
+      elseif typ == 'audio' or typ == 'mp3' then
          send_audio(destination, nmsg, send_order_msg_callback, new_cb_extra)
       elseif typ == 'video' then
          send_video(destination, nmsg, send_order_msg_callback, new_cb_extra)
@@ -1123,8 +1123,9 @@ function get_message_callback_id(extra, success, result)
 		print('Old message :(')
 		return false
 	end
-	if result.to.type == 'chat' then
+	if result.to.type == 'chat' or result.to.type == 'channel' then
 		local chat = 'chat#id'..result.to.peer_id
+		local channel = 'channel#id'..result.to.peer_id
 		send_large_msg(chat, result.from.peer_id)
 	else
 		return
@@ -1256,6 +1257,7 @@ function banall_by_reply(extra, success, result)
 		local name = user_print_name(result.from)
 		banall_user(result.from.peer_id)
 		chat_del_user(chat, 'user#id'..result.from.peer_id, ok_cb, false)
+		channel_kick(channel, 'user#id'..result.from.peer_id, ok_cb, false)
 		send_large_msg(chat, "User "..name.."["..result.from.peer_id.."] globally banned")
 	else
 		return
