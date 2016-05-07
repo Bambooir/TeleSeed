@@ -187,15 +187,18 @@ local function run(msg,matches)
     end
     
     if matches[1] == "pmblock" then
-    	if is_admin2(matches[2]) then
-    		return "You can't block admins"
-    	end
-    	block_user("user#id"..matches[2],ok_cb,false)
-    	return "User blocked"
+      block_user("user#id"..matches[2], ok_cb, false)
+
+      if is_admin2(matches[2]) then
+        return "You can't block administrators."
+      end
+      block_user("user#id"..matches[2], ok_cb, false)
+      return "User blocked"
     end
+
     if matches[1] == "pmunblock" then
-    	unblock_user("user#id"..matches[2],ok_cb,false)
-    	return "User unblocked"
+      unblock_user("user#id"..matches[2], ok_cb, false)
+      return "User unblocked"
     end
     if matches[1] == "import" then--join by group link
     	local hash = parsed_url(matches[2])
