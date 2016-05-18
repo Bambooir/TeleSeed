@@ -7,6 +7,7 @@ if is_chat_msg(msg) or is_super_group(msg) then
 	local data = load_data(_config.moderation.data)
 	local print_name = user_print_name(msg.from):gsub("‮", "") -- get rid of rtl in names
 	local name_log = print_name:gsub("_", " ") -- name for log
+	local username = msg.from.username
 	local to_chat = msg.to.type == 'chat'
 	if data[tostring(msg.to.id)] and data[tostring(msg.to.id)]['settings'] then
 		settings = data[tostring(msg.to.id)]['settings']
@@ -28,6 +29,11 @@ if is_chat_msg(msg) or is_super_group(msg) then
 	else
 		lock_tgservice = 'no'
 	end
+	if settings.lock_fwd then
+ 		lock_fwd = settings.lock_fwd
+ 	else
+ 		lock_fwd = 'no'
+ 	end
 	if settings.lock_link then
 		lock_link = settings.lock_link
 	else
@@ -90,6 +96,23 @@ if is_chat_msg(msg) or is_super_group(msg) then
 				end
 			end
 		end
+		
+		if msg.fwd_from then
+		 if lock_fwd == "yes" then
+              delete_msg(msg.id, ok_cb, false)
+		       if strict == "yes" or to_chat then
+			    kick_user(msg.from.id, msg.to.id)
+				 [[if username then
+			     savelog(msg.to.id, name_log.." @"..username.." ["..msg.from.id.."] kicked for #Forwarding")
+				  send_large_msg("channel#id"..msg.to.id, "Forwarding messages is not allowed here\n@"..username.."["..msg.from.id.."]\nStatus : User kicked")
+				 else
+				    savelog(msg.to.id, name_log.." ["..msg.from.id.."] kicked for #Forwarding")
+			          send_large_msg("channel#id"..msg.to.id, "Forwarding messages is not allowed here\nName :"..name_log.."["..msg.from.id.."]\nStatus : User kicked")
+					end
+                   end
+                  end
+                end]]
+				
 			local is_squig_msg = msg.text:match("[\216-\219][\128-\191]")
 			if is_squig_msg and lock_arabic == "yes" then
 				delete_msg(msg.id, ok_cb, false)

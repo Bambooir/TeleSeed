@@ -1648,8 +1648,27 @@ if msg.to.type == 'chat' then
         savelog(msg.to.id, name_log.." ["..msg.from.id.."] cleaned about")
       end
     end
-if msg.to.type == 'chat' then
-    if matches[1] == 'kill' and matches[2] == 'chat' then
+               if matches[2] == "banlist" then
+				 chat_id = msg.to.id
+				 local data_cat = 'banlist'
+                 local hash = 'banned:'..chat_id
+                 if redis:scard(hash) then
+                 if tonumber(redis:scard(hash)) == 0 then 
+                 return "There is no one banned"
+                 end
+				 end
+                 chat_id = msg.to.id
+				 local data_cat = 'banlist'
+                 local hash = 'banned:'..chat_id
+                 data[tostring(msg.to.id)][data_cat] = {}
+                 save_data(_config.moderation.data, data)
+				 redis:del(hash)
+				 savelog(msg.to.id, name_log.." ["..msg.from.id.."] cleaned Banlist")
+				 return "Banlist has been cleaned"
+				 end 
+               if msg.to.type == 'chat' then
+    
+	if matches[1] == 'kill' and matches[2] == 'chat' then
       if not is_admin1(msg) then
           return nil
       end

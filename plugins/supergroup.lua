@@ -26,8 +26,9 @@ local function check_member_super(cb_extra, success, result)
 		  member = 'no',
 		  public = 'no',
 		  lock_rtl = 'no',
-		  lock_tgservice = 'yes',
+		  lock_tgservice = 'no',
 		  lock_contacts = 'no',
+		  lock_fwd = 'no',
 		  strict = 'no'
         }
       }
@@ -465,6 +466,34 @@ local function disable_strict_rules(msg, data, target)
     return 'Settings will not be strictly enforced'
   end
 end
+
+local function lock_group_fwd(msg, data, target)
+   if not is_momod(msg) then
+     return
+   end
+   local group_fwd_lock = data[tostring(target)]['settings']['lock_fwd']
+    if group_fwd_lock == 'yes' then
+     return 'Fwd is already locked'
+   else
+     data[tostring(target)]['settings']['lock_fwd'] = 'yes'
+     save_data(_config.moderation.data, data)
+     return 'Fwd has been locked'
+   end
+ end
+ 
+ local function unlock_group_fwd(msg, data, target)
+   if not is_momod(msg) then
+     return
+   end
+   local group_fwd_lock = data[tostring(target)]['settings']['lock_fwd']
+   if group_fwd_lock == 'no' then
+     return 'Fwd is not locked'
+   else
+    data[tostring(target)]['settings']['lock_fwd'] = 'no'
+     save_data(_config.moderation.data, data)
+     return 'Fwd has been unlocked'
+   end
+  end
 --End supergroup locks
 
 --'Set supergroup rules' function
@@ -565,7 +594,7 @@ end
 		end
 	end
   local settings = data[tostring(target)]['settings']
-  local text = "SuperGroup settings:\nLock links : "..settings.lock_link.."\nLock flood: "..settings.flood.."\nFlood sensitivity : "..NUM_MSG_MAX.."\nLock spam: "..settings.lock_spam.."\nLock Arabic: "..settings.lock_arabic.."\nLock Member: "..settings.lock_member.."\nLock RTL: "..settings.lock_rtl.."\nLock Tgservice : "..settings.lock_tgservice.."\nLock sticker: "..settings.lock_sticker.."\nPublic: "..settings.public.."\nStrict settings: "..settings.strict
+  local text = "SuperGroup settings:\nLock links : "..settings.lock_link.."\nLock flood: "..settings.flood.."\nFlood sensitivity : "..NUM_MSG_MAX.."\nLock spam: "..settings.lock_spam.."\nLock Arabic: "..settings.lock_arabic.."\nLock Member: "..settings.lock_member.."\nLock RTL: "..settings.lock_rtl.."\nLock Tgservice : "..settings.lock_tgservice.."\nLock sticker: "..settings.lock_sticker.."\nLock fwd : "..settings.lock_fwd.."\nPublic: "..settings.public.."\nStrict settings: "..settings.strict
   return text
 end
 
@@ -1630,6 +1659,26 @@ local function run(msg, matches)
 					redis:del(hash)
 				return "Mutelist Cleaned"
 			end
+			
+			if matches[2] == "banlist" then
+				 chat_id = msg.to.id
+				 local data_cat = 'banlist'
+                 local hash = 'banned:'..chat_id
+                 if redis:scard(hash) then
+                 if tonumber(redis:scard(hash)) == 0 then 
+                 return "There is no one banned"
+                 end
+				 end
+                 chat_id = msg.to.id
+				 local data_cat = 'banlist'
+                 local hash = 'banned:'..chat_id
+                 data[tostring(msg.to.id)][data_cat] = {}
+                 save_data(_config.moderation.data, data)
+				 redis:del(hash)
+				 savelog(msg.to.id, name_log.." ["..msg.from.id.."] cleaned Banlist")
+				 return "Banlist has been cleaned"
+				 end 
+				 
 			if matches[2] == 'username' and is_admin1(msg) then
 				local function ok_username_cb (extra, success, result)
 					local receiver = extra.receiver
@@ -1678,6 +1727,10 @@ local function run(msg, matches)
 				savelog(msg.to.id, name_log.." ["..msg.from.id.."] locked Tgservice Actions")
 				return lock_group_tgservice(msg, data, target)
 			end
+			if matches[2] == 'fwd' then
+ 				savelog(msg.to.id, name_log.." ["..msg.from.id.."] locked Anti forwarding")
+ 				return lock_group_fwd(msg, data, target)
+ 			end
 			if matches[2] == 'sticker' then
 				savelog(msg.to.id, name_log.." ["..msg.from.id.."] locked sticker posting")
 				return lock_group_sticker(msg, data, target)
@@ -1722,6 +1775,10 @@ local function run(msg, matches)
 				savelog(msg.to.id, name_log.." ["..msg.from.id.."] unlocked tgservice actions")
 				return unlock_group_tgservice(msg, data, target)
 			end
+			if matches[2] == 'fwd' then
+ 				savelog(msg.to.id, name_log.." ["..msg.from.id.."] unlocked Anti forwarding")
+ 				return unlock_group_fwd(msg, data, target)
+ 			end
 			if matches[2] == 'sticker' then
 				savelog(msg.to.id, name_log.." ["..msg.from.id.."] unlocked sticker posting")
 				return unlock_group_sticker(msg, data, target)
