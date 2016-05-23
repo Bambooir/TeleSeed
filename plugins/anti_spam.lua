@@ -1,4 +1,3 @@
---An empty table for solving multiple kicking problem(thanks to @topkecleon )
 kicktable = {}
 
 do
@@ -121,7 +120,7 @@ local function pre_process(msg)
       local gbanspamonredis = redis:get(gbanspam)
       --Check if user has spammed is group more than 4 times  
       if gbanspamonredis then
-        if tonumber(gbanspamonredis) ==  4 and not is_owner(msg) then
+        if tonumber(gbanspamonredis) ==  7 and not is_owner(msg) then
           --Global ban that user
           banall_user(msg.from.id)
           local gbanspam = 'gban:spam'..msg.from.id
