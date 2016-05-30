@@ -185,7 +185,10 @@ local function run(msg,matches)
     	send_large_msg("user#id"..matches[2],text)
     	return "Message has been sent"
     end
-    
+	 if matches[1] == "res" and is_momod(msg) then
+    local receiver = get_receiver(msg)
+    user_info("user#id"..matches[2], user_info_callback, {receiver=receiver})
+  end 
     if matches[1] == "pmblock" then
     	if is_admin2(matches[2]) then
     		return "You can't block admins"
@@ -257,12 +260,12 @@ end
 			banall_user(v)
       		print(k, v.." Globally banned")
     	end
-    end
+    end 
 	if matches[1] == 'reload' then
 		receiver = get_receiver(msg)
 		reload_plugins(true)
-		post_msg(receiver, "Reloaded!", ok_cb, false)
-		return "Reloaded!"
+		local text = "Reloaded!"
+		reply_msg(msg.id, text, ok_cb, false)
 	end
 	--[[*For Debug*
 	if matches[1] == "vardumpmsg" and is_admin1(msg) then
@@ -329,6 +332,3 @@ return {
   run = run,
   pre_process = pre_process
 }
---By @imandaneshi :)
---https://github.com/SEEDTEAM/TeleSeed/blob/test/plugins/admin.lua
----Modified by @Rondoozle for supergroups
