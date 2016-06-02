@@ -202,6 +202,7 @@ TeleSeed has several commands that are only usable at certain ranks.
 | [#!/]mute photo |
 | [#!/]mute documents |
 | [#!/]mute gifs |
+| [#!/]mute text |
 | [#!/]mute all |
 
 **Groups: If "muted" message type: user is kicked if message type is posted**
