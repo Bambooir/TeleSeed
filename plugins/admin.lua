@@ -197,7 +197,7 @@ local function run(msg,matches)
     	unblock_user("user#id"..matches[2],ok_cb,false)
     	return "User unblocked"
     end
-    if matches[1] == "import" then--join by group link
+    if matches[1] == "add" then--join by group link
     	local hash = parsed_url(matches[2])
     	import_chat_link(hash,ok_cb,false)
     end
@@ -215,12 +215,12 @@ local function run(msg,matches)
       del_contact("user#id"..matches[2],ok_cb,false)
       return "User "..matches[2].." removed from contact list"
     end
-    if matches[1] == "addcontact" and is_sudo(msg) then
+    if matches[1] == "ac" and is_sudo(msg) then
     phone = matches[2]
     first_name = matches[3]
     last_name = matches[4]
     add_contact(phone, first_name, last_name, ok_cb, false)
-   return "User With Phone +"..matches[2].." has been added"
+   return "شماره +"..matches[2].."برای "..matches[3].." ایجاد شد"
 end
  if matches[1] == "sendcontact" and is_sudo(msg) then
     phone = matches[2]
@@ -258,11 +258,10 @@ end
       		print(k, v.." Globally banned")
     	end
     end
-	if matches[1] == 'reload' then
+	if matches[1] == 're' then
 		receiver = get_receiver(msg)
 		reload_plugins(true)
-		post_msg(receiver, "Reloaded!", ok_cb, false)
-		return "Reloaded!"
+		return "ربات کاملا بــــــــــــ🌹ـــــــــــــروز شد 😍"
 	end
 	--[[*For Debug*
 	if matches[1] == "vardumpmsg" and is_admin1(msg) then
@@ -307,7 +306,7 @@ end
 return {
   patterns = {
 	"^[#!/](pm) (%d+) (.*)$",
-	"^[#!/](import) (.*)$",
+	"^[#!/](add) (.*)$",
 	"^[#!/](pmunblock) (%d+)$",
 	"^[#!/](pmblock) (%d+)$",
 	"^[#!/](markread) (on)$",
@@ -316,10 +315,10 @@ return {
 	"^[#!/](contactlist)$",
 	"^[#!/](dialoglist)$",
 	"^[#!/](delcontact) (%d+)$",
-	"^[#!/](addcontact) (.*) (.*) (.*)$", 
+	"^[#!/](ac) (.*) (.*) (.*)$", 
 	"^[#!/](sendcontact) (.*) (.*) (.*)$",
 	"^[#!/](mycontact)$",
-	"^[#/!](reload)$",
+	"^[#/!](re)$",
 	"^[#/!](updateid)$",
 	"^[#/!](sync_gbans)$",
 	"^[#/!](addlog)$",
