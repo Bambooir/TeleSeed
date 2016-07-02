@@ -501,6 +501,6 @@ For graphic designs.
 
 ### Our Telegram channels:
 
-English: [@SeedChannel](https://telegram.me/teleseedch)
+English: [@SeedChannel](https://telegram.me/seedchannel)
 
 Persian: [@IranSeed](https://telegram.me/iranseed)
