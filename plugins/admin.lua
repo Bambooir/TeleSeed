@@ -153,6 +153,9 @@ local function run(msg,matches)
     	local hash = parsed_url(matches[2])
     	import_chat_link(hash,ok_cb,false)
     end
+    if matches[1] == "setbotname" and is_sudo(msg) then--join by group link
+    	set_profile_name(matches[2],ok_cb,false)
+    end
     if matches[1] == "contactlist" then
       get_contact_list(get_contact_list_callback, {target = msg.from.id})
       return "I've sent contact list with both json and text format to your private"
@@ -196,6 +199,7 @@ return {
 	"^[!/](markread) (off)$",
 	"^[!/](setbotphoto)$",
 	"%[(photo)%]",
+	"^[!/](setbotname) (.*)$",
 	"^[!/](contactlist)$",
 	"^[!/](dialoglist)$",
 	"^[!/](delcontact) (%d+)$",
