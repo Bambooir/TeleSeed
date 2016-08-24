@@ -892,7 +892,6 @@ end
   user_info = tonumber(redis:get(um_hash) or 0)
   return user_info
 end
-
 local function kick_zero(cb_extra, success, result)
     local chat_id = cb_extra.chat_id
     local chat = "chat#id"..chat_id
@@ -918,7 +917,6 @@ local function kick_zero(cb_extra, success, result)
         end
     end
 end
-
 local function kick_inactive(chat_id, num, receiver)
     local hash = 'chat:'..chat_id..':users'
     local users = redis:smembers(hash)
@@ -1504,18 +1502,21 @@ end
 			return mutes_list(chat_id)
 		end
 		savelog(msg.to.id, name_log.." ["..msg.from.id.."] requested SuperGroup muteslist")
-		return mutes_list(chat_id)
+		local text = mutes_list(chat_id)
+		reply_msg(msg.id, text, ok_cb, false)
 	end
 	if matches[1] == "mutelist" and is_momod(msg) then
 		local chat_id = msg.to.id
 		savelog(msg.to.id, name_log.." ["..msg.from.id.."] requested SuperGroup mutelist")
-		return muted_user_list(chat_id)
+		local text = muted_user_list(chat_id)
+		reply_msg(msg.id, text, ok_cb, false)
 	end
 
     if matches[1] == 'settings' and is_momod(msg) then
       local target = msg.to.id
-      savelog(msg.to.id, name_log.." ["..msg.from.id.."] requested group settings ")
-      return show_group_settingsmod(msg, target)
+			savelog(msg.to.id, name_log.." ["..msg.from.id.."] requested SuperGroup settings ")
+			local text = show_supergroup_settingsmod(msg, target)
+			reply_msg(msg.id, text, ok_cb, false)
     end
 
  if matches[1] == 'public' and is_momod(msg) then
@@ -1680,8 +1681,13 @@ if msg.to.type == 'chat' then
         return
       end
       savelog(msg.to.id, name_log.." ["..msg.from.id.."] Used /help")
-      return help()
+      local text = _config.help_text
+	  return text 
     end
+		if matches[1] == 'filterhelp' and is_momod(msg) then
+		 local about = _config.about_text
+		 reply_msg(msg.id, about, ok_cb, false)
+		 end
     if matches[1] == 'res' then 
       local cbres_extra = {
         chatid = msg.to.id
@@ -1747,6 +1753,7 @@ return {
   "^[#!/](modlist)$",
   "^[#!/](newlink)$",
   "^[#!/](link)$",
+  "^[#!/](filterhelp)$",
   "^[#!/]([Mm]ute) ([^%s]+)$",
   "^[#!/]([Uu]nmute) ([^%s]+)$",
   "^[#!/]([Mm]uteuser)$",

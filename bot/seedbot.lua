@@ -447,7 +447,7 @@ Save <text> as [value]
 !get [value]
 Returns text of [value]
 
-!clean [modlist|rules|about]
+!clean [modlist|rules|about|banlist]
 Will clear [modlist|rules|about] and set it to nil
 
 !res [username]
@@ -549,12 +549,12 @@ Retireives the group link
 !rules
 Retrieves the chat rules
 
-!lock [links|flood|spam|Arabic|member|rtl|sticker|contacts|strict]
+!lock [links|flood|spam|Arabic|member|rtl|sticker|contacts|strict|fwd]
 Lock group settings
 *rtl: Delete msg if Right To Left Char. is in name*
 *strict: enable strict settings enforcement (violating user will be kicked)*
 
-!unlock [links|flood|spam|Arabic|member|rtl|sticker|contacts|strict]
+!unlock [links|flood|spam|Arabic|member|rtl|sticker|contacts|strict|fwd]
 Unlock group settings
 *rtl: Delete msg if Right To Left Char. is in name*
 *strict: disable strict settings enforcement (violating user will not be kicked)*
@@ -587,7 +587,7 @@ Returns list of muted users in chat
 !banlist
 Returns SuperGroup ban list
 
-!clean [rules|about|modlist|mutelist]
+!clean [rules|about|modlist|mutelist|banlist]
 
 !del
 Deletes a message by reply

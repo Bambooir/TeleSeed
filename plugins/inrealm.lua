@@ -686,8 +686,8 @@ local function unset_log_group(msg)
 end
 
 local function help()
-local help_text = tostring(_config.help_text_realm)
-  return help_text
+local text = tostring(_config.help_text_realm)
+  return text
 end
 
 function run(msg, matches)
@@ -1003,9 +1003,9 @@ function run(msg, matches)
 			if matches[2] == 'admins' then
 				return admin_list(msg)
 			end
-		--	if matches[2] == 'support' and not matches[2] then
-			--	return support_list()
-		--	end
+			--if matches[2] == 'support' and not matches[2] then
+				--return support_list()
+			--end
 		end
 		
 		if matches[1] == 'list' and matches[2] == 'groups' then

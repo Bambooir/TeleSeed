@@ -118,6 +118,10 @@ local function kick_ban_res(extra, success, result)
         end
         send_large_msg(receiver, 'User @'..member..' ['..member_id..'] banned')
 		ban_user(member_id, chat_id)
+local bannedhash = 'banned:'..msg.from.id..':'..msg.to.id
+        redis:incr(bannedhash)
+        local bannedhash = 'banned:'..msg.from.id..':'..msg.to.id
+        local banned = redis:get(bannedhash)
       elseif get_cmd == 'unban' then
         send_large_msg(receiver, 'User @'..member..' ['..member_id..'] unbanned')
         local hash =  'banned:'..chat_id
@@ -170,6 +174,25 @@ local support_id = msg.from.id
     end
     return ban_list(chat_id)
   end
+if matches[1]:lower() == "clean" and matches[2]:lower() == "banlist" then
+ if not is_owner(msg) then
+return nil
+end
+local chat_id = msg.to.id
+local hash = 'banned:'..chat_id
+send_large_msg(get_receiver(msg), "banlist has been cleaned")
+redis:del(hash)
+end
+if matches[1]:lower() == 'clean' then 
+      if not is_sudo(msg) then
+        return "Sudo only!"
+      end
+if matches[2] == 'gbanlist' then
+local hash = 'gbanned'
+send_large_msg(get_receiver(msg), "Globall banlist has been cleaned.")
+redis:del(hash)
+     end
+end
   if matches[1]:lower() == 'ban' then-- /ban
     if type(msg.reply_id)~="nil" and is_momod(msg) then
       if is_admin1(msg) then
@@ -192,9 +215,17 @@ local support_id = msg.from.id
         local print_name = user_print_name(msg.from):gsub("‮", "")
 	    local name = print_name:gsub("_", "")
 		local receiver = get_receiver(msg)
-        savelog(msg.to.id, name.." ["..msg.from.id.."] baned user ".. matches[2])
+        --savelog(msg.to.id, name.." ["..msg.from.id.."] baned user ".. matches[2])
         ban_user(matches[2], msg.to.id)
-		send_large_msg(receiver, 'User ['..matches[2]..'] banned')
+local bannedhash = 'banned:'..msg.from.id..':'..msg.to.id
+        redis:incr(bannedhash)
+        local bannedhash = 'banned:'..msg.from.id..':'..msg.to.id
+        local banned = redis:get(bannedhash)
+	send_large_msg(receiver, 'User ['..matches[2]..'] banned')
+local bannedhash = 'banned:'..msg.from.id..':'..msg.to.id
+        redis:incr(bannedhash)
+        local bannedhash = 'banned:'..msg.from.id..':'..msg.to.id
+        local banned = redis:get(bannedhash)
       else
 		local cbres_extra = {
 		chat_id = msg.to.id,
@@ -330,6 +361,8 @@ return {
     "^[#!/]([Bb]anall)$",
     "^[#!/]([Bb]anlist) (.*)$",
     "^[#!/]([Bb]anlist)$",
+    "^[#/!]([Cc]lean) ([Bb]anlist)$",
+    "^[#/!]([Cc]lean) ([Gg]banlist)$",
     "^[#!/]([Gg]banlist)$",
 	"^[#!/]([Kk]ickme)",
     "^[#!/]([Kk]ick)$",
