@@ -1120,7 +1120,7 @@ end
 -- /id by reply
 function get_message_callback_id(extra, success, result)
 	if type(result) == 'boolean' then
-		print('Old message :(')
+		print('This is a old message!')
 		return false
 	end
 	if result.to.type == 'chat' then
@@ -1134,7 +1134,7 @@ end
 -- kick by reply for mods and owner
 function Kick_by_reply(extra, success, result)
 	if type(result) == 'boolean' then
-		print('Old message :(')
+		print('This is a old message!')
 		return false
 	end
 	if result.to.type == 'chat' or result.to.type == 'channel' then
@@ -1155,7 +1155,7 @@ end
 -- Kick by reply for admins
 function Kick_by_reply_admins(extra, success, result)
 	if type(result) == 'boolean' then
-		print('Old message :(')
+		print('This is a old message!')
 		return false
 	end
 	if result.to.type == 'chat' or result.to.type == 'channel' then
@@ -1177,7 +1177,7 @@ end
 --Ban by reply for admins
 function ban_by_reply(extra, success, result)
 	if type(result) == 'boolean' then
-		print('Old message :(')
+		print('This is a old message!')
 		return false
 	end
 	if result.to.type == 'chat' or result.to.type == 'channel' then
@@ -1199,7 +1199,7 @@ end
 -- Ban by reply for admins
 function ban_by_reply_admins(extra, success, result)
 	if type(result) == 'boolean' then
-		print('Old message :(')
+		print('This is a old message!')
 		return false
 	end
 	if result.to.peer_type == 'chat' or result.to.peer_type == 'channel' then
@@ -1222,7 +1222,7 @@ end
 -- Unban by reply
 function unban_by_reply(extra, success, result)
 	if type(result) == 'boolean' then
-		print('Old message :(')
+		print('This is a old message!')
 		return false
 	end
 	if result.to.type == 'chat' or result.to.type == 'channel' then
@@ -1241,7 +1241,7 @@ function unban_by_reply(extra, success, result)
 end
 function banall_by_reply(extra, success, result)
 	if type(result) == 'boolean' then
-		print('Old message :(')
+		print('This is a old message!')
 		return false
 	end
 	if result.to.type == 'chat' or result.to.type == 'channel' then

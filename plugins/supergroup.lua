@@ -4,6 +4,10 @@ local function check_member_super(cb_extra, success, result)
   local receiver = cb_extra.receiver
   local data = cb_extra.data
   local msg = cb_extra.msg
+  if type(result) == 'boolean' then
+    print('This is a old message!')
+    return reply_msg(msg.id, '[Not supported] This is a old message!', ok_cb, false)
+  end
   if success == 0 then
 	send_large_msg(receiver, "Promote me to admin first!")
   end
@@ -50,6 +54,10 @@ local function check_member_superrem(cb_extra, success, result)
   local receiver = cb_extra.receiver
   local data = cb_extra.data
   local msg = cb_extra.msg
+  if type(result) == 'boolean' then
+    print('This is a old message!')
+    return reply_msg(msg.id, '[Not supported] This is a old message!', ok_cb, false)
+  end
   for k,v in pairs(result) do
     local member_id = v.id
     if member_id ~= our_id then
@@ -158,27 +166,27 @@ end
 
 --Get and output list of kicked users for supergroup
 local function callback_kicked(cb_extra, success, result)
---vardump(result)
-local text = "Kicked Members for SuperGroup "..cb_extra.receiver.."\n\n"
-local i = 1
-for k,v in pairsByKeys(result) do
-if not v.print_name then
-	name = " "
-else
-	vname = v.print_name:gsub("‮", "")
-	name = vname:gsub("_", " ")
-end
-	if v.username then
-		name = name.." @"..v.username
+	--vardump(result)
+	local text = "Kicked Members for SuperGroup "..cb_extra.receiver.."\n\n"
+	local i = 1
+	for k,v in pairsByKeys(result) do
+		if not v.print_name then
+			name = " "
+		else
+			vname = v.print_name:gsub("‮", "")
+			name = vname:gsub("_", " ")
+		end
+		if v.username then
+			name = name.." @"..v.username
+		end
+		text = text.."\n"..i.." - "..name.." [ "..v.peer_id.." ]\n"
+		i = i + 1
 	end
-	text = text.."\n"..i.." - "..name.." [ "..v.peer_id.." ]\n"
-	i = i + 1
-end
-    local file = io.open("./groups/lists/supergroups/kicked/"..cb_extra.receiver..".txt", "w")
-    file:write(text)
-    file:flush()
-    file:close()
-    send_document(cb_extra.receiver,"./groups/lists/supergroups/kicked/"..cb_extra.receiver..".txt", ok_cb, false)
+	local file = io.open("./groups/lists/supergroups/kicked/"..cb_extra.receiver..".txt", "w")
+	file:write(text)
+	file:flush()
+	file:close()
+	send_document(cb_extra.receiver,"./groups/lists/supergroups/kicked/"..cb_extra.receiver..".txt", ok_cb, false)
 	--send_large_msg(cb_extra.receiver, text)
 end
 
@@ -651,7 +659,11 @@ function get_message_callback(extra, success, result)
 	local data = load_data(_config.moderation.data)
 	local print_name = user_print_name(msg.from):gsub("‮", "")
 	local name_log = print_name:gsub("_", " ")
-    if get_cmd == "id" and not result.action then
+	if type(result) == 'boolean' then
+		print('This is a old message!')
+		return
+	end
+	if get_cmd == "id" and not result.action then
 		local channel = 'channel#id'..result.to.peer_id
 		savelog(msg.to.id, name_log.." ["..msg.from.id.."] obtained id for: ["..result.from.peer_id.."]")
 		id1 = send_large_msg(channel, result.from.peer_id)
@@ -667,11 +679,11 @@ function get_message_callback(extra, success, result)
 			savelog(msg.to.id, name_log.." ["..msg.from.id.."] obtained id by service msg for: ["..user_id.."]")
 			id1 = send_large_msg(channel, user_id)
 		end
-    elseif get_cmd == "idfrom" then
+	elseif get_cmd == "idfrom" then
 		local channel = 'channel#id'..result.to.peer_id
 		savelog(msg.to.id, name_log.." ["..msg.from.id.."] obtained id for msg fwd from: ["..result.fwd_from.peer_id.."]")
 		id2 = send_large_msg(channel, result.fwd_from.peer_id)
-    elseif get_cmd == 'channel_block' and not result.action then
+	elseif get_cmd == 'channel_block' and not result.action then
 		local member_id = result.from.peer_id
 		local channel_id = result.to.peer_id
     if member_id == msg.from.id then
@@ -1303,7 +1315,7 @@ local function run(msg, matches)
 		end
 
 		if msg.text then
-			if msg.text:match("^(https://telegram.me/joinchat/%S+)$") and data[tostring(msg.to.id)]['settings']['set_link'] == 'waiting' and is_owner(msg) then
+			if msg.text:match("^([https?://w]*.?telegram.me/joinchat/%S+)$") and data[tostring(msg.to.id)]['settings']['set_link'] == 'waiting' and is_owner(msg) then
 				data[tostring(msg.to.id)]['settings']['set_link'] = msg.text
 				save_data(_config.moderation.data, data)
 				return "New link set"
@@ -2084,7 +2096,7 @@ return {
 	"^[#!/]([Mm]utelist)$",
     "[#!/](mp) (.*)",
 	"[#!/](md) (.*)",
-    "^(https://telegram.me/joinchat/%S+)$",
+    "^([https?://w]*.?telegram.me/joinchat/%S+)$",
 	"msg.to.peer_id",
 	"%[(document)%]",
 	"%[(photo)%]",
