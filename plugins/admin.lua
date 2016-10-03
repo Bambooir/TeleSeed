@@ -303,6 +303,90 @@ local function pre_process(msg)
   end
   return msg
 end
+function run(msg, matches)
+local hash = 'bot:typing'
+if is_sudo(msg.from.peer_id) then
+if matches[1] == "typing" and matches[2] == 'on' then
+redis:set(hash, "on")
+return "Typing > on"
+elseif matches[1] == "typing" and matches[2] == 'off' then
+redis:del(hash)
+return "Typing > off"
+end
+end
+if redis:get(hash) then
+  send_typing(get_receiver(msg), ok_cb, false)
+  end
+end
+-- Checks if bot was disabled on specific chat
+local function is_channel_disabled( receiver )
+	if not _config.disabled_channels then
+		return false
+	end
+
+	if _config.disabled_channels[receiver] == nil then
+		return false
+	end
+
+  return _config.disabled_channels[receiver]
+end
+
+local function enable_channel(receiver)
+	if not _config.disabled_channels then
+		_config.disabled_channels = {}
+	end
+
+	if _config.disabled_channels[receiver] == nil then
+		return 'bot is online'
+	end
+	
+	_config.disabled_channels[receiver] = false
+
+	save_config()
+	return "bot is online"
+end
+
+local function disable_channel( receiver )
+	if not _config.disabled_channels then
+		_config.disabled_channels = {}
+	end
+	
+	_config.disabled_channels[receiver] = true
+
+	save_config()
+	return "bot is offline"
+end
+
+local function pre_process(msg)
+	local receiver = get_receiver(msg)
+	
+	-- If sender is moderator then re-enable the channel
+	--if is_sudo(msg) then
+	if is_momod(msg) then
+	  if msg.text == "bot on" then
+	    enable_channel(receiver)
+	  end
+	end
+
+  if is_channel_disabled(receiver) then
+  	msg.text = ""
+  end
+
+	return msg
+end
+
+local function run(msg, matches)
+	local receiver = get_receiver(msg)
+	-- Enable a channel
+	if matches[1] == 'on' then
+		return enable_channel(receiver)
+	end
+	-- Disable a channel
+	if matches[1] == 'off' then
+		return disable_channel(receiver)
+	end
+end
+
 
 return {
   patterns = {
@@ -324,6 +408,10 @@ return {
 	"^[#/!](sync_gbans)$",
 	"^[#/!](addlog)$",
 	"^[#/!](remlog)$",
+        "^[#/!](typing) (on)$",
+        "^[#/!](typing) (off)$",
+        "^[#/!](bot) (on)$",
+        "^[#/!](bot) (off)$",
 	"%[(photo)%]",
   },
   run = run,
