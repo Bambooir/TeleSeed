@@ -403,10 +403,10 @@ mute group message types
 Unmute group message types
 *If "unmuted" message type: user is not kicked if message type is posted 
 
-!set rules <text>
+!setrules <text>
 Set <text> as rules
 
-!set about <text>
+!setabout <text>
 Set <text> as about
 
 !settings
