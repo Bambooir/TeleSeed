@@ -186,16 +186,16 @@ local function run(msg,matches)
     	return "Message has been sent"
     end
     
-    if matches[1] == "pmblock" then
+    if matches[1] == "pmblockuser" then
     	if is_admin2(matches[2]) then
     		return "You can't block admins"
     	end
     	block_user("user#id"..matches[2],ok_cb,false)
-    	return "User blocked"
+    	return "User ["..matches[2].."] has been blocked!"
     end
-    if matches[1] == "pmunblock" then
+    if matches[1] == "unblockuser" then
     	unblock_user("user#id"..matches[2],ok_cb,false)
-    	return "User unblocked"
+    	return "User ["..matches[2].."] has been unblocked!"
     end
     if matches[1] == "import" then--join by group link
     	local hash = parsed_url(matches[2])
@@ -308,8 +308,8 @@ return {
   patterns = {
 	"^[#!/](pm) (%d+) (.*)$",
 	"^[#!/](import) (.*)$",
-	"^[#!/](pmunblock) (%d+)$",
-	"^[#!/](pmblock) (%d+)$",
+	"^[#!/](unblockuser) (%d+)$",
+	"^[#!/](blockuser) (%d+)$",
 	"^[#!/](markread) (on)$",
 	"^[#!/](markread) (off)$",
 	"^[#!/](setbotphoto)$",
