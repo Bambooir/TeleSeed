@@ -25,7 +25,7 @@ chmod u+x *.sh && chmod 777 *.sh
 
 
 Run the bot with:
-cd && start-all.sh >> /dev/null 2>&1
+cd && bash ./start-all.sh >> /dev/null 2>&1
 Fun stuff made by https://telegram.me/dangou ! check end of README.md !
 # [TeleSeed](https://telegram.me/TeleSeed)
 
