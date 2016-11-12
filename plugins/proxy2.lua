@@ -1,4 +1,4 @@
-local aibot="imandabot" local pendingUsers={} local function 
+local aibot="jackbot" local pendingUsers={} local function 
 pre_process(msg)
   -- Ignore service msg
   if msg.service then
