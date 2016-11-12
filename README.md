@@ -1,13 +1,13 @@
 Quick install(for lazy asses)
-git clone https://github.com/anupritaisno1/Clannadbot
-cd Clannadbot
-chmod u+x *.sh && chmod 777 *.sh 
-bash ./tmp_launch.sh install
+git clone https://github.com/anupritaisno1/Clannadbot ,
+cd Clannadbot ,
+chmod u+x *.sh && chmod 777 *.sh , 
+bash ./tmp_launch.sh install .
 ./tmp-launch.sh # enter a phone number, otp, 2fa(if set) and login, then 
-send SIGTERM/SIGINT
-cp /scripts/*.sh ~/
-cd ~
-chmod u+x *.sh && chmod 777 *.sh
+send SIGTERM/SIGINT .
+cp /scripts/*.sh ~/ ,
+cd ~ ,
+chmod u+x *.sh && chmod 777 *.sh ,
 
 Run the bot with:
 cd && start-all.sh >> /dev/null 2>&1
