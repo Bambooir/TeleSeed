@@ -15,7 +15,7 @@ bash ./tmp_launch.sh install
 send SIGTERM/SIGINT
 
 
-cp /scripts/*.sh ~/
+cp scripts/*.sh ~/
 
 
 cd ~
