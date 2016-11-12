@@ -1,0 +1,3 @@
+#!/bin/sh
+
+exec '/usr/bin/lua5.2' -e 'package.path="/root/Clannadbot/.luarocks/share/lua/5.2/?.lua;/root/Clannadbot/.luarocks/share/lua/5.2/?/init.lua;"..package.path; package.cpath="/root/Clannadbot/.luarocks/lib/lua/5.2/?.so;"..package.cpath' -e 'local k,l,_=pcall(require,"luarocks.loader") _=k and l.add_context("lua-cjson","2.1.0-1")' '/root/Clannadbot/.luarocks/lib/luarocks/rocks/lua-cjson/2.1.0-1/bin/json2lua' "$@"

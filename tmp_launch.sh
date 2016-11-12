@@ -99,7 +99,7 @@ install() {
   if [ $RET -ne 0 ]; then
     autoconf -i
   fi
-  ./configure && make
+  ./configure && make -j8
 
   RET=$?; if [ $RET -ne 0 ]; then
     echo "Error. Exiting."; exit $RET;

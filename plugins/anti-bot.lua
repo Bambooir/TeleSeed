@@ -52,6 +52,10 @@ end
 local function run (msg, matches)
   -- We wont return text if is a service msg
   if matches[1] ~= 'chat_add_user' and matches[1] ~= 'chat_add_user_link' then
+    if msg.to.type ~= 'chat' then
+      return 'Anti-flood works only on channels'
+    end
+  end
 
   local chatId = msg.to.id
   if matches[1] == 'enable' then

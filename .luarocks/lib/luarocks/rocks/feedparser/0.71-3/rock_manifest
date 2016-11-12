@@ -1,0 +1,14 @@
+rock_manifest = {
+   doc = {
+      README = "b0744ead037249a84054f3cdd6bbcccf"
+   },
+   ['feedparser-0.71-3.rockspec'] = "e8800662006ca3dc9adf0de40a07a5aa",
+   lua = {
+      feedparser = {
+         ['XMLElement.lua'] = "67311d8351f99f73705d2f94b1e5f194",
+         ['dateparser.lua'] = "34bf7f1e8e3427ecb99f975b0221a1f9",
+         ['url.lua'] = "86d841dcfca050ba118dbcf898b78096"
+      },
+      ['feedparser.lua'] = "69276dff6edab9fe24be5216625724eb"
+   }
+}
