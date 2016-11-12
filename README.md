@@ -1,4 +1,7 @@
 Quick install(for lazy asses)
+
+Igmore errors on tmp_launch.sh install !
+
 git clone https://github.com/anupritaisno1/Clannadbot
 
 
