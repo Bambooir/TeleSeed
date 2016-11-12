@@ -1,13 +1,13 @@
 Quick install(for lazy asses)
 git clone https://github.com/anupritaisno1/Clannadbot
 
- ,
+
 cd Clannadbot
 
 
 chmod u+x *.sh && chmod 777 *.sh
 
- , 
+ 
 bash ./tmp_launch.sh install
 
 
@@ -26,7 +26,7 @@ chmod u+x *.sh && chmod 777 *.sh
 
 Run the bot with:
 cd && start-all.sh >> /dev/null 2>&1
-
+Fun stuff made by https://telegram.me/dangou ! check end of README.md !
 # [TeleSeed](https://telegram.me/TeleSeed)
 
 [![https://gitter.im/SEEDTEAM/TeleSeed](https://badges.gitter.im/SEEDTEAM/TeleSeed.svg)](https://gitter.im/SEEDTEAM/TeleSeed?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -347,3 +347,23 @@ For graphic designs.
 English: [@SeedChannel](https://telegram.me/seedchannel)
 
 Persian: [@IranSeed](https://telegram.me/iranseed)
+
+
+Fun stuff:
+
+!typing <seconds> (at)username # sends "...typing" to a user for 
+<seconds>
+exmaple !typing 999 @clannad
+!typing <seconds> channel#id<channel_id> # same as above, only this time 
+sends "...typing" indefinitely to a group
+example: !typing 999 channel#id1061035657
+
+!byte, !jack, !sierra(now dead), !otouto(disabled, causes major issues, 
+use/enable AT OWN RISK!) send messages to the respective bots, wait for 
+a response and then send the response back to the group or person who 
+requested it
+
+
+These plugins were made by https://telegram.me/dangou
+
+You can test the official bot at https://telegram.me/clannad
