@@ -1,5 +1,5 @@
 while true; do
-cd ~/TeleSeed
+cd ~/Clannadbot >> /dev/null 2>&1
 ./launch.sh >> /dev/null 2>&1
-clear
+clear >> /dev/null 2>&1
 done
