@@ -1,0 +1,40 @@
+1.3.3
+* support for sending custom keyboard 
+* fixed contact_search
+* TGL-2.0.3
+1.3.2
+* use TGL-2.0.2
+* add block/unblock user methods
+* support for autocomplete for bot's commands
+1.3.1
+* added error codes
+1.3.0
+* layer 28 support (passwords, replies, webpages, other changes)
+* output in json format
+* support for lua functions in CLI mode (register_interface_function)
+* bugfixes
+* output error codes to socket
+* allow [reply=<num>], [disable_preview] and [enable_preview] prefixes to query
+1.2.1
+* fixed registration/login problem
+* added extension to downloads
+1.2.0
+* layer 22 support
+* new authorization code
+* fixed time-related problems
+* fixed crash after hibernation
+1.0.6
+* layer 18 support
+1.0.5
+* listening socket (tcp and unix) for commands
+1.0.4
+* changed create_group_chat format
+* changed search query
+* rewritten interface code. Support for escaped characters in quotes
+1.0.3
+* options to help to run telegram-cli as daemon
+1.0.2
+* Bug fixes
+1.0.1
+* Added pfs support. To use it you should add 'pfs_enabled=true' line to config.
+* Added export_card/import_card methods

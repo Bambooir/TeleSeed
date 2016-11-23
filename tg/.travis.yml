@@ -1,0 +1,21 @@
+language: c
+
+compiler:
+  - gcc
+  - clang
+
+install:
+ - sudo apt-get update
+ - sudo apt-get install libconfig8-dev
+ - sudo apt-get install libreadline6-dev
+ - sudo apt-get install libssl-dev
+ - sudo apt-get install liblua5.2-dev lua5.2
+ - sudo apt-get install python-dev python
+ - sudo apt-get install libevent-dev
+ - sudo apt-get install libjansson-dev
+
+script:
+  - git submodule update --init --recursive
+  - ./configure
+  - make
+
