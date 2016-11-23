@@ -13,6 +13,14 @@ local function set_bot_photo(msg, success, result)
     send_large_msg(receiver, 'Failed, please try again!', ok_cb, false)
   end
 end
+local function block_user_callback(cb_extra, success, result)
+  local user = 'user#id'..result.id
+  if success == 0 then
+   return "This user does not block"
+  end
+  block_user(user, cb_ok, false)
+ end
+end
 local function parsed_url(link)
   local parsed_link = URL.parse(link)
   local parsed_path = URL.parse_path(parsed_link.path)
@@ -142,7 +150,8 @@ local function run(msg,matches)
     	if is_admin2(matches[2]) then
     		return "You can't block admins"
     	end
-    	block_user("user#id"..matches[2],ok_cb,false)
+    	local user = 'user#id'..matches[1]
+      block_user(user, callback, false)
     	return "User blocked"
     end
     if matches[1] == "unblock" then
