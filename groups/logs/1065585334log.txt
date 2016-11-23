@@ -1,0 +1,517 @@
+[ Sat Jun 11 06:06:46 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] added SuperGroup
+ 
+[ Sat Jun 11 06:06:50 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup settings 
+ 
+[ Sat Jun 11 06:07:01 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set group to: public
+ 
+[ Sat Jun 11 06:07:20 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] locked arabic 
+ 
+[ Sat Jun 11 06:07:27 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] locked rtl chars. in names
+ 
+[ Sat Jun 11 06:07:41 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] locked contact posting
+ 
+[ Sat Jun 11 06:08:53 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA[190427743] set [190427743] as owner by username
+ 
+[ Sat Jun 11 06:08:59 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @Haruhi_Suzumiya
+ 
+[ Sat Jun 11 06:09:03 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @Searly_Boy
+ 
+[ Sat Jun 11 06:09:10 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @dangou
+ 
+[ Sat Jun 11 06:09:18 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @clannad
+ 
+[ Sat Jun 11 06:09:47 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] started setting new SuperGroup photo
+ 
+[ Sat Jun 11 06:10:31 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set new SuperGroup photo
+ 
+[ Sat Jun 11 06:11:05 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] attempted to create a new SuperGroup link
+ 
+[ Sat Jun 11 06:11:12 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested group link [https://telegram.me/joinchat/DKbLAD-DirZcoRny0QTEyw]
+ 
+[ Sat Jun 11 06:23:59 2016 ]=>  Mipirakas M Admin [56481093] joined the SuperGroup via link
+ 
+[ Sat Jun 11 06:24:49 2016 ]=>  Till Kottmann Admin [152559768] joined the SuperGroup via link
+ 
+[ Sat Jun 11 06:26:48 2016 ]=>  PatrickGarcia [2896817] is banned and kicked ! 
+ 
+[ Sat Jun 11 06:31:44 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] has changed group rules to [No spam
+English only
+You can talk about other ROMs as long as they are cm based]
+ 
+[ Sat Jun 11 06:31:52 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested group rules
+ 
+[ Sat Jun 11 06:32:46 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup users list
+ 
+[ Sat Jun 11 06:34:30 2016 ]=>  Shivram [175226380] is banned and kicked ! 
+ 
+[ Sat Jun 11 06:49:22 2016 ]=>  Nico Bertu [124623376] requested group rules
+ 
+[ Sat Jun 11 06:50:29 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup users list
+ 
+[ Sat Jun 11 07:07:56 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @TugaPower
+ 
+[ Sat Jun 11 07:10:52 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested group link [https://telegram.me/joinchat/DKbLAD-DirZcoRny0QTEyw]
+ 
+[ Sat Jun 11 07:20:06 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set SuperGroup description to: Official cm discussion for all oneplus devices.
+The public invite link is @onePlusCM
+Type !rules to read the rules
+This group is for the open-source cyanogenmod only and not for cyanogen OS. You can still discuss about COS but don't expect any support.
+ 
+[ Sat Jun 11 07:34:52 2016 ]=>  Haruhi Suzumiya? Admin [107851874] added to the SuperGroup by [ 0 ]
+ 
+[ Sat Jun 11 07:35:08 2016 ]=>  LexMakhiLuthor [158330642] is banned and kicked ! 
+ 
+[ Sat Jun 11 07:36:41 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested group modlist
+ 
+[ Sat Jun 11 09:08:06 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA Admin [190427743] joined the SuperGroup via link
+ 
+[ Sat Jun 11 09:11:04 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] used /owner
+ 
+[ Sat Jun 11 09:11:11 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested ID for: @clannad
+ 
+[ Sat Jun 11 09:11:25 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested ID for: @clannad
+ 
+[ Sat Jun 11 18:10:14 2016 ]=>  長門有希?ゆきながと?ユキナガト?YukiNagato?O-ooooooooooAAAAE-A-A-I-A-U-JO-ooooooooooooAAE-O-A-A-U-U-A-E-eee-ee-eeeAAAAE-A-E-I-E-A-JO-ooo-oo-oo-ooEEEEO-A-AAA-AAAA [190427743] banned user is talking !
+ 
+[ Sun Jun 12 04:31:28 2016 ]=>  Haruhi_Suzumiya? [212257536] saved [unbrick] as > https://forums.oneplus.net/threads/unbrick-op2-install-hydrogenos-oxygenos-fastboot-images-for-hydrogenos-oxygenos.426641/
+ 
+[ Sun Jun 12 04:31:51 2016 ]=>  Haruhi_Suzumiya? [212257536] used /get unbrick
+ 
+[ Sun Jun 12 05:16:41 2016 ]=>  Haruhi_Suzumiya? [212257536] used /get unbrick
+ 
+[ Mon Jun 13 11:57:09 2016 ]=>  Haruhi Suzumiya [212257536] requested group link [https://telegram.me/joinchat/DKbLAD-DirZcoRny0QTEyw]
+ 
+[ Mon Jun 13 12:00:01 2016 ]=>  Haruhi Suzumiya [212257536] attempted to create a new SuperGroup link
+ 
+[ Mon Jun 13 12:00:06 2016 ]=>  Haruhi Suzumiya [212257536] requested group link [https://telegram.me/joinchat/DKbLAD-DirZKrMb6J0E3JQ]
+ 
+[ Mon Jun 13 12:01:56 2016 ]=>  Haruhi Suzumiya [212257536] requested group link [https://telegram.me/joinchat/DKbLAD-DirZKrMb6J0E3JQ]
+ 
+[ Mon Jun 13 12:03:09 2016 ]=>  Haruhi Suzumiya [212257536] requested group rules
+ 
+[ Tue Jun 14 10:05:19 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup ID
+ 
+[ Tue Jun 14 12:03:20 2016 ]=>  Haruhi Suzumiya [212257536] attempted to create a new SuperGroup link
+ 
+[ Tue Jun 14 12:03:29 2016 ]=>  Haruhi Suzumiya [212257536] requested group link [https://telegram.me/joinchat/DKbLAD-DirZsiBru_DpYOQ]
+ 
+[ Tue Jun 14 13:52:45 2016 ]=>  Haruhi Suzumiya [212257536] set group to: public
+ 
+[ Tue Jun 14 20:33:10 2016 ]=>  Haruhi Suzumiya [212257536] requested group link [https://telegram.me/joinchat/DKbLAD-DirZsiBru_DpYOQ]
+ 
+[ Tue Jun 14 20:33:58 2016 ]=>  Bot admin 2 Admin [161472020] joined the SuperGroup via link
+ 
+[ Wed Jun 15 01:48:23 2016 ]=>  Haruhi_Suzumiya [212257536] used /get op2unbricl
+ 
+[ Wed Jun 15 01:48:33 2016 ]=>  Haruhi_Suzumiya [212257536] used /get op2unbrick
+ 
+[ Wed Jun 15 01:48:51 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup ID
+ 
+[ Wed Jun 15 12:31:38 2016 ]=>  Nico Bertu [124623376] requested group rules
+ 
+[ Sat Jun 18 05:41:41 2016 ]=>  Haruhi Suzumiya [212257536] requested group link [https://telegram.me/joinchat/DKbLAD-DirZsiBru_DpYOQ]
+ 
+[ Sat Jun 18 14:09:13 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup settings 
+ 
+[ Sat Jun 18 14:09:25 2016 ]=>  Haruhi Suzumiya [212257536] locked sticker posting
+ 
+[ Sat Jun 18 14:09:39 2016 ]=>  Haruhi Suzumiya [212257536] set SuperGroup to: mute Gifs
+ 
+[ Sat Jun 18 14:09:49 2016 ]=>  Daniel Monteiro [159315022] set SuperGroup to: mute All
+ 
+[ Sat Jun 18 14:09:58 2016 ]=>  Haruhi Suzumiya [212257536] set SuperGroup to: unmute All
+ 
+[ Sat Jun 18 14:19:14 2016 ]=>  Haft[[[1]]]khaT [140419353] is banned and kicked ! 
+ 
+[ Sat Jun 18 14:24:41 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup muteslist
+ 
+[ Sat Jun 18 14:25:00 2016 ]=>  Haruhi Suzumiya [212257536] locked contact posting
+ 
+[ Sat Jun 18 16:11:09 2016 ]=>  Make [87846183] requested group rules
+ 
+[ Sun Jun 19 07:10:21 2016 ]=>  Haruhi Suzumiya [212257536] requested group link [https://telegram.me/joinchat/DKbLAD-DirZsiBru_DpYOQ]
+ 
+[ Sun Jun 19 07:10:28 2016 ]=>  Haruhi Suzumiya [212257536] attempted to create a new SuperGroup link
+ 
+[ Sun Jun 19 07:10:34 2016 ]=>  Haruhi Suzumiya [212257536] requested group link [https://telegram.me/joinchat/DKbLAD-DirafIniTJglxjA]
+ 
+[ Mon Jun 20 17:31:13 2016 ]=>  Haruhi Suzumiya [212257536] promoted @GhostSamuraiX
+ 
+[ Mon Jun 20 20:14:54 2016 ]=>  Haruhi Suzumiya [212257536] started setting new SuperGroup photo
+ 
+[ Mon Jun 20 20:14:58 2016 ]=>  Haruhi Suzumiya [212257536] set new SuperGroup photo
+ 
+[ Mon Jun 20 20:22:59 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup settings 
+ 
+[ Mon Jun 20 22:07:21 2016 ]=>  Haruhi Suzumiya [212257536] requested group link [https://telegram.me/joinchat/DKbLAD-DirafIniTJglxjA]
+ 
+[ Wed Jun 22 00:25:12 2016 ]=>  Siddharth [177297238] requested group rules
+ 
+[ Wed Jun 22 02:49:15 2016 ]=>  Haruhi Suzumiya [212257536] resolved username: @nunvanun
+ 
+[ Wed Jun 22 02:50:31 2016 ]=>  Haruhi Suzumiya [212257536] promoted @FunkWizard
+ 
+[ Thu Jun 23 12:17:21 2016 ]=>  Haruhi Suzumiya [212257536] deleted a message by reply
+ 
+[ Thu Jun 23 14:29:17 2016 ]=>  log file created by owner/support/admin
+ 
+[ Fri Jun 24 01:59:02 2016 ]=>  KabaliDa [158330642] added a banned user >158330642
+ 
+[ Fri Jun 24 02:23:14 2016 ]=>  log file created by owner/support/admin
+ 
+[ Fri Jun 24 02:25:28 2016 ]=>  log file created by owner/support/admin
+ 
+[ Fri Jun 24 02:26:38 2016 ]=>  Haruhi Suzumiya[212257536] set [212257536] as owner by username
+ 
+[ Fri Jun 24 18:14:26 2016 ]=>  Haruhi Suzumiya Admin [59802458] added to the SuperGroup by [ 0 ]
+ 
+[ Sat Jun 25 04:29:02 2016 ]=>  Haruhi Suzumiya [212257536] requested group rules
+ 
+[ Sat Jun 25 05:03:13 2016 ]=>  Haruhi Suzumiya Admin [159315022] added to the SuperGroup by [ 0 ]
+ 
+[ Sat Jun 25 05:09:38 2016 ]=>  Haruhi Suzumiya [212257536] promoted @alexislovesoneplus
+ 
+[ Sat Jun 25 08:04:54 2016 ]=>  Haruhi Suzumiya [212257536] promoted @G333K
+ 
+[ Sat Jun 25 08:18:05 2016 ]=>  Haruhi Suzumiya [212257536] promoted @Igetin
+ 
+[ Sun Jun 26 10:10:05 2016 ]=>  Haruhi_Suzumiya [212257536] used /get op2unbrick
+ 
+[ Mon Jun 27 14:51:19 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup ID
+ 
+[ Thu Jun 30 15:23:23 2016 ]=>  Aryan Admin [152559768] added to the SuperGroup by [ 229473867 ]
+ 
+[ Fri Jul  1 14:54:02 2016 ]=>  log file created by owner/support/admin
+ 
+[ Fri Jul  1 14:54:24 2016 ]=>  Haruhi_Suzumiya [212257536] used /get op2unbrick
+ 
+[ Fri Jul  1 14:54:50 2016 ]=>  Haruhi Suzumiya Admin [152559768] added to the SuperGroup by [ 0 ]
+ 
+[ Fri Jul  1 14:56:14 2016 ]=>  Haruhi Suzumiya [212257536] requested group link [https://telegram.me/joinchat/DKbLAD-DirafIniTJglxjA]
+ 
+[ Fri Jul  1 14:57:04 2016 ]=>  Brandon Paterson Admin [150606974] joined the SuperGroup via link
+ 
+[ Fri Jul  1 14:59:43 2016 ]=>  Haruhi Suzumiya [212257536] requested group link [https://telegram.me/joinchat/DKbLAD-DirafIniTJglxjA]
+ 
+[ Fri Jul  1 15:15:11 2016 ]=>  Aryan Admin [152559768] added to the SuperGroup by [ 229473867 ]
+ 
+[ Fri Jul  1 15:27:38 2016 ]=>  Haruhi Suzumiya [212257536] promoted @kunalshah
+ 
+[ Fri Jul  1 16:36:31 2016 ]=>  Haruhi_Suzumiya [212257536] requested group stats 
+ 
+[ Fri Jul  1 16:37:16 2016 ]=>  Haruhi_Suzumiya [212257536] requested group stats 
+ 
+[ Sat Jul  2 14:13:16 2016 ]=>  Haruhi Suzumiya [212257536] promoted @secure_comstatbot
+ 
+[ Sat Jul  2 14:13:16 2016 ]=>  Haruhi Suzumiya [212257536] promoted @secure_comstatbot
+ 
+[ Tue Jul  5 15:05:33 2016 ]=>  Prashant Mall [216017213] requested group rules
+ 
+[ Tue Jul  5 15:09:39 2016 ]=>  Siddharth [177297238] requested group rules
+ 
+[ Tue Jul  5 15:10:05 2016 ]=>  Shubankar Halder [217637990] requested group rules
+ 
+[ Tue Jul  5 15:30:01 2016 ]=>  Mehul Sonavdekar [163160025] requested group rules
+ 
+[ Tue Jul  5 16:33:28 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup ID
+ 
+[ Wed Jul  6 03:52:37 2016 ]=>  Haruhi Suzumiya [212257536] requested group link [https://telegram.me/joinchat/DKbLAD-DirafIniTJglxjA]
+ 
+[ Wed Jul  6 07:42:36 2016 ]=>  DroidThug [202461460] requested group rules
+ 
+[ Wed Jul  6 13:53:11 2016 ]=>  Haruhi Suzumiya [212257536] set SuperGroup to: mute All
+ 
+[ Wed Jul  6 13:53:27 2016 ]=>  Haruhi Suzumiya [212257536] set SuperGroup to: unmute All
+ 
+[ Thu Jul  7 00:30:04 2016 ]=>  🇬 3°3 🇰 [101952947] requested group rules
+ 
+[ Thu Jul  7 01:18:58 2016 ]=>  DroidThug [202461460] requested group rules
+ 
+[ Thu Jul  7 01:19:04 2016 ]=>  DroidThug [202461460] left via kickme
+ 
+[ Thu Jul  7 03:12:30 2016 ]=>  Annu [253605169] left via kickme
+ 
+[ Fri Jul  8 02:40:27 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup settings 
+ 
+[ Fri Jul  8 02:42:22 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup settings 
+ 
+[ Fri Jul  8 03:23:29 2016 ]=>  Haruhi Suzumiya [212257536] promoted @Bostrot
+ 
+[ Fri Jul  8 03:24:56 2016 ]=>  Haruhi Suzumiya Admin [152559768] added to the SuperGroup by [ 0 ]
+ 
+[ Fri Jul  8 03:27:51 2016 ]=>  Haruhi Suzumiya Admin [89522941] added to the SuperGroup by [ 0 ]
+ 
+[ Fri Jul  8 04:32:23 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup settings 
+ 
+[ Fri Jul  8 04:34:46 2016 ]=>  Haruhi Suzumiya [212257536] locked link posting 
+ 
+[ Fri Jul  8 04:35:06 2016 ]=>  Haruhi Suzumiya [212257536] requested group link [https://telegram.me/joinchat/DKbLAD-DirafIniTJglxjA]
+ 
+[ Fri Jul  8 04:37:07 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup settings 
+ 
+[ Fri Jul  8 05:21:21 2016 ]=>  Kamikaze Chaser Admin [135207785] added to the SuperGroup by [ 135207785 ]
+ 
+[ Sat Jul  9 07:32:32 2016 ]=>  Haruhi Suzumiya [212257536] attempted to create a new SuperGroup link
+ 
+[ Sat Jul  9 07:32:37 2016 ]=>  Haruhi Suzumiya [212257536] requested group link [https://telegram.me/joinchat/DKbLAD-DirYQ0zbFAFBb0g]
+ 
+[ Sat Jul  9 09:17:26 2016 ]=>  Haruhi Suzumiya [212257536] locked enabled strict settings
+ 
+[ Sat Jul  9 09:17:33 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup settings 
+ 
+[ Sat Jul  9 09:17:43 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup muteslist
+ 
+[ Sat Jul  9 09:18:37 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup settings 
+ 
+[ Sun Jul 10 05:24:53 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set SuperGroup to: unmute Gifs
+ 
+[ Sun Jul 10 05:26:15 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set SuperGroup to: mute Gifs
+ 
+[ Mon Jul 11 11:12:05 2016 ]=>  log file created by owner/support/admin
+ 
+[ Mon Jul 11 11:13:39 2016 ]=>  Haruhi_Suzumiya [212257536] used /get unbrick
+ 
+[ Mon Jul 11 11:15:04 2016 ]=>  Haruhi Suzumiya [212257536] requested ID for: @yehuditl19
+ 
+[ Fri Jul 15 15:02:53 2016 ]=>  Cedric Mallia [Malta] [27846832] requested group rules
+ 
+[ Sat Jul 16 02:41:53 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup settings 
+ 
+[ Sat Jul 16 02:42:05 2016 ]=>  Haruhi Suzumiya [212257536] locked disabled strict settings
+ 
+[ Sat Jul 16 15:04:37 2016 ]=>  Haruhi Suzumiya [212257536] requested group link [https://telegram.me/joinchat/DKbLAD-DirYQ0zbFAFBb0g]
+ 
+[ Sat Jul 16 15:04:38 2016 ]=>  Haruhi Suzumiya [212257536] requested group link [https://telegram.me/joinchat/DKbLAD-DirYQ0zbFAFBb0g]
+ 
+[ Mon Jul 18 00:47:57 2016 ]=>  Haruhi Suzumiya [212257536] requested group link [https://telegram.me/joinchat/DKbLAD-DirYQ0zbFAFBb0g]
+ 
+[ Mon Jul 18 23:16:13 2016 ]=>  Haruhi Suzumiya [212257536] attempted to create a new SuperGroup link
+ 
+[ Mon Jul 18 23:16:16 2016 ]=>  Haruhi Suzumiya [212257536] requested group link [https://telegram.me/joinchat/DKbLAD-DirYO78cjFH5EEg]
+ 
+[ Tue Jul 19 00:38:08 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup settings 
+ 
+[ Fri Jul 22 02:35:00 2016 ]=>  ParasThakur [158330642] banned user is talking !
+ 
+[ Fri Jul 22 04:20:24 2016 ]=>  Haruhi Suzumiya [212257536] set: [198770907] as admin by reply
+ 
+[ Sat Jul 23 03:03:31 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested group link [https://telegram.me/joinchat/DKbLAD-DirYO78cjFH5EEg]
+ 
+[ Sat Jul 23 03:11:03 2016 ]=>  Till Kottmann Admin [152559768] joined the SuperGroup via link
+ 
+[ Sat Jul 23 03:13:02 2016 ]=>  Till Kottmann [152559768] renamed SuperGroup to: Oneplus™ Official troll discussion
+ 
+[ Sat Jul 23 03:15:04 2016 ]=>  Till Kottmann Admin [152559768] joined the SuperGroup via link
+ 
+[ Sat Jul 23 03:16:56 2016 ]=>  Till Kottmann Admin [152559768] joined the SuperGroup via link
+ 
+[ Sat Jul 23 03:17:37 2016 ]=>  Till Kottmann Admin [152559768] joined the SuperGroup via link
+ 
+[ Sat Jul 23 03:18:07 2016 ]=>  Haruhi Suzumiya [0] renamed SuperGroup to: Oneplus™ Official cyanogenmod 13 discussion
+ 
+[ Sat Jul 30 00:53:37 2016 ]=>  Anonymous People [229473867] set: [212257536] as admin by reply
+ 
+[ Sat Jul 30 00:53:53 2016 ]=>  hunter bruhh [198770907] requested group modlist
+ 
+[ Sat Jul 30 00:54:35 2016 ]=>  Anonymous People [229473867] set: [198770907] as admin by reply
+ 
+[ Sat Jul 30 00:55:22 2016 ]=>  Anonymous People [229473867] renamed SuperGroup to: test
+ 
+[ Sat Jul 30 00:55:35 2016 ]=>  hunter bruhh [198770907] requested group modlist
+ 
+[ Sat Jul 30 00:55:35 2016 ]=>  Anonymous People [229473867] renamed SuperGroup to: Oneplus™ Official cyanogenmod 13 discussion
+ 
+[ Sat Jul 30 00:55:36 2016 ]=>  Leib moss® [152031724] set: [152031724] as admin by reply
+ 
+[ Sat Jul 30 00:56:45 2016 ]=>  Shizuru [238029142] promoted @hunter_bruhh
+ 
+[ Sat Jul 30 01:08:46 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] renamed SuperGroup to: a
+ 
+[ Sat Jul 30 01:09:47 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] renamed SuperGroup to: Oneplus™ Official cyanogenmod 13 discussion
+ 
+[ Mon Aug  1 16:42:11 2016 ]=>  Haruhi Suzumiya [212257536] attempted to create a new SuperGroup link
+ 
+[ Mon Aug  1 16:42:16 2016 ]=>  Haruhi Suzumiya [212257536] requested group link [https://telegram.me/joinchat/DKbLAD-DirZyaWOsXJG1wQ]
+ 
+[ Tue Aug  2 02:30:54 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Wed Aug  3 21:36:10 2016 ]=>  Haruhi Suzumiya [212257536] set: [107245081] as admin by reply
+ 
+[ Wed Aug  3 21:38:07 2016 ]=>  Haruhi Suzumiya [212257536] set: [222859241] as admin by reply
+ 
+[ Fri Aug  5 16:29:00 2016 ]=>  Kawaii Starfish ⭐️🐠 [206197460] left via kickme
+ 
+[ Fri Aug  5 16:30:50 2016 ]=>  涼宮ハルヒ ちゃん Admin [206197460] added to the SuperGroup by [ 0 ]
+ 
+[ Fri Aug  5 23:28:51 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup ID
+ 
+[ Mon Aug  8 22:37:24 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group link [https://telegram.me/joinchat/DKbLAD-DirZyaWOsXJG1wQ]
+ 
+[ Wed Aug 10 03:26:59 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group link [https://telegram.me/joinchat/DKbLAD-DirZyaWOsXJG1wQ]
+ 
+[ Sat Aug 13 14:17:07 2016 ]=>  涼宮ハルヒ ちゃん [0] renamed SuperGroup to: Oneplus™ Official cyanogenmod 13 (14 soon™) discussion
+ 
+[ Sat Aug 13 14:29:38 2016 ]=>  涼宮ハルヒ ちゃん [212257536] attempted to create a new SuperGroup link
+ 
+[ Sat Aug 13 14:29:42 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group link [https://telegram.me/joinchat/DKbLAD-DirbhNUtKkGLZZg]
+ 
+[ Tue Aug 16 20:44:10 2016 ]=>  涼宮ハルヒ ちゃん [212257536] demoted admin @G333K
+ 
+[ Wed Aug 17 03:53:06 2016 ]=>  Annu [253605169] is banned and kicked ! 
+ 
+[ Wed Aug 17 23:34:30 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group link [https://telegram.me/joinchat/DKbLAD-DirbhNUtKkGLZZg]
+ 
+[ Wed Aug 17 23:38:18 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Wed Aug 17 23:43:13 2016 ]=>  涼宮ハルヒ ちゃん [0] renamed SuperGroup to: Cm13 op2
+ 
+[ Wed Aug 17 23:43:33 2016 ]=>  涼宮ハルヒ ちゃん [0] renamed SuperGroup to: Oneplus™ Official cyanogenmod 13 (14 soon™) discussion
+ 
+[ Thu Aug 18 00:28:34 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup ID
+ 
+[ Thu Aug 18 00:36:48 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group link [https://telegram.me/joinchat/DKbLAD-DirbhNUtKkGLZZg]
+ 
+[ Thu Aug 18 00:38:19 2016 ]=>  NeilAgarwal [89522941] is banned and kicked ! 
+ 
+[ Thu Aug 18 12:41:51 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup settings 
+ 
+[ Thu Aug 18 12:42:03 2016 ]=>  涼宮ハルヒ ちゃん [212257536] unlocked sticker posting
+ 
+[ Thu Aug 18 12:42:15 2016 ]=>  涼宮ハルヒ ちゃん [212257536] set SuperGroup to: unmute Gifs
+ 
+[ Thu Aug 18 13:09:47 2016 ]=>  涼宮ハルヒ ちゃん [212257536] deleted a message by reply
+ 
+[ Thu Aug 18 17:57:16 2016 ]=>  涼宮ハルヒ ちゃん [212257536] attempted to create a new SuperGroup link
+ 
+[ Thu Aug 18 17:57:19 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group link [https://telegram.me/joinchat/DKbLAD-DiraHirH1YKOnmg]
+ 
+[ Mon Aug 22 17:25:20 2016 ]=>  Shubankar Halder [217637990] requested group rules
+ 
+[ Wed Aug 24 14:31:01 2016 ]=>  涼宮ハルヒ ちゃん [0] renamed SuperGroup to: Oneplus™ Official cyanogenmod 14 discussion
+ 
+[ Mon Aug 29 16:36:22 2016 ]=>  AshokS [184161085] banned user is talking !
+ 
+[ Fri Sep  2 02:57:13 2016 ]=>  Annu [229609127] kicked for #spam
+ 
+[ Sun Sep  4 01:32:01 2016 ]=>  涼宮ハルヒ ちゃん Admin [116004047] added to the SuperGroup by [ 0 ]
+ 
+[ Sun Sep  4 19:12:52 2016 ]=>  涼宮ハルヒ ちゃん Admin [225969591] added to the SuperGroup by [ 0 ]
+ 
+[ Tue Sep  6 04:18:18 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup settings 
+ 
+[ Tue Sep  6 04:18:33 2016 ]=>  hunter bruhh [198770907] requested SuperGroup settings 
+ 
+[ Tue Sep  6 04:18:50 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup settings 
+ 
+[ Tue Sep  6 04:20:02 2016 ]=>  涼宮ハルヒ_ちゃん [212257536] Used /superhelp
+ 
+[ Tue Sep  6 04:20:54 2016 ]=>  Brandon_Paterson [150606974] Used /superhelp
+ 
+[ Tue Sep  6 04:28:13 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup settings 
+ 
+[ Tue Sep  6 04:39:34 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] renamed SuperGroup to: Oneplus™ Official cyanogenmodb 14 discussion
+ 
+[ Tue Sep  6 04:39:47 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] renamed SuperGroup to: Oneplus™. Bhcc Official cyanogenmod 14 discussion
+ 
+[ Tue Sep  6 04:40:08 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] renamed SuperGroup to: Oneplus™ Official cyanogenmod 14 discussion
+ 
+[ Wed Sep  7 01:51:57 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup settings 
+ 
+[ Wed Sep  7 17:59:38 2016 ]=>  涼宮ハルヒ ちゃん [212257536] promoted @Friendyy
+ 
+[ Fri Sep  9 00:32:05 2016 ]=>  Tomoko Kuroki Admin [181221553] joined the SuperGroup via link
+ 
+[ Sat Sep 10 03:08:04 2016 ]=>  涼宮ハルヒ ちゃん Admin [49128969] added to the SuperGroup by [ 0 ]
+ 
+[ Sat Sep 10 03:10:17 2016 ]=>  TugaPowerBot [185512755] added a banned user >48007100
+ 
+[ Sat Sep 10 13:35:59 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA Admin [148940925] added to the SuperGroup by [ 190427743 ]
+ 
+[ Sat Sep 10 13:36:08 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set: [190427743] as admin by reply
+ 
+[ Sun Sep 11 15:11:20 2016 ]=>  涼宮ハルヒ ちゃん [212257536] promoted @The_DarkBeast
+ 
+[ Mon Sep 12 01:11:41 2016 ]=>  涼宮ハルヒ ちゃん [212257536] set: [130155641] as admin by reply
+ 
+[ Mon Sep 12 01:38:18 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup Admins list
+ 
+[ Mon Sep 12 22:59:08 2016 ]=>  KunalShah [148940925] banned user is talking !
+ 
+[ Sat Sep 17 22:11:31 2016 ]=>  Sameer Granvizir [107245081] requested SuperGroup ID
+ 
+[ Sat Sep 17 22:13:42 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup ID
+ 
+[ Sat Sep 17 22:16:52 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup ID
+ 
+[ Thu Sep 22 20:24:38 2016 ]=>  涼宮ハルヒ ちゃん [212257536] attempted to create a new SuperGroup link
+ 
+[ Thu Sep 22 20:24:45 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group link [https://telegram.me/joinchat/DKbLAD-Dirbpkc1o-0Q9Rg]
+ 
+[ Sun Sep 25 18:53:06 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup settings 
+ 
+[ Sun Sep 25 18:56:26 2016 ]=>  涼宮ハルヒ ちゃん [212257536] started setting new SuperGroup photo
+ 
+[ Sun Sep 25 18:56:54 2016 ]=>  涼宮ハルヒ ちゃん [212257536] started setting new SuperGroup photo
+ 
+[ Sun Sep 25 18:57:06 2016 ]=>  涼宮ハルヒ ちゃん [212257536] started setting new SuperGroup photo
+ 
+[ Sun Sep 25 18:57:14 2016 ]=>  涼宮ハルヒ ちゃん [212257536] set new SuperGroup photo
+ 
+[ Tue Oct 11 22:57:30 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup ID
+ 
+[ Wed Oct 12 11:03:53 2016 ]=>  Bora [106895668] used /owner
+ 
+[ Wed Oct 12 16:42:45 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup ID
+ 
+[ Tue Oct 18 17:04:57 2016 ]=>  涼宮ハルヒ ちゃん Admin [49128969] added to the SuperGroup by [ 0 ]
+ 
+[ Wed Oct 19 06:28:04 2016 ]=>  ShaktiShekhar @shaktishekhar [222859241] kicked for #spam
+ 
+[ Wed Oct 19 06:31:24 2016 ]=>  涼宮ハルヒ ちゃん [212257536] set: [222859241] as admin by reply
+ 
+[ Wed Oct 19 10:09:11 2016 ]=>  Vahid @Vd1719 [41310179] kicked for #spam
+ 
+[ Wed Oct 19 10:19:00 2016 ]=>  Rohan [162889325] deleted a message by reply
+ 
+[ Wed Oct 19 10:19:09 2016 ]=>  Rohan [162889325] deleted a message by reply
+ 
+[ Wed Oct 19 10:19:19 2016 ]=>  Rohan [162889325] deleted a message by reply
+ 
+[ Fri Oct 21 09:51:33 2016 ]=>  涼宮ハルヒ ちゃん [212257536] deleted a message by reply
+ 
+[ Sat Oct 22 06:15:53 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup ID
+ 
+[ Sat Oct 22 09:29:11 2016 ]=>  涼宮ハルヒ ちゃん [212257536] deleted a message by reply
+ 
+[ Mon Oct 24 09:58:17 2016 ]=>  Make [87846183] banned user is talking !
+ 
+[ Fri Oct 28 09:00:35 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set: [190427743] as admin by reply
+ 
+[ Fri Oct 28 09:02:45 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup settings 
+ 
+[ Fri Oct 28 09:04:29 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup settings 
+ 
+[ Fri Oct 28 18:37:35 2016 ]=>  涼宮ハルヒ ちゃん [212257536] promoted @insertusername
+ 
+[ Fri Oct 28 18:38:31 2016 ]=>  涼宮ハルヒ ちゃん [212257536] promoted @SPS5105
+ 
+[ Fri Nov  4 07:43:16 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) [212257536] promoted @Mak3e
+ 
+[ Fri Nov  4 07:43:34 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) [212257536] set: [212257536] as admin by reply
+ 
+[ Fri Nov  4 07:45:03 2016 ]=>  log file created by owner/support/admin
+ 
+[ Fri Nov  4 11:57:37 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) [212257536] resolved username: @atusername
+ 
+[ Fri Nov  4 16:34:00 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) [212257536] promoted @Joe0Bloggs
+ 
+[ Fri Nov  4 23:41:53 2016 ]=>  Make [87846183] banned user is talking !
+ 
+[ Sat Nov  5 07:20:17 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) Admin [87846183] added to the SuperGroup by [ 0 ]
+ 
+[ Sun Nov 13 12:24:23 2016 ]=>  GNU/Haruhi_Suzumiya-chan_(涼宮ハルヒちゃん)_XDA:__anupritaisno1 [212257536] used /get op2unbrick
+ 
+[ Thu Nov 17 01:42:32 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] attempted to create a new SuperGroup link
+ 
+[ Thu Nov 17 01:42:38 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested group link [https://telegram.me/joinchat/DKbLAD-DiraBot3dh_m_pQ]
+ 

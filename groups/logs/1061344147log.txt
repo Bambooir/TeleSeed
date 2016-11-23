@@ -1,0 +1,52 @@
+[ Fri May 27 11:50:33 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] added SuperGroup
+ 
+[ Fri May 27 11:50:38 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] locked member 
+ 
+[ Sat May 28 11:29:25 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup settings 
+ 
+[ Sat May 28 11:29:51 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] locked link posting 
+ 
+[ Sat May 28 11:29:59 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] locked arabic 
+ 
+[ Sat May 28 11:30:16 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] locked rtl chars. in names
+ 
+[ Sat May 28 11:30:22 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] locked sticker posting
+ 
+[ Sat May 28 11:30:26 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] locked enabled strict settings
+ 
+[ Sat May 28 11:30:32 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @Shay3979
+ 
+[ Sat May 28 11:30:36 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @VorTechAdmin
+ 
+[ Sat May 28 11:30:41 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @Haruhi_Suzumiya
+ 
+[ Sat May 28 11:30:55 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup settings 
+ 
+[ Sat May 28 11:31:05 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup muteslist
+ 
+[ Sat May 28 11:31:14 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set SuperGroup to: mute Video
+ 
+[ Sat May 28 11:31:21 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set SuperGroup to: mute Audio
+ 
+[ Sat May 28 11:31:24 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set SuperGroup to: mute All
+ 
+[ Sat May 28 11:31:30 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set SuperGroup to: mute Text
+ 
+[ Sat May 28 11:31:34 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set SuperGroup to: mute Documents
+ 
+[ Sat May 28 11:31:43 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set SuperGroup to: mute Photo
+ 
+[ Sat May 28 11:31:48 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set SuperGroup to: mute Gifs
+ 
+[ Sat May 28 11:31:52 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] locked contact posting
+ 
+[ Sat May 28 11:32:32 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @clannad
+ 
+[ Sat May 28 11:32:44 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA[190427743] set [79234896] as owner by username
+ 
+[ Sat May 28 14:58:56 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @Yehuda_simay
+ 
+[ Sun May 29 15:02:14 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Sun May 29 15:04:25 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @VorTech_bot
+ 

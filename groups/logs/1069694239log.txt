@@ -1,0 +1,72 @@
+[ Wed May 25 14:42:27 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] added SuperGroup
+ 
+[ Wed May 25 14:42:55 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA[190427743] set [190427743] as owner by username
+ 
+[ Wed May 25 14:43:03 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @anupritaisno1
+ 
+[ Wed May 25 14:43:09 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @Haruhi_Suzumiya
+ 
+[ Wed May 25 14:43:18 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA Admin [167781099] added to the SuperGroup by [ 190427743 ]
+ 
+[ Wed May 25 14:43:28 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @IchLoggeBot
+ 
+[ Wed May 25 14:43:32 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup settings 
+ 
+[ Wed May 25 14:43:36 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] locked link posting 
+ 
+[ Wed May 25 14:43:43 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] locked arabic 
+ 
+[ Wed May 25 14:43:47 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] locked rtl chars. in names
+ 
+[ Wed May 25 14:43:55 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] locked sticker posting
+ 
+[ Wed May 25 14:44:00 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] locked enabled strict settings
+ 
+[ Wed May 25 14:44:02 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup settings 
+ 
+[ Wed May 25 14:44:09 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] locked member 
+ 
+[ Wed May 25 14:44:17 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup settings 
+ 
+[ Wed May 25 14:44:25 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup muteslist
+ 
+[ Wed May 25 14:44:30 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set SuperGroup to: mute Video
+ 
+[ Wed May 25 14:44:35 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set SuperGroup to: mute Audio
+ 
+[ Wed May 25 14:44:40 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set SuperGroup to: mute All
+ 
+[ Wed May 25 14:44:45 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set SuperGroup to: mute Text
+ 
+[ Wed May 25 14:44:52 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set SuperGroup to: mute Documents
+ 
+[ Wed May 25 14:44:58 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set SuperGroup to: mute Photo
+ 
+[ Wed May 25 14:45:03 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set SuperGroup to: mute Gifs
+ 
+[ Wed May 25 14:45:27 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Wed May 25 14:46:54 2016 ]=>  Haruhi Suzumiya? [212257536] deleted a message by reply
+ 
+[ Wed May 25 15:03:24 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup settings 
+ 
+[ Thu May 26 01:56:31 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] attempted to create a new SuperGroup link
+ 
+[ Thu May 26 01:56:37 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested group link [https://telegram.me/joinchat/DKbLAD_CPR_KLW5vy4mEBA]
+ 
+[ Thu May 26 01:58:17 2016 ]=>  Bot admin 2 Admin [161472020] joined the SuperGroup via link
+ 
+[ Thu May 26 13:06:54 2016 ]=>  ↔️ Logging Bot [167781099] requested group modlist
+ 
+[ Thu May 26 13:07:49 2016 ]=>  ↔️ Logging Bot [167781099] demoted @akkey
+ 
+[ Sat May 28 14:29:57 2016 ]=>  ↔️ Logging Bot [167781099] requested group rules
+ 
+[ Sat May 28 14:30:42 2016 ]=>  ↔️ Logging Bot [167781099] requested group link [https://telegram.me/joinchat/DKbLAD_CPR_KLW5vy4mEBA]
+ 
+[ Sat May 28 15:03:44 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested group link [https://telegram.me/joinchat/DKbLAD_CPR_KLW5vy4mEBA]
+ 
+[ Sat May 28 15:05:08 2016 ]=>  Nord User [133710046] joined and kicked (#lockmember)
+ 
+[ Sat May 28 15:19:24 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] demoted @IchLoggeBot
+ 

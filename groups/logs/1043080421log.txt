@@ -1,0 +1,84 @@
+[ Sun May  1 14:40:22 2016 ]=>  Primary bot admin [190427743] added SuperGroup
+ 
+[ Sun May  1 14:40:27 2016 ]=>  Primary bot admin [190427743] set SuperGroup to: mute All
+ 
+[ Sun May  1 14:40:33 2016 ]=>  Primary bot admin [190427743] deleted a message by reply
+ 
+[ Sun May  1 14:40:40 2016 ]=>  Primary bot admin [190427743] deleted a message by reply
+ 
+[ Sun May  1 14:41:48 2016 ]=>  Haruhi Suzumiya? Admin [212257536] added to the SuperGroup by [ 0 ]
+ 
+[ Sun May  1 14:42:38 2016 ]=>  Primary bot admin Admin [190427743] added to the SuperGroup by [ 190427743 ]
+ 
+[ Tue May 24 04:50:40 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA Admin [212257536] added to the SuperGroup by [ 190427743 ]
+ 
+[ Tue May 24 04:53:44 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA[190427743] set [116014251] as owner by username
+ 
+[ Tue May 24 04:53:51 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @Haruhi_Suzumiya
+ 
+[ Tue May 24 04:53:55 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @Akkey
+ 
+[ Tue May 24 04:54:02 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @anupritaisno1
+ 
+[ Tue May 24 04:54:39 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup settings 
+ 
+[ Tue May 24 04:54:51 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] locked link posting 
+ 
+[ Tue May 24 04:54:56 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] locked arabic 
+ 
+[ Tue May 24 04:54:59 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] locked rtl chars. in names
+ 
+[ Tue May 24 04:55:10 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] locked member 
+ 
+[ Tue May 24 04:55:19 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] locked rtl chars. in names
+ 
+[ Tue May 24 04:55:33 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] locked sticker posting
+ 
+[ Tue May 24 04:55:38 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] locked enabled strict settings
+ 
+[ Tue May 24 04:55:45 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup settings 
+ 
+[ Tue May 24 04:55:54 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup muteslist
+ 
+[ Tue May 24 04:56:01 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set SuperGroup to: mute Text
+ 
+[ Tue May 24 04:56:06 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set SuperGroup to: mute Gifs
+ 
+[ Tue May 24 04:56:10 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set SuperGroup to: mute Video
+ 
+[ Tue May 24 04:56:16 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set SuperGroup to: mute Audio
+ 
+[ Tue May 24 04:56:26 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set SuperGroup to: mute Documents
+ 
+[ Tue May 24 04:56:38 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set SuperGroup to: mute Photo
+ 
+[ Tue May 24 04:56:44 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] locked contact posting
+ 
+[ Tue May 24 04:57:24 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested group modlist
+ 
+[ Tue May 24 04:57:43 2016 ]=>  Haruhi Suzumiya? [212257536] used /owner
+ 
+[ Tue May 24 05:01:10 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA Admin [190427743] added to the SuperGroup by [ 190427743 ]
+ 
+[ Tue May 24 08:12:32 2016 ]=>  Bot admin 2 Admin [161472020] added to the SuperGroup by [ 161472020 ]
+ 
+[ Tue May 24 10:06:43 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Tue May 24 10:07:11 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] left via kickme
+ 
+[ Sat May 28 16:43:08 2016 ]=>  Joaquín Varela User [109899604] added [109899604]: added user kicked  (#lockmember)
+ 
+[ Thu Jun 16 02:08:32 2016 ]=>  Ace Eca User [188059904] added [188059904]: added user kicked  (#lockmember)
+ 
+[ Fri Jun 17 10:36:00 2016 ]=>  Shinigami User [57164088] added [57164088]: added user kicked  (#lockmember)
+ 
+[ Fri Jun 24 18:20:00 2016 ]=>  Haruhi Suzumiya Admin [59802458] added to the SuperGroup by [ 0 ]
+ 
+[ Sun Jun 26 18:17:06 2016 ]=>  `Timur!` +-+-+ User [120733229] added [120733229]: added user kicked  (#lockmember)
+ 
+[ Tue Jun 28 23:19:49 2016 ]=>  Viplove Chauhan User [129616296] added [129616296]: added user kicked  (#lockmember)
+ 
+[ Thu Jul  7 08:12:43 2016 ]=>  🔱👁‍🗨 Pella Jiraiya [tATG] 👁‍🗨🔱 User [183961724] added [183961724]: added user kicked  (#lockmember)
+ 
+[ Thu Jul  7 16:36:02 2016 ]=>  ANIMUS User [22036601] added [22036601]: added user kicked  (#lockmember)
+ 

@@ -1,0 +1,552 @@
+[ Thu Jul  7 19:41:18 2016 ]=>  andrew [147457180] is banned and kicked ! 
+ 
+[ Fri Jul  8 01:56:56 2016 ]=>  Vineeth [138806585] is banned and kicked ! 
+ 
+[ Sun Jul 10 13:25:01 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Sun Jul 10 17:37:26 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Sun Jul 10 17:40:58 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:45:59 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:45:59 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:45:59 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:00 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:00 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:00 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:01 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:01 2016 ]=>  andrew @ydnandy [147457180] kicked for #spam
+ 
+[ Mon Jul 11 17:46:01 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:01 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:01 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:01 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:02 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:02 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:02 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:02 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:03 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:03 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:03 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:03 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:04 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:04 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:04 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:04 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:05 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:05 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:05 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:05 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:06 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:06 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:06 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:06 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:07 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:07 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:07 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:07 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:08 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:08 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:08 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:09 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:46:09 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:15 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:16 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:16 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:16 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:16 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:17 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:17 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:17 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:17 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:18 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:18 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:18 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:19 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:19 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:19 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:19 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:20 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:20 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:20 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:20 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:20 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:21 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:21 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:21 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:22 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:22 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:22 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:22 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:23 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:36 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:37 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:37 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:37 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:38 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:38 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:38 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:39 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:39 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:39 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:40 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:40 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:40 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:41 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:41 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:42 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:42 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:42 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:43 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:43 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:43 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:43 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:44 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:44 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:44 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:45 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:45 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:45 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:47 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:47:47 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:48:19 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:48:19 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:48:20 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:48:20 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:48:20 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:48:21 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:48:21 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:48:21 2016 ]=>  andrew @ydnandy [147457180] kicked for #spam
+ 
+[ Mon Jul 11 17:48:21 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:48:21 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:48:22 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:48:22 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:48:22 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:48:23 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:48:23 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:48:23 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:48:24 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:48:24 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:48:24 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:48:25 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:48:25 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:48:25 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:48:26 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:50:41 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:51:12 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:51:54 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:52:00 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:52:07 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:52:39 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:52:50 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:52:50 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:52:50 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:52:51 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:52:51 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:52:51 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:52:52 2016 ]=>  andrew @ydnandy [147457180] kicked for #spam
+ 
+[ Mon Jul 11 17:52:54 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:52:54 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:52:54 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:52:55 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:52:55 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:54:40 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Mon Jul 11 17:54:54 2016 ]=>  andrew [147457180] banned user is talking !
+ 
+[ Sun Jul 17 21:31:21 2016 ]=>  Sai⌂ @SaiNoBaka [64789625] kicked for #spam
+ 
+[ Sat Jul 30 16:39:45 2016 ]=>  AL [120733229] banned user is talking !
+ 
+[ Sun Jul 31 02:20:24 2016 ]=>  Ineverprovideproofs [120733229] banned user is talking !
+ 
+[ Sun Jul 31 02:20:33 2016 ]=>  Ineverprovideproofs [120733229] banned user is talking !
+ 
+[ Sun Jul 31 02:20:56 2016 ]=>  Ineverprovideproofs [120733229] banned user is talking !
+ 
+[ Sun Jul 31 02:21:07 2016 ]=>  Ineverprovideproofs [120733229] banned user is talking !
+ 
+[ Sun Jul 31 02:23:11 2016 ]=>  Ineverprovideproofs [120733229] banned user is talking !
+ 
+[ Mon Aug  1 18:34:46 2016 ]=>  SpeedFreek @speedfreek16 [160837387] kicked for #spam
+ 
+[ Mon Aug  8 17:06:43 2016 ]=>  SpeedFreek @speedfreek16 [160837387] kicked for #spam
+ 
+[ Tue Aug  9 10:38:42 2016 ]=>  SpeedFreek @speedfreek16 [160837387] kicked for #spam
+ 
+[ Wed Sep  7 18:22:44 2016 ]=>  SpeedFreek @speedfreek16 [160837387] kicked for #spam
+ 
+[ Wed Sep  7 18:22:46 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Wed Sep  7 18:23:00 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Wed Sep  7 20:52:59 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Wed Sep  7 21:51:46 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Wed Sep  7 21:51:49 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Wed Sep  7 21:51:53 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Wed Sep  7 21:51:59 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Wed Sep  7 21:52:06 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Wed Sep  7 21:52:10 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Wed Sep  7 21:52:13 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Wed Sep  7 21:52:16 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Wed Sep  7 21:52:17 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Wed Sep  7 21:52:19 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Wed Sep  7 21:52:21 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Wed Sep  7 21:52:22 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Wed Sep  7 21:52:23 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Wed Sep  7 21:52:25 2016 ]=>  SpeedFreek @speedfreek16 [160837387] kicked for #spam
+ 
+[ Wed Sep  7 21:52:27 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Thu Sep  8 03:22:57 2016 ]=>  Elphelt @selfdiagnoseddepression [90452057] kicked for #spam
+ 
+[ Thu Sep  8 11:51:09 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Thu Sep  8 11:51:15 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Thu Sep  8 11:51:26 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Thu Sep  8 11:51:40 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Thu Sep  8 20:16:54 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Thu Sep  8 20:16:55 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Thu Sep  8 20:16:56 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Thu Sep  8 20:16:56 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Thu Sep  8 20:17:02 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Thu Sep  8 20:17:04 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Thu Sep  8 20:17:06 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Thu Sep  8 20:17:10 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Thu Sep  8 20:17:12 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Thu Sep  8 20:17:15 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Thu Sep  8 20:17:16 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Thu Sep  8 20:17:19 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Thu Sep  8 20:56:33 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Thu Sep  8 20:56:34 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Thu Sep  8 20:56:36 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Thu Sep  8 20:56:37 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Thu Sep  8 20:56:39 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Thu Sep  8 20:56:40 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Thu Sep  8 23:28:29 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Thu Sep  8 23:28:29 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Fri Sep  9 22:46:32 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Fri Sep  9 22:46:40 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Fri Sep  9 22:46:40 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Fri Sep  9 22:46:41 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Sat Sep 10 10:28:52 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Sat Sep 10 10:49:27 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Sat Sep 10 11:39:15 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Sat Sep 10 11:39:33 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Sun Sep 11 13:33:32 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Sun Sep 11 13:33:36 2016 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Sun Sep 25 04:08:10 2016 ]=>  CATLOAF @CATLOAF [177457723] kicked for #spam
+ 
+[ Thu Oct  6 08:40:21 2016 ]=>  A.MahdiTashakori @MahdiTohi [142290101] kicked for #spam
+ 
+[ Sun Nov 13 09:34:02 2016 ]=>  Hitagi @hitagibot [213562854] kicked for #spam
+ 
+[ Wed Nov 16 22:25:29 2016 ]=>  RieIkumari @Jakk246 [152869627] kicked for #spam
+ 
+[ Thu Nov 17 17:08:13 2016 ]=>  Hitagi @hitagibot [213562854] kicked for #spam
+ 
+[ Tue Nov 22 03:52:19 2016 ]=>  Hitagi @hitagibot [213562854] kicked for #spam
+ 
+[ Tue Nov 22 03:52:24 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 03:59:23 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 03:59:26 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 03:59:28 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 03:59:34 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 03:59:36 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 03:59:37 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 03:59:38 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 03:59:40 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 03:59:45 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 03:59:54 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:00:03 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:00:04 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:00:05 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:00:12 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:00:19 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:00:24 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:00:25 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:00:30 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:00:34 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:00:35 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:00:39 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:00:40 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:00:42 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:00:43 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:00:51 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:00:53 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:00:55 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:00:56 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:01:04 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:01:05 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:01:14 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:01:33 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:01:40 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:01:41 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:01:43 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:01:44 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:02:11 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:02:16 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:02:21 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:02:33 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:02:35 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:02:39 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:02:46 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:02:54 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:02:55 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:02:57 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:03:06 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:03:09 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:03:38 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:03:39 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:03:40 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:03:40 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:03:41 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:03:44 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:03:49 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:03:50 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Tue Nov 22 04:04:00 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 

@@ -1,0 +1,108 @@
+rock_manifest = {
+   lib = {
+      ['ssl.so'] = "9f7417e200152c4765d88b47b2bd7a95"
+   },
+   lua = {
+      ssl = {
+         ['https.lua'] = "5bb2fa943fcdd7f052c3728bbdfe7c9c"
+      },
+      ['ssl.lua'] = "0aca7fb269caa26a61c96264d6f98382"
+   },
+   ['luasec-0.6-1.rockspec'] = "b714728a1a338fd9b2ade5c35037f4e5",
+   samples = {
+      README = "8eef5044427f7331d0111c30dd695d3b",
+      certs = {
+         ['all.bat'] = "dcb13479155d419e9a841f310f621b60",
+         ['clientA.bat'] = "4e45c69d92f3f1b121f58443e4a920e9",
+         ['clientA.cnf'] = "b79337d38e5a2915a57cfb5a32d46f97",
+         ['clientA.sh'] = "5a17d4ac7859ff020a8300df5f27677f",
+         ['clientB.bat'] = "b7c757de24632e275c1d7964154e1a69",
+         ['clientB.cnf'] = "c737dbc4706e4252f36f108cab7bb1de",
+         ['clientB.sh'] = "4569a0aeec5e6ef365183f3267b88379",
+         ['rootA.bat'] = "ad657e5b817604720d86e31a2bed4e3d",
+         ['rootA.cnf'] = "f28683b04c484510c7effeb1bd41fa9d",
+         ['rootA.sh'] = "497fb4e5a961eedb0f0e57e9441f47d8",
+         ['rootB.bat'] = "5bd12934e7d05d5d9a2387d9282a8271",
+         ['rootB.cnf'] = "68e86ea289982640e0b9e065a166c9e3",
+         ['rootB.sh'] = "d0274e8c16f77828c9c75f8b2b82a90c",
+         ['serverA.bat'] = "99dda4a625d40b0651779e02011dc5b5",
+         ['serverA.cnf'] = "1d0bbb0d613bf434414b24f763f45443",
+         ['serverA.sh'] = "64de1492bc47c940c7c401aea055ea6e",
+         ['serverB.bat'] = "3efc61e3aad8b0183483eafb0980747a",
+         ['serverB.cnf'] = "d3dedca53ad2021ab6dbe8494649a323",
+         ['serverB.sh'] = "e5444750fb16d0080ee67cc94211361b"
+      },
+      chain = {
+         ['client.lua'] = "8535dd244fd1857925cef4223d0a4800",
+         ['server.lua'] = "acd2be9f7296822b21730e38fc461860",
+         ['util.lua'] = "5daf131ccbca7a64a4824eafbf32a02a"
+      },
+      dhparam = {
+         ['client.lua'] = "2e68f10b49d59214ef763506d8cc7070",
+         ['params.sh'] = "f6ba5a490be850fccc65a5088ce648ce",
+         ['server.lua'] = "8ff39e343d916d1f8cb5391cb86e4946"
+      },
+      digest = {
+         ['client.lua'] = "2e68f10b49d59214ef763506d8cc7070",
+         ['server.lua'] = "2ad9941bd1be198e8bd303004ed3807f"
+      },
+      ecdh = {
+         ['client.lua'] = "db50bd4f50577c6966a5ce119e208dce",
+         ['server.lua'] = "72083abd6c113a940035f662500a21d1"
+      },
+      info = {
+         ['client.lua'] = "2e68f10b49d59214ef763506d8cc7070",
+         ['server.lua'] = "680e529a3bca669e14a6b2cded18cd9a"
+      },
+      key = {
+         ['genkey.sh'] = "19bc367edca379986a6416db21f31eaa",
+         ['loadkey.lua'] = "2d4065e2dbef8a31d7fa847aa7c1d787"
+      },
+      loop = {
+         ['client.lua'] = "9dc26ea8737f927732a1c39283a8894d",
+         ['server.lua'] = "2cd666608d31fc20f527b15be326bb35"
+      },
+      ['loop-gc'] = {
+         ['client.lua'] = "af98e30c36cb75131efaa7c637a6aa37",
+         ['server.lua'] = "0a3b13ef48f2074127e16374f3a2eb29"
+      },
+      oneshot = {
+         ['client.lua'] = "2e68f10b49d59214ef763506d8cc7070",
+         ['server.lua'] = "6c90057f32a439e47d02101b9e295cdc"
+      },
+      sni = {
+         ['client.lua'] = "a8cdda001c8355d6458c5bbb48a0de9c",
+         ['server.lua'] = "b32372a653550b5d253f852a70a29c56"
+      },
+      verification = {
+         ['fail-string'] = {
+            ['client.lua'] = "d6660356e82e3bc05b5846f2a47f6678",
+            ['server.lua'] = "bacca3eecaec68b95c55cd0dc06c66da"
+         },
+         ['fail-table'] = {
+            ['client.lua'] = "22d34756c9205f221c16482c0ae06f17",
+            ['server.lua'] = "242cbae1b93d832fd325e413d6fe3fe9"
+         },
+         success = {
+            ['client.lua'] = "75c6054a9beb854f86b63764485d4c31",
+            ['server.lua'] = "096488041aeb1d6d8db6f761bb319caa"
+         }
+      },
+      verify = {
+         ['client.lua'] = "15a5526350234917ec72f418879faa6f",
+         ['server.lua'] = "ba209b3328e40216de75ee243bc4ad83"
+      },
+      want = {
+         ['client.lua'] = "258c21afb2243d513e4d8fe383406b3e",
+         ['server.lua'] = "a8d88f53ec48ded87335e27605a4e547"
+      },
+      wantread = {
+         ['client.lua'] = "069e202c05f2d9a9948aad8eb634604d",
+         ['server.lua'] = "1cd3726573bcd51a825da79b6a746db5"
+      },
+      wantwrite = {
+         ['client.lua'] = "a6b5e3923541b7bc4349f70b2a37bf69",
+         ['server.lua'] = "825c440fc65c5177b98a8f9f5e7ae2ad"
+      }
+   }
+}

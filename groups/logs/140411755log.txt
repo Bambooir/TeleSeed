@@ -1,0 +1,8 @@
+[ Thu Jul  7 06:17:39 2016 ]=>  Haruhi_Suzumiya [212257536] added group [ 140411755 ]
+ 
+[ Thu Jul  7 09:14:01 2016 ]=>  Mr.Gigabyte [139973623] deleted user  user#id139973623
+ 
+[ Thu Jul  7 09:14:08 2016 ]=>  flo [117506665] deleted user  user#id117506665
+ 
+[ Thu Jul  7 09:15:20 2016 ]=>  Haruhi_Suzumiya [212257536] removed group [ 140411755 ]
+ 

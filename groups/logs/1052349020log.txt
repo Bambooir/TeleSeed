@@ -1,0 +1,1408 @@
+[ Wed Jun  1 19:01:36 2016 ]=>  Haruhi Suzumiya? [212257536] added SuperGroup
+ 
+[ Wed Jun  1 19:01:55 2016 ]=>  Haruhi Suzumiya?[212257536] set [34804026] as owner by username
+ 
+[ Wed Jun  1 19:02:15 2016 ]=>  Haruhi Suzumiya? [212257536] promoted @yudati
+ 
+[ Wed Jun  1 19:02:35 2016 ]=>  Haruhi Suzumiya? [212257536] requested SuperGroup Admins list
+ 
+[ Wed Jun  1 19:03:03 2016 ]=>  Haruhi Suzumiya? [212257536] promoted user#id119035055
+ 
+[ Wed Jun  1 19:03:28 2016 ]=>  Haruhi Suzumiya? [212257536] promoted @Mr_Rezzo
+ 
+[ Wed Jun  1 19:03:38 2016 ]=>  Haruhi Suzumiya? [212257536] promoted @Ranoooog
+ 
+[ Wed Jun  1 19:04:03 2016 ]=>  Haruhi Suzumiya? [212257536] promoted user#id137131250
+ 
+[ Wed Jun  1 19:04:14 2016 ]=>  Haruhi Suzumiya? [212257536] promoted @SmarTech
+ 
+[ Wed Jun  1 19:04:25 2016 ]=>  Haruhi Suzumiya? [212257536] promoted @davidtii
+ 
+[ Wed Jun  1 19:04:41 2016 ]=>  Haruhi Suzumiya? [212257536] promoted @Haruhi_Suzumiya
+ 
+[ Wed Jun  1 19:07:02 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA Admin [190427743] added to the SuperGroup by [ 190427743 ]
+ 
+[ Wed Jun  1 19:31:54 2016 ]=>  yuda [34804026] Used /superhelp
+ 
+[ Wed Jun  1 19:36:24 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Wed Jun  1 19:45:13 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Wed Jun  1 19:45:41 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Wed Jun  1 19:46:11 2016 ]=>  yuda [34804026] requested SuperGroup ID
+ 
+[ Wed Jun  1 19:46:14 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Wed Jun  1 19:47:31 2016 ]=>  Haruhi Suzumiya? [212257536] has changed group rules to [test]
+ 
+[ Wed Jun  1 19:47:36 2016 ]=>  Haruhi Suzumiya? [212257536] requested group rules
+ 
+[ Wed Jun  1 19:48:48 2016 ]=>  yuda [34804026] has changed group rules to [simple rules‼️
+in this group you can request hacking games and pro apk...only !!!
+1. English only 
+2. stay on topic
+3. don't spam the group
+4. no ads🚫
+5. no stickers 🚫]
+ 
+[ Wed Jun  1 19:48:56 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Wed Jun  1 19:54:33 2016 ]=>  yuda [34804026] locked sticker posting
+ 
+[ Wed Jun  1 19:54:48 2016 ]=>  yuda [34804026] locked spam 
+ 
+[ Thu Jun  2 05:00:22 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Thu Jun  2 05:00:27 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Thu Jun  2 05:12:42 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Thu Jun  2 05:12:46 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Thu Jun  2 06:12:42 2016 ]=>  Boris M Admin [56481093] added to the SuperGroup by [ 56481093 ]
+ 
+[ Thu Jun  2 07:08:58 2016 ]=>  yuda [34804026] deleted a message by reply
+ 
+[ Thu Jun  2 09:25:51 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Thu Jun  2 09:33:57 2016 ]=>  yuda [34804026] deleted a message by reply
+ 
+[ Thu Jun  2 10:42:21 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Thu Jun  2 14:05:22 2016 ]=>  yuda [34804026] deleted a message by reply
+ 
+[ Thu Jun  2 16:58:40 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Thu Jun  2 16:58:46 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Fri Jun  3 05:40:50 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Fri Jun  3 05:42:16 2016 ]=>  Haruhi Suzumiya? [212257536] requested group rules
+ 
+[ Fri Jun  3 05:54:58 2016 ]=>  yuda [34804026] deleted a message by reply
+ 
+[ Fri Jun  3 07:35:57 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Fri Jun  3 07:36:37 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Fri Jun  3 07:36:48 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Fri Jun  3 07:36:52 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Fri Jun  3 07:37:01 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Sat Jun  4 06:11:30 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Sun Jun  5 02:51:56 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] added SuperGroup
+ 
+[ Sun Jun  5 02:52:12 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Sun Jun  5 04:36:57 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Sun Jun  5 09:32:10 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Mon Jun  6 09:09:09 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Tue Jun  7 17:13:22 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] added SuperGroup
+ 
+[ Tue Jun  7 17:13:27 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Tue Jun  7 17:13:32 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Tue Jun  7 17:13:38 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Tue Jun  7 17:14:14 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA[190427743] set [34804026] as owner by username
+ 
+[ Tue Jun  7 17:14:22 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @yudati
+ 
+[ Tue Jun  7 17:14:27 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Tue Jun  7 20:11:25 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Tue Jun  7 20:11:53 2016 ]=>  yuda [34804026] has changed group rules to [💯hacking games💯 rules:
+
+simple rules‼️
+in this group you can request hacking games and pro apk...only !!!
+1. English only 
+2. stay on topic
+3. don't spam the group
+4. no ads🚫]
+ 
+[ Tue Jun  7 20:12:06 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested group modlist
+ 
+[ Wed Jun  8 08:16:02 2016 ]=>  ShaGans77 @sha_377 [196373733] kicked for #spam
+ 
+[ Wed Jun  8 17:24:05 2016 ]=>  ㄚ∈ჩມďα   ຮໃℳαყ [62484015] requested group rules
+ 
+[ Thu Jun  9 03:30:45 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested group rules
+ 
+[ Thu Jun  9 03:30:58 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Thu Jun  9 03:35:34 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Fri Jun 10 00:02:43 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested group rules
+ 
+[ Fri Jun 10 00:03:05 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Fri Jun 10 14:32:04 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Fri Jun 10 23:21:03 2016 ]=>  عمرالنقيب [173060860] banned user is talking !
+ 
+[ Sat Jun 11 09:31:16 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Sat Jun 11 09:31:22 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Sat Jun 11 09:37:46 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Sun Jun 12 05:43:54 2016 ]=>  長門有希?ゆきながと?ユキナガト?YukiNagato?O-ooooooooooAAAAE-A-A-I-A-U-JO-ooooooooooooAAE-O-A-A-U-U-A-E-eee-ee-eeeAAAAE-A-E-I-E-A-JO-ooo-oo-oo-ooEEEEO-A-AAA-AAAA [190427743] added a banned user >190427743
+ 
+[ Tue Jun 14 06:49:25 2016 ]=>  yuda [34804026] promoted @leibmoss
+ 
+[ Tue Jun 14 11:09:49 2016 ]=>  yuda [34804026] has changed group rules to [rules:
+
+simple rules‼️
+in this group you can request hacking games and pro apk...only !!!
+1. English only 
+2. stay on topic
+3. don't spam the group
+4. No ads🚫
+5. No stickers⚠️
+6. No adult content🔞]
+ 
+[ Tue Jun 14 11:09:55 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Tue Jun 14 13:34:49 2016 ]=>  yuda [34804026] deleted a message by reply
+ 
+[ Wed Jun 15 05:40:03 2016 ]=>  yuda [34804026] requested SuperGroup Admins list
+ 
+[ Wed Jun 15 05:40:20 2016 ]=>  yuda [34804026] promoted @yudati
+ 
+[ Wed Jun 15 10:11:08 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Wed Jun 15 14:31:36 2016 ]=>  yuda [34804026] renamed SuperGroup to: 💯hacking games (English only) 💯
+ 
+[ Wed Jun 15 14:33:14 2016 ]=>  yuda [34804026] renamed SuperGroup to: 💯hacking games💯
+ 
+[ Wed Jun 15 14:34:09 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup Admins list
+ 
+[ Thu Jun 16 03:49:11 2016 ]=>  yuda [34804026] has changed group rules to [simple rules‼️
+in this group you can request hacking games and pro apk...only !!!
+1. English only 
+2. stay on topic
+3. don't spam the group
+4. No ads🚫
+5. No stickers⚠️
+6. No adult content🔞
+‼️this is not a chatting group🗣‼️]
+ 
+[ Thu Jun 16 03:49:17 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Thu Jun 16 04:26:27 2016 ]=>  yuda [34804026] locked sticker posting
+ 
+[ Sun Jun 19 17:54:57 2016 ]=>  ROMAN🎮 @RomLEN [121038463] kicked for #spam
+ 
+[ Mon Jun 20 04:20:08 2016 ]=>  yuda [34804026] promoted @Mp3songsadmin
+ 
+[ Mon Jun 20 12:33:50 2016 ]=>  yuda [34804026] deleted a message by reply
+ 
+[ Wed Jun 22 03:58:58 2016 ]=>  Coffee King [219050457] requested SuperGroup users list
+ 
+[ Wed Jun 22 03:59:42 2016 ]=>  CoffeeKing [219050457] baned user 155853289
+ 
+[ Wed Jun 22 09:41:47 2016 ]=>  CoffeeKing [219050457] baned user 150667972
+ 
+[ Wed Jun 22 18:24:15 2016 ]=>  ? [150667972] banned user is talking !
+ 
+[ Fri Jun 24 12:12:03 2016 ]=>  Haruhi Suzumiya [212257536] requested group rules
+ 
+[ Sat Jun 25 08:12:13 2016 ]=>  ıllıllıSumitıllıllı [211910282] banned user is talking !
+ 
+[ Mon Jun 27 04:51:06 2016 ]=>  LakshyaCoolz @Lakshya007 [164880055] kicked for #spam
+ 
+[ Tue Jun 28 04:26:06 2016 ]=>  ♡¤Rude¤♡ @UGottaBeKittenMe [215787119] kicked for #spam
+ 
+[ Wed Jun 29 02:15:22 2016 ]=>  Aryan Admin [229473867] added to the SuperGroup by [ 229473867 ]
+ 
+[ Wed Jun 29 02:23:52 2016 ]=>  Aryan Admin [229473867] added to the SuperGroup by [ 229473867 ]
+ 
+[ Wed Jun 29 17:14:40 2016 ]=>  NickDeen [207878966] kicked for #spam
+ 
+[ Thu Jun 30 12:29:45 2016 ]=>  AshKosuke @ashkosuke [2940638] kicked for #spam
+ 
+[ Fri Jul  1 15:08:47 2016 ]=>  Aryan [229473867] requested SuperGroup ID
+ 
+[ Fri Jul  1 16:25:50 2016 ]=>  ●|       ─═हई╬ԵհíŚ.íŚ.ஹiя╬ईह═─ ‌‌      |● [161417380] joined and Service Msg deleted (#spam name)
+ 
+[ Sat Jul  2 12:07:13 2016 ]=>  Aryan [229473867] requested SuperGroup ID
+ 
+[ Sat Jul  2 12:07:28 2016 ]=>  Aryan [229473867] deleted a message by reply
+ 
+[ Sat Jul  2 12:11:55 2016 ]=>  Aryan [229473867] requested SuperGroup ID
+ 
+[ Sat Jul  2 12:31:57 2016 ]=>  Aryan [229473867] requested SuperGroup ID
+ 
+[ Sat Jul  2 12:32:11 2016 ]=>  Aryan [229473867] deleted a message by reply
+ 
+[ Sat Jul  2 12:32:15 2016 ]=>  Aryan [229473867] deleted a message by reply
+ 
+[ Sat Jul  2 12:33:04 2016 ]=>  Haruhi Suzumiya Admin [59802458] added to the SuperGroup by [ 0 ]
+ 
+[ Sat Jul  2 14:53:51 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Sat Jul  2 14:57:21 2016 ]=>  Aryan [229473867] requested SuperGroup ID
+ 
+[ Sat Jul  2 14:57:34 2016 ]=>  Aryan [229473867] deleted a message by reply
+ 
+[ Sat Jul  2 16:15:47 2016 ]=>  ●|       ─═हई╬ԵհíŚ.íŚ.ஹiя╬ईह═─ ‌‌      |● [161417380] joined and Service Msg deleted (#spam name)
+ 
+[ Sat Jul  2 16:42:06 2016 ]=>  ●|       ─═हई╬ԵհíŚ.íŚ.ஹiя╬ईह═─ ‌‌      |● [161417380] joined and Service Msg deleted (#spam name)
+ 
+[ Sat Jul  2 16:47:58 2016 ]=>  ●|       ─═हई╬ԵհíŚ.íŚ.ஹiя╬ईह═─ ‌‌      |● [161417380] joined and Service Msg deleted (#spam name)
+ 
+[ Sat Jul  2 16:48:44 2016 ]=>  ●|       ─═हई╬ԵհíŚ.íŚ.ஹiя╬ईह═─ ‌‌      |● [161417380] joined and Service Msg deleted (#spam name)
+ 
+[ Sat Jul  2 17:18:31 2016 ]=>  Mr.Gigabyte Admin [202663697] added to the SuperGroup by [ 139973623 ]
+ 
+[ Sat Jul  2 17:19:33 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup bots list
+ 
+[ Sun Jul  3 03:15:16 2016 ]=>  mohdzulkifly @zulkifly80 [105277451] kicked for #spam
+ 
+[ Sun Jul  3 03:16:21 2016 ]=>  yuda [34804026] requested SuperGroup Admins list
+ 
+[ Sun Jul  3 03:35:30 2016 ]=>  seyedan [211581858] added a banned user >176365905
+ 
+[ Sun Jul  3 09:41:16 2016 ]=>  Aryan [229473867] requested SuperGroup ID
+ 
+[ Sun Jul  3 09:41:28 2016 ]=>  Aryan [229473867] deleted a message by reply
+ 
+[ Sun Jul  3 13:46:04 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Mon Jul  4 04:02:35 2016 ]=>  Ali @Ali8838 [184154770] kicked for #spam
+ 
+[ Mon Jul  4 14:45:14 2016 ]=>  Меня зовут Джефф  ้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้ััััััััััััััััััััััััััััััััััััััััััััััััััััััััััััััััััััััั [101279101] joined and Service Msg deleted (#spam name)
+ 
+[ Mon Jul  4 19:37:09 2016 ]=>  ‍ ‌‌‌‌       ‌‌‌‌ ‌    ‌‌‌‌ ‌    ‍ ‌‌‌‌       ‌‌ [53062437] joined and Service Msg deleted (#spam name)
+ 
+[ Tue Jul  5 03:13:05 2016 ]=>  Leib moss© [152031724] requested group rules
+ 
+[ Tue Jul  5 04:48:22 2016 ]=>  🇰 🇦 🇲 🇪 🇳   🇷 🇮 🇩 🇪 🇷 🇩 🇪 🇨 🇦 🇩 🇪 [102130601] joined and Service Msg deleted (#spam name)
+ 
+[ Tue Jul  5 13:51:07 2016 ]=>  ●|       ─═हई╬ԵհíŚ.íŚ.ஹiя╬ईह═─ ‌‌      |● [161417380] requested SuperGroup ID
+ 
+[ Tue Jul  5 14:13:59 2016 ]=>  Haruhi Suzumiya [212257536] requested group rules
+ 
+[ Tue Jul  5 14:14:39 2016 ]=>  🇬🇮🇴🇮🇪🇱🇱🇴 Mooner🌚 |  MinecraftPublic [158042764] requested group rules
+ 
+[ Tue Jul  5 14:15:36 2016 ]=>  🇬🇮🇴🇮🇪🇱🇱🇴 Mooner🌚 |  MinecraftPublic [158042764] requested group rules
+ 
+[ Tue Jul  5 17:12:32 2016 ]=>  Haruhi Suzumiya [212257536] promoted @leibmoss
+ 
+[ Tue Jul  5 17:12:32 2016 ]=>  Haruhi Suzumiya [212257536] promoted @leibmoss
+ 
+[ Tue Jul  5 17:13:19 2016 ]=>  SmarTech® [51113693] requested group rules
+ 
+[ Tue Jul  5 17:13:21 2016 ]=>  Haruhi Suzumiya [212257536] locked arabic 
+ 
+[ Tue Jul  5 17:14:16 2016 ]=>  log file created by owner/support/admin
+ 
+[ Tue Jul  5 17:16:52 2016 ]=>  Haruhi Suzumiya [212257536] promoted @SmarTech
+ 
+[ Tue Jul  5 17:18:31 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup users list
+ 
+[ Tue Jul  5 17:21:16 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup settings 
+ 
+[ Tue Jul  5 17:21:41 2016 ]=>  Haruhi Suzumiya [212257536] set group to: public
+ 
+[ Tue Jul  5 17:23:39 2016 ]=>  Haruhi Suzumiya [212257536] set flood to [7]
+ 
+[ Tue Jul  5 17:26:50 2016 ]=>  Haruhi Suzumiya Admin [206197460] added to the SuperGroup by [ 0 ]
+ 
+[ Tue Jul  5 17:28:35 2016 ]=>  log file created by owner/support/admin
+ 
+[ Tue Jul  5 17:33:01 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup Admins list
+ 
+[ Tue Jul  5 18:35:45 2016 ]=>  Leib moss® [152031724] requested SuperGroup users list
+ 
+[ Tue Jul  5 18:43:17 2016 ]=>  yuda [34804026] requested SuperGroup users list
+ 
+[ Tue Jul  5 18:43:26 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Wed Jul  6 05:23:15 2016 ]=>  ●|       ─═हई╬ԵհíŚ.íŚ.ஹiя╬ईह═─ ‌‌      |● [161417380] requested SuperGroup ID
+ 
+[ Wed Jul  6 05:26:37 2016 ]=>  yuda [34804026] requested group link [https://telegram.me/joinchat/AhMROj65klzVoSnyUEs9hA]
+ 
+[ Thu Jul  7 00:25:59 2016 ]=>  🇶 🇴 🇩 🇮 🇷 🇯 🇴 🇳-› 🇵 🇷 🇮 🇳 🇨 🇪-›王子 [71695979] joined and Service Msg deleted (#spam name)
+ 
+[ Thu Jul  7 14:03:04 2016 ]=>  AshrooNarang [171992862] is banned and kicked ! 
+ 
+[ Fri Jul  8 06:19:53 2016 ]=>  ๑۞๑,¸¸,ø¤º°`°๑۩ мя вℓα¢к ๑۩ ,¸¸,ø¤º°`°๑۞๑ [73189519] joined and Service Msg deleted (#spam name)
+ 
+[ Sat Jul  9 14:09:32 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Sat Jul  9 14:23:22 2016 ]=>  yuda [34804026] promoted @Gothic_Barbie
+ 
+[ Sun Jul 10 07:31:35 2016 ]=>  yuda [34804026] deleted a message by reply
+ 
+[ Sun Jul 10 07:38:13 2016 ]=>  ▶🇪🇷🇪🇳🇰🇴🇸🇺🇰🇪◀ 🚫🔞📵🚯🚷🚱🚭🚭❎ [146463908] joined and Service Msg deleted (#spam name)
+ 
+[ Sun Jul 10 08:00:22 2016 ]=>  اہۣۣۗۗہو حۣۣۗۗہۣۣۣۣۗۗۗۗہۣۣۗۗہمۣۣۗۗہۣۣۗۗہزة ⚔ [267279339] joined and Service Msg deleted (#spam name)
+ 
+[ Sun Jul 10 08:18:34 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Sun Jul 10 14:56:07 2016 ]=>  Haruhi Suzumiya [212257536] resolved username: @TechRekt
+ 
+[ Mon Jul 11 13:18:08 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Mon Jul 11 13:18:12 2016 ]=>  yuda [34804026] requested group link [https://telegram.me/joinchat/AhMROj65klzVoSnyUEs9hA]
+ 
+[ Mon Jul 11 14:51:18 2016 ]=>  ●|       ─═हई╬ԵհíŚ.íŚ.ஹiя╬ईह═─ ‌‌      |● [161417380] requested group rules
+ 
+[ Mon Jul 11 14:56:23 2016 ]=>  Haruhi Suzumiya [212257536] requested group rules
+ 
+[ Mon Jul 11 15:03:58 2016 ]=>  Leib moss® [152031724] requested group rules
+ 
+[ Tue Jul 12 02:53:03 2016 ]=>  اہۣۣۗۗہو حۣۣۗۗہۣۣۣۣۗۗۗۗہۣۣۗۗہمۣۣۗۗہۣۣۗۗہزة ⚔ [267279339] joined and Service Msg deleted (#spam name)
+ 
+[ Tue Jul 12 10:30:37 2016 ]=>  جۣۗہــﹻۅگۣۗہرٌ ۣۗﺳہۣۗہۈڕيـٰۗٛۧۙﮩـہۦ ٰٰ۫ [178849158] joined and Service Msg deleted (#spam name)
+ 
+[ Tue Jul 12 20:08:15 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Tue Jul 12 20:11:28 2016 ]=>  ❃─❋ᗷ〇〇ᗰ❃─❋ [230324842] banned user is talking !
+ 
+[ Tue Jul 12 20:11:29 2016 ]=>  ❃─❋ᗷ〇〇ᗰ❃─❋ [230324842] banned user is talking !
+ 
+[ Tue Jul 12 20:11:47 2016 ]=>  log file created by owner/support/admin
+ 
+[ Wed Jul 13 14:47:11 2016 ]=>  Haruhi Suzumiya [212257536] locked link posting 
+ 
+[ Wed Jul 13 14:48:40 2016 ]=>  yuda [34804026] promoted @mrrezzo
+ 
+[ Wed Jul 13 14:49:08 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup Admins list
+ 
+[ Wed Jul 13 14:49:12 2016 ]=>  Haruhi Suzumiya [212257536] requested group modlist
+ 
+[ Wed Jul 13 14:49:41 2016 ]=>  Haruhi Suzumiya [212257536] promoted @Gothic_Barbie
+ 
+[ Wed Jul 13 14:51:58 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup settings 
+ 
+[ Wed Jul 13 14:52:49 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup settings 
+ 
+[ Wed Jul 13 15:08:49 2016 ]=>  log file created by owner/support/admin
+ 
+[ Wed Jul 13 15:08:55 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup users list
+ 
+[ Wed Jul 13 16:50:36 2016 ]=>  Leib moss® [152031724] requested group rules
+ 
+[ Thu Jul 14 08:10:36 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Thu Jul 14 17:40:05 2016 ]=>  yuda [34804026] requested SuperGroup Admins list
+ 
+[ Fri Jul 15 13:58:28 2016 ]=>  🇬🇮🇴🇮🇪🇱🇱🇴  MinecraftPublic [158042764] requested group rules
+ 
+[ Sat Jul 16 05:16:30 2016 ]=>  Leib moss® [152031724] requested group rules
+ 
+[ Sat Jul 16 11:11:26 2016 ]=>  YusriJR @Yusri5 [200740429] kicked for #spam
+ 
+[ Sat Jul 16 18:08:29 2016 ]=>  Haruhi Suzumiya [212257536] requested group rules
+ 
+[ Sun Jul 17 22:31:20 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Mon Jul 18 02:48:49 2016 ]=>  Haruhi Suzumiya [212257536] requested group rules
+ 
+[ Mon Jul 18 05:38:16 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Tue Jul 19 00:28:56 2016 ]=>  HaruhiSuzumiya [212257536] baned user 159019904
+ 
+[ Tue Jul 19 00:29:24 2016 ]=>  HaruhiSuzumiya [212257536] baned user 244263129
+ 
+[ Tue Jul 19 00:29:45 2016 ]=>  HaruhiSuzumiya [212257536] baned user 153285539
+ 
+[ Tue Jul 19 00:41:41 2016 ]=>  HaruhiSuzumiya [212257536] unbaned user 124536123
+ 
+[ Tue Jul 19 00:41:41 2016 ]=>  HaruhiSuzumiya [212257536] unbaned user 124536123
+ 
+[ Tue Jul 19 00:42:54 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup settings 
+ 
+[ Tue Jul 19 00:43:02 2016 ]=>  Haruhi Suzumiya [212257536] locked rtl chars. in names
+ 
+[ Tue Jul 19 00:43:09 2016 ]=>  Haruhi Suzumiya [212257536] unlocked RTL chars. in names
+ 
+[ Tue Jul 19 00:43:20 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup muteslist
+ 
+[ Tue Jul 19 00:43:29 2016 ]=>  Haruhi Suzumiya [212257536] set SuperGroup to: mute Gifs
+ 
+[ Tue Jul 19 02:40:30 2016 ]=>  yuda [34804026] requested group link [https://telegram.me/joinchat/AhMROj65klzVoSnyUEs9hA]
+ 
+[ Tue Jul 19 04:06:05 2016 ]=>  yuda [34804026] locked arabic 
+ 
+[ Tue Jul 19 04:22:11 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Tue Jul 19 04:30:33 2016 ]=>  Ash Kosuke [2940638] requested group rules
+ 
+[ Tue Jul 19 09:01:14 2016 ]=>  over killed [198817148] requested group rules
+ 
+[ Tue Jul 19 10:35:30 2016 ]=>  Ash Kosuke [2940638] requested group rules
+ 
+[ Tue Jul 19 11:38:24 2016 ]=>  Ash Kosuke [2940638] requested group rules
+ 
+[ Tue Jul 19 12:22:14 2016 ]=>  Haruhi Suzumiya [212257536] requested group link [https://telegram.me/joinchat/AhMROj65klzVoSnyUEs9hA]
+ 
+[ Tue Jul 19 13:29:13 2016 ]=>  عہۧہلآٰ୭ۛي¦¦11kمحضور😢 @Alosh511 [150859408] kicked for #spam
+ 
+[ Tue Jul 19 14:55:59 2016 ]=>  Haruhi Suzumiya [212257536] requested group rules
+ 
+[ Tue Jul 19 14:57:46 2016 ]=>  Hazziq Amri [211989074] requested group rules
+ 
+[ Tue Jul 19 16:04:43 2016 ]=>  Abah engko Ijhoo [186759021] requested group rules
+ 
+[ Tue Jul 19 16:05:37 2016 ]=>  Syahir Mats [244786523] requested group rules
+ 
+[ Tue Jul 19 16:41:51 2016 ]=>  Liana Athirah [194374341] requested group rules
+ 
+[ Wed Jul 20 19:14:28 2016 ]=>  Haruhi Suzumiya [212257536] requested group link [https://telegram.me/joinchat/AhMROj65klzVoSnyUEs9hA]
+ 
+[ Wed Jul 20 21:24:44 2016 ]=>  Haruhi Suzumiya Admin [190427743] added to the SuperGroup by [ 0 ]
+ 
+[ Wed Jul 20 21:25:05 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested group rules
+ 
+[ Wed Jul 20 21:25:09 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] left via kickme
+ 
+[ Thu Jul 21 23:47:12 2016 ]=>  Haruhi Suzumiya [212257536] requested group rules
+ 
+[ Fri Jul 22 01:03:42 2016 ]=>  Haruhi Suzumiya [212257536] requested group rules
+ 
+[ Fri Jul 22 19:02:43 2016 ]=>  Haruhi Suzumiya [212257536] requested group rules
+ 
+[ Fri Jul 22 21:28:56 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup users list
+ 
+[ Sat Jul 23 18:01:40 2016 ]=>  Ash Kosuke [2940638] requested group rules
+ 
+[ Sat Jul 23 20:05:00 2016 ]=>  Pemerintah Tepat Masa Al-'As [61174221] requested group rules
+ 
+[ Sat Jul 23 23:02:37 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Sat Jul 23 23:25:05 2016 ]=>  Haruhi Suzumiya [212257536] requested group rules
+ 
+[ Sun Jul 24 12:28:48 2016 ]=>  🇲 🇮 🇸 🇸 | 🇸 🇾 🇦 🇫 🇮 🇳 🇦 [221743879] requested group rules
+ 
+[ Sun Jul 24 13:01:32 2016 ]=>  Ash Kosuke [2940638] requested group rules
+ 
+[ Sun Jul 24 14:39:37 2016 ]=>  Haruhi Suzumiya [212257536] requested group rules
+ 
+[ Sun Jul 24 14:47:45 2016 ]=>  yuda [34804026] deleted a message by reply
+ 
+[ Sun Jul 24 21:37:04 2016 ]=>  Ash Kosuke [2940638] requested group rules
+ 
+[ Sun Jul 24 23:33:32 2016 ]=>  Leib moss® [152031724] requested group rules
+ 
+[ Mon Jul 25 15:03:55 2016 ]=>  Ash Kosuke [2940638] requested group rules
+ 
+[ Mon Jul 25 23:41:30 2016 ]=>  TSFBTMF [109053608] requested group rules
+ 
+[ Tue Jul 26 03:07:51 2016 ]=>  Haruhi Suzumiya [212257536] requested group rules
+ 
+[ Tue Jul 26 12:07:54 2016 ]=>  Haruhi Suzumiya [0] renamed SuperGroup to: 💯 hacking games 💯
+ 
+[ Tue Jul 26 14:29:51 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Thu Jul 28 00:47:57 2016 ]=>  💀 👽 👽👽 👽👽👽 👽👽👽👽 👽👽👽 👽👽 👽 💀 💀 💀 👽 👽👽 👽👽👽 👽👽👽👽 👽👽👽 👽👽 👽 💀 Mamad tofan [209065794] joined and Service Msg deleted (#spam name)
+ 
+[ Thu Jul 28 01:18:19 2016 ]=>  💀👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽💀💀💀👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽💀Mamadtofan [209065794] added a banned user >122443501
+ 
+[ Thu Jul 28 01:18:19 2016 ]=>  MessageStatistics [122443501] banned user is talking !
+ 
+[ Thu Jul 28 13:54:11 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Thu Jul 28 15:16:59 2016 ]=>  مهرداد [220502012] kicked for #spam
+ 
+[ Thu Jul 28 19:28:21 2016 ]=>  Abah engko Ijhoo [186759021] requested group rules
+ 
+[ Thu Jul 28 23:23:02 2016 ]=>  yuda [34804026] requested group link [https://telegram.me/joinchat/AhMROj65klzVoSnyUEs9hA]
+ 
+[ Fri Jul 29 01:18:59 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Fri Jul 29 01:19:31 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Fri Jul 29 01:20:10 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested group rules
+ 
+[ Fri Jul 29 02:00:52 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Fri Jul 29 07:12:48 2016 ]=>  Ash Kosuke [2940638] requested group rules
+ 
+[ Fri Jul 29 07:12:58 2016 ]=>  MaDArA😊😊😊 [175867860] requested group rules
+ 
+[ Fri Jul 29 09:40:32 2016 ]=>  Ankush Surana [105177972] requested group rules
+ 
+[ Fri Jul 29 12:04:56 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup ID
+ 
+[ Fri Jul 29 12:07:01 2016 ]=>  Haruhi Suzumiya Admin [238029142] added to the SuperGroup by [ 0 ]
+ 
+[ Fri Jul 29 12:10:19 2016 ]=>  Haruhi Suzumiya [0] renamed SuperGroup to: hacking games
+ 
+[ Fri Jul 29 12:10:40 2016 ]=>  Haruhi Suzumiya [0] renamed SuperGroup to: 💯 hacking games 💯
+ 
+[ Fri Jul 29 16:35:16 2016 ]=>  Haruhi Suzumiya [212257536] requested group rules
+ 
+[ Fri Jul 29 17:08:48 2016 ]=>  Haruhi Suzumiya [212257536] requested group link [https://telegram.me/joinchat/AhMROj65klzVoSnyUEs9hA]
+ 
+[ Fri Jul 29 18:01:50 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Fri Jul 29 19:56:24 2016 ]=>  yuda [34804026] requested group link [https://telegram.me/joinchat/AhMROj65klzVoSnyUEs9hA]
+ 
+[ Sat Jul 30 13:07:51 2016 ]=>  200(Established) [221743879] requested group rules
+ 
+[ Sat Jul 30 18:27:41 2016 ]=>  Lewis Colombiana [209854417] requested group rules
+ 
+[ Sat Jul 30 19:21:01 2016 ]=>  200(Established) [221743879] requested group rules
+ 
+[ Sat Jul 30 21:46:12 2016 ]=>  Dankyi [118546658] requested group rules
+ 
+[ Sat Jul 30 23:05:08 2016 ]=>  Haruhi Suzumiya [212257536] requested group rules
+ 
+[ Sat Jul 30 23:09:58 2016 ]=>  Panglima Garang [154496376] requested group rules
+ 
+[ Sun Jul 31 02:26:31 2016 ]=>  Z-insade✍/ᴳᴿᴬᴾᴴᴵᶜᴰᴱˢᴵᴳᴺᴱᴿ @Zinsade [151927775] kicked for #spam
+ 
+[ Sun Jul 31 02:34:04 2016 ]=>  Dankyi [118546658] requested group rules
+ 
+[ Mon Aug  1 02:00:39 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Mon Aug  1 03:04:25 2016 ]=>  Leib moss® [152031724] requested group rules
+ 
+[ Mon Aug  1 09:55:00 2016 ]=>  Panglima Garang [154496376] requested group rules
+ 
+[ Mon Aug  1 23:36:49 2016 ]=>  Haruhi Suzumiya [212257536] requested group rules
+ 
+[ Mon Aug  1 23:38:02 2016 ]=>  Haruhi Suzumiya [212257536] requested group rules
+ 
+[ Mon Aug  1 23:38:23 2016 ]=>  Haruhi Suzumiya [212257536] has changed group rules to [💯 hacking games 💯 rules:
+
+simple rules‼️
+in this group you can request hacking games and pro apk...only !!!
+1. English only 
+2. stay on topic
+3. don't spam the group
+4. No ads🚫
+5. No stickers⚠️
+6. No adult content🔞
+7. Respect others
+‼️this is not a chatting group🗣‼️]
+ 
+[ Mon Aug  1 23:38:36 2016 ]=>  Haruhi Suzumiya [212257536] requested group rules
+ 
+[ Tue Aug  2 13:19:07 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Tue Aug  2 13:20:07 2016 ]=>  yuda [34804026] has changed group rules to [💯 hacking games 2K💯 rules:
+
+simple rules‼️
+in this group you can request hacking games and pro apk...only !!!
+1. English only 
+2. stay on topic
+3. don't spam the group
+4. No ads🚫
+5. No stickers⚠️
+6. No adult content🔞
+7. Respect others
+‼️this is not a chatting group🗣‼️]
+ 
+[ Tue Aug  2 13:20:16 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Tue Aug  2 14:23:28 2016 ]=>  Leib moss® [152031724] requested group rules
+ 
+[ Tue Aug  2 15:50:49 2016 ]=>  Ash Kosuke [2940638] requested group rules
+ 
+[ Tue Aug  2 21:35:58 2016 ]=>  Haruhi Suzumiya [212257536] requested group rules
+ 
+[ Tue Aug  2 21:36:33 2016 ]=>  Haruhi Suzumiya [212257536] has changed group rules to [simple rules‼️
+in this group you can request hacking games and pro apk...only !!!
+1. English only 
+2. stay on topic
+3. don't spam the group
+4. No ads🚫
+5. No stickers⚠️
+6. No adult content🔞
+7. Respect others
+‼️this is not a chatting group🗣‼️]
+ 
+[ Tue Aug  2 21:36:43 2016 ]=>  Haruhi Suzumiya [212257536] has changed group rules to [simple rules‼️
+in this group you can request hacking games and pro apk...only !!!
+1. English only 
+2. stay on topic
+3. don't spam the group
+4. No ads🚫
+5. No stickers⚠️
+6. No adult content🔞
+7. Respect others
+‼️this is not a chatting group🗣‼️]
+ 
+[ Tue Aug  2 21:36:59 2016 ]=>  Haruhi Suzumiya [212257536] requested group rules
+ 
+[ Tue Aug  2 21:38:09 2016 ]=>  Leib moss® [152031724] requested group rules
+ 
+[ Tue Aug  2 21:41:23 2016 ]=>  Leib moss® [152031724] renamed SuperGroup to: 💯 hacking games 💯 (2k)
+ 
+[ Tue Aug  2 21:42:42 2016 ]=>  Leib moss® [152031724] requested group rules
+ 
+[ Tue Aug  2 21:43:16 2016 ]=>  mr. mlh [206614067] requested group rules
+ 
+[ Tue Aug  2 21:50:51 2016 ]=>  Haruhi Suzumiya [212257536] requested group rules
+ 
+[ Tue Aug  2 21:55:20 2016 ]=>  Haruhi Suzumiya [212257536] requested group rules
+ 
+[ Thu Aug  4 14:23:39 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Thu Aug  4 14:53:52 2016 ]=>  RomanReigns @SyakirReigns [183859498] kicked for #spam
+ 
+[ Thu Aug  4 18:16:51 2016 ]=>  Mr.Anonymous [228771999] requested group rules
+ 
+[ Thu Aug  4 18:58:53 2016 ]=>  Mr.Anonymous [228771999] requested group rules
+ 
+[ Thu Aug  4 19:31:52 2016 ]=>  Sagar Prasad [196409514] requested group rules
+ 
+[ Thu Aug  4 19:51:49 2016 ]=>  (((((Midnattsol))))) [202840571] requested group rules
+ 
+[ Thu Aug  4 20:03:05 2016 ]=>  shaman [229920736] requested group rules
+ 
+[ Thu Aug  4 20:36:48 2016 ]=>  Xiao Ayien [210517784] requested group rules
+ 
+[ Thu Aug  4 22:29:36 2016 ]=>  Fadhil Hanif [153989894] left via kickme
+ 
+[ Thu Aug  4 22:48:40 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Fri Aug  5 09:14:58 2016 ]=>  DanielKazaz @DanielKa72 [150683851] kicked for #spam
+ 
+[ Fri Aug  5 11:11:44 2016 ]=>  200(Established) [221743879] left via kickme
+ 
+[ Fri Aug  5 13:52:07 2016 ]=>  Marco Contini [143384332] left via kickme
+ 
+[ Fri Aug  5 14:21:34 2016 ]=>  Mr.Anonymous [228771999] requested group rules
+ 
+[ Fri Aug  5 15:16:03 2016 ]=>  log file created by owner/support/admin
+ 
+[ Fri Aug  5 15:43:15 2016 ]=>  ঊঈ۞ ٌـ۪۪۪ٜ۝ـَ۪۪ٜ۪۪۪ٜؒؔـَ۪۪ٜ۪۪۪ٜؒؔـَ۪۪ٜ۪۪۪ٜؒؔـ۪۪ٜؓؔـ۪۪ٜـًًًًًًًًًًًًًًٍٍٍٍٍٍٍٍٍٍٍَ۪۪ٜ۪۪۪ٜ̰ؒؔ.ًًٍٍmًًًٍٍ̃.ًًٍٍٍﾑًًٍٍ.ًًٍٍĦًًًٍٍٍٍ.ًٌٍÐًًًٍٍ.ًًًًٍٍٍِłًًٍٍٍ.ًًًًًٌٍِِِ۝ـ۪۪۪ٜـَ۪۪ٜ۪۪۪ٜؒؔـَ۪۪ٜ۪۪۪ٜؒؔـَ۪۪ٜ۪۪۪ٜؒؔـ۪۪ٜؓؔـ۪۪ٜـَ۪۪ٜ۪۪۪ٜؒؔ ۞ََ۪۪ٜ۪۪۪ٜؔؔ ঊঈ ٜ .....‌இ─═हई💯ℳѦĦÐЇ ßѦ∂ ฿ø¥💯ईह═─‌ இ۝۝۝ـ۝۝۝۝۝۝  ঊঈঊঈ✞✞✟✟✞✞✞✞🎰✞✞ঊঈঊঈ✞✞✞✞✞✞✞⚀⚁⚂⚃⚄⚅ⓑⓐⓓⓝⓐⓓⓐⓡⓐⓜ💥💥💥 ⓐⓖⓐⓡⓐⓜ ⓗⓐⓢⓣ 💥💥💥💥 ⓝⓐⓢⓗⓓⓔⓗ🇲🇦🇸🇭🇹g҉o҉o҉o҉o҉d҉ b҉o҉ঊঈঊঈy҉h҉a҉s҉ـ℘ـʘ͜͡ـ℘ـʘ͜͡ـ℘ـʘ͜͡ـ℘ـʘ͜͡ـ℘ــ۪۪۪ٜـَ۪۪ٜ۪۪۪ٜؒؔb҉u҉i҉ঊঈঊঈt҉e҉f҉o҉o҉o҉l҉f҉e҉r҉a҉i҉n҉dـஒ۞ـஒ۞ـஒ۞ [176528495] joined and Service Msg deleted (#spam name)
+ 
+[ Fri Aug  5 18:31:15 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Sat Aug  6 01:11:30 2016 ]=>  涼宮ハルヒちゃん [212257536] baned user 173644092
+ 
+[ Sat Aug  6 01:11:48 2016 ]=>  Dario[RISOPATATEECCOZZE] [173644092] banned user is talking !
+ 
+[ Sat Aug  6 05:27:39 2016 ]=>  webmusic [138312364] banned user is talking !
+ 
+[ Sat Aug  6 21:14:03 2016 ]=>  Abah engko Ijhoo [186759021] requested group rules
+ 
+[ Sat Aug  6 23:02:49 2016 ]=>  yuda [34804026] promoted @Yuda1221
+ 
+[ Sat Aug  6 23:03:34 2016 ]=>  NO NAME [210949854] requested group rules
+ 
+[ Sat Aug  6 23:09:24 2016 ]=>  Yuda Akiva [119035055] deleted a message by reply
+ 
+[ Sat Aug  6 23:17:33 2016 ]=>  yuda [34804026] demoted @Yuda1221
+ 
+[ Sun Aug  7 01:08:24 2016 ]=>  F A R H A D                                                                      . [45104769] joined and Service Msg deleted (#spam name)
+ 
+[ Sun Aug  7 14:05:34 2016 ]=>  BOB [185577983] requested group rules
+ 
+[ Sun Aug  7 14:05:34 2016 ]=>  BOB [185577983] requested group rules
+ 
+[ Sun Aug  7 14:05:35 2016 ]=>  BOB [185577983] requested group rules
+ 
+[ Sun Aug  7 19:26:46 2016 ]=>  Panglima Garang [154496376] requested group rules
+ 
+[ Sun Aug  7 19:34:56 2016 ]=>  WanNaw [249532148] kicked for #spam
+ 
+[ Mon Aug  8 00:26:57 2016 ]=>  涼宮ハルヒ ちゃん [212257536] set SuperGroup to: mute All
+ 
+[ Mon Aug  8 00:27:47 2016 ]=>  涼宮ハルヒ ちゃん [212257536] set SuperGroup to: unmute All
+ 
+[ Mon Aug  8 00:29:52 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Mon Aug  8 03:07:18 2016 ]=>  涼宮ハルヒ ちゃん [212257536] deleted a message by reply
+ 
+[ Mon Aug  8 03:12:30 2016 ]=>  baabde Bd [227864420] requested group rules
+ 
+[ Mon Aug  8 03:20:25 2016 ]=>  涼宮ハルヒ ちゃん [212257536] has changed group rules to [FOLLOW THE RULES OR YOU WILL BE REMOVED WITHOUT WARNING 
+simple rules‼️
+in this group you can request hacking games and pro apk...only !!!
+1. English only 
+2. stay on topic
+3. don't spam the group
+4. No ads🚫
+5. No stickers⚠️
+6. No adult content🔞
+7. Respect others
+8. Don't play with with the bot
+‼️this is not a chatting group🗣‼️]
+ 
+[ Mon Aug  8 03:20:46 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Mon Aug  8 04:54:19 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Tue Aug  9 04:58:15 2016 ]=>  yuda [34804026] promoted @I_S_L
+ 
+[ Tue Aug  9 05:07:53 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Tue Aug  9 05:12:20 2016 ]=>  yuda [34804026] requested SuperGroup users list
+ 
+[ Tue Aug  9 18:29:08 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Tue Aug  9 18:29:08 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Wed Aug 10 19:46:03 2016 ]=>  YøυиešDαяκ @Younes_Dark [260238904] kicked for #spam
+ 
+[ Wed Aug 10 21:48:42 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Thu Aug 11 02:04:08 2016 ]=>  SmarTech® - away ^ ^ [51113693] requested group rules
+ 
+[ Thu Aug 11 02:06:32 2016 ]=>  SmarTech® - away ^ ^ [51113693] requested group rules
+ 
+[ Thu Aug 11 21:22:36 2016 ]=>  涼宮ハルヒ ちゃん [212257536] set group to: public
+ 
+[ Thu Aug 11 22:27:55 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Thu Aug 11 22:29:45 2016 ]=>  Dankyi [118546658] requested group rules
+ 
+[ Thu Aug 11 23:25:27 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Thu Aug 11 23:31:11 2016 ]=>  yuda [34804026] set SuperGroup description to: 🏆hacking games for android & pro apk 🏁
+⌛https://telegram.me/joinchat/AhMROj65klzVoSnyUEs9hA⏳
+❗‼❗️English only❗️‼
+ 
+[ Fri Aug 12 23:03:44 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Sat Aug 13 03:03:32 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Sat Aug 13 13:41:44 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Sat Aug 13 13:42:33 2016 ]=>  涼宮ハルヒ ちゃん [212257536] has changed group rules to [FOLLOW THE RULES OR YOU WILL BE REMOVED WITHOUT WARNING 
+simple rules‼️
+in this group you can request hacking games and pro apk...only !!!
+1. English only 
+2. stay on topic
+3. don't spam the group
+4. No ads🚫
+5. No stickers⚠️
+6. No adult content🔞
+7. Respect others
+8. Don't play with with the bot
+‼️this is not a chatting group🗣‼️
+❗️❗️❗️❗️❗️❗️❗️❗️❗️❗️
+FIRST SEARCH IN OUR CHANNEL!! 
+
+❌❌❌❌❌❌❌❌❌❌❌
+DON'T ASK GROUP BEFORE SEARCHING IT IN THE CHANNEL!! 
+
+✅✅✅✅✅✅✅✅✅✅✅
+If there no game/app in the channel, ASK IN GROUP❕]
+ 
+[ Sat Aug 13 13:42:45 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Sat Aug 13 13:44:38 2016 ]=>  涼宮ハルヒ ちゃん [212257536] has changed group rules to [FOLLOW THE RULES OR YOU WILL BE REMOVED WITHOUT WARNING 
+simple rules‼️
+in this group you can request hacking games and pro apk...only !!!
+1. English only 
+2. stay on topic
+3. don't spam the group
+4. No ads🚫
+5. No stickers⚠️
+6. No adult content🔞
+7. Respect others
+8. Don't play with the bot
+‼️this is not a chatting group🗣‼️
+❗️❗️❗️❗️❗️❗️❗️❗️❗️❗️
+FIRST SEARCH IN OUR CHANNEL!! 
+
+❌❌❌❌❌❌❌❌❌❌❌
+DON'T ASK IN THE GROUP BEFORE SEARCHING IN THE CHANNEL!! 
+
+✅✅✅✅✅✅✅✅✅✅✅
+If there no game/app in the channel, ASK IN THE GROUP❕]
+ 
+[ Sat Aug 13 13:44:55 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Sat Aug 13 15:58:39 2016 ]=>  Ryan Mysterio [231565483] requested group rules
+ 
+[ Sat Aug 13 16:07:30 2016 ]=>  Yourself Ally (Today Only) Shunn Kunn In 720p [167648415] requested group rules
+ 
+[ Sat Aug 13 16:13:03 2016 ]=>  Abam Chaylim [142705028] requested group rules
+ 
+[ Sat Aug 13 16:42:57 2016 ]=>  Aiman Said [254109652] requested group rules
+ 
+[ Sat Aug 13 16:47:33 2016 ]=>  SLAYER SLINK [200781217] requested group rules
+ 
+[ Sat Aug 13 16:48:19 2016 ]=>  unknown [260864957] requested group rules
+ 
+[ Sat Aug 13 16:48:23 2016 ]=>  unknown [260864957] requested group rules
+ 
+[ Sat Aug 13 17:29:54 2016 ]=>  Glenn MJ [248627672] requested group rules
+ 
+[ Sat Aug 13 17:30:07 2016 ]=>  log file created by owner/support/admin
+ 
+[ Sat Aug 13 17:42:48 2016 ]=>  xThunderManHD [163001404] requested group rules
+ 
+[ Sat Aug 13 17:43:44 2016 ]=>  Wan Ahmad [89424888] requested group rules
+ 
+[ Sat Aug 13 17:43:53 2016 ]=>  涼宮ハルヒ ちゃん [212257536] has changed group rules to [Take a moment to read the pinned post and give the bot a break]
+ 
+[ Sat Aug 13 17:46:23 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Sat Aug 13 17:47:23 2016 ]=>  涼宮ハルヒ ちゃん [212257536] has changed group rules to [FOLLOW THE RULES OR YOU WILL BE REMOVED WITHOUT WARNING 
+simple rules‼️
+in this group you can request hacking games and pro apk...only !!!
+1. English only 
+2. stay on topic
+3. don't spam the group
+4. No ads🚫
+5. No stickers⚠️
+6. No adult content🔞
+7. Respect others
+8. Don't play with the bot
+‼️this is not a chatting group🗣‼️
+❗️❗️❗️❗️❗️❗️❗️❗️❗️❗️
+FIRST SEARCH IN OUR CHANNEL!! 
+
+❌❌❌❌❌❌❌❌❌❌❌
+DON'T ASK IN THE GROUP BEFORE SEARCHING IN THE CHANNEL!! 
+
+✅✅✅✅✅✅✅✅✅✅✅
+If there no game/app in the channel, ASK IN THE GROUP❕]
+ 
+[ Sat Aug 13 18:03:16 2016 ]=>  epul [94068577] requested group rules
+ 
+[ Sat Aug 13 18:03:46 2016 ]=>   Geek Sa3D [171040621] requested group rules
+ 
+[ Sat Aug 13 18:16:52 2016 ]=>  log file created by owner/support/admin
+ 
+[ Sat Aug 13 18:18:20 2016 ]=>  涼宮ハルヒちゃん [212257536] baned user 94068577
+ 
+[ Sun Aug 14 11:14:45 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup ID
+ 
+[ Sun Aug 14 21:12:52 2016 ]=>  Xiao Ayien [210517784] requested group rules
+ 
+[ Mon Aug 15 11:06:19 2016 ]=>  Sagar Prasad [196409514] requested group rules
+ 
+[ Tue Aug 16 12:28:54 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested ID for: @id_telegram
+ 
+[ Tue Aug 16 12:33:23 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Tue Aug 16 20:19:55 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup ID
+ 
+[ Tue Aug 16 22:05:33 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Tue Aug 16 22:05:39 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Tue Aug 16 23:18:53 2016 ]=>  Selmanul Faris CK [182662226] requested group rules
+ 
+[ Tue Aug 16 23:47:04 2016 ]=>  涼宮ハルヒちゃん [212257536] baned user 253525419
+ 
+[ Wed Aug 17 00:06:02 2016 ]=>  Syakir Aiman [257333234] requested group rules
+ 
+[ Wed Aug 17 21:45:49 2016 ]=>  21Wan wan [202347642] requested group rules
+ 
+[ Thu Aug 18 00:24:43 2016 ]=>  🇸.🇾.🇷.🇮.🇦 [217998384] requested group rules
+ 
+[ Thu Aug 18 13:40:26 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup ID
+ 
+[ Thu Aug 18 14:01:00 2016 ]=>  Rahul Kokani [259878521] requested group rules
+ 
+[ Thu Aug 18 15:22:37 2016 ]=>  Erik [47901451] requested group rules
+ 
+[ Fri Aug 19 15:05:55 2016 ]=>  Erik [47901451] requested group rules
+ 
+[ Fri Aug 19 15:06:16 2016 ]=>  Reniel Chang [185792541] requested group rules
+ 
+[ Fri Aug 19 16:55:11 2016 ]=>  planet myx [238493443] requested group rules
+ 
+[ Sat Aug 20 23:49:55 2016 ]=>  🍁╄〽 ͡์์์์์ััััััััััุุุุุุุุุุุุุุุุืืืืื้้้้้้้้่่่่่่͡์์์์์ััััััััััุุุุุุุ╄Tokwan .͡์์์์์ััััััััััุุุุุุุุุุุุุุุุืืืืื้้้้้้้้่่่่่่͡์์์์์ััััััััััุุุุุ͡์์์์์ััััััััััุุุุุุุุุุุุุุุุืืืืื้้้้้้้้่่่่่่͡์์์์์ััััััััััุุุุุุุ. com╄͡์์์์์ัััััััััั [248192171] joined and Service Msg deleted (#spam name)
+ 
+[ Sun Aug 21 16:39:04 2016 ]=>  涼宮ハルヒ ちゃん [212257536] has changed group rules to [FOLLOW THE RULES OR YOU WILL BE REMOVED WITHOUT WARNING 
+simple rules‼️
+in this group you can request hacking games and pro apk...only !!!
+1. English only 
+2. stay on topic
+3. don't spam the group
+4. No ads🚫
+5. No stickers⚠️
+6. No adult content🔞
+7. Respect others
+8. Don't play with the bot
+9. No adult content
+‼️this is not a chatting group🗣‼️
+❗️❗️❗️❗️❗️❗️❗️❗️❗️❗️
+FIRST SEARCH IN OUR CHANNEL!! 
+
+❌❌❌❌❌❌❌❌❌❌❌
+DON'T ASK IN THE GROUP BEFORE SEARCHING IN THE CHANNEL!! 
+
+✅✅✅✅✅✅✅✅✅✅✅
+If there no game/app in the channel, ASK IN THE GROUP❕]
+ 
+[ Sun Aug 21 16:39:22 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Sun Aug 21 23:22:07 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup ID
+ 
+[ Mon Aug 22 15:21:02 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Mon Aug 22 18:12:09 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Mon Aug 22 18:56:14 2016 ]=>  Reniel Chang [185792541] requested group rules
+ 
+[ Mon Aug 22 18:56:24 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Mon Aug 22 18:56:25 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Mon Aug 22 18:56:45 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Tue Aug 23 16:43:17 2016 ]=>  Ash Kosuke [2940638] requested group rules
+ 
+[ Wed Aug 24 14:42:05 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Thu Aug 25 03:44:24 2016 ]=>  Leveloflevels @leveloflevels [220706695] kicked for #spam
+ 
+[ Thu Aug 25 04:11:51 2016 ]=>  יהודה @yhudaa [110422886] kicked for #spam
+ 
+[ Thu Aug 25 21:13:36 2016 ]=>  AfifMazidi @Afif_mazidi [146387238] kicked for #spam
+ 
+[ Thu Aug 25 21:14:44 2016 ]=>  Ryan Zirs [231565483] requested group rules
+ 
+[ Fri Aug 26 01:11:43 2016 ]=>  "İnen§Biri [194848929] requested group rules
+ 
+[ Fri Aug 26 13:55:37 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Fri Aug 26 13:55:37 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Fri Aug 26 13:56:52 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Fri Aug 26 13:59:44 2016 ]=>  涼宮ハルヒ ちゃん [212257536] has changed group rules to [FOLLOW THE RULES OR YOU WILL BE REMOVED WITHOUT WARNING 
+simple rules‼️
+in this group you can request hacking games and pro apk...only !!!
+1. English only 
+2. stay on topic
+3. don't spam the group
+4. No ads🚫
+5. No stickers⚠️
+6. No adult content🔞
+7. Respect others
+8. Don't play with the bot
+9. No adult content
+10. If you use a ROM like exodus that comes with contentguard, please don't message the admins on how to run lucky patcher, other hacking apps. It's just not possible
+‼️this is not a chatting group🗣‼️
+❗️❗️❗️❗️❗️❗️❗️❗️❗️❗️
+FIRST SEARCH IN OUR CHANNEL!! 
+
+❌❌❌❌❌❌❌❌❌❌❌
+DON'T ASK IN THE GROUP BEFORE SEARCHING IN THE CHANNEL!! 
+
+✅✅✅✅✅✅✅✅✅✅✅
+If there no game/app in the channel, ASK IN THE GROUP❕]
+ 
+[ Fri Aug 26 20:53:37 2016 ]=>  MohamadFareaz @FarEaz99 [181062690] kicked for #spam
+ 
+[ Sat Aug 27 20:39:52 2016 ]=>  Ryan Zirs [231565483] requested group rules
+ 
+[ Sat Aug 27 21:51:28 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Wed Aug 31 10:26:31 2016 ]=>  Ryan Zirs [231565483] requested group rules
+ 
+[ Wed Aug 31 10:26:34 2016 ]=>  Ryan Zirs [231565483] requested group rules
+ 
+[ Wed Aug 31 11:30:02 2016 ]=>  Hobbit [182066071] requested group rules
+ 
+[ Wed Aug 31 17:57:20 2016 ]=>  Ronie Ronie [240381862] requested group rules
+ 
+[ Thu Sep  1 02:22:30 2016 ]=>  יוחנן "וטהר ליבנו" [33235379] requested group rules
+ 
+[ Thu Sep  1 02:23:01 2016 ]=>  95206 [199573459] requested group rules
+ 
+[ Sun Sep  4 08:05:05 2016 ]=>  Dankyi [118546658] requested group rules
+ 
+[ Sun Sep  4 16:12:52 2016 ]=>  涼宮ハルヒ ちゃん [212257536] obtained id for msg fwd from: [221510576]
+ 
+[ Sun Sep  4 16:13:02 2016 ]=>  涼宮ハルヒちゃん [212257536] baned user 221510576
+ 
+[ Tue Sep  6 23:24:01 2016 ]=>  Leib moss® [152031724] requested group rules
+ 
+[ Wed Sep  7 11:35:15 2016 ]=>  ۝Linu ̲̅ ❣﴾❦Toco Org❦﴿۝ W🎩H ㄱㄹㅁ                                                           ❤️Toco Is Love❤️  🐍Toco Is Life🐧 [130107302] joined and Service Msg deleted (#spam name)
+ 
+[ Thu Sep  8 00:34:04 2016 ]=>  Hafiz Jer [213985627] requested group rules
+ 
+[ Thu Sep  8 17:18:51 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Thu Sep  8 17:23:12 2016 ]=>  yuda [34804026] requested group link [https://telegram.me/joinchat/AhMROj65klzVoSnyUEs9hA⏳]
+ 
+[ Thu Sep  8 19:17:37 2016 ]=>  yuda [34804026] requested group link [https://telegram.me/joinchat/AhMROj65klzDP-Q7sBdZ9g]
+ 
+[ Fri Sep  9 01:21:07 2016 ]=>  SAFIKUL ISLAM [112283215] requested group rules
+ 
+[ Sun Sep 11 16:09:31 2016 ]=>  涼宮ハルヒ ちゃん [212257536] deleted a message by reply
+ 
+[ Mon Sep 12 00:56:11 2016 ]=>  yuda [34804026] renamed SuperGroup to: 💯 hacking games 💯 (2.6k)
+ 
+[ Tue Sep 13 21:02:37 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Wed Sep 14 16:46:26 2016 ]=>  Matan St [206250095] requested group rules
+ 
+[ Wed Sep 14 17:12:09 2016 ]=>  Izzul Syahmi [214940877] requested group rules
+ 
+[ Wed Sep 14 23:16:16 2016 ]=>  Leib moss® [152031724] requested SuperGroup ID
+ 
+[ Thu Sep 15 08:02:22 2016 ]=>  Leib moss® [152031724] requested group rules
+ 
+[ Thu Sep 15 08:51:23 2016 ]=>  - FaZe [207263703] requested group rules
+ 
+[ Thu Sep 15 18:50:55 2016 ]=>  {Limitato}MaRio Hack Laurendino [64172257] requested group rules
+ 
+[ Thu Sep 15 23:26:08 2016 ]=>  yuda [34804026] promoted @Nightmare80
+ 
+[ Thu Sep 15 23:28:26 2016 ]=>  yuda [34804026] deleted a message by reply
+ 
+[ Thu Sep 15 23:52:07 2016 ]=>  Nightmare(pro killer) [109338882] requested SuperGroup ID
+ 
+[ Fri Sep 16 10:28:45 2016 ]=>  👑Ŕèžâ♣️ĥàñţéď👑 [63118273] requested SuperGroup ID
+ 
+[ Fri Sep 16 10:31:04 2016 ]=>  ⇟㉹🔱ًًًٍَڃًًًًًٍٍٍـــًًًًٍٍٍُِــــًًًًٍٍٍِـــڹـًًًًًٌٍٍِــــًًًًٍٍٍٍــًًًًٍٍِــًًًًٍٍٍِــًًًٍٍِئ⇞㉻⇟Sε乙⇟ @Sezjeni [185899534] kicked for #spam
+ 
+[ Fri Sep 16 10:31:47 2016 ]=>  🃏DΔΠTΣ🃏 @Parhfs [160689293] kicked for #spam
+ 
+[ Fri Sep 16 12:49:46 2016 ]=>  MR @Ayippiya [156540843] kicked for #spam
+ 
+[ Fri Sep 16 13:00:24 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Fri Sep 16 16:31:02 2016 ]=>  JorgeArmasDurá @JorgeArmasD [7785221] kicked for #spam
+ 
+[ Fri Sep 16 18:23:32 2016 ]=>  Nightmare(pro killer) [109338882] requested SuperGroup ID
+ 
+[ Fri Sep 16 21:04:32 2016 ]=>  FiboDerhaka @FiboDerhaka [121021302] kicked for #spam
+ 
+[ Sat Sep 17 16:04:57 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup Admins list
+ 
+[ Sat Sep 17 16:05:17 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group modlist
+ 
+[ Sat Sep 17 16:07:12 2016 ]=>  涼宮ハルヒ ちゃん [212257536] promoted @SaScs
+ 
+[ Sat Sep 17 22:15:07 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Mon Sep 19 06:41:05 2016 ]=>  gokul selvam [65259991] requested group rules
+ 
+[ Mon Sep 19 11:20:45 2016 ]=>  יוחנן "וטהר ליבנו" [33235379] requested group rules
+ 
+[ Mon Sep 19 11:23:20 2016 ]=>  máťáň [215198067] requested group rules
+ 
+[ Mon Sep 19 16:02:16 2016 ]=>  -=RMA=- [164041293] requested group rules
+ 
+[ Mon Sep 19 16:53:43 2016 ]=>  Vinayak Patil [231446506] requested group rules
+ 
+[ Mon Sep 19 16:54:26 2016 ]=>  Crispy [159291578] requested group rules
+ 
+[ Mon Sep 19 17:32:32 2016 ]=>  De Valkryie [191905343] requested group rules
+ 
+[ Tue Sep 20 12:08:03 2016 ]=>  Fareez Nooriwan [290737880] requested group rules
+ 
+[ Thu Sep 22 11:51:41 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Thu Sep 22 12:16:56 2016 ]=>  yuda [34804026] renamed SuperGroup to: 💯 hacking games 💯 (2.7K)
+ 
+[ Thu Sep 22 12:17:32 2016 ]=>  yuda [34804026] renamed SuperGroup to: 💯 hacking games 💯 (2.6K)
+ 
+[ Thu Sep 22 12:17:52 2016 ]=>  yuda [34804026] renamed SuperGroup to: 💯 hacking games 💯 (2.7K)
+ 
+[ Sat Sep 24 09:38:06 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup ID
+ 
+[ Sun Sep 25 05:46:03 2016 ]=>  yuda [34804026] has changed group rules to [
+💯 hacking games 💯 (2.7K) rules:
+
+FOLLOW THE RULES OR YOU WILL BE REMOVED WITHOUT WARNING 
+simple rules‼️
+in this group you can request hacking games and pro apk...only !!!
+1. English only 
+2. stay on topic
+3. don't spam the group
+4. No ads🚫
+5. No stickers⚠️
+6. No adult content🔞
+7. Respect others
+8. Don't play with the bot
+9. No adult content
+10. If you use a ROM like exodus that comes with contentguard, please don't message the admins on how to run lucky patcher, other hacking apps. It's just not possible. 
+‼️this is not a chatting group🗣‼️
+❗️❗️❗️❗️❗️❗️❗️❗️❗️❗️
+FIRST SEARCH IN OUR CHANNEL!! 
+
+❌❌❌❌❌❌❌❌❌❌❌
+DON'T ASK IN THE GROUP BEFORE SEARCHING IN THE CHANNEL!! 
+
+✅✅✅✅✅✅✅✅✅✅✅
+If there no game/app in the channel, ASK IN THE GROUP❕]
+ 
+[ Sun Sep 25 05:46:24 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Tue Sep 27 06:24:10 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Tue Sep 27 06:28:52 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Tue Sep 27 06:29:35 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Tue Sep 27 12:04:35 2016 ]=>  עוזחכימי [158742497] kicked for #spam
+ 
+[ Tue Sep 27 12:42:09 2016 ]=>  LawranceL [273049541] kicked for #spam
+ 
+[ Tue Sep 27 21:03:14 2016 ]=>  Leib moss® [152031724] requested group rules
+ 
+[ Wed Sep 28 13:52:12 2016 ]=>  NormanHakkim @norman_hakkim [184982160] kicked for #spam
+ 
+[ Wed Sep 28 20:04:03 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup ID
+ 
+[ Fri Sep 30 22:24:20 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup ID
+ 
+[ Fri Sep 30 22:24:30 2016 ]=>  涼宮ハルヒ ちゃん [212257536] deleted a message by reply
+ 
+[ Sat Oct  1 21:24:57 2016 ]=>   everythingme Admin bot [241693863] requested group rules
+ 
+[ Sun Oct  2 00:26:18 2016 ]=>  yuda [34804026] promoted @Shay3979
+ 
+[ Mon Oct  3 17:04:13 2016 ]=>  Bang Puddin' [186759021] requested group rules
+ 
+[ Wed Oct  5 23:11:28 2016 ]=>  Shay Yatim [79234896] renamed SuperGroup to: 💯 hacking games 💯 (2.9K)
+ 
+[ Thu Oct  6 21:53:25 2016 ]=>  ‌ ‌ ‌ ‌ ‌ ‌                           ‌   ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌‌ ‌ ‌‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌‌‌‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌ ‌ ‌‌ ‌ ‌ [248470333] joined and Service Msg deleted (#spam name)
+ 
+[ Sat Oct  8 13:42:16 2016 ]=>  Rahul [259878521] requested group rules
+ 
+[ Sat Oct  8 19:25:59 2016 ]=>  יוחנן "וטהר ליבנו" [33235379] requested group rules
+ 
+[ Mon Oct 10 15:01:55 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Thu Oct 13 20:25:06 2016 ]=>  log file created by owner/support/admin
+ 
+[ Fri Oct 14 14:33:23 2016 ]=>  涼宮ハルヒ ちゃん [212257536] deleted a message by reply
+ 
+[ Fri Oct 14 14:33:32 2016 ]=>  涼宮ハルヒ ちゃん [212257536] deleted a message by reply
+ 
+[ Sun Oct 16 09:10:56 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Sun Oct 16 10:32:00 2016 ]=>  לידורlidor @lidor_m [38733201] kicked for #spam
+ 
+[ Sun Oct 16 10:33:11 2016 ]=>  Leib moss® [152031724] promoted @leibmoss
+ 
+[ Sun Oct 16 10:58:21 2016 ]=>  liadelmakies [234959306] banned user is talking !
+ 
+[ Sun Oct 16 16:11:36 2016 ]=>  ~Ameer [230396496] requested group rules
+ 
+[ Sun Oct 16 16:11:43 2016 ]=>  ~Ameer [230396496] requested group rules
+ 
+[ Mon Oct 17 02:34:32 2016 ]=>  Fazi @Fazil3274 [268668772] kicked for #spam
+ 
+[ Tue Oct 18 16:04:34 2016 ]=>  涼宮ハルヒ ちゃん [212257536] set SuperGroup to: mute All
+ 
+[ Tue Oct 18 16:05:45 2016 ]=>  涼宮ハルヒ ちゃん [212257536] set SuperGroup to: unmute All
+ 
+[ Wed Oct 19 18:11:02 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup settings 
+ 
+[ Wed Oct 19 18:16:36 2016 ]=>  😎orel😎 [224457025] banned user is talking !
+ 
+[ Thu Oct 20 07:22:02 2016 ]=>  Ran @Ran0250 [81552456] kicked for #spam
+ 
+[ Fri Oct 21 06:21:35 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup ID
+ 
+[ Fri Oct 21 06:34:44 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup ID
+ 
+[ Mon Oct 24 09:16:16 2016 ]=>  Rohan [162889325] deleted a message by reply
+ 
+[ Tue Oct 25 04:26:35 2016 ]=>  Sagar Prasad [196409514] requested group rules
+ 
+[ Tue Oct 25 04:51:42 2016 ]=>  Leib moss® [152031724] has changed group rules to [
+
+💯 hacking games 💯 (2.7K) rules:
+
+FOLLOW THE RULES OR YOU WILL BE REMOVED WITHOUT WARNING 
+simple rules‼️
+in this group you can request hacking games and pro apk...only !!!
+1. English only 
+2. stay on topic
+3. don't spam the group
+4. No ads🚫
+5. No stickers⚠️
+6. No adult content🔞
+7. Respect others
+8. Don't play with the bot
+9. No adult content
+10. If you use a ROM like exodus that comes with contentguard, please don't message the admins on how to run lucky patcher, other hacking apps. It's just not possible. 
+‼️this is not a chatting group🗣‼️
+❗️❗️❗️❗️❗️❗️❗️❗️❗️❗️
+FIRST SEARCH IN OUR CHANNEL!! 
+
+❌❌❌❌❌❌❌❌❌❌❌
+DON'T ASK IN THE GROUP BEFORE SEARCHING IN THE CHANNEL!! 
+
+✅✅✅✅✅✅✅✅✅✅✅
+If there no game/app in the channel, ASK IN THE GROUP❕]
+ 
+[ Tue Oct 25 12:30:57 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Tue Oct 25 12:35:54 2016 ]=>  Leib moss® [152031724] requested group rules
+ 
+[ Wed Oct 26 08:57:24 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Thu Oct 27 15:26:50 2016 ]=>  أَبُــو ﻣَــالِــكْ { الــﺴَـــلَــفِــــيــُّﮯ } [139256985] joined and Service Msg deleted (#spam name)
+ 
+[ Thu Oct 27 20:43:00 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup ID
+ 
+[ Fri Oct 28 10:53:12 2016 ]=>  MuhdAfiq [262874578] kicked for #spam
+ 
+[ Fri Oct 28 12:19:58 2016 ]=>  Leib moss® [152031724] requested group rules
+ 
+[ Fri Oct 28 13:03:01 2016 ]=>  Leib moss® [152031724] requested group rules
+ 
+[ Sat Oct 29 16:16:57 2016 ]=>  涼宮ハルヒ ちゃん [212257536] locked enabled strict settings
+ 
+[ Sat Oct 29 16:39:26 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Sat Oct 29 16:39:58 2016 ]=>  涼宮ハルヒ ちゃん [212257536] has changed group rules to [nas.digipi.co:8000/rules.txt]
+ 
+[ Sat Oct 29 16:41:14 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup ID
+ 
+[ Sat Oct 29 17:10:12 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Sat Oct 29 17:15:40 2016 ]=>  涼宮ハルヒ ちゃん [212257536] has changed group rules to [http://nas.digipi.co:8000/1052349020_rules.txt]
+ 
+[ Sat Oct 29 17:17:16 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Sat Oct 29 17:17:29 2016 ]=>  涼宮ハルヒ ちゃん [212257536] has changed group rules to [http://nas.digipi.co:8000/1052349020_rules.txt]
+ 
+[ Sat Oct 29 17:17:34 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Sat Oct 29 17:18:00 2016 ]=>  涼宮ハルヒ ちゃん [212257536] has changed group rules to [nas.digipi.co:8000/1052349020_rules.txt]
+ 
+[ Sat Oct 29 17:18:07 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Sat Oct 29 17:19:02 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Sat Oct 29 17:19:41 2016 ]=>  yuda Admin [152031724] added to the SuperGroup by [ 34804026 ]
+ 
+[ Sat Oct 29 17:20:47 2016 ]=>  涼宮ハルヒ ちゃん [212257536] has changed group rules to [213.89.149.215:8000/1052349020_rules.txt]
+ 
+[ Sat Oct 29 17:22:14 2016 ]=>  涼宮ハルヒ ちゃん Admin [152031724] added to the SuperGroup by [ 0 ]
+ 
+[ Sat Oct 29 17:22:43 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Sat Oct 29 17:22:45 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Sat Oct 29 17:24:29 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup ID
+ 
+[ Sat Oct 29 17:24:33 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Sat Oct 29 17:27:20 2016 ]=>  涼宮ハルヒ ちゃん [212257536] has changed group rules to [213.89.149.215:8000/1052349020_rules.txt]
+ 
+[ Sat Oct 29 17:27:45 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Sat Oct 29 17:31:55 2016 ]=>  涼宮ハルヒ ちゃん [212257536] has changed group rules to [Search our channel @EverythingMe first
+If the app is NOT there, I repeat, NOT there, ask here
+Do NOT "just" make a request here if an app on the channel is out of date, mention "THAT IT IS OUT OF DATE" in your request
+Online games like clash of clans, clash royale can't be hacked. You can use a custom server for a workaround
+English only
+Read the rest of the rules at http://213.89.149.215:8000/1052349020_rules.txt 
+If you are banned by the bot, you should directly get in touch with @clannad or @yudati]
+ 
+[ Sat Oct 29 17:32:04 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Sat Oct 29 23:04:30 2016 ]=>  Hazziq Amri [211989074] requested group rules
+ 
+[ Sat Oct 29 23:15:52 2016 ]=>  /\/\ | | 30 o [94797955] requested group rules
+ 
+[ Sat Oct 29 23:23:40 2016 ]=>  yuda [34804026] has changed group rules to [Search our channel @EverythingMe first
+If the app is NOT there, I repeat, NOT there, ask here
+Do NOT "just" make a request here if an app on the channel is out of date, mention "THAT IT IS OUT OF DATE" in your request
+Online games like clash of clans, clash royale can't be hacked. You can use a custom server for a workaround
+English only
+Read the rest of the rules at http://213.89.149.215:8000/1052349020_rules.txt 
+If you are banned by the bot, you should directly get in touch with clannad or yudati]
+ 
+[ Sun Oct 30 10:41:21 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup ID
+ 
+[ Sun Oct 30 15:49:53 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Sun Oct 30 17:14:45 2016 ]=>  STAR [114760588] requested group rules
+ 
+[ Sun Oct 30 17:14:51 2016 ]=>  STAR [114760588] requested group rules
+ 
+[ Mon Oct 31 15:46:01 2016 ]=>  AJaY @RoYaLHaCkeR [209571489] kicked for #spam
+ 
+[ Tue Nov  1 19:05:55 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Tue Nov  1 19:42:10 2016 ]=>   :   [105177972] requested group rules
+ 
+[ Wed Nov  2 14:42:30 2016 ]=>  דודעמר [192642775] kicked for #spam
+ 
+[ Wed Nov  2 17:00:47 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) [212257536] locked disabled strict settings
+ 
+[ Wed Nov  2 21:39:59 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) [212257536] requested SuperGroup ID
+ 
+[ Thu Nov  3 16:58:04 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) [212257536] deleted a message by reply
+ 
+[ Fri Nov  4 10:45:32 2016 ]=>  </ Geek SaaD > [171040621] requested group rules
+ 
+[ Fri Nov  4 20:20:47 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) [212257536] requested SuperGroup ID
+ 
+[ Sat Nov  5 05:30:41 2016 ]=>  Psychopath😵 [249560876] is banned and kicked ! 
+ 
+[ Sat Nov  5 07:33:11 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) [212257536] requested group link [https://telegram.me/joinchat/AhMROj65klzDP-Q7sBdZ9g]
+ 
+[ Sun Nov  6 02:15:30 2016 ]=>  ∅ れモ口Ｋ口れ口卄丹Ｋ丹ち卄工爪丹尺∪ち卄工爪丹 ∅ [81562449] joined and Service Msg deleted (#spam name)
+ 
+[ Tue Nov  8 17:31:52 2016 ]=>  Mizta @Itsmeyh [155420095] kicked for #spam
+ 
+[ Tue Nov  8 20:39:54 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] deleted a message by reply
+ 
+[ Thu Nov 10 06:51:42 2016 ]=>  AfiHhh [298944042] kicked for #spam
+ 
+[ Fri Nov 11 08:34:46 2016 ]=>  yuda [34804026] requested group link [https://telegram.me/joinchat/AhMROj65klzDP-Q7sBdZ9g]
+ 
+[ Fri Nov 11 10:31:05 2016 ]=>  HishamAljazairi [155257011] kicked for #spam
+ 
+[ Sat Nov 12 05:57:40 2016 ]=>  αFιq @AFiQzz [260162605] kicked for #spam
+ 
+[ Sun Nov 13 12:29:38 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested group rules
+ 
+[ Mon Nov 14 18:51:11 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested group rules
+ 
+[ Wed Nov 16 10:58:39 2016 ]=>  WohStool @WohStool [50755247] kicked for #spam
+ 
+[ Wed Nov 16 12:19:45 2016 ]=>  Leib moss® [152031724] renamed SuperGroup to: 💯 hacking games 💯 (3.3K)
+ 
+[ Thu Nov 17 08:33:58 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup ID
+ 
+[ Thu Nov 17 16:07:06 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] obtained id for: [258063955]
+ 
+[ Thu Nov 17 16:59:57 2016 ]=>  MarkZuckerberg @Assassin8115 [2376907] kicked for #spam
+ 
+[ Thu Nov 17 17:33:54 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested group rules
+ 
+[ Thu Nov 17 17:34:56 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] locked enabled strict settings
+ 
+[ Fri Nov 18 08:14:07 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] promoted @RomLEN
+ 
+[ Fri Nov 18 08:49:29 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup settings 
+ 
+[ Fri Nov 18 08:51:10 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup settings 
+ 
+[ Fri Nov 18 08:56:11 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup settings 
+ 
+[ Fri Nov 18 08:59:58 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 Admin [229473867] added to the SuperGroup by [ 0 ]
+ 
+[ Fri Nov 18 10:54:05 2016 ]=>  ♕နًًًًًًًًً ♋ ็็็็ััััััััััุุุุุุุุุุุุุุุุ๎๎๎๎๎๎๎๎๎व๎๎๎๎๎๎๎๎๎๎๎๎๎!Lव¥∆ ًًًًًًًً็็็็็ััััััััััุุุุุุุุุุุุุุุุ๎๎๎๎๎๎๎๎๎๎M͡์์์์์ััััััััััุุุุุุุุุุุุุุุุืืืืื้้้้้้้้่่่่่่͡์์์์์ััััััััััุุุุุุุุOO -ึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึ [281794151] joined and Service Msg deleted (#spam name)
+ 
+[ Fri Nov 18 10:54:05 2016 ]=>  ♕နًًًًًًًًً ♋ ็็็็ััััััััััุุุุุุุุุุุุุุุุ๎๎๎๎๎๎๎๎๎व๎๎๎๎๎๎๎๎๎๎๎๎๎!Lव¥∆ ًًًًًًًً็็็็็ััััััััััุุุุุุุุุุุุุุุุ๎๎๎๎๎๎๎๎๎๎M͡์์์์์ััััััััััุุุุุุุุุุุุุุุุืืืืื้้้้้้้้่่่่่่͡์์์์์ััััััััััุุุุุุุุOO -ึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึึ [281794151] joined and kicked (#spam name)
+ 
+[ Fri Nov 18 10:55:04 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup settings 
+ 
+[ Fri Nov 18 13:28:52 2016 ]=>  HaiqalHaiqal [222880999] kicked for #spam
+ 
+[ Mon Nov 21 16:14:26 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested group rules
+ 
+[ Wed Nov 23 13:28:23 2016 ]=>  تحقیق کنید و خودتون آخرتتون رو رقم بزنید [225509231] joined and Service Msg deleted (#spam name)
+ 
+[ Wed Nov 23 13:28:23 2016 ]=>  تحقیق کنید و خودتون آخرتتون رو رقم بزنید [225509231] joined and kicked (#spam name)
+ 
+[ Wed Nov 23 18:36:26 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup ID
+ 

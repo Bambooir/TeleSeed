@@ -1,0 +1,64 @@
+All the things I know about this group
+
+Group Type: 
+SuperGroup
+
+SuperGroup settings:
+Lock links : no
+Lock flood: yes
+Flood sensitivity : 5
+Lock spam: yes
+Lock Arabic: yes
+Lock Member: no
+Lock RTL: yes
+Lock Tgservice : yes
+Lock sticker: no
+Public: yes
+Strict settings: yes
+
+Rules: 
+No rules available.
+
+About: 
+No description available.
+
+Mods: 
+
+List of moderators :
+1 - @(at)Niropa [68113680] 
+2 - @(at)Haruhi_Suzumiya [212257536] 
+3 - @(at)Russiamen [146890709] 
+4 - @(at)Brihanalla [45497179] 
+5 - @(at)shadylpstan [78512192] 
+6 - @(at)Wifestealer [95661517] 
+7 - @(at)sumit007s [211910282] 
+8 - @(at)sayeed99 [153336227] 
+9 - @(at)nilac8991 [125448668] 
+
+
+Link: 
+No link
+
+Chat stats:
+
+
+Mutes for: [ID: 1032945546 ]:
+
+Mute Audio: no
+Mute Video: no
+Mute All: no
+Mute Text: no
+Mute Documents: no
+Mute Photo: no
+Mute Gifs: no
+
+
+Muted Users for: [ID: 1032945546 ]:
+
+
+
+Ban list for: [ID: 1032945546 ]:
+
+1 - 46995108
+2 - 131881972
+3 - Youtube Music [217417183]

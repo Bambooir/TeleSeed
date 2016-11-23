@@ -1,0 +1,126 @@
+[ Fri Jun 17 00:36:00 2016 ]=>  Haruhi Suzumiya [212257536] added SuperGroup
+ 
+[ Fri Jun 17 00:37:11 2016 ]=>  Haruhi Suzumiya[212257536] set [42922371] as owner by username
+ 
+[ Fri Jun 17 00:37:19 2016 ]=>  Haruhi Suzumiya [212257536] promoted @Thebigidiot
+ 
+[ Fri Jun 17 00:37:41 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup users list
+ 
+[ Fri Jun 17 00:37:45 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup Admins list
+ 
+[ Fri Jun 17 00:38:39 2016 ]=>  Haruhi Suzumiya [212257536] promoted @Mp3songsadmin
+ 
+[ Fri Jun 17 00:38:39 2016 ]=>  Haruhi Suzumiya [212257536] promoted @Evenbiggeridiot
+ 
+[ Fri Jun 17 00:42:16 2016 ]=>  Haruhi Suzumiya [212257536] locked sticker posting
+ 
+[ Fri Jun 17 06:17:05 2016 ]=>  Mp3songs Admin [219050457] locked sticker posting
+ 
+[ Fri Jun 17 06:18:36 2016 ]=>  Mp3songs Admin [219050457] unlocked sticker posting
+ 
+[ Fri Jun 17 06:20:44 2016 ]=>  Mp3songs Admin [219050457] locked sticker posting
+ 
+[ Fri Jun 17 06:20:53 2016 ]=>  Mp3songs Admin [219050457] locked spam 
+ 
+[ Mon Jun 20 17:26:18 2016 ]=>  Haruhi Suzumiya [212257536] requested ID for: @theroyalseeker
+ 
+[ Wed Jun 29 19:41:16 2016 ]=>  MordechaiSasoon @cantbefound [154855699] kicked for #spam
+ 
+[ Sun Jul  3 19:49:22 2016 ]=>  MordechaiSasoon @cantbefound [154855699] kicked for #spam
+ 
+[ Sun Jul 10 05:39:10 2016 ]=>  RafiDresner [42922371] added a banned user >176365905
+ 
+[ Sun Jul 10 05:42:35 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Jul 10 05:45:24 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Jul 10 05:51:42 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Jul 10 05:52:42 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Jul 10 05:54:37 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Jul 10 05:56:17 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Jul 10 05:57:13 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Jul 10 05:58:05 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Jul 10 06:06:31 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Jul 10 06:07:42 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Jul 10 06:09:34 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Jul 10 11:44:35 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Jul 10 14:39:54 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Jul 10 15:11:37 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Jul 10 17:43:59 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Jul 11 22:38:57 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Jul 13 10:57:01 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Jul 14 15:15:55 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Jul 19 03:29:25 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Jul 23 01:36:22 2016 ]=>  BZ @Libertarian_X [203176454] kicked for #spam
+ 
+[ Sat Jul 23 01:52:13 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Jul 23 02:13:17 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Jul 23 02:26:48 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Jul 23 02:32:08 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Jul 23 03:39:41 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Jul 23 04:50:29 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Jul 24 01:04:24 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Jul 24 02:09:57 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Jul 24 04:55:48 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Jul 24 08:22:27 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Jul 24 10:05:06 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Jul 24 10:15:04 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Jul 24 10:34:23 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Jul 24 10:45:34 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Jul 24 10:46:25 2016 ]=>  Haruhi Suzumiya [212257536] added SuperGroup
+ 
+[ Sun Jul 24 10:46:30 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup Admins list
+ 
+[ Sun Jul 24 11:49:38 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Jul 28 11:57:17 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Aug  3 12:03:00 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Aug  8 18:05:12 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Aug 13 03:18:27 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Aug 13 03:18:30 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Sep  1 10:21:24 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Sep 14 20:00:08 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 19 00:20:51 2016 ]=>  Avrumyperl @ImAvrumy [2150743] kicked for #spam
+ 
+[ Wed Oct 19 00:23:41 2016 ]=>  Leib moss® [152031724] added SuperGroup
+ 
+[ Wed Oct 19 00:23:50 2016 ]=>  Leib moss® [152031724] unlocked flood
+ 

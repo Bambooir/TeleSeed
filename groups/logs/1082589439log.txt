@@ -1,0 +1,50 @@
+[ Sat Aug 13 18:00:37 2016 ]=>  JulianZhou @JZTech101 [118506289] kicked for #spam
+ 
+[ Sat Aug 13 18:02:05 2016 ]=>  涼宮ハルヒ ちゃん [212257536] added SuperGroup
+ 
+[ Sat Aug 13 18:02:10 2016 ]=>  涼宮ハルヒ ちゃん [212257536] set flood to [20]
+ 
+[ Sat Aug 13 18:09:40 2016 ]=>  涼宮ハルヒ ちゃん Admin [107851874] added to the SuperGroup by [ 0 ]
+ 
+[ Sat Aug 13 20:34:21 2016 ]=>  涼宮ハルヒ ちゃん [212257536] unlocked tgservice actions
+ 
+[ Sat Aug 13 20:34:48 2016 ]=>  DroidThug [203434742] requested group rules
+ 
+[ Sat Aug 13 20:36:15 2016 ]=>  DroidThug [203434742] added a banned user >117099167
+ 
+[ Sat Aug 13 20:36:52 2016 ]=>  DroidThug [203434742] added a banned user >117099167
+ 
+[ Sat Aug 13 20:37:07 2016 ]=>  otouto [117099167] banned user is talking !
+ 
+[ Sat Aug 13 21:08:22 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup settings 
+ 
+[ Sat Aug 13 21:58:02 2016 ]=>  ShubhamSingh @shubham517 [158772683] kicked for #spam
+ 
+[ Sat Aug 13 22:05:08 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup settings 
+ 
+[ Sat Aug 13 23:59:20 2016 ]=>  AshrooDyne [171992862] added a banned user >171992862
+ 
+[ Sun Aug 14 00:15:45 2016 ]=>  Mr.Byte [202663697] banned user is talking !
+ 
+[ Sun Aug 14 00:15:45 2016 ]=>  Mr.Byte [202663697] banned user is talking !
+ 
+[ Sun Aug 14 08:02:30 2016 ]=>  PranayNarang [167297504] added a banned user >167297504
+ 
+[ Tue Aug 16 21:06:04 2016 ]=>  涼宮ハルヒ ちゃん [212257536] attempted to create a new SuperGroup link
+ 
+[ Tue Aug 16 21:06:08 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group link [https://telegram.me/joinchat/DKbLAECHAP_1jB2bod_DpA]
+ 
+[ Tue Aug 16 23:06:19 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group link [https://telegram.me/joinchat/DKbLAECHAP_1jB2bod_DpA]
+ 
+[ Thu Aug 18 18:00:30 2016 ]=>  涼宮ハルヒ ちゃん [212257536] attempted to create a new SuperGroup link
+ 
+[ Thu Aug 18 18:00:34 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group link [https://telegram.me/joinchat/DKbLAECHAP-l9QZFwsOqYQ]
+ 
+[ Fri Aug 19 21:02:46 2016 ]=>  涼宮ハルヒ ちゃん Admin [116004047] added to the SuperGroup by [ 0 ]
+ 
+[ Fri Sep  2 03:01:39 2016 ]=>  Annu [229609127] kicked for #spam
+ 
+[ Thu Sep 22 20:29:43 2016 ]=>  涼宮ハルヒ ちゃん [212257536] attempted to create a new SuperGroup link
+ 
+[ Thu Sep 22 20:29:48 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group link [https://telegram.me/joinchat/DKbLAECHAP_25Li9N6bMDA]
+ 

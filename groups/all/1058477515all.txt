@@ -1,0 +1,53 @@
+All the things I know about this group
+
+Group Type: 
+SuperGroup
+
+SuperGroup settings:
+Lock links : no
+Lock flood: yes
+Flood sensitivity : 5
+Lock spam: yes
+Lock Arabic: no
+Lock Member: no
+Lock RTL: no
+Lock Tgservice : yes
+Lock sticker: yes
+Public: no
+Strict settings: no
+
+Rules: 
+test test test
+
+About: 
+No description available.
+
+Mods: 
+
+List of moderators :
+1 - @(at)GhostSamuraiX [179416267] 
+
+
+Link: 
+No link
+
+Chat stats:
+
+
+Mutes for: [ID: 1058477515 ]:
+
+Mute Video: no
+Mute Audio: no
+Mute All: no
+Mute Text: no
+Mute Documents: no
+Mute Photo: no
+Mute Gifs: no
+
+
+Muted Users for: [ID: 1058477515 ]:
+
+
+
+Ban list for: [ID: 1058477515 ]:
+

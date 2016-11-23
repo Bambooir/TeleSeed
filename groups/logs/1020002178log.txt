@@ -1,0 +1,140 @@
+[ Sat Jul 16 12:01:59 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Jul 17 06:54:57 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Jul 17 12:04:13 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Jul 18 01:07:05 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Jul 18 12:03:47 2016 ]=>  Tabi [94255642] kicked for #spam
+ 
+[ Mon Jul 18 12:04:17 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Jul 18 21:50:32 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Jul 18 23:52:29 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Jul 19 00:15:43 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Jul 19 08:11:48 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Jul 19 11:58:47 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Jul 20 07:54:10 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Jul 20 07:56:27 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Jul 20 08:56:54 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Jul 20 09:39:27 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Jul 20 09:53:08 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Jul 20 17:17:47 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Jul 20 21:06:10 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Jul 21 05:08:03 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Jul 21 18:29:49 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Jul 21 18:31:31 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Jul 21 23:26:50 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Jul 21 23:44:10 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Jul 22 12:16:57 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Jul 22 19:44:38 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Jul 22 22:17:15 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Jul 23 03:43:19 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Jul 24 07:09:45 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Jul 24 07:10:15 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Jul 24 07:12:18 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Jul 24 08:40:08 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 08:40:45 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 08:42:21 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 08:43:49 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 08:43:56 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 08:44:05 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 08:46:50 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 08:46:57 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 08:52:13 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 08:52:28 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 09:03:30 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 09:03:32 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 09:08:51 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 09:13:56 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 10:00:52 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 10:01:00 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 10:09:02 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 10:43:23 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 10:43:40 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 10:47:40 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 11:28:09 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 11:28:29 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 11:28:35 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 11:28:42 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 11:28:54 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 16:58:15 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 18:20:21 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 18:20:28 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 19:35:39 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 19:36:00 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 19:36:00 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 19:57:04 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 19:57:13 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 20:39:38 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 22:15:35 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 22:15:42 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 22:15:42 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Sun Jul 24 22:55:35 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Jul 24 23:36:25 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Mon Jul 25 00:10:59 2016 ]=>  PollBot [84210004] banned user is talking !
+ 

@@ -1,0 +1,6 @@
+[ Thu Jul  7 09:15:27 2016 ]=>  Haruhi Suzumiya [212257536] added SuperGroup
+ 
+[ Thu Jul  7 09:15:47 2016 ]=>  Haruhi Suzumiya[212257536] set [117506665] as owner by username
+ 
+[ Thu Jul  7 09:15:52 2016 ]=>  Haruhi Suzumiya [212257536] promoted @aRandomStranger
+ 

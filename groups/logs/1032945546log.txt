@@ -1,0 +1,132 @@
+[ Fri May 20 15:37:42 2016 ]=>  Haruhi Suzumiya? [212257536] added SuperGroup
+ 
+[ Fri May 20 15:38:20 2016 ]=>  Haruhi Suzumiya?[212257536] set [211910282] as owner by username
+ 
+[ Fri May 20 15:38:32 2016 ]=>  Haruhi Suzumiya? [212257536] promoted @sumit007s
+ 
+[ Fri May 20 15:38:58 2016 ]=>  Haruhi Suzumiya?[212257536] set [45497179] as owner by username
+ 
+[ Fri May 20 15:45:02 2016 ]=>  Haruhi Suzumiya? [212257536] promoted @sayeed99
+ 
+[ Sat May 21 04:26:34 2016 ]=>  Haruhi Suzumiya? Admin [190427743] added to the SuperGroup by [ 0 ]
+ 
+[ Sat May 21 05:33:40 2016 ]=>  Haruhi Suzumiya? [212257536] requested SuperGroup settings 
+ 
+[ Sat May 21 05:33:50 2016 ]=>  Haruhi Suzumiya? [212257536] locked arabic 
+ 
+[ Sat May 21 05:33:56 2016 ]=>  Haruhi Suzumiya? [212257536] locked rtl chars. in names
+ 
+[ Sat May 21 05:34:18 2016 ]=>  Haruhi Suzumiya? [212257536] locked enabled strict settings
+ 
+[ Sat May 21 05:35:26 2016 ]=>  Haruhi Suzumiya? [212257536] set group to: public
+ 
+[ Sat May 21 05:35:33 2016 ]=>  Haruhi Suzumiya? [212257536] requested SuperGroup Admins list
+ 
+[ Sat May 21 05:35:51 2016 ]=>  Haruhi Suzumiya? [212257536] promoted @haruhi_suzumiya
+ 
+[ Sat May 21 05:36:08 2016 ]=>  Haruhi Suzumiya? [212257536] promoted @Wifestealer
+ 
+[ Sat May 21 05:36:26 2016 ]=>  Haruhi Suzumiya? [212257536] promoted @Niropa
+ 
+[ Sat May 21 05:36:54 2016 ]=>  Haruhi Suzumiya? [212257536] promoted @shadylpstan
+ 
+[ Sat May 21 05:37:15 2016 ]=>  Haruhi Suzumiya? [212257536] promoted @sumit007s
+ 
+[ Sat May 21 05:37:34 2016 ]=>  Haruhi Suzumiya? [212257536] promoted @Brihanalla
+ 
+[ Sat May 21 05:37:56 2016 ]=>  Haruhi Suzumiya? [212257536] promoted @nilac8991
+ 
+[ Sat May 21 05:38:31 2016 ]=>  Haruhi Suzumiya?[212257536] set [45497179] as owner by username
+ 
+[ Sat May 21 07:13:20 2016 ]=>  Russiamen @Russiamen [146890709] kicked for #spam
+ 
+[ Sun May 22 03:26:39 2016 ]=>  Haruhi Suzumiya? [212257536] obtained id for: [202663697]
+ 
+[ Sun May 22 09:13:53 2016 ]=>  ıllıllı  Sumit  ıllıllı [211910282] attempted to create a new SuperGroup link
+ 
+[ Tue May 24 06:03:42 2016 ]=>  ıllıllı  Sumit  ıllıllı [211910282] requested ID for: @Wifestealer
+ 
+[ Tue May 24 06:04:06 2016 ]=>  Russiamen [146890709] requested ID for: @Russiamen
+ 
+[ Sun May 29 05:21:56 2016 ]=>  Russiamen @Russiamen [146890709] kicked for #spam
+ 
+[ Sun May 29 14:48:54 2016 ]=>  Haruhi Suzumiya? [212257536] requested group modlist
+ 
+[ Sun May 29 14:49:12 2016 ]=>  Haruhi Suzumiya? [212257536] promoted @Russiamen
+ 
+[ Tue Jun  7 15:46:22 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Tue Jun  7 15:47:14 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Tue Jun  7 17:39:15 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] left via kickme
+ 
+[ Tue Jun  7 17:39:33 2016 ]=>  Haruhi Suzumiya? [212257536] requested SuperGroup ID
+ 
+[ Tue Jun  7 20:12:46 2016 ]=>  Haruhi Suzumiya? [212257536] requested group modlist
+ 
+[ Thu Jun  9 12:57:00 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Jun  9 14:16:00 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Jun  9 14:17:32 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Jun  9 14:17:42 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Jun  9 14:19:19 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Jun  9 14:26:06 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Jun  9 14:31:30 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Jun  9 14:31:33 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Jun  9 14:33:06 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Jun  9 14:34:01 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Jun  9 14:34:18 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Jun  9 14:34:25 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Jun  9 14:34:27 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Jun  9 14:37:01 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Jun  9 14:39:24 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Jun  9 14:41:32 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Jun 11 02:34:03 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Jun 11 02:35:03 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Jun 11 02:50:32 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Jun 11 02:59:54 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Jun 11 03:05:42 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Jun 11 03:10:56 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Jun 11 03:18:05 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Jun 11 03:25:47 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Jun 11 03:26:47 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Jun 11 04:45:29 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Jun 11 07:55:37 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Jun 11 07:55:52 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Jun 11 07:56:49 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Jun 11 07:57:09 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Jun 11 07:58:08 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Jun 11 09:35:07 2016 ]=>  YoutubeMusic [217417183] is banned and kicked ! 
+ 
+[ Sat Jun 11 09:35:08 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 

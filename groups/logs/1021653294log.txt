@@ -1,0 +1,4 @@
+[ Tue May 24 06:45:45 2016 ]=>  Haruhi Suzumiya? [212257536] added SuperGroup
+ 
+[ Tue May 24 06:45:47 2016 ]=>  Haruhi Suzumiya? [212257536] requested SuperGroup ID
+ 

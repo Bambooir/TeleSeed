@@ -1,0 +1,48 @@
+[ Sun Jul  3 08:41:56 2016 ]=>  Haruhi Suzumiya [212257536] added SuperGroup
+ 
+[ Sun Jul  3 08:42:30 2016 ]=>  Haruhi Suzumiya[212257536] set [57839911] as owner by username
+ 
+[ Sun Jul  3 08:42:36 2016 ]=>  Haruhi Suzumiya [212257536] promoted @menachemH
+ 
+[ Sun Jul  3 08:42:42 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup Admins list
+ 
+[ Sun Jul  3 08:43:05 2016 ]=>  Haruhi Suzumiya [212257536] promoted user#id131021022
+ 
+[ Sun Jul  3 08:43:14 2016 ]=>  Haruhi Suzumiya [212257536] promoted @Anonyomous
+ 
+[ Sun Jul  3 08:43:29 2016 ]=>  Haruhi Suzumiya [212257536] promoted @bloodybonesgotohell
+ 
+[ Sun Jul  3 08:43:44 2016 ]=>  Haruhi Suzumiya [212257536] promoted @chaishai21
+ 
+[ Sun Jul  3 08:44:03 2016 ]=>  Haruhi Suzumiya [212257536] promoted @Tommcruise
+ 
+[ Sun Jul  3 08:44:27 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup Admins list
+ 
+[ Sun Jul  3 08:44:37 2016 ]=>  Haruhi Suzumiya [212257536] promoted @Ezpie
+ 
+[ Sun Jul  3 08:45:22 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup Admins list
+ 
+[ Sun Jul  3 08:45:46 2016 ]=>  Haruhi Suzumiya [212257536] promoted user#id90257597
+ 
+[ Sun Jul  3 08:46:05 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup Admins list
+ 
+[ Sun Jul  3 08:46:20 2016 ]=>  Haruhi Suzumiya [212257536] promoted @Arnold_Schwarzenegger
+ 
+[ Sun Jul  3 08:46:30 2016 ]=>  Haruhi Suzumiya [212257536] promoted @menachemH
+ 
+[ Sun Jul  3 08:46:44 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup settings 
+ 
+[ Sun Jul  3 08:59:52 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup Admins list
+ 
+[ Sun Jul  3 09:00:18 2016 ]=>  Haruhi Suzumiya [212257536] requested group modlist
+ 
+[ Sun Jul  3 09:00:18 2016 ]=>  Haruhi Suzumiya [212257536] requested group modlist
+ 
+[ Sun Jul  3 09:04:43 2016 ]=>  Menachem H [57839911] requested SuperGroup settings 
+ 
+[ Sun Jul  3 09:08:16 2016 ]=>  Menachem H [57839911] requested group rules
+ 
+[ Sun Jul  3 09:11:17 2016 ]=>  Menachem H [57839911] requested SuperGroup info
+ 
+[ Sun Jul  3 09:12:12 2016 ]=>  Menachem H [57839911] left via kickme
+ 

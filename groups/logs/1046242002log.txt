@@ -1,0 +1,66 @@
+[ Sat May 14 05:06:51 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] added SuperGroup
+ 
+[ Sat May 14 05:07:01 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA[190427743] set [79234896] as owner by username
+ 
+[ Sat May 14 05:07:11 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @Shay3979
+ 
+[ Sat May 14 05:07:19 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @SWEDI
+ 
+[ Sun May 15 13:26:26 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA Admin [206197460] added to the SuperGroup by [ 190427743 ]
+ 
+[ Sun May 15 13:27:07 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup settings 
+ 
+[ Sun May 15 13:27:21 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set group to: public
+ 
+[ Mon May 16 05:09:40 2016 ]=>  ＳＷＥＤł [37095765] requested SuperGroup settings 
+ 
+[ Tue May 17 11:42:16 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup users list
+ 
+[ Tue May 17 11:43:55 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] resolved username: @146699
+ 
+[ Tue May 17 11:44:04 2016 ]=>  Primarybotadmin長門有希?ゆきながと?ユキナガト?YukiNagato?O-ooooooooooAAAAE-A-A-I-A-U-JO-ooooooooooooAAE-O-A-A-U-U-A-E-eee-ee-eeeAAAAE-A-E-I-E-A-JO-ooo-oo-oo-ooEEEEO-A-AAA-AAAA [190427743] kicked user 146699
+ 
+[ Tue May 17 11:44:12 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Tue May 17 11:44:22 2016 ]=>  Primarybotadmin長門有希?ゆきながと?ユキナガト?YukiNagato?O-ooooooooooAAAAE-A-A-I-A-U-JO-ooooooooooooAAE-O-A-A-U-U-A-E-eee-ee-eeeAAAAE-A-E-I-E-A-JO-ooo-oo-oo-ooEEEEO-A-AAA-AAAA [190427743] kicked user 146699
+ 
+[ Thu May 19 14:22:17 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Sat May 21 19:16:31 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup settings 
+ 
+[ Mon May 23 04:50:50 2016 ]=>  Haruhi Suzumiya? [212257536] requested SuperGroup info
+ 
+[ Mon May 23 04:54:44 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Sat May 28 11:57:20 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Fri Jun 24 18:15:07 2016 ]=>  Haruhi Suzumiya Admin [59802458] added to the SuperGroup by [ 0 ]
+ 
+[ Thu Jun 30 01:44:33 2016 ]=>  DivyarajsinhSarvaiya [33740808] banned user is talking !
+ 
+[ Tue Jul 26 20:43:58 2016 ]=>  Jordan vitae odio [228860630] requested SuperGroup ID
+ 
+[ Fri Sep  2 03:05:11 2016 ]=>  Annu [229609127] kicked for #spam
+ 
+[ Fri Sep  2 03:05:11 2016 ]=>  Annu [229609127] kicked for #spam
+ 
+[ Fri Sep  2 03:05:13 2016 ]=>  Annu [229609127] banned user is talking !
+ 
+[ Fri Sep  2 03:05:14 2016 ]=>  Annu [229609127] banned user is talking !
+ 
+[ Fri Sep  2 03:05:15 2016 ]=>  Annu [229609127] banned user is talking !
+ 
+[ Fri Sep  2 03:05:15 2016 ]=>  Annu [229609127] banned user is talking !
+ 
+[ Fri Sep  2 03:05:15 2016 ]=>  Annu [229609127] banned user is talking !
+ 
+[ Fri Sep  2 03:05:16 2016 ]=>  Annu [229609127] banned user is talking !
+ 
+[ Fri Sep  2 03:05:19 2016 ]=>  Annu [229609127] banned user is talking !
+ 
+[ Wed Oct  5 23:22:19 2016 ]=>  Shay Yatim [79234896] requested SuperGroup info
+ 
+[ Sun Oct  9 07:18:11 2016 ]=>  Leib moss® [152031724] requested group rules
+ 
+[ Sat Oct 22 21:41:45 2016 ]=>  😎orel😎 [224457025] added a banned user >224457025
+ 

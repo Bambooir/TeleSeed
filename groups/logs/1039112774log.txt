@@ -1,0 +1,46 @@
+[ Sun Jul  3 14:19:28 2016 ]=>  Haruhi Suzumiya [212257536] added SuperGroup
+ 
+[ Sun Jul  3 14:19:55 2016 ]=>  Haruhi Suzumiya[212257536] set [124023741] as owner by username
+ 
+[ Sun Jul  3 14:20:14 2016 ]=>  Haruhi Suzumiya [212257536] promoted @Ya323
+ 
+[ Sun Jul  3 14:21:09 2016 ]=>  Ya [124023741] requested SuperGroup ID
+ 
+[ Mon Jul  4 02:46:04 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup settings 
+ 
+[ Mon Jul  4 02:46:47 2016 ]=>  Aryan [229473867] requested SuperGroup ID
+ 
+[ Mon Jul  4 02:47:47 2016 ]=>  Aryan [229473867] deleted a message by reply
+ 
+[ Mon Jul  4 02:47:56 2016 ]=>  Aryan [229473867] left via kickme
+ 
+[ Mon Jul  4 13:15:40 2016 ]=>  Haruhi Suzumiya [212257536] deleted a message by reply
+ 
+[ Sun Jul 24 03:28:31 2016 ]=>  Haruhi Suzumiya Admin [0] joined the SuperGroup via link
+ 
+[ Sun Jul 24 03:28:55 2016 ]=>  Haruhi Suzumiya Admin [190427743] added to the SuperGroup by [ 0 ]
+ 
+[ Sun Jul 24 03:29:46 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Sun Jul 24 22:33:58 2016 ]=>  Combot [210944655] banned user is talking !
+ 
+[ Sun Jul 24 22:34:13 2016 ]=>  Combot [210944655] banned user is talking !
+ 
+[ Sun Jul 24 22:34:44 2016 ]=>  Combot [210944655] banned user is talking !
+ 
+[ Sun Aug 14 11:30:57 2016 ]=>  ‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ Telegram Ads ✔️ ‌ ‌ [232073951] joined and Service Msg deleted (#spam name)
+ 
+[ Mon Aug 15 00:57:15 2016 ]=>  EliShube @elishube [252100986] kicked for #spam
+ 
+[ Mon Aug 15 06:32:44 2016 ]=>  LonkH [247273619] kicked for #spam
+ 
+[ Mon Aug 15 17:23:42 2016 ]=>  LonkH [247273619] kicked for #spam
+ 
+[ Tue Aug 30 04:47:55 2016 ]=>  AviPruzansky @Pruz116 [127847958] kicked for #spam
+ 
+[ Tue Sep 13 05:40:22 2016 ]=>  JACK @JACK123456 [233494462] kicked for #spam
+ 
+[ Mon Sep 19 22:32:45 2016 ]=>  JACK @JACK123456 [233494462] kicked for #spam
+ 
+[ Tue Sep 27 04:09:41 2016 ]=>  ☆☞ ͜͡͡ ℳ͜͡r͜͡.͜͡S͜͡み͜͡a͜͡ﾒ͜͡乙͜͡ʘ͜͡の͜͜͡ ௸ [150192566] joined and Service Msg deleted (#spam name)
+ 

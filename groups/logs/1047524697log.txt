@@ -1,0 +1,82 @@
+[ Sun Jun 12 08:30:59 2016 ]=>  Haruhi Suzumiya [212257536] added SuperGroup
+ 
+[ Sun Jun 12 08:31:27 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup ID
+ 
+[ Tue Jun 14 19:50:51 2016 ]=>  log file created by owner/support/admin
+ 
+[ Mon Jun 20 20:16:55 2016 ]=>  ι__т__'ѕ___м__є [112475575] tried to join English support
+ 
+[ Fri Jun 24 12:23:34 2016 ]=>  Haruhi Suzumiya [212257536] added SuperGroup
+ 
+[ Fri Jun 24 12:23:44 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup Admins list
+ 
+[ Sat Jun 25 07:47:40 2016 ]=>  Haruhi Suzumiya [212257536] added SuperGroup
+ 
+[ Sat Jun 25 07:47:46 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup bots list
+ 
+[ Sat Jul  9 03:48:42 2016 ]=>  EricSolinas [41400331] banned user is talking !
+ 
+[ Sat Jul  9 08:20:21 2016 ]=>  EricSolinas [41400331] banned user is talking !
+ 
+[ Sat Jul  9 08:21:08 2016 ]=>  EricSolinas [41400331] banned user is talking !
+ 
+[ Sat Jul  9 08:27:44 2016 ]=>  EricSolinas [41400331] banned user is talking !
+ 
+[ Sat Jul  9 09:11:03 2016 ]=>  EricSolinas [41400331] banned user is talking !
+ 
+[ Sat Jul  9 09:13:17 2016 ]=>  EricSolinas [41400331] banned user is talking !
+ 
+[ Mon Jul 11 10:02:22 2016 ]=>  EricSolinas [41400331] banned user is talking !
+ 
+[ Wed Jul 13 10:48:04 2016 ]=>  EricSolinas [41400331] banned user is talking !
+ 
+[ Wed Jul 13 10:48:41 2016 ]=>  EricSolinas [41400331] banned user is talking !
+ 
+[ Wed Jul 13 10:49:36 2016 ]=>  EricSolinas [41400331] banned user is talking !
+ 
+[ Wed Jul 13 11:04:43 2016 ]=>  EricSolinas [41400331] banned user is talking !
+ 
+[ Sun Jul 17 23:56:53 2016 ]=>  EricSolinas [41400331] banned user is talking !
+ 
+[ Mon Jul 18 00:04:17 2016 ]=>  EricSolinas [41400331] banned user is talking !
+ 
+[ Mon Jul 18 00:17:00 2016 ]=>  EricSolinas [41400331] banned user is talking !
+ 
+[ Mon Jul 18 00:33:48 2016 ]=>  ＨＥＡＲＴＢＬＥＥＤ @TheHeartBleed [210152609] kicked for #spam
+ 
+[ Tue Jul 19 20:07:49 2016 ]=>  Haruhi Suzumiya [212257536] added SuperGroup
+ 
+[ Tue Jul 19 20:08:03 2016 ]=>  Haruhi Suzumiya [212257536] requested ID for: @okabeh
+ 
+[ Tue Jul 19 22:43:59 2016 ]=>  EricSolinas [41400331] banned user is talking !
+ 
+[ Tue Jul 19 22:46:58 2016 ]=>  EricSolinas [41400331] banned user is talking !
+ 
+[ Tue Jul 19 23:18:00 2016 ]=>  Haruhi Suzumiya [212257536] added SuperGroup
+ 
+[ Wed Jul 20 00:49:05 2016 ]=>  EricSolinas [41400331] banned user is talking !
+ 
+[ Wed Jul 20 01:08:30 2016 ]=>  EricSolinas [41400331] banned user is talking !
+ 
+[ Wed Jul 20 01:08:38 2016 ]=>  EricSolinas [41400331] banned user is talking !
+ 
+[ Wed Jul 20 01:09:04 2016 ]=>  EricSolinas [41400331] banned user is talking !
+ 
+[ Wed Jul 20 01:11:09 2016 ]=>  EricSolinas [41400331] banned user is talking !
+ 
+[ Wed Jul 20 14:28:24 2016 ]=>  Daisuke :3 [249389252] unlocked RTL chars. in names
+ 
+[ Wed Jul 20 14:28:42 2016 ]=>  Daisuke :3 [249389252] requested SuperGroup settings 
+ 
+[ Wed Jul 20 16:27:53 2016 ]=>  EricSolinas [41400331] banned user is talking !
+ 
+[ Thu Jul 21 23:41:21 2016 ]=>  EricSolinas [41400331] banned user is talking !
+ 
+[ Thu Jul 21 23:46:15 2016 ]=>  EricSolinas [41400331] banned user is talking !
+ 
+[ Thu Jul 21 23:48:48 2016 ]=>  EricSolinas [41400331] banned user is talking !
+ 
+[ Fri Jul 22 01:44:00 2016 ]=>  Arman [102490691] requested SuperGroup ID
+ 
+[ Fri Jul 22 01:52:01 2016 ]=>  Arman [102490691] requested SuperGroup ID
+ 

@@ -1,0 +1,4 @@
+[ Mon May  2 12:52:44 2016 ]=>  Bot_admin_2 [161472020] deleted user  user#id161472020
+ 
+[ Mon May  2 13:53:26 2016 ]=>  Haruhi_Suzumiya? [0] deleted user  user#id212257536
+ 

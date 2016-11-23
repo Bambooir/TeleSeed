@@ -1,0 +1,16 @@
+[ Thu Jun 30 00:36:38 2016 ]=>  Haruhi Suzumiya [212257536] added SuperGroup
+ 
+[ Thu Jun 30 00:36:58 2016 ]=>  Haruhi Suzumiya[212257536] set [219050457] as owner by username
+ 
+[ Thu Jun 30 00:37:03 2016 ]=>  Haruhi Suzumiya [212257536] promoted @enjoy_yourcoffee
+ 
+[ Thu Jun 30 00:37:08 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup settings 
+ 
+[ Thu Jun 30 00:37:50 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup Admins list
+ 
+[ Thu Jun 30 00:38:02 2016 ]=>  Haruhi Suzumiya [212257536] promoted user#id212257536
+ 
+[ Thu Jun 30 00:38:22 2016 ]=>  Haruhi Suzumiya [212257536] promoted user#id154855699
+ 
+[ Thu Jun 30 00:38:44 2016 ]=>  Haruhi Suzumiya [212257536] promoted user#id152031724
+ 

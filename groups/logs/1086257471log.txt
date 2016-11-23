@@ -1,0 +1,48 @@
+[ Mon Sep 12 01:21:18 2016 ]=>  涼宮ハルヒ ちゃん [212257536] added SuperGroup
+ 
+[ Mon Sep 12 01:21:33 2016 ]=>  涼宮ハルヒ ちゃん [212257536] attempted to create a new SuperGroup link
+ 
+[ Mon Sep 12 01:21:38 2016 ]=>  涼宮ハルヒ ちゃん [212257536] locked member 
+ 
+[ Mon Sep 12 01:21:44 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group link [https://telegram.me/joinchat/DKbLAEC--T9fGyDKOcSUnQ]
+ 
+[ Mon Sep 12 01:24:19 2016 ]=>  Brandon [150606974] set: [150606974] as admin by reply
+ 
+[ Mon Sep 12 01:26:17 2016 ]=>  Bot admin 2 [161472020] set: [161472020] as admin by reply
+ 
+[ Mon Sep 12 01:34:56 2016 ]=>  Mipirakas M Admin [56481093] joined the SuperGroup via link
+ 
+[ Mon Sep 12 01:35:38 2016 ]=>  涼宮ハルヒ ちゃん [212257536] started setting new SuperGroup photo
+ 
+[ Mon Sep 12 01:36:00 2016 ]=>  涼宮ハルヒ ちゃん [212257536] set new SuperGroup photo
+ 
+[ Mon Sep 12 01:36:49 2016 ]=>  Anonymous People Admin [92744695] added to the SuperGroup by [ 229473867 ]
+ 
+[ Mon Sep 12 01:37:55 2016 ]=>  Sameer Granvizir Admin [107245081] joined the SuperGroup via link
+ 
+[ Mon Sep 12 01:40:19 2016 ]=>  Kawaii Starfish ⭐️🐠 [206197460] set: [206197460] as admin by reply
+ 
+[ Mon Sep 12 01:40:51 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set: [107245081] as admin by reply
+ 
+[ Mon Sep 12 01:41:08 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA Admin [179416267] added to the SuperGroup by [ 190427743 ]
+ 
+[ Mon Sep 12 01:41:13 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA Admin [159315022] added to the SuperGroup by [ 190427743 ]
+ 
+[ Mon Sep 12 01:41:18 2016 ]=>  Sameer Granvizir [107245081] set: [107245081] as admin by reply
+ 
+[ Mon Sep 12 01:41:49 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested group link [https://telegram.me/joinchat/DKbLAEC--T9fGyDKOcSUnQ]
+ 
+[ Mon Sep 12 01:42:04 2016 ]=>  Erich M User [138802752] joined and kicked (#lockmember)
+ 
+[ Mon Sep 12 01:42:15 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA Admin [238029142] added to the SuperGroup by [ 190427743 ]
+ 
+[ Mon Sep 12 01:43:28 2016 ]=>  涼宮ハルヒ ちゃん Admin [116004047] added to the SuperGroup by [ 0 ]
+ 
+[ Mon Sep 12 01:44:49 2016 ]=>  涼宮ハルヒ ちゃん Admin [118506289] added to the SuperGroup by [ 0 ]
+ 
+[ Mon Sep 12 01:47:21 2016 ]=>  涼宮ハルヒ ちゃん Admin [167297504] added to the SuperGroup by [ 0 ]
+ 
+[ Mon Sep 12 01:49:57 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup users list
+ 
+[ Fri Sep 30 18:36:41 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested ID for: @The_DarkBeast
+ 

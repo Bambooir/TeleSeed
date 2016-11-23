@@ -1,0 +1,24 @@
+[ Sat Aug 20 15:23:08 2016 ]=>  LabForex @LabForex [119558159] kicked for #spam
+ 
+[ Fri Sep 23 01:49:35 2016 ]=>  Sandi [39178288] added a banned user >210944655
+ 
+[ Fri Sep 23 01:49:37 2016 ]=>  Combot [210944655] banned user is talking !
+ 
+[ Fri Sep 23 01:49:38 2016 ]=>  Combot [210944655] banned user is talking !
+ 
+[ Fri Sep 23 01:51:19 2016 ]=>  Combot [210944655] banned user is talking !
+ 
+[ Fri Sep 23 02:23:15 2016 ]=>  Combot [210944655] banned user is talking !
+ 
+[ Fri Sep 23 03:04:04 2016 ]=>  Combot [210944655] banned user is talking !
+ 
+[ Mon Oct  3 10:04:23 2016 ]=>  Kalim [158742919] banned user is talking !
+ 
+[ Mon Oct  3 10:05:33 2016 ]=>  Kalim [158742919] banned user is talking !
+ 
+[ Mon Oct  3 10:05:35 2016 ]=>  Kalim [158742919] banned user is talking !
+ 
+[ Mon Oct  3 10:05:54 2016 ]=>  Kalim [158742919] banned user is talking !
+ 
+[ Wed Oct 12 14:52:25 2016 ]=>  ElfindaN. [143647252] added a banned user >117099167
+ 

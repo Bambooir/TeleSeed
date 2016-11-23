@@ -1,0 +1,16 @@
+[ Sat Nov  5 16:03:57 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] added SuperGroup
+ 
+[ Sat Nov  5 16:04:00 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup settings 
+ 
+[ Sat Nov  5 16:04:07 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] locked link posting 
+ 
+[ Sat Nov  5 16:05:55 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] locked arabic 
+ 
+[ Sat Nov  5 16:06:55 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] locked sticker posting
+ 
+[ Sat Nov  5 16:08:59 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] locked enabled strict settings
+ 
+[ Sat Nov  5 16:09:12 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] locked sticker posting
+ 
+[ Sat Nov  5 16:13:24 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup muteslist
+ 

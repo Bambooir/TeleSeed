@@ -1,0 +1,918 @@
+[ Sat May 28 08:06:01 2016 ]=>  Haruhi Suzumiya? [212257536] added SuperGroup
+ 
+[ Sat May 28 08:06:07 2016 ]=>  Haruhi Suzumiya? [212257536] requested SuperGroup users list
+ 
+[ Thu Jul 28 00:42:07 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Thu Jul 28 00:42:15 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Thu Jul 28 00:42:19 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Thu Jul 28 00:42:22 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Thu Jul 28 00:42:28 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Thu Jul 28 00:44:23 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Thu Jul 28 00:44:25 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Thu Jul 28 00:44:49 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Thu Jul 28 00:45:14 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Thu Jul 28 06:25:46 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Fri Jul 29 03:34:55 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Sat Jul 30 15:38:02 2016 ]=>  AshokS [184161085] banned user is talking !
+ 
+[ Sat Jul 30 15:38:11 2016 ]=>  AshokS [184161085] banned user is talking !
+ 
+[ Sat Jul 30 15:47:02 2016 ]=>  AshokS [184161085] banned user is talking !
+ 
+[ Sat Jul 30 15:48:31 2016 ]=>  AshokS [184161085] banned user is talking !
+ 
+[ Sat Jul 30 15:52:17 2016 ]=>  AshokS [184161085] banned user is talking !
+ 
+[ Sat Jul 30 15:52:29 2016 ]=>  AshokS [184161085] banned user is talking !
+ 
+[ Sat Jul 30 15:56:30 2016 ]=>  AshokS [184161085] banned user is talking !
+ 
+[ Sat Jul 30 18:25:58 2016 ]=>  AshokS [184161085] banned user is talking !
+ 
+[ Sat Jul 30 18:48:14 2016 ]=>  AshokS [184161085] banned user is talking !
+ 
+[ Sat Jul 30 18:48:23 2016 ]=>  AshokS [184161085] banned user is talking !
+ 
+[ Sat Jul 30 20:10:00 2016 ]=>  mido [163502394] added a banned user >176365905
+ 
+[ Sat Jul 30 20:25:06 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Jul 30 20:25:10 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Jul 30 21:22:53 2016 ]=>  AshokS [184161085] banned user is talking !
+ 
+[ Sat Jul 30 21:22:58 2016 ]=>  AshokS [184161085] banned user is talking !
+ 
+[ Sat Jul 30 21:23:15 2016 ]=>  AshokS [184161085] banned user is talking !
+ 
+[ Sat Jul 30 21:23:25 2016 ]=>  AshokS [184161085] banned user is talking !
+ 
+[ Sat Jul 30 21:27:51 2016 ]=>  AshokS [184161085] banned user is talking !
+ 
+[ Sat Jul 30 21:28:15 2016 ]=>  AshokS [184161085] banned user is talking !
+ 
+[ Sat Jul 30 22:13:03 2016 ]=>  AshokS [184161085] banned user is talking !
+ 
+[ Sat Jul 30 22:13:22 2016 ]=>  AshokS [184161085] banned user is talking !
+ 
+[ Mon Aug  1 12:15:15 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Aug  1 12:17:50 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Aug  1 12:20:29 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Aug  1 12:20:51 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Aug  1 12:21:46 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Aug  1 12:52:05 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Aug  1 13:16:27 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Aug  1 14:13:46 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Aug  1 15:46:38 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Aug  1 17:14:19 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Aug  1 17:19:21 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Aug  1 17:33:11 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Aug  2 01:43:38 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Tue Aug  2 01:43:48 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Tue Aug  2 01:44:44 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Tue Aug  2 01:44:49 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Tue Aug  2 01:44:54 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Tue Aug  2 01:45:08 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Tue Aug  2 01:45:21 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Tue Aug  2 01:45:28 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Tue Aug  2 02:06:22 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Tue Aug  2 02:06:31 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Tue Aug  2 02:06:38 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Tue Aug  2 02:06:47 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Tue Aug  2 02:07:09 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Tue Aug  2 02:07:18 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Tue Aug  2 02:08:57 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Tue Aug  2 02:09:43 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Tue Aug  2 02:09:48 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Tue Aug  2 02:10:04 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Tue Aug  2 07:45:22 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Tue Aug  2 07:45:27 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Tue Aug  2 07:46:10 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Tue Aug  2 11:08:02 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Aug  2 13:09:25 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Aug  2 18:38:27 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Tue Aug  2 18:38:40 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Tue Aug  2 18:38:42 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Tue Aug  2 18:38:44 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Thu Aug  4 22:25:17 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Aug  4 22:25:27 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Aug  4 22:28:40 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Aug  4 23:08:17 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Aug  4 23:14:16 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Aug  4 23:55:32 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Aug  4 23:56:11 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Aug  5 01:05:10 2016 ]=>  RajaM [150872534] banned user is talking !
+ 
+[ Fri Aug  5 02:15:16 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Aug  5 15:48:43 2016 ]=>  Shakespeare [162963572] added a banned user >162963572
+ 
+[ Fri Aug  5 15:50:42 2016 ]=>  涼宮ハルヒ ちゃん [212257536] added SuperGroup
+ 
+[ Fri Aug  5 15:50:55 2016 ]=>  涼宮ハルヒ ちゃん [212257536] has changed group rules to [ENGLISH ONLY, There's no translate button
+
+1. No harassment, racism, insults etc. whatsoever
+
+2. Please keep the discussion civil. Have a problem with someone, take it elsewhere or leave.
+
+3. DO NOT post links to other Telegram groups without permission from an Admin
+
+4. Keep your hate of certain ROMs to yourself 
+
+5. Stop sending same messages again and again just to get attention
+
+Voiding any of the one will get you kicked/banned/warned according to Admin's mood]
+ 
+[ Fri Aug  5 15:51:01 2016 ]=>  Shakespeare [162963572] banned user is talking !
+ 
+[ Fri Aug  5 15:51:24 2016 ]=>  Shakespeare [162963572] banned user is talking !
+ 
+[ Fri Aug  5 15:51:40 2016 ]=>  Shakespeare [162963572] banned user is talking !
+ 
+[ Fri Aug  5 15:52:09 2016 ]=>  Shakespeare [162963572] banned user is talking !
+ 
+[ Fri Aug  5 15:52:23 2016 ]=>  Shakespeare [162963572] banned user is talking !
+ 
+[ Fri Aug  5 15:53:34 2016 ]=>  Shakespeare [162963572] banned user is talking !
+ 
+[ Fri Aug  5 15:54:27 2016 ]=>  Shakespeare [162963572] banned user is talking !
+ 
+[ Fri Aug  5 19:04:23 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Aug  6 18:35:45 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Aug  6 18:36:05 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Aug  6 18:43:38 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Aug  6 20:00:20 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Aug  6 23:35:23 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Aug  7 13:32:23 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Aug  8 20:25:55 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Aug  8 22:30:39 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Aug  8 22:31:03 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Aug  9 04:08:02 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Aug  9 16:56:08 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Aug 10 00:36:59 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Aug 10 01:20:54 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Aug 10 01:21:20 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Aug 10 13:44:42 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Aug 10 19:09:38 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Aug 11 02:53:38 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Aug 11 02:54:26 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Aug 11 02:55:29 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Aug 11 02:56:22 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Aug 11 03:21:11 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Aug 11 03:56:22 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Aug 11 04:16:56 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Aug 11 04:17:44 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Aug 11 04:18:41 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Aug 11 04:22:07 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Aug 11 04:23:49 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Aug 11 04:26:45 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Aug 11 04:28:49 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Aug 11 04:29:16 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Aug 11 04:29:45 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Aug 11 04:30:41 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Aug 11 04:31:10 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Aug 11 04:33:10 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Aug 11 04:35:16 2016 ]=>  Nils [182143868] left via kickme
+ 
+[ Thu Aug 11 04:35:59 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Aug 11 08:33:01 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Aug 11 09:16:09 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Aug 11 20:25:53 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Aug 11 20:52:37 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Aug 11 20:53:43 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Aug 11 22:02:16 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Aug 12 00:02:52 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Aug 12 02:13:10 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Aug 12 18:54:31 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Aug 12 18:54:56 2016 ]=>  Nils [182143868] requested group rules
+ 
+[ Fri Aug 12 18:55:25 2016 ]=>  log file created by owner/support/admin
+ 
+[ Fri Aug 12 19:07:25 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Fri Aug 12 19:07:27 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Aug 12 19:33:46 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Aug 15 17:38:57 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Aug 15 18:24:10 2016 ]=>  GoGoT v 1.1 [203607788] requested group rules
+ 
+[ Mon Aug 15 18:24:12 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Aug 15 18:44:40 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Aug 15 19:45:04 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Aug 15 22:15:24 2016 ]=>  Primary_bot_admin_長門_有希?_ゆき_ながと?_ユキ_ナガト?_Yuki_Nagato?_O-oooooooooo_AAAAE-A-A-I-A-U-_JO-oooooooooooo_AAE-O-A-A-U-U-A-_E-eee-ee-eee_AAAAE-A-E-I-E-A-_JO-ooo-oo-oo-oo_EEEEO-A-AAA-AAAA [190427743] used /get signal
+ 
+[ Tue Aug 16 12:08:01 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Aug 16 12:08:10 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Aug 16 14:36:48 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Aug 16 15:12:20 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Aug 16 15:13:16 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Aug 16 15:27:44 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Aug 17 15:44:33 2016 ]=>  Meeta [162963572] banned user is talking !
+ 
+[ Wed Aug 17 20:41:41 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Aug 19 15:52:21 2016 ]=>  Meeta [162963572] banned user is talking !
+ 
+[ Fri Aug 19 16:18:57 2016 ]=>  Meeta [162963572] banned user is talking !
+ 
+[ Fri Aug 19 16:47:04 2016 ]=>  Meeta [162963572] banned user is talking !
+ 
+[ Fri Aug 19 16:47:14 2016 ]=>  Meeta [162963572] banned user is talking !
+ 
+[ Fri Aug 19 18:08:45 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Aug 19 18:38:21 2016 ]=>  Meeta [162963572] banned user is talking !
+ 
+[ Fri Aug 19 18:39:09 2016 ]=>  Meeta [162963572] banned user is talking !
+ 
+[ Fri Aug 19 18:42:31 2016 ]=>  Meeta [162963572] banned user is talking !
+ 
+[ Fri Aug 19 18:42:49 2016 ]=>  Meeta [162963572] banned user is talking !
+ 
+[ Fri Aug 19 18:42:57 2016 ]=>  Meeta [162963572] banned user is talking !
+ 
+[ Fri Aug 19 18:46:20 2016 ]=>  Meeta [162963572] banned user is talking !
+ 
+[ Sun Aug 21 17:45:46 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Aug 22 00:49:54 2016 ]=>  hazelgrace [162963572] banned user is talking !
+ 
+[ Mon Aug 22 00:56:11 2016 ]=>  hazelgrace [162963572] banned user is talking !
+ 
+[ Tue Aug 23 12:08:38 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Aug 24 01:53:01 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Aug 24 05:45:24 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Aug 27 16:43:14 2016 ]=>  Vic [162963572] banned user is talking !
+ 
+[ Sat Aug 27 16:55:44 2016 ]=>  Vic [162963572] banned user is talking !
+ 
+[ Sun Aug 28 00:56:03 2016 ]=>  Vic [162963572] banned user is talking !
+ 
+[ Sun Aug 28 00:57:02 2016 ]=>  Vic [162963572] banned user is talking !
+ 
+[ Sun Aug 28 01:04:33 2016 ]=>  Vic [162963572] banned user is talking !
+ 
+[ Sun Aug 28 01:08:36 2016 ]=>  Vic [162963572] banned user is talking !
+ 
+[ Wed Aug 31 08:11:09 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Sep  4 00:45:03 2016 ]=>  Vic [162963572] banned user is talking !
+ 
+[ Sun Sep  4 16:21:23 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Sep  4 20:56:40 2016 ]=>  Vic [162963572] banned user is talking !
+ 
+[ Sun Sep  4 20:57:07 2016 ]=>  Vic [162963572] banned user is talking !
+ 
+[ Sun Sep  4 20:57:07 2016 ]=>  Vic [162963572] banned user is talking !
+ 
+[ Sun Sep  4 20:57:07 2016 ]=>  Vic [162963572] banned user is talking !
+ 
+[ Sun Sep  4 20:57:07 2016 ]=>  Vic [162963572] banned user is talking !
+ 
+[ Sun Sep  4 20:57:08 2016 ]=>  Vic [162963572] banned user is talking !
+ 
+[ Sun Sep  4 20:57:10 2016 ]=>  Vic [162963572] banned user is talking !
+ 
+[ Sun Sep  4 21:00:07 2016 ]=>  Vic [162963572] banned user is talking !
+ 
+[ Sun Sep  4 23:43:24 2016 ]=>  Vic [162963572] banned user is talking !
+ 
+[ Tue Sep  6 03:31:59 2016 ]=>  🇬3°3🇰 [101952947] added a banned user >101952947
+ 
+[ Tue Sep  6 03:32:01 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Sep  6 03:32:35 2016 ]=>  🇬3°3🇰 [101952947] banned user is talking !
+ 
+[ Tue Sep  6 03:32:47 2016 ]=>  🇬3°3🇰 [101952947] banned user is talking !
+ 
+[ Tue Sep  6 03:32:59 2016 ]=>  🇬3°3🇰 [101952947] banned user is talking !
+ 
+[ Tue Sep  6 03:35:53 2016 ]=>  🇬3°3🇰 [101952947] banned user is talking !
+ 
+[ Tue Sep  6 03:36:45 2016 ]=>  🇬3°3🇰 [101952947] banned user is talking !
+ 
+[ Tue Sep  6 09:38:54 2016 ]=>  🇬3°3🇰 [101952947] banned user is talking !
+ 
+[ Tue Sep  6 23:37:43 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Sep  6 23:38:19 2016 ]=>  Илия Читалов [118873123] requested group rules
+ 
+[ Wed Sep  7 01:00:09 2016 ]=>  涼宮ハルヒ ちゃん [212257536] has changed group rules to [ENGLISH ONLY, There's no translate button
+
+1. No harassment, racism, insults etc. whatsoever
+
+2. Please keep the discussion civil. Have a problem with someone, take it elsewhere or leave.
+
+3. DO NOT post links to other Telegram groups without permission from an Admin
+
+4. Keep your hate of certain ROMs to yourself 
+
+5. Stop sending same messages again and again just to get attention
+
+Voiding any of the one will get you kicked/banned/warned according to Admin's period
+
+(Fuck you shreesha)]
+ 
+[ Wed Sep  7 21:45:11 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Sep  8 15:15:16 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Sep  8 16:57:03 2016 ]=>  Ray [12097022] requested group rules
+ 
+[ Wed Sep 14 22:03:50 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Sep 15 19:27:57 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Sep 17 01:04:42 2016 ]=>  Evokkimus @sayshereuralilbitch [171053134] kicked for #spam
+ 
+[ Sun Sep 18 11:27:35 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Sep 18 11:28:23 2016 ]=>  Hadirul Haiqal [2841112] requested group rules
+ 
+[ Sun Sep 18 12:56:25 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Sep 18 15:28:23 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Sep 18 15:28:43 2016 ]=>  Rehan Ali [52542415] requested group rules
+ 
+[ Sun Sep 18 15:42:39 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Sep 18 15:46:55 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Sep 18 15:53:21 2016 ]=>  Ashok S [184161085] requested group rules
+ 
+[ Sun Sep 18 15:53:34 2016 ]=>  Ashok S [184161085] requested group rules
+ 
+[ Sun Sep 18 15:55:32 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Sep 20 13:29:48 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Sep 20 14:39:22 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Sep 20 14:41:03 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Sep 20 14:41:09 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Sep 25 12:27:16 2016 ]=>  mido [163502394] requested group rules
+ 
+[ Tue Sep 27 11:30:26 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Oct  3 14:51:55 2016 ]=>  Rohan [162889325] requested group rules
+ 
+[ Thu Oct  6 14:46:08 2016 ]=>  mido [163502394] added a banned user >85073719
+ 
+[ Fri Oct  7 09:12:07 2016 ]=>  DaveySrZeKungFürher [85073719] banned user is talking !
+ 
+[ Fri Oct  7 12:10:29 2016 ]=>  Daveo [85073719] banned user is talking !
+ 
+[ Fri Oct  7 12:11:11 2016 ]=>  Daveo [85073719] banned user is talking !
+ 
+[ Fri Oct  7 12:13:49 2016 ]=>  Daveo [85073719] banned user is talking !
+ 
+[ Fri Oct  7 12:13:51 2016 ]=>  Daveo [85073719] banned user is talking !
+ 
+[ Fri Oct  7 12:13:59 2016 ]=>  Daveo [85073719] banned user is talking !
+ 
+[ Fri Oct  7 15:46:15 2016 ]=>  Daveyizfake [85073719] banned user is talking !
+ 
+[ Sun Oct  9 17:31:23 2016 ]=>  DaveyThePirate [85073719] banned user is talking !
+ 
+[ Sun Oct  9 17:31:49 2016 ]=>  DaveyThePirate [85073719] banned user is talking !
+ 
+[ Sun Oct  9 17:32:00 2016 ]=>  DaveyThePirate [85073719] banned user is talking !
+ 
+[ Sun Oct  9 17:34:39 2016 ]=>  DaveyThePirate [85073719] banned user is talking !
+ 
+[ Sun Oct  9 17:35:57 2016 ]=>  DaveyThePirate [85073719] banned user is talking !
+ 
+[ Sun Oct  9 17:36:23 2016 ]=>  DaveyThePirate [85073719] banned user is talking !
+ 
+[ Sun Oct  9 17:36:45 2016 ]=>  DaveyThePirate [85073719] banned user is talking !
+ 
+[ Sun Oct  9 17:37:24 2016 ]=>  DaveyThePirate [85073719] banned user is talking !
+ 
+[ Mon Oct 10 07:16:58 2016 ]=>  DaveyThePirate [85073719] banned user is talking !
+ 
+[ Mon Oct 10 07:17:05 2016 ]=>  DaveyThePirate [85073719] banned user is talking !
+ 
+[ Mon Oct 10 07:17:09 2016 ]=>  DaveyThePirate [85073719] banned user is talking !
+ 
+[ Mon Oct 10 08:30:24 2016 ]=>  DaveyThePirate [85073719] banned user is talking !
+ 
+[ Mon Oct 10 17:31:48 2016 ]=>  DaveyThePirate [85073719] banned user is talking !
+ 
+[ Tue Oct 11 10:19:01 2016 ]=>  gitgud [85073719] banned user is talking !
+ 
+[ Tue Oct 11 10:19:03 2016 ]=>  gitgud [85073719] banned user is talking !
+ 
+[ Tue Oct 11 10:19:13 2016 ]=>  gitgud [85073719] banned user is talking !
+ 
+[ Tue Oct 11 10:19:17 2016 ]=>  gitgud [85073719] banned user is talking !
+ 
+[ Tue Oct 11 10:27:54 2016 ]=>  gitgud [85073719] banned user is talking !
+ 
+[ Tue Oct 11 10:28:14 2016 ]=>  gitgud [85073719] banned user is talking !
+ 
+[ Tue Oct 11 10:28:44 2016 ]=>  gitgud [85073719] banned user is talking !
+ 
+[ Tue Oct 11 10:29:30 2016 ]=>  gitgud [85073719] banned user is talking !
+ 
+[ Tue Oct 11 10:29:33 2016 ]=>  gitgud [85073719] banned user is talking !
+ 
+[ Tue Oct 11 10:30:09 2016 ]=>  gitgud [85073719] banned user is talking !
+ 
+[ Tue Oct 11 10:30:12 2016 ]=>  gitgud [85073719] banned user is talking !
+ 
+[ Tue Oct 11 10:30:20 2016 ]=>  gitgud [85073719] banned user is talking !
+ 
+[ Tue Oct 11 10:30:36 2016 ]=>  gitgud [85073719] banned user is talking !
+ 
+[ Tue Oct 11 10:30:38 2016 ]=>  gitgud [85073719] banned user is talking !
+ 
+[ Tue Oct 11 10:30:47 2016 ]=>  gitgud [85073719] banned user is talking !
+ 
+[ Tue Oct 11 10:30:56 2016 ]=>  gitgud [85073719] banned user is talking !
+ 
+[ Tue Oct 11 10:30:59 2016 ]=>  gitgud [85073719] banned user is talking !
+ 
+[ Tue Oct 11 10:34:18 2016 ]=>  gitgud [85073719] banned user is talking !
+ 
+[ Tue Oct 11 10:34:19 2016 ]=>  gitgud [85073719] banned user is talking !
+ 
+[ Tue Oct 11 10:34:21 2016 ]=>  gitgud [85073719] banned user is talking !
+ 
+[ Wed Oct 12 06:38:30 2016 ]=>  gitgud [85073719] banned user is talking !
+ 
+[ Wed Oct 12 07:59:51 2016 ]=>  gitgud [85073719] banned user is talking !
+ 
+[ Thu Oct 13 11:44:17 2016 ]=>  gitgud [85073719] banned user is talking !
+ 
+[ Thu Oct 13 11:44:20 2016 ]=>  gitgud [85073719] banned user is talking !
+ 
+[ Thu Oct 13 18:24:07 2016 ]=>  gitgud [85073719] banned user is talking !
+ 
+[ Fri Oct 14 13:05:35 2016 ]=>  hotsacks [85073719] banned user is talking !
+ 
+[ Fri Oct 14 13:06:35 2016 ]=>  hotsacks [85073719] banned user is talking !
+ 
+[ Fri Oct 14 16:48:55 2016 ]=>  hotsacks [85073719] banned user is talking !
+ 
+[ Fri Oct 14 16:49:37 2016 ]=>  hotsacks [85073719] banned user is talking !
+ 
+[ Fri Oct 14 16:49:47 2016 ]=>  hotsacks [85073719] banned user is talking !
+ 
+[ Fri Oct 14 16:49:50 2016 ]=>  hotsacks [85073719] banned user is talking !
+ 
+[ Fri Oct 14 16:50:38 2016 ]=>  hotsacks [85073719] banned user is talking !
+ 
+[ Sat Oct 15 07:37:59 2016 ]=>  hotsax [85073719] banned user is talking !
+ 
+[ Sat Oct 15 07:39:10 2016 ]=>  hotsax [85073719] banned user is talking !
+ 
+[ Sat Oct 15 07:39:28 2016 ]=>  hotsax [85073719] banned user is talking !
+ 
+[ Sun Oct 16 06:43:38 2016 ]=>  annoyingname [85073719] banned user is talking !
+ 
+[ Sun Oct 16 13:10:07 2016 ]=>  GokulBalram [85073719] banned user is talking !
+ 
+[ Sun Oct 16 13:10:38 2016 ]=>  GokulBalram [85073719] banned user is talking !
+ 
+[ Sun Oct 16 13:10:48 2016 ]=>  GokulBalram [85073719] banned user is talking !
+ 
+[ Sun Oct 16 13:10:52 2016 ]=>  GokulBalram [85073719] banned user is talking !
+ 
+[ Sun Oct 16 13:11:29 2016 ]=>  GokulBalram [85073719] banned user is talking !
+ 
+[ Sun Oct 16 13:11:30 2016 ]=>  GokulBalram [85073719] banned user is talking !
+ 
+[ Sun Oct 16 13:11:51 2016 ]=>  GokulBalram [85073719] banned user is talking !
+ 
+[ Sun Oct 16 16:58:08 2016 ]=>  GokulBalram [85073719] banned user is talking !
+ 
+[ Mon Oct 17 04:53:42 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 17 04:54:13 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 17 04:54:31 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 17 07:30:18 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 17 07:31:07 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 17 07:31:48 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 17 07:31:54 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 17 07:32:11 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 17 07:32:12 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 17 14:05:55 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 17 14:13:43 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 17 14:14:00 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 17 14:16:12 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 17 14:16:29 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 17 14:17:33 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 17 14:17:44 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 17 14:18:00 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 17 14:18:07 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 17 14:18:17 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 17 14:19:02 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 17 14:19:15 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 17 14:19:19 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 17 14:19:37 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 17 14:20:55 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 17 14:21:04 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 17 14:21:45 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 17 14:21:58 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 17 14:22:05 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 17 14:22:09 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 17 14:22:15 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 17 14:28:16 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 17 14:28:24 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 17 20:00:47 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Tue Oct 18 13:15:14 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Tue Oct 18 16:34:15 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Tue Oct 18 16:59:56 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Tue Oct 18 17:00:10 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Wed Oct 19 05:05:50 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Wed Oct 19 05:05:53 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Wed Oct 19 05:06:04 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Wed Oct 19 06:10:12 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Wed Oct 19 06:11:37 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Wed Oct 19 06:12:09 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Wed Oct 19 06:39:18 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Wed Oct 19 06:46:54 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Wed Oct 19 19:05:59 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Wed Oct 19 19:06:27 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Wed Oct 19 19:09:23 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Wed Oct 19 19:09:25 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Wed Oct 19 19:09:53 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Wed Oct 19 19:09:57 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Wed Oct 19 19:10:02 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Wed Oct 19 19:14:51 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Wed Oct 19 19:15:56 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Wed Oct 19 19:16:10 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Wed Oct 19 19:16:25 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Wed Oct 19 19:16:27 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Fri Oct 21 05:53:47 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Fri Oct 21 07:12:15 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Fri Oct 21 15:21:34 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Fri Oct 21 15:21:39 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Fri Oct 21 15:22:17 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Fri Oct 21 15:23:41 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Fri Oct 21 16:33:51 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Fri Oct 21 16:34:16 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Fri Oct 21 16:35:07 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Fri Oct 21 16:35:09 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Fri Oct 21 16:36:53 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Fri Oct 21 16:37:00 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Fri Oct 21 16:37:09 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Fri Oct 21 16:38:24 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Fri Oct 21 16:38:51 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Fri Oct 21 16:41:10 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Fri Oct 21 16:41:17 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Fri Oct 21 16:42:39 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Fri Oct 21 16:44:03 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Fri Oct 21 16:44:14 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Fri Oct 21 16:44:25 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Fri Oct 21 16:44:36 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Fri Oct 21 16:46:36 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Fri Oct 21 16:46:42 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Fri Oct 21 16:46:44 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 24 11:47:15 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 24 11:47:17 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 24 12:18:42 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 24 16:20:55 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 24 16:20:59 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 24 16:21:34 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 24 16:21:51 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 24 16:21:53 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 24 16:22:17 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 24 16:22:54 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 24 16:23:40 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Mon Oct 24 18:53:13 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Tue Oct 25 06:38:58 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Tue Oct 25 06:38:59 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Tue Oct 25 06:39:01 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Tue Oct 25 06:39:05 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Tue Oct 25 06:39:37 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Tue Oct 25 07:14:02 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Tue Oct 25 07:14:19 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Tue Oct 25 07:14:24 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Tue Oct 25 07:14:49 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Tue Oct 25 07:14:56 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Tue Oct 25 07:15:04 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Tue Oct 25 07:15:06 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Tue Oct 25 07:17:54 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Tue Oct 25 07:18:51 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Tue Oct 25 07:18:53 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Tue Oct 25 07:19:50 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Tue Oct 25 07:19:51 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Tue Oct 25 07:21:55 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Tue Oct 25 07:22:10 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Tue Oct 25 10:42:31 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Tue Oct 25 12:42:14 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Tue Oct 25 12:42:16 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Tue Oct 25 12:47:56 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Wed Oct 26 13:12:10 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Wed Oct 26 14:28:05 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Wed Oct 26 14:28:09 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Wed Oct 26 14:28:22 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Wed Oct 26 14:28:29 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Wed Oct 26 14:28:53 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Wed Oct 26 14:28:56 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Wed Oct 26 14:29:07 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Wed Oct 26 14:29:19 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Wed Oct 26 14:29:47 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Wed Oct 26 14:37:14 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Wed Oct 26 14:37:20 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Wed Oct 26 14:37:41 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Wed Oct 26 14:37:50 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Thu Oct 27 03:36:48 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Thu Oct 27 03:44:59 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Thu Oct 27 03:46:48 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Thu Oct 27 03:46:52 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Thu Oct 27 03:58:33 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Thu Oct 27 03:59:01 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Thu Oct 27 04:08:44 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Thu Oct 27 04:10:18 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Thu Oct 27 04:11:01 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Thu Oct 27 04:11:03 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Thu Oct 27 08:20:26 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Thu Oct 27 08:20:45 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Thu Oct 27 08:20:50 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Thu Oct 27 11:52:27 2016 ]=>  Gokul [85073719] banned user is talking !
+ 
+[ Thu Oct 27 13:07:04 2016 ]=>  notgokul [85073719] banned user is talking !
+ 
+[ Thu Oct 27 15:41:03 2016 ]=>  notgokul [85073719] banned user is talking !
+ 
+[ Thu Oct 27 16:43:36 2016 ]=>  notgokul [85073719] banned user is talking !
+ 
+[ Fri Oct 28 15:30:55 2016 ]=>  notgokul [85073719] banned user is talking !
+ 
+[ Fri Oct 28 17:43:06 2016 ]=>  Nokul [85073719] banned user is talking !
+ 
+[ Fri Oct 28 17:43:15 2016 ]=>  Nokul [85073719] banned user is talking !
+ 
+[ Fri Oct 28 17:43:44 2016 ]=>  Nokul [85073719] banned user is talking !
+ 
+[ Fri Oct 28 17:43:47 2016 ]=>  Nokul [85073719] banned user is talking !
+ 
+[ Sat Oct 29 06:11:07 2016 ]=>  Nokul [85073719] banned user is talking !
+ 
+[ Sat Oct 29 17:58:02 2016 ]=>  Shreesha [130155641] requested group rules
+ 

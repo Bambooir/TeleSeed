@@ -1,0 +1,66 @@
+[ Wed Jun  8 12:50:49 2016 ]=>  Haruhi Suzumiya? [212257536] added SuperGroup
+ 
+[ Wed Jun  8 12:51:01 2016 ]=>  Haruhi Suzumiya? [212257536] requested SuperGroup users list
+ 
+[ Wed Jun  8 12:51:32 2016 ]=>  Haruhi Suzumiya?[212257536] set [52984293] as owner by username
+ 
+[ Wed Jun  8 12:51:32 2016 ]=>  Haruhi Suzumiya?[212257536] set [236232562] as owner by username
+ 
+[ Wed Jun  8 12:51:32 2016 ]=>  Haruhi Suzumiya?[212257536] set [52984293] as owner by username
+ 
+[ Wed Jun  8 12:51:32 2016 ]=>  Haruhi Suzumiya?[212257536] set [52984293] as owner by username
+ 
+[ Wed Jun  8 12:51:32 2016 ]=>  Haruhi Suzumiya?[212257536] set [52984293] as owner by username
+ 
+[ Wed Jun  8 12:51:32 2016 ]=>  Haruhi Suzumiya?[212257536] set [52984293] as owner by username
+ 
+[ Wed Jun  8 12:51:36 2016 ]=>  Haruhi Suzumiya? [212257536] promoted user#id52984293
+ 
+[ Sat Jun 11 18:57:49 2016 ]=>  Haruhi Suzumiya?[212257536] set [143039259] as owner by username
+ 
+[ Sat Jun 11 18:57:57 2016 ]=>  Haruhi Suzumiya? [212257536] promoted @Lok24
+ 
+[ Sat Jun 11 18:58:08 2016 ]=>  Haruhi Suzumiya? [212257536] requested SuperGroup users list
+ 
+[ Sat Jun 11 18:58:37 2016 ]=>  Haruhi Suzumiya? [212257536] promoted user#id52984293
+ 
+[ Sat Jun 11 19:08:43 2016 ]=>  Haruhi Suzumiya? [212257536] obtained id for: [236232562]
+ 
+[ Sat Jun 11 19:09:01 2016 ]=>  Haruhi Suzumiya? [212257536] promoted user#id236232562
+ 
+[ Sun Jun 12 04:17:47 2016 ]=>  Haruhi Suzumiya? [212257536] requested SuperGroup users list
+ 
+[ Sun Jun 12 04:18:02 2016 ]=>  HaruhiSuzumiya? [212257536] kicked user 221795385
+ 
+[ Sun Jun 12 05:30:33 2016 ]=>  Xfarne98 [236232562] set flood to [6]
+ 
+[ Sun Jun 12 05:42:38 2016 ]=>  Haruhi Suzumiya? [212257536] requested SuperGroup settings 
+ 
+[ Sun Jun 12 05:42:44 2016 ]=>  Haruhi Suzumiya? [212257536] requested group modlist
+ 
+[ Sun Jun 12 05:55:35 2016 ]=>  Haruhi Suzumiya? [212257536] requested SuperGroup ID
+ 
+[ Sun Jun 12 05:56:31 2016 ]=>  Haruhi Suzumiya? [212257536] requested SuperGroup Admins list
+ 
+[ Sun Jun 12 08:09:11 2016 ]=>  Xfarne98 [236232562] locked link posting 
+ 
+[ Sun Jun 12 08:12:07 2016 ]=>  Xfarne98 [236232562] locked rtl chars. in names
+ 
+[ Sun Jun 12 08:12:43 2016 ]=>  Xfarne98 [236232562] locked arabic 
+ 
+[ Sun Jun 12 08:13:24 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup ID
+ 
+[ Sun Jun 12 08:13:26 2016 ]=>  Haruhi Suzumiya [212257536] locked arabic 
+ 
+[ Sun Jun 12 08:15:52 2016 ]=>  Haruhi Suzumiya [212257536] requested group modlist
+ 
+[ Sun Jun 12 08:16:45 2016 ]=>  Xfarne98 [236232562] requested SuperGroup ID
+ 
+[ Sun Jun 12 08:16:56 2016 ]=>  Xfarne98 [236232562] obtained id for: [236232562]
+ 
+[ Sun Jun 12 08:19:07 2016 ]=>  Haruhi Suzumiya [212257536] demoted user#id236232562
+ 
+[ Sun Jun 12 08:19:35 2016 ]=>  Haruhi Suzumiya [212257536] promoted user#id236232562
+ 
+[ Sun Jun 12 08:34:02 2016 ]=>  Xfarne98 [236232562] requested SuperGroup settings 
+ 

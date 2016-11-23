@@ -1,0 +1,75 @@
+All the things I know about this group
+
+Group Type: 
+SuperGroup
+
+SuperGroup settings:
+Lock links : no
+Lock flood: yes
+Flood sensitivity : 5
+Lock spam: yes
+Lock Arabic: yes
+Lock Member: no
+Lock RTL: yes
+Lock Tgservice : yes
+Lock sticker: yes
+Public: yes
+Strict settings: no
+
+Rules: 
+1. Respect other members. They and you would not love to get into silly fights.
+2. Respect the developers. They do great magic and hard work to bring new stuff for you all.
+3. No harassment, racism, insults etc. whatsoever.
+4. Please keep the discussion civil and on topic! No OT (Offtopic) allowed here.
+5. Posting invite links to other groups is only allowed if they are related in content/topic.
+6. No asking about ETAs. Please.
+7. No bots. No stickers. No gifs.
+8. Please! English only! This is an international group and most people do not understand your native language.
+9. Please do not try to add members here as it is blocked. Send them an invitation link instead.
+10. Contact an admin (except @XManager/@Haruhi_Suzumiya) if you are muted/banned/etc.
+
+About: 
+Welcome To The Official halogenOS Community Telegram Group!
+
+Read the group rules by typing "!rules"
+
+The invitation link of the group is: bit.ly/HalogenOSTG
+
+Mods: 
+
+List of moderators :
+1 - @(at)anupritaisno1 [190427743] 
+2 - @(at)Sewer56lol [165553360] 
+3 - @(at)regalstreak [89522941] 
+4 - @(at)xdevs23 [11814515] 
+5 - @(at)Haruhi_Suzumiya [212257536] 
+
+
+Link: 
+Group link:
+https://telegram.me/joinchat/BVYC_T6JMUzCDzZcT1uNOg
+
+Chat stats:
+
+
+Mutes for: [ID: 1049178444 ]:
+
+Mute Video: no
+Mute Gifs: yes
+Mute Documents: no
+Mute Audio: yes
+Mute Photo: no
+Mute Text: no
+Mute All: no
+
+
+Muted Users for: [ID: 1049178444 ]:
+
+
+
+Ban list for: [ID: 1049178444 ]:
+
+1 - 00000001
+2 - 00000000
+3 - 197876010
+4 - 00000002

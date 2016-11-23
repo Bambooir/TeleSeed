@@ -1,0 +1,416 @@
+[ Sun Oct  9 17:52:57 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Oct  9 17:52:58 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Oct  9 17:56:51 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Oct  9 23:59:22 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Oct 10 06:00:13 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Oct 10 06:01:04 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Oct 10 15:20:31 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Oct 10 17:47:39 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Oct 10 17:47:52 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Oct 11 02:31:06 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Oct 11 12:03:54 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Oct 11 12:13:19 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Oct 11 13:07:36 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Oct 11 13:17:21 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Oct 11 14:34:22 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 12 04:06:21 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 12 06:06:46 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 12 06:30:04 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 12 07:41:25 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 12 08:33:18 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 12 10:57:37 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 12 11:12:35 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 12 11:15:43 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 12 11:17:46 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 12 12:58:26 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 12 13:12:28 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 12 14:39:02 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 12 16:28:05 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 12 16:52:20 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 12 19:40:32 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 12 19:59:41 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 12 20:41:10 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 12 22:26:40 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Oct 13 00:01:52 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Oct 13 04:38:33 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Oct 13 06:53:39 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Oct 13 09:40:01 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Oct 13 10:05:27 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Oct 13 14:46:02 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Oct 13 18:34:23 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Oct 13 21:54:24 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Oct 14 01:47:26 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Oct 14 04:46:34 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Oct 14 08:50:00 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Oct 14 09:05:36 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Oct 14 11:08:07 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Oct 14 17:52:33 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Oct 14 18:06:36 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Oct 14 21:50:09 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Oct 15 14:25:13 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Oct 15 14:31:16 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Oct 15 15:17:43 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Oct 15 15:50:52 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Oct 15 17:18:36 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Oct 15 19:48:44 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Oct 15 21:17:07 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Oct 16 07:49:47 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Oct 16 09:51:36 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Oct 16 13:05:16 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Oct 16 16:02:52 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Oct 16 17:52:50 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Oct 16 20:53:41 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Oct 17 01:59:26 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Oct 17 13:39:56 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Oct 17 15:01:32 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Oct 17 22:32:56 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Oct 18 02:14:07 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Oct 18 02:52:55 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Oct 18 18:58:59 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Oct 18 19:57:58 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 19 13:26:28 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 19 13:31:33 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 19 15:18:56 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 19 15:35:03 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 19 15:59:28 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 19 23:51:38 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Thu Oct 20 00:20:48 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Oct 20 03:06:42 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Thu Oct 20 03:06:51 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Thu Oct 20 03:15:19 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Thu Oct 20 06:44:03 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Fri Oct 21 16:15:58 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Oct 21 23:19:40 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Oct 22 07:01:25 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Oct 22 14:46:48 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Oct 22 15:37:26 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Oct 22 17:00:03 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Oct 22 21:01:06 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Oct 23 09:27:28 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Oct 23 14:51:36 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Oct 23 15:44:47 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Oct 23 17:11:48 2016 ]=>  Ben @M0rningstar [86779757] kicked for #spam
+ 
+[ Sun Oct 23 18:32:26 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Oct 23 23:13:15 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Oct 24 02:00:34 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Oct 24 11:50:37 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Oct 24 15:41:48 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Oct 24 16:56:46 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Oct 25 05:49:42 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Oct 25 06:12:18 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Oct 25 06:19:36 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Oct 25 07:46:52 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Oct 25 08:59:42 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Oct 25 09:00:08 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Oct 25 23:20:31 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 26 00:03:17 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Oct 26 00:21:48 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Oct 26 00:22:30 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Oct 26 00:23:26 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Oct 26 05:52:02 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 26 06:16:23 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 26 06:17:05 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 26 06:19:29 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 26 06:23:33 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 26 07:17:32 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 26 11:24:05 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 26 18:28:40 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 26 18:59:40 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Oct 27 00:48:40 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Oct 27 12:08:12 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Oct 27 21:35:24 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Oct 28 03:13:27 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Oct 28 19:21:31 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Oct 29 17:31:25 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Oct 29 17:50:59 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Oct 29 20:49:37 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Oct 30 11:10:27 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Oct 31 04:51:44 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Nov  1 03:12:21 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Nov  1 17:49:49 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Nov  3 00:55:39 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Nov  3 07:57:57 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Nov  5 12:17:42 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Nov  6 07:56:02 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Nov  7 00:27:11 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Nov  8 02:15:21 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Nov  8 02:18:35 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Nov  8 02:18:49 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Nov  8 03:08:02 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Nov  8 03:37:41 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Tue Nov  8 03:37:46 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Tue Nov  8 13:46:33 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Nov  9 05:28:11 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Nov  9 15:54:52 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Nov 10 21:43:38 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Nov 11 00:47:18 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Nov 11 06:29:18 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Nov 11 09:56:25 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Fri Nov 11 15:42:19 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Nov 11 19:50:05 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Nov 11 19:59:39 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Nov 12 07:29:39 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Nov 12 09:55:31 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sat Nov 12 09:55:52 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sat Nov 12 09:55:53 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sat Nov 12 09:57:41 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sun Nov 13 06:51:05 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Nov 13 19:36:16 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sun Nov 13 19:36:22 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sun Nov 13 19:36:30 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sun Nov 13 19:36:37 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sun Nov 13 19:37:48 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sun Nov 13 19:38:55 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sun Nov 13 20:59:12 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Nov 14 19:42:00 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Nov 16 03:11:06 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 16 03:11:18 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 16 03:11:45 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 16 03:12:03 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 16 03:12:06 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 16 03:12:06 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 16 03:12:09 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 16 03:17:55 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 16 03:18:04 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 16 03:18:25 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 16 03:18:35 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 16 03:18:44 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 16 03:19:03 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 16 03:19:41 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 16 03:19:48 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 16 03:19:57 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 16 03:20:05 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Thu Nov 17 18:02:42 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Nov 18 05:35:48 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Nov 18 06:32:05 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Nov 18 19:41:20 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Nov 18 21:43:41 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Nov 19 13:31:29 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Nov 19 13:56:17 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Nov 19 14:43:15 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Nov 19 15:17:16 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Nov 19 15:28:13 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Nov 19 16:21:00 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Nov 19 16:54:34 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Nov 19 18:24:10 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Nov 19 18:30:31 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Nov 21 11:47:29 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Nov 21 13:47:06 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Nov 21 15:21:38 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Nov 21 16:15:21 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Nov 21 18:24:53 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Nov 21 18:33:29 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Nov 21 19:10:32 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Nov 21 20:33:29 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Nov 22 09:35:05 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Nov 22 13:20:14 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Nov 23 10:36:00 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Nov 23 11:07:09 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 

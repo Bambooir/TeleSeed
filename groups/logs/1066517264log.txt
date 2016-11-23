@@ -1,0 +1,22 @@
+[ Sun Jun 12 07:23:28 2016 ]=>  flo [117506665] added SuperGroup
+ 
+[ Sun Jun 12 07:39:02 2016 ]=>  joshua [112812614] left via kickme
+ 
+[ Sun Jun 12 08:07:18 2016 ]=>  Mr.Gigabyte via  mrbytebot [139973623] left via kickme
+ 
+[ Sun Jun 12 08:07:28 2016 ]=>  Haruhi Suzumiya[212257536] set [112812614] as owner by username
+ 
+[ Tue Jun 14 04:00:27 2016 ]=>  Haruhi_Suzumiya [212257536] used /get aisaka taiga
+ 
+[ Tue Jun 14 12:49:12 2016 ]=>  Joshua @j0shu4 [112812614] kicked for #spam
+ 
+[ Wed Jun 15 14:05:24 2016 ]=>  Combot [210944655] banned user is talking !
+ 
+[ Wed Jun 15 17:35:34 2016 ]=>  Combot [210944655] banned user is talking !
+ 
+[ Thu Jun 16 08:32:50 2016 ]=>  Noah @omgnoah [59448624] kicked for #spam
+ 
+[ Thu Jun 16 10:10:03 2016 ]=>  Combot [210944655] banned user is talking !
+ 
+[ Fri Jun 17 06:47:35 2016 ]=>  Combot [210944655] banned user is talking !
+ 

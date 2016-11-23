@@ -1,0 +1,34 @@
+[ Sat Jul  9 08:58:35 2016 ]=>  Haruhi Suzumiya [212257536] added SuperGroup
+ 
+[ Sat Jul  9 08:59:10 2016 ]=>  Haruhi Suzumiya [212257536] attempted to create a new SuperGroup link
+ 
+[ Sat Jul  9 08:59:15 2016 ]=>  Haruhi Suzumiya [212257536] requested group link [https://telegram.me/joinchat/DKbLAD9oolWqUV3ZvqTBuQ]
+ 
+[ Sat Jul  9 08:59:43 2016 ]=>  Haruhi Suzumiya Admin [225969591] added to the SuperGroup by [ 0 ]
+ 
+[ Sat Jul  9 09:00:20 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup settings 
+ 
+[ Sat Jul  9 09:00:40 2016 ]=>  Haruhi Suzumiya [212257536] locked link posting 
+ 
+[ Sat Jul  9 09:00:51 2016 ]=>  Haruhi Suzumiya [212257536] locked arabic 
+ 
+[ Sat Jul  9 09:16:47 2016 ]=>  Haruhi Suzumiya [212257536] locked rtl chars. in names
+ 
+[ Sat Jul  9 09:16:57 2016 ]=>  Haruhi Suzumiya [212257536] locked contact posting
+ 
+[ Sat Jul  9 09:17:06 2016 ]=>  Haruhi Suzumiya [212257536] set group to: public
+ 
+[ Sat Jul  9 09:17:15 2016 ]=>  Haruhi Suzumiya [212257536] locked enabled strict settings
+ 
+[ Sat Jul  9 09:18:05 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup settings 
+ 
+[ Sat Jul  9 09:18:13 2016 ]=>  Haruhi Suzumiya [212257536] locked sticker posting
+ 
+[ Sat Jul  9 09:18:17 2016 ]=>  Haruhi Suzumiya [212257536] set SuperGroup to: mute Gifs
+ 
+[ Sat Jul  9 09:23:14 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup settings 
+ 
+[ Sat Jul  9 09:23:22 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup muteslist
+ 
+[ Sat Jul  9 14:04:15 2016 ]=>  🇬 3°3 🇰 Admin [101952947] joined the SuperGroup via link
+ 

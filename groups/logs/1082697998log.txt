@@ -1,0 +1,8 @@
+[ Mon Oct 24 16:50:41 2016 ]=>  涼宮ハルヒ ちゃん [212257536] added SuperGroup
+ 
+[ Mon Oct 24 21:29:05 2016 ]=>  涼宮ハルヒ ちゃん [212257536] set: [16913078] as admin by reply
+ 
+[ Thu Nov 17 01:44:12 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] attempted to create a new SuperGroup link
+ 
+[ Thu Nov 17 01:44:17 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested group link [https://telegram.me/joinchat/DKbLAECIqQ45gc6mhqcQ9w]
+ 

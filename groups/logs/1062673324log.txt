@@ -1,0 +1,388 @@
+[ Wed Jun 29 16:34:07 2016 ]=>  log file created by owner/support/admin
+ 
+[ Sat Jul  2 05:16:48 2016 ]=>  Haruhi Suzumiya [212257536] added SuperGroup
+ 
+[ Sat Jul  2 05:16:59 2016 ]=>  Haruhi Suzumiya [212257536] unlocked tgservice actions
+ 
+[ Sat Jul  2 12:32:17 2016 ]=>  Kamikaze Chaser [135207785] requested SuperGroup ID
+ 
+[ Sat Jul  2 14:59:39 2016 ]=>  Haruhi Suzumiya [212257536] promoted @kamikazechaser
+ 
+[ Sat Jul  2 14:59:39 2016 ]=>  Haruhi Suzumiya[212257536] set [135207785] as owner by username
+ 
+[ Sun Jul  3 06:25:00 2016 ]=>  Haruhi Suzumiya Admin [229473867] added to the SuperGroup by [ 0 ]
+ 
+[ Tue Jul  5 11:02:55 2016 ]=>  Kamikaze Chaser [135207785] requested SuperGroup info
+ 
+[ Tue Jul  5 13:53:27 2016 ]=>  Kamikaze_Chaser [135207785] Used /superhelp
+ 
+[ Tue Jul  5 13:55:50 2016 ]=>  Kamikaze Chaser [135207785] requested SuperGroup settings 
+ 
+[ Tue Jul  5 14:15:10 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup settings 
+ 
+[ Tue Jul  5 14:15:20 2016 ]=>  Haruhi Suzumiya [212257536] locked arabic 
+ 
+[ Tue Jul  5 14:15:32 2016 ]=>  Haruhi Suzumiya [212257536] locked rtl chars. in names
+ 
+[ Tue Jul  5 14:15:44 2016 ]=>  Haruhi Suzumiya [212257536] locked enabled strict settings
+ 
+[ Tue Jul  5 14:16:00 2016 ]=>  Haruhi Suzumiya [212257536] requested ID for: @ahmed_alani97
+ 
+[ Wed Jul  6 08:42:17 2016 ]=>  Kamikaze_Chaser [135207785] Used /superhelp
+ 
+[ Wed Jul  6 15:21:09 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup settings 
+ 
+[ Thu Jul  7 03:42:46 2016 ]=>  Group Thor [203887950] requested group rules
+ 
+[ Thu Jul  7 06:32:08 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup settings 
+ 
+[ Thu Jul  7 07:08:07 2016 ]=>  Kamikaze Chaser [135207785] requested SuperGroup info
+ 
+[ Thu Jul  7 07:21:37 2016 ]=>  Kamikaze Chaser [135207785] obtained id for: [170047430]
+ 
+[ Thu Jul  7 07:22:05 2016 ]=>  Kamikaze Chaser [135207785] obtained id for: [170047430]
+ 
+[ Thu Jul  7 07:22:19 2016 ]=>  Kamikaze Chaser [135207785] obtained id for: [170047430]
+ 
+[ Thu Jul  7 07:22:35 2016 ]=>  Kamikaze Chaser [135207785] obtained id for: [170047430]
+ 
+[ Thu Jul  7 10:05:33 2016 ]=>  Kamikaze Chaser [135207785] requested SuperGroup ID
+ 
+[ Thu Jul  7 10:05:46 2016 ]=>  Kamikaze Chaser [135207785] requested ID for: @Simplesam3
+ 
+[ Thu Jul  7 10:05:58 2016 ]=>  Kamikaze Chaser [135207785] requested ID for: @groupthor
+ 
+[ Thu Jul  7 15:30:35 2016 ]=>  Kamikaze Chaser [135207785] requested SuperGroup ID
+ 
+[ Thu Jul  7 15:37:24 2016 ]=>  GroupThor [203887950] banned user is talking !
+ 
+[ Thu Jul  7 15:37:41 2016 ]=>  GroupThor [203887950] banned user is talking !
+ 
+[ Thu Jul  7 15:41:35 2016 ]=>  GroupThor [203887950] banned user is talking !
+ 
+[ Thu Jul  7 15:41:45 2016 ]=>  GroupThor [203887950] banned user is talking !
+ 
+[ Thu Jul  7 15:43:52 2016 ]=>  GroupThor [203887950] banned user is talking !
+ 
+[ Thu Jul  7 15:44:44 2016 ]=>  GroupThor [203887950] banned user is talking !
+ 
+[ Thu Jul  7 15:45:18 2016 ]=>  GroupThor [203887950] banned user is talking !
+ 
+[ Thu Jul  7 15:46:05 2016 ]=>  GroupThor#1 [203887950] banned user is talking !
+ 
+[ Thu Jul  7 15:51:44 2016 ]=>  GroupThor#1 [203887950] banned user is talking !
+ 
+[ Thu Jul  7 15:52:36 2016 ]=>  GroupThor#1 [203887950] banned user is talking !
+ 
+[ Thu Jul  7 15:55:14 2016 ]=>  GroupThor [203887950] banned user is talking !
+ 
+[ Thu Jul  7 15:56:18 2016 ]=>  GroupThor [203887950] banned user is talking !
+ 
+[ Thu Jul  7 16:00:26 2016 ]=>  GroupThor [203887950] banned user is talking !
+ 
+[ Thu Jul  7 16:04:08 2016 ]=>  GroupThor [203887950] banned user is talking !
+ 
+[ Thu Jul  7 16:04:45 2016 ]=>  GroupThor [203887950] banned user is talking !
+ 
+[ Thu Jul  7 16:05:27 2016 ]=>  GroupThor [203887950] banned user is talking !
+ 
+[ Thu Jul  7 16:06:09 2016 ]=>  GroupThor [203887950] banned user is talking !
+ 
+[ Thu Jul  7 16:06:45 2016 ]=>  GroupThor [203887950] banned user is talking !
+ 
+[ Fri Jul  8 03:04:45 2016 ]=>  Haruhi Suzumiya [212257536] requested ID for: @GroupThorBot
+ 
+[ Fri Jul  8 03:07:24 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup users list
+ 
+[ Fri Jul  8 03:07:50 2016 ]=>  Haruhi Suzumiya [212257536] used /owner
+ 
+[ Fri Jul  8 05:18:20 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup users list
+ 
+[ Fri Jul  8 10:09:46 2016 ]=>  Sirℳarita [203887950] banned user is talking !
+ 
+[ Fri Jul  8 10:11:01 2016 ]=>  Sirℳarita [203887950] banned user is talking !
+ 
+[ Fri Jul  8 10:11:13 2016 ]=>  Sirℳarita [203887950] banned user is talking !
+ 
+[ Fri Jul  8 10:11:24 2016 ]=>  Sirℳarita [203887950] banned user is talking !
+ 
+[ Fri Jul  8 10:12:02 2016 ]=>  Sirℳarita [203887950] banned user is talking !
+ 
+[ Fri Jul  8 10:12:22 2016 ]=>  Sirℳarita [203887950] banned user is talking !
+ 
+[ Fri Jul  8 10:12:34 2016 ]=>  Sirℳarita [203887950] banned user is talking !
+ 
+[ Fri Jul  8 10:13:33 2016 ]=>  Sirℳarita [203887950] banned user is talking !
+ 
+[ Fri Jul  8 10:13:49 2016 ]=>  Sirℳarita [203887950] banned user is talking !
+ 
+[ Fri Jul  8 10:17:05 2016 ]=>  Sirℳarita [203887950] banned user is talking !
+ 
+[ Fri Jul  8 15:52:28 2016 ]=>  Sirℳarita [203887950] banned user is talking !
+ 
+[ Fri Jul  8 16:05:18 2016 ]=>  Sirℳarita [203887950] banned user is talking !
+ 
+[ Fri Jul  8 16:06:48 2016 ]=>  Sirℳarita [203887950] banned user is talking !
+ 
+[ Fri Jul  8 16:10:47 2016 ]=>  Sirℳarita [203887950] banned user is talking !
+ 
+[ Fri Jul  8 16:11:02 2016 ]=>  Sirℳarita [203887950] banned user is talking !
+ 
+[ Fri Jul  8 16:12:05 2016 ]=>  Sirℳarita [203887950] banned user is talking !
+ 
+[ Fri Jul  8 16:13:49 2016 ]=>  Sir ℳarita Admin [225969591] added to the SuperGroup by [ 203887950 ]
+ 
+[ Fri Jul  8 16:13:56 2016 ]=>  Sirℳarita [203887950] banned user is talking !
+ 
+[ Fri Jul  8 16:16:13 2016 ]=>  Sirℳarita [203887950] banned user is talking !
+ 
+[ Sat Jul  9 04:27:36 2016 ]=>  Sirℳarita [203887950] banned user is talking !
+ 
+[ Sat Jul  9 04:33:27 2016 ]=>  Kamikaze Chaser [135207785] obtained id for: [203887950]
+ 
+[ Sat Jul  9 04:33:46 2016 ]=>  Kamikaze Chaser [135207785] resolved username: @kamikazechaser
+ 
+[ Sat Jul  9 06:00:29 2016 ]=>  Kamikaze Chaser [135207785] requested SuperGroup settings 
+ 
+[ Sat Jul  9 10:55:50 2016 ]=>  Kamikaze Chaser [135207785] resolved username: @50628352
+ 
+[ Sat Jul  9 10:56:14 2016 ]=>  Kamikaze Chaser [135207785] requested SuperGroup ID
+ 
+[ Sun Jul 10 07:08:21 2016 ]=>  Sirℳarita [203887950] banned user is talking !
+ 
+[ Sun Jul 10 08:32:05 2016 ]=>  Haruhi Suzumiya [212257536] locked link posting 
+ 
+[ Sun Jul 10 15:10:10 2016 ]=>  Sirℳarita [203887950] banned user is talking !
+ 
+[ Mon Jul 11 01:25:30 2016 ]=>  Sirℳarita [203887950] banned user is talking !
+ 
+[ Mon Jul 11 03:32:32 2016 ]=>  SirMarita [203887950] banned user is talking !
+ 
+[ Mon Jul 11 03:32:46 2016 ]=>  SirMarita [203887950] banned user is talking !
+ 
+[ Mon Jul 11 04:40:50 2016 ]=>  SirMarita [203887950] banned user is talking !
+ 
+[ Wed Jul 13 10:52:07 2016 ]=>  Kamikaze Chaser [135207785] requested SuperGroup ID
+ 
+[ Thu Jul 14 05:56:58 2016 ]=>  SirMarita [203887950] banned user is talking !
+ 
+[ Sun Jul 17 22:43:26 2016 ]=>  SirMarita [203887950] banned user is talking !
+ 
+[ Sun Jul 17 22:44:19 2016 ]=>  SirMarita [203887950] banned user is talking !
+ 
+[ Sun Jul 17 22:44:47 2016 ]=>  SirMarita [203887950] banned user is talking !
+ 
+[ Sun Jul 17 22:45:28 2016 ]=>  </SeyeD> |  SeyedRobot [250877155] requested group rules
+ 
+[ Sun Jul 17 22:46:08 2016 ]=>  SirMarita [203887950] banned user is talking !
+ 
+[ Mon Jul 18 14:23:18 2016 ]=>  </SeyeD> |  SeyedRobot [250877155] requested group rules
+ 
+[ Mon Jul 18 14:24:32 2016 ]=>  Kamikaze Chaser [135207785] has changed group rules to [1⃣ Only Use English 
+2⃣ Do Not Spam
+3⃣ Stick To The Topic
+❗️Please Only Speak Or Ask Questions in English. Yo Can Use Yandex Translate Or Google Translate]
+ 
+[ Mon Jul 18 14:24:46 2016 ]=>  Kamikaze Chaser [135207785] requested group rules
+ 
+[ Fri Jul 22 16:51:34 2016 ]=>  Kamikaze Chaser [135207785] requested SuperGroup ID
+ 
+[ Fri Jul 22 18:47:24 2016 ]=>  Kamikaze Chaser [135207785] requested group rules
+ 
+[ Tue Jul 26 17:54:16 2016 ]=>  Kamikaze Chaser [135207785] has changed group rules to [1⃣ Only Use English 
+2⃣ Do Not Spam
+3⃣ Stick To The Topic
+❗️Please Only Speak Or Ask Questions in English. Yo Can Use Yandex Translate Or Google Translate]
+ 
+[ Thu Jul 28 15:30:13 2016 ]=>  SirMarita [203887950] banned user is talking !
+ 
+[ Thu Jul 28 19:06:50 2016 ]=>  SirMarita [203887950] banned user is talking !
+ 
+[ Fri Jul 29 12:04:17 2016 ]=>  SirMarita [203887950] banned user is talking !
+ 
+[ Wed Aug  3 23:00:04 2016 ]=>  涼宮ハルヒ ちゃん [212257536] has changed group rules to [The rules
+1⃣ Only Use English 
+2⃣ Do Not Spam
+3⃣ Stick To The Topic
+❗️Please Only Speak Or Ask Questions in English. Yo Can Use Yandex Translate Or Google Translate]
+ 
+[ Tue Aug  9 20:42:29 2016 ]=>  Kamikaze Chaser [135207785] locked Tgservice Actions
+ 
+[ Fri Aug 12 01:17:43 2016 ]=>  GroupButler[beta] [261244309] banned user is talking !
+ 
+[ Fri Aug 12 01:17:46 2016 ]=>  涼宮ハルヒ ちゃん Admin [238029142] added to the SuperGroup by [ 0 ]
+ 
+[ Fri Aug 12 01:18:20 2016 ]=>  涼宮ハルヒ ちゃん [212257536] promoted @GBReborn_bot
+ 
+[ Fri Aug 12 01:18:40 2016 ]=>  GroupButler[beta] [261244309] banned user is talking !
+ 
+[ Wed Aug 17 14:31:00 2016 ]=>  Kamikaze Chaser [135207785] resolved username: @yemen8
+ 
+[ Mon Aug 29 15:58:34 2016 ]=>  Kamikaze Chaser [135207785] promoted mod: @@microonde[89551249] by reply
+ 
+[ Tue Aug 30 23:06:16 2016 ]=>  Kamikaze Chaser [135207785] requested SuperGroup ID
+ 
+[ Tue Aug 30 23:06:32 2016 ]=>  Kamikaze Chaser [135207785] requested SuperGroup ID
+ 
+[ Tue Aug 30 23:15:34 2016 ]=>  Kamikaze Chaser [135207785] requested SuperGroup ID
+ 
+[ Fri Sep  2 14:56:26 2016 ]=>  ednoorciM (:) [89551249] requested SuperGroup ID
+ 
+[ Fri Sep  2 16:48:41 2016 ]=>  Kamikaze Chaser [135207785] resolved username: @botmaster
+ 
+[ Fri Sep  2 16:49:24 2016 ]=>  Kamikaze Chaser [135207785] requested SuperGroup ID
+ 
+[ Fri Sep  2 16:49:33 2016 ]=>  Kamikaze Chaser [135207785] obtained id for: [212257536]
+ 
+[ Fri Sep  2 17:12:49 2016 ]=>  Kamikaze Chaser [135207785] requested SuperGroup ID
+ 
+[ Fri Sep  2 23:58:57 2016 ]=>  Nug [216997887] requested group rules
+ 
+[ Sat Sep  3 01:41:49 2016 ]=>  涼宮ハルヒ ちゃん Admin [190427743] added to the SuperGroup by [ 0 ]
+ 
+[ Sat Sep  3 01:41:59 2016 ]=>  涼宮ハルヒ ちゃん Admin [229473867] added to the SuperGroup by [ 0 ]
+ 
+[ Sat Sep  3 01:42:45 2016 ]=>  涼宮ハルヒ ちゃん Admin [206197460] added to the SuperGroup by [ 0 ]
+ 
+[ Sat Sep  3 14:24:15 2016 ]=>  Kamikaze Chaser [135207785] locked rtl chars. in names
+ 
+[ Sat Sep  3 14:24:25 2016 ]=>  Kamikaze Chaser [135207785] locked flood 
+ 
+[ Sat Sep  3 16:42:34 2016 ]=>  Kamikaze Chaser [135207785] requested SuperGroup ID
+ 
+[ Sat Sep  3 19:06:52 2016 ]=>  🇸🇦🇯🇮🇳 [138312364] banned user is talking !
+ 
+[ Sun Sep  4 15:22:12 2016 ]=>  Kamikaze Chaser [135207785] requested SuperGroup ID
+ 
+[ Sun Sep  4 15:22:23 2016 ]=>  Kamikaze Chaser [135207785] obtained id for: [135207785]
+ 
+[ Sun Sep  4 15:23:02 2016 ]=>  ᵂᵉᵇʳᵒᵐ [180791241] requested SuperGroup ID
+ 
+[ Sun Sep  4 16:58:47 2016 ]=>  Kamikaze Chaser [135207785] has changed group rules to [🔨 THOR SUPPORT 
+🗣 Discuss Only About The Thor/Butler 
+🇬🇧Chat in English only
+ℹ No Advertising
+❌ No Spam
+🔞 NO ADULT CONTENT
+Russian Names Will Be Kicked!
+R.T.L Names Will Be Kicked!
+Emoji Names Will Be Kicked!]
+ 
+[ Sun Sep  4 16:59:43 2016 ]=>  Kamikaze Chaser [135207785] has changed group rules to [🔨 THOR SUPPORT 
+🗣 Discuss Only About The Thor/Butler 
+🇬🇧Chat in English only
+ℹ No Advertising
+❌ No Spam
+🔞 NO ADULT CONTENT
+❗️ Russian Names Will Be Kicked!
+❗️ R.T.L Names Will Be Kicked!
+❗️ Emoji Names Will Be Kicked!]
+ 
+[ Sun Sep  4 17:00:22 2016 ]=>  Kamikaze Chaser [135207785] requested group rules
+ 
+[ Sun Sep  4 17:01:56 2016 ]=>  Kamikaze Chaser [135207785] has changed group rules to [🔨 THOR SUPPORT 
+🗣 Discuss About The Thor/Butler 
+🇬🇧Chat in English only
+ℹ No Advertising
+❌ No Spam
+🔞 NO ADULT CONTENT
+❗️ RU 🇷🇺 Names Will Be Kicked!
+❗️ R.T.L Names Will Be Kicked!
+❗️ Emoji Names Will Be Kicked!]
+ 
+[ Sun Sep  4 17:02:53 2016 ]=>  Kamikaze Chaser [135207785] requested group rules
+ 
+[ Sun Sep  4 19:04:36 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup ID
+ 
+[ Sun Sep  4 19:06:39 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup ID
+ 
+[ Mon Sep  5 06:16:57 2016 ]=>  👑° Δση СㅇRԼεσηξ 👑                    ★ Sανσδ ΓυησΗλαrιΜ ΑλλσΗ βιλsα βαs Μαηι ΜυΗσκαΜα Qιλιω βαηΔαsιгα ξΜαs... [180311692] joined and Service Msg deleted (#spam name)
+ 
+[ Mon Sep  5 06:16:57 2016 ]=>  👑° Δση СㅇRԼεσηξ 👑                    ★ Sανσδ ΓυησΗλαrιΜ ΑλλσΗ βιλsα βαs Μαηι ΜυΗσκαΜα Qιλιω βαηΔαsιгα ξΜαs... [180311692] joined and kicked (#spam name)
+ 
+[ Mon Sep  5 15:13:39 2016 ]=>  Kamikaze Chaser [135207785] promoted mod: @@kamikazechaser[135207785] by reply
+ 
+[ Mon Sep  5 15:48:17 2016 ]=>  Kamikaze Chaser [135207785] requested SuperGroup ID
+ 
+[ Tue Sep  6 02:23:24 2016 ]=>  Kamikaze Chaser [135207785] has changed group rules to [🔨 THOR SUPPORT 
+🗣 Discuss About  Thor/Butler 
+🇬🇧Chat in English only
+ℹ No Advertising
+❌ No Spam
+🔞 NO ADULT CONTENT
+❗️ RU 🇷🇺 Names Will Be Kicked!
+❗️ R.T.L Names Will Be Kicked!
+❗️ Emoji Names Will Be Kicked!]
+ 
+[ Tue Sep  6 02:23:39 2016 ]=>  Kamikaze Chaser [135207785] requested group rules
+ 
+[ Tue Sep  6 02:33:24 2016 ]=>  Kamikaze Chaser [135207785] resolved username: @microonde
+ 
+[ Tue Sep  6 02:34:27 2016 ]=>  Kamikaze Chaser [135207785] unlocked tgservice actions
+ 
+[ Wed Sep  7 21:26:29 2016 ]=>  Microonde [89551249] requested SuperGroup ID
+ 
+[ Wed Sep  7 21:26:32 2016 ]=>  Microonde [89551249] requested SuperGroup ID
+ 
+[ Sat Sep 10 00:07:29 2016 ]=>  Kamikaze Chaser [135207785] requested SuperGroup Admins list
+ 
+[ Sat Sep 10 00:29:51 2016 ]=>  Kamikaze Chaser [135207785] requested SuperGroup Admins list
+ 
+[ Sun Sep 11 16:53:52 2016 ]=>  Kamikaze Chaser [135207785] resolved username: @botmaster
+ 
+[ Sun Sep 11 18:50:58 2016 ]=>  Kamikaze Chaser Admin [225969591] added to the SuperGroup by [ 135207785 ]
+ 
+[ Sat Sep 17 00:04:41 2016 ]=>  Kamikaze Chaser [135207785] resolved username: @Minerboys
+ 
+[ Sun Sep 18 16:03:13 2016 ]=>  Kamikaze Chaser [135207785] resolved username: @requizarc
+ 
+[ Tue Sep 20 18:16:51 2016 ]=>  Kamikaze Chaser [135207785] resolved username: @thorsupport
+ 
+[ Wed Sep 21 09:07:54 2016 ]=>  Kamikaze Chaser [135207785] resolved username: @AmirAhmadi_Tkd
+ 
+[ Thu Sep 22 15:20:05 2016 ]=>  Kamikaze Chaser [135207785] requested group rules
+ 
+[ Thu Sep 22 19:39:44 2016 ]=>  Kamikaze Chaser [135207785] resolved username: @M115442858
+ 
+[ Mon Sep 26 07:16:14 2016 ]=>  Kamikaze_Chaser [135207785] Used /superhelp
+ 
+[ Wed Sep 28 19:23:58 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup ID
+ 
+[ Fri Sep 30 22:23:54 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup ID
+ 
+[ Sat Oct  8 13:08:25 2016 ]=>  Kamikaze Chaser [135207785] resolved username: @test123a
+ 
+[ Mon Oct 10 15:01:15 2016 ]=>  涼宮ハルヒ ちゃん [212257536] resolved username: @test123a
+ 
+[ Wed Nov  9 16:42:31 2016 ]=>  Kamikaze Chaser [135207785] requested SuperGroup Admins list
+ 
+[ Sat Nov 12 19:01:56 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] promoted mod: @@dangou[206197460] by reply
+ 
+[ Sat Nov 12 19:03:21 2016 ]=>  Kamikaze Chaser [135207785] promoted mod: @@clannad[212257536] by reply
+ 
+[ Sat Nov 12 19:03:32 2016 ]=>  Kamikaze Chaser [135207785] promoted mod: @@dangou[206197460] by reply
+ 
+[ Sat Nov 12 19:03:47 2016 ]=>  Kamikaze Chaser [135207785] requested SuperGroup Admins list
+ 
+[ Sat Nov 12 19:06:39 2016 ]=>  Kamikaze Chaser Admin [249389252] added to the SuperGroup by [ 135207785 ]
+ 
+[ Sat Nov 12 19:07:22 2016 ]=>  Kamikaze Chaser [135207785] promoted mod: @@aRandomStranger[249389252] by reply
+ 
+[ Mon Nov 14 18:47:55 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup ID
+ 
+[ Mon Nov 14 18:48:14 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup ID
+ 
+[ Thu Nov 17 16:12:16 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup ID
+ 
+[ Fri Nov 18 06:37:24 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup ID
+ 
+[ Tue Nov 22 16:43:45 2016 ]=>  SirMarita [203887950] is banned and kicked ! 
+ 
+[ Tue Nov 22 19:40:36 2016 ]=>  🇮🇶 🇭🇦🇲🇦🇩 [151224708] requested SuperGroup ID
+ 
+[ Tue Nov 22 20:58:39 2016 ]=>  Kamikaze Chaser [135207785] locked Tgservice Actions
+ 
+[ Wed Nov 23 10:54:14 2016 ]=>  ๏̯͡๏✯⇨ ♚ Ӄαℜ❍乚 ♚ 👑 ๏̯͡๏✯⇨ ♚ Ӄαℜ❍乚 ♚ 👑 ⇦✯๏̯͡๏ ❃Mιℓℓιση℮r❼❼❼❃ [265902961] joined and Service Msg deleted (#spam name)
+ 
+[ Wed Nov 23 10:54:14 2016 ]=>  ๏̯͡๏✯⇨ ♚ Ӄαℜ❍乚 ♚ 👑 ๏̯͡๏✯⇨ ♚ Ӄαℜ❍乚 ♚ 👑 ⇦✯๏̯͡๏ ❃Mιℓℓιση℮r❼❼❼❃ [265902961] joined and kicked (#spam name)
+ 

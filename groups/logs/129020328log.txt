@@ -1,0 +1,18 @@
+[ Mon May  2 12:21:59 2016 ]=>  Tomoko_Kuroki [181221553] promoted @@tomokochan
+ 
+[ Mon May  2 12:25:11 2016 ]=>  Tomoko_Kuroki [181221553] requested group modlist
+ 
+[ Mon May  2 12:25:25 2016 ]=>  Tomoko_Kuroki [181221553] Used /help
+ 
+[ Mon May  2 12:29:50 2016 ]=>  Group { test }  name changed to [ kawaii ] by Tomoko_Kuroki [181221553]
+ 
+[ Mon May  2 12:32:41 2016 ]=>  Tomoko_Kuroki [181221553] promoted @@tomokochan
+ 
+[ Mon May  2 12:34:12 2016 ]=>  Tomoko_Kuroki [181221553] requested group settings 
+ 
+[ Mon May  2 12:34:23 2016 ]=>  Tomoko_Kuroki [181221553] tried to change name but failed  
+ 
+[ Mon May  2 12:44:30 2016 ]=>  Tomoko_Kuroki [181221553] added realm [ 129020328 ]
+ 
+[ Mon May  2 12:49:14 2016 ]=>  Tomoko_Kuroki [181221553] added realm [ 129020328 ]
+ 

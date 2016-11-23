@@ -1,0 +1,51 @@
+All the things I know about this group
+
+Group Type: 
+SuperGroup
+
+SuperGroup settings:
+Lock links : no
+Lock flood: yes
+Flood sensitivity : 5
+Lock spam: yes
+Lock Arabic: no
+Lock Member: yes
+Lock RTL: no
+Lock Tgservice : yes
+Lock sticker: no
+Public: no
+Strict settings: no
+
+Rules: 
+No rules available.
+
+About: 
+No description available.
+
+Mods: 
+No moderator in this group.
+
+Link: 
+Group link:
+https://telegram.me/joinchat/DKbLAEC--T9fGyDKOcSUnQ
+
+Chat stats:
+
+
+Mutes for: [ID: 1086257471 ]:
+
+Mute Documents: no
+Mute All: no
+Mute Video: no
+Mute Audio: no
+Mute Text: no
+Mute Photo: no
+Mute Gifs: no
+
+
+Muted Users for: [ID: 1086257471 ]:
+
+
+
+Ban list for: [ID: 1086257471 ]:
+

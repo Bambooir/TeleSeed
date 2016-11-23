@@ -1,0 +1,50 @@
+All the things I know about this group
+
+Group Type: 
+SuperGroup
+
+SuperGroup settings:
+Lock links : no
+Lock flood: yes
+Flood sensitivity : 5
+Lock spam: yes
+Lock Arabic: no
+Lock Member: no
+Lock RTL: no
+Lock Tgservice : yes
+Lock sticker: no
+Public: no
+Strict settings: no
+
+Rules: 
+No rules available.
+
+About: 
+No description available.
+
+Mods: 
+No moderator in this group.
+
+Link: 
+No link
+
+Chat stats:
+
+
+Mutes for: [ID: 1082473673 ]:
+
+Mute Audio: no
+Mute All: no
+Mute Text: no
+Mute Gifs: no
+Mute Photo: no
+Mute Documents: no
+Mute Video: no
+
+
+Muted Users for: [ID: 1082473673 ]:
+
+
+
+Ban list for: [ID: 1082473673 ]:
+

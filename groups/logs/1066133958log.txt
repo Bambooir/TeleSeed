@@ -1,0 +1,148 @@
+[ Sat May 28 06:22:25 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] added SuperGroup
+ 
+[ Sat May 28 06:22:58 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup settings 
+ 
+[ Sat May 28 06:23:06 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] locked link posting 
+ 
+[ Sat May 28 06:23:15 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] locked arabic 
+ 
+[ Sat May 28 06:23:28 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] locked member 
+ 
+[ Sat May 28 06:23:35 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] locked rtl chars. in names
+ 
+[ Sat May 28 06:23:45 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] locked sticker posting
+ 
+[ Sat May 28 06:23:56 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] locked enabled strict settings
+ 
+[ Sat May 28 06:23:58 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup settings 
+ 
+[ Sat May 28 06:24:04 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup muteslist
+ 
+[ Sat May 28 06:24:10 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set SuperGroup to: mute Video
+ 
+[ Sat May 28 06:24:19 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set SuperGroup to: mute Audio
+ 
+[ Sat May 28 06:24:24 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set SuperGroup to: mute All
+ 
+[ Sat May 28 06:24:32 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set SuperGroup to: mute Text
+ 
+[ Sat May 28 06:24:37 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set SuperGroup to: mute Documents
+ 
+[ Sat May 28 06:24:44 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set SuperGroup to: mute Photo
+ 
+[ Sat May 28 06:24:49 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set SuperGroup to: mute Gifs
+ 
+[ Sat May 28 06:25:24 2016 ]=>  Haruhi Suzumiya? [212257536] promoted @clannad
+ 
+[ Sat May 28 06:25:28 2016 ]=>  Haruhi Suzumiya? [212257536] promoted @IchLoggeBot
+ 
+[ Sat May 28 06:25:42 2016 ]=>  Haruhi Suzumiya? [212257536] promoted @Haruhi_Suzumiya
+ 
+[ Sat May 28 06:25:49 2016 ]=>  Haruhi Suzumiya?[212257536] set [190427743] as owner by username
+ 
+[ Sat May 28 06:59:48 2016 ]=>  krishna kishore User [210815669] joined and kicked (#lockmember)
+ 
+[ Sat May 28 07:01:46 2016 ]=>  Ghost Samurai👻 Admin [179416267] joined the SuperGroup via link
+ 
+[ Sat May 28 07:10:19 2016 ]=>  ↔️ Logging Bot [167781099] promoted @Mipirakas
+ 
+[ Sat May 28 07:10:29 2016 ]=>  ↔️ Logging Bot [167781099] requested group modlist
+ 
+[ Sat May 28 07:19:56 2016 ]=>  Till Kottmann Admin [152559768] joined the SuperGroup via link
+ 
+[ Sat May 28 07:31:03 2016 ]=>  Bot admin 2 Admin [161472020] joined the SuperGroup via link
+ 
+[ Sat May 28 07:33:34 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA Admin [228362727] added to the SuperGroup by [ 190427743 ]
+ 
+[ Sat May 28 07:34:34 2016 ]=>  ↔️ Logging Bot [167781099] demoted @GhostSamuraiX
+ 
+[ Sat May 28 07:57:35 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 07:57:56 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 07:58:34 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 07:59:04 2016 ]=>  Ghost Samurai👻 [179416267] demoted @pagaiba
+ 
+[ Sat May 28 08:03:30 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 08:03:52 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 08:03:58 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 08:04:12 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 08:05:17 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 08:05:51 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 08:06:56 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 08:07:08 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 08:07:28 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 08:08:19 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 08:08:49 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 08:09:16 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 08:10:20 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 08:10:43 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 08:11:02 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 08:11:19 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 08:11:39 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 08:12:01 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 08:12:17 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 08:12:46 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 08:13:17 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 08:13:22 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 08:13:53 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 08:14:05 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 08:14:23 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 08:14:43 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 08:15:18 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 08:16:18 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 08:16:21 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 08:16:33 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 08:16:49 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 08:19:01 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 10:23:22 2016 ]=>  ↔️ Logging Bot [167781099] demoted @GhostSamuraiX
+ 
+[ Sat May 28 10:23:52 2016 ]=>  ↔️ Logging Bot [167781099] demoted @[GhostSamuraiX
+ 
+[ Sat May 28 10:31:02 2016 ]=>  ↔️ Logging Bot [167781099] promoted @pagaiba
+ 
+[ Sat May 28 10:31:29 2016 ]=>  ↔️ Logging Bot [167781099] requested SuperGroup Admins list
+ 
+[ Sat May 28 10:32:11 2016 ]=>  ↔️ Logging Bot [167781099] demoted user#id179416267
+ 
+[ Sat May 28 10:33:07 2016 ]=>  ↔️ Logging Bot [167781099] set SuperGroup to: unmute All
+ 
+[ Sat May 28 10:34:37 2016 ]=>  ↔️ Logging Bot [167781099] left via kickme
+ 
+[ Sat May 28 10:38:17 2016 ]=>  ↔️ Logging Bot [167781099] left via kickme
+ 
+[ Sat May 28 10:39:43 2016 ]=>  ↔️ Logging Bot [167781099] requested SuperGroup settings 
+ 

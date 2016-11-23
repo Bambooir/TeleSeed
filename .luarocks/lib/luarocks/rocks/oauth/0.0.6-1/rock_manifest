@@ -1,0 +1,15 @@
+rock_manifest = {
+   doc = {
+      LICENSE = "ae8a53eaad620da4307c0ad358ad3a0b",
+      ['README.md'] = "77331855f0aae5334099fc42affa379e"
+   },
+   lua = {
+      OAuth = {
+         ['coreLuaNode.lua'] = "eeb479633ecc80ac0f3a1a8e272d160d",
+         ['coreLuaSocket.lua'] = "efcc1d4ecafd0eade67f661c8b369136",
+         ['helpers.lua'] = "92908c7c31f770460b697dbf657d532b"
+      },
+      ['OAuth.lua'] = "ae16ad33218614261dfd45a24f4a1f27"
+   },
+   ['oauth-0.0.6-1.rockspec'] = "7f413dc5ea7e3b6814986995dc90bdaf"
+}

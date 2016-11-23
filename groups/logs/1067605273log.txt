@@ -1,0 +1,96 @@
+[ Tue Jul  5 17:51:50 2016 ]=>  Haruhi Suzumiya [212257536] added SuperGroup
+ 
+[ Tue Jul  5 17:51:55 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup Admins list
+ 
+[ Tue Jul  5 18:43:36 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup users list
+ 
+[ Mon Jul 18 02:41:43 2016 ]=>  Test @Therealtestingbot [236007811] kicked for #spam
+ 
+[ Tue Jul 19 01:41:55 2016 ]=>  Haruhi Suzumiya [212257536] added SuperGroup
+ 
+[ Tue Jul 19 01:41:59 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup users list
+ 
+[ Tue Jul 19 03:17:32 2016 ]=>  Haruhi_Suzumiya [212257536] Used /chatlist
+ 
+[ Tue Jul 19 03:39:40 2016 ]=>  Haruhi Suzumiya [212257536] set flood to [10]
+ 
+[ Wed Jul 20 01:22:22 2016 ]=>  Haruhi Suzumiya [212257536] demoted admin @Everythingmesupport
+ 
+[ Wed Jul 20 01:24:10 2016 ]=>  Haruhi Suzumiya [212257536] requested ID for: @Everythingmesupport
+ 
+[ Wed Jul 20 01:25:03 2016 ]=>  Haruhi Suzumiya [212257536] set: [212257536] as admin by reply
+ 
+[ Fri Jul 22 19:57:57 2016 ]=>  yuda [34804026] renamed SuperGroup to: 🎩Hacking games admins🎩
+ 
+[ Fri Jul 22 20:19:27 2016 ]=>  Haruhi Suzumiya [0] renamed SuperGroup to: 🎩 Hacking games admins 🎩
+ 
+[ Sat Jul 23 22:27:27 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup ID
+ 
+[ Sat Jul 23 22:27:38 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup ID
+ 
+[ Sun Jul 24 03:53:54 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup settings 
+ 
+[ Sun Jul 24 04:24:16 2016 ]=>  SmarTech® - away ^ ^ [51113693] locked arabic 
+ 
+[ Sun Jul 24 04:24:37 2016 ]=>  SmarTech® - away ^ ^ [51113693] requested SuperGroup settings 
+ 
+[ Sun Jul 24 04:25:31 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup settings 
+ 
+[ Sun Jul 24 22:28:04 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup ID
+ 
+[ Mon Aug  1 03:02:04 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup ID
+ 
+[ Mon Aug  1 03:02:11 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup ID
+ 
+[ Mon Aug  1 03:02:36 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup ID
+ 
+[ Thu Aug  4 01:39:47 2016 ]=>  Leib moss® [152031724] promoted @betatest
+ 
+[ Thu Aug 11 21:19:02 2016 ]=>  涼宮ハルヒ_ちゃん [212257536] Used /superhelp
+ 
+[ Fri Aug 12 00:42:58 2016 ]=>  yuda [34804026] requested SuperGroup ID
+ 
+[ Tue Aug 16 20:18:45 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested ID for: @onepluspolls
+ 
+[ Tue Aug 16 20:20:00 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup settings 
+ 
+[ Tue Aug 16 22:09:40 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup ID
+ 
+[ Tue Aug 16 23:09:17 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup settings 
+ 
+[ Tue Aug 16 23:10:42 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup settings 
+ 
+[ Thu Aug 18 00:36:34 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup ID
+ 
+[ Fri Aug 19 21:05:14 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup ID
+ 
+[ Fri Aug 26 15:23:30 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup ID
+ 
+[ Mon Sep  5 23:59:00 2016 ]=>  涼宮ハルヒ ちゃん Admin [206197460] added to the SuperGroup by [ 0 ]
+ 
+[ Mon Sep 12 00:31:14 2016 ]=>  涼宮ハルヒ ちゃん [212257536] deleted a message by reply
+ 
+[ Mon Sep 12 00:35:26 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup ID
+ 
+[ Sun Sep 25 22:09:04 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup settings 
+ 
+[ Mon Sep 26 04:04:05 2016 ]=>  Leib moss® [152031724] unlocked spam
+ 
+[ Mon Sep 26 04:04:22 2016 ]=>  Leib moss® [152031724] requested SuperGroup settings 
+ 
+[ Mon Sep 26 04:04:41 2016 ]=>  Leib moss® [152031724] locked spam 
+ 
+[ Mon Sep 26 04:04:47 2016 ]=>  Leib moss® [152031724] requested SuperGroup settings 
+ 
+[ Mon Sep 26 06:41:04 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup settings 
+ 
+[ Sat Oct  8 13:40:53 2016 ]=>  涼宮ハルヒ ちゃん [212257536] promoted @Shay3979
+ 
+[ Sat Oct  8 13:41:04 2016 ]=>  涼宮ハルヒ ちゃん [212257536] set: [212257536] as admin by reply
+ 
+[ Thu Oct 27 06:45:15 2016 ]=>  Kawaii Starfish ⭐️🐠 [206197460] requested SuperGroup ID
+ 
+[ Sat Oct 29 17:16:59 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group rules
+ 
+[ Sat Oct 29 17:17:28 2016 ]=>  yuda [34804026] requested group rules
+ 

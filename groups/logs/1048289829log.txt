@@ -1,0 +1,244 @@
+[ Sun May 22 14:30:11 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] added SuperGroup
+ 
+[ Sun May 22 14:33:46 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Sun May 22 14:42:23 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Sun May 22 15:36:46 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Tue May 24 19:10:53 2016 ]=>  Peka. [59802458] requested SuperGroup Admins list
+ 
+[ Wed May 25 02:59:38 2016 ]=>  Peka. [59802458] requested SuperGroup users list
+ 
+[ Wed May 25 03:00:03 2016 ]=>  Peka. [59802458] requested SuperGroup users list
+ 
+[ Wed May 25 03:00:33 2016 ]=>  Peka. [59802458] requested SuperGroup users list
+ 
+[ Wed May 25 03:00:49 2016 ]=>  Peka. [59802458] Used /superhelp
+ 
+[ Wed May 25 03:01:03 2016 ]=>  Peka. [59802458] requested SuperGroup Admins list
+ 
+[ Wed May 25 03:01:17 2016 ]=>  Peka. [59802458] used /owner
+ 
+[ Sun Jun 12 06:35:58 2016 ]=>  長門有希?ゆきながと?ユキナガト?YukiNagato?O-ooooooooooAAAAE-A-A-I-A-U-JO-ooooooooooooAAE-O-A-A-U-U-A-E-eee-ee-eeeAAAAE-A-E-I-E-A-JO-ooo-oo-oo-ooEEEEO-A-AAA-AAAA [190427743] banned user is talking !
+ 
+[ Sun Jun 12 13:13:35 2016 ]=>  Haruhi Suzumiya [212257536] obtained id for: [139973623]
+ 
+[ Sun Jun 12 23:39:55 2016 ]=>  長門有希?ゆきながと?ユキナガト?YukiNagato?O-ooooooooooAAAAE-A-A-I-A-U-JO-ooooooooooooAAE-O-A-A-U-U-A-E-eee-ee-eeeAAAAE-A-E-I-E-A-JO-ooo-oo-oo-ooEEEEO-A-AAA-AAAA [190427743] banned user is talking !
+ 
+[ Tue Jun 14 16:07:12 2016 ]=>  Haruhi Suzumiya [212257536] added SuperGroup
+ 
+[ Tue Jun 14 16:07:25 2016 ]=>  Haruhi Suzumiya [212257536] resolved username: @imandaneshi
+ 
+[ Wed Jun 15 09:38:58 2016 ]=>  Peka. [59802458] Used /superhelp
+ 
+[ Wed Jun 15 09:39:26 2016 ]=>  Peka. [59802458] requested group rules
+ 
+[ Wed Jun 15 09:39:50 2016 ]=>  log file created by owner/support/admin
+ 
+[ Wed Jun 15 09:40:45 2016 ]=>  Peka. [59802458] renamed SuperGroup to: TEST
+ 
+[ Wed Jun 15 09:40:46 2016 ]=>  Haruhi Suzumiya [0] renamed SuperGroup to: TEST
+ 
+[ Wed Jun 15 09:41:09 2016 ]=>  🇩🇪 sraP nreyaB [116799216] renamed SuperGroup to: Baum.xyz | family and beta
+ 
+[ Wed Jun 15 09:41:10 2016 ]=>  Haruhi Suzumiya [0] renamed SuperGroup to: Baum.xyz | family and beta
+ 
+[ Wed Jun 15 09:42:14 2016 ]=>  Peka. [59802458] set SuperGroup description to: Ayyy lmao
+ 
+[ Wed Jun 15 09:42:44 2016 ]=>  Peka. [59802458] used /get name
+ 
+[ Wed Jun 15 09:43:57 2016 ]=>  🇩🇪 sraP nreyaB [116799216] set SuperGroup description to: Baum.xyz | check out @Bothosting & @BotHostingBot
+ 
+[ Wed Jun 15 09:44:36 2016 ]=>  🇩🇪 sraP nreyaB [116799216] started setting new SuperGroup photo
+ 
+[ Wed Jun 15 09:45:16 2016 ]=>  Haruhi Suzumiya [212257536] set new SuperGroup photo
+ 
+[ Sat Jun 18 08:18:29 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup ID
+ 
+[ Sat Jun 18 10:40:55 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup settings 
+ 
+[ Sat Jun 18 10:41:12 2016 ]=>  Haruhi Suzumiya [212257536] promoted @TriggerResponseBot
+ 
+[ Sat Jun 18 10:48:33 2016 ]=>  Peka. [59802458] Used /superhelp
+ 
+[ Sat Jun 18 10:52:45 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup ID
+ 
+[ Sat Jun 18 10:53:05 2016 ]=>  Peka. [59802458] requested SuperGroup ID
+ 
+[ Sat Jun 18 10:53:13 2016 ]=>  Peka. [59802458] requested SuperGroup ID
+ 
+[ Sat Jun 18 10:53:17 2016 ]=>  Peka. [59802458] Used /superhelp
+ 
+[ Sat Jun 18 10:53:20 2016 ]=>  Peka. [59802458] Used /superhelp
+ 
+[ Sat Jun 18 10:55:50 2016 ]=>  Peka. [59802458] Used /superhelp
+ 
+[ Sat Jun 18 11:08:34 2016 ]=>  Haruhi Suzumiya Admin [181221553] added to the SuperGroup by [ 0 ]
+ 
+[ Sun Jun 19 13:05:16 2016 ]=>  flo [117506665] requested SuperGroup ID
+ 
+[ Sun Jun 19 13:06:51 2016 ]=>  flo [117506665] requested SuperGroup ID
+ 
+[ Sun Jun 19 13:07:00 2016 ]=>  flo [117506665] requested SuperGroup users list
+ 
+[ Sun Jun 19 13:09:36 2016 ]=>  Mr.Gigabyte_via__mrbytebot [139973623] Used /superhelp
+ 
+[ Sun Jun 19 13:10:37 2016 ]=>  Mr.Gigabyte_via__mrbytebot [139973623] Used /superhelp
+ 
+[ Sun Jun 19 13:11:50 2016 ]=>  Mr.Gigabyte via  mrbytebot [139973623] locked sticker posting
+ 
+[ Sun Jun 19 13:14:44 2016 ]=>  Mr.Gigabyte via  mrbytebot [139973623] locked sticker posting
+ 
+[ Sun Jun 19 13:14:48 2016 ]=>  Mr.Gigabyte via  mrbytebot [139973623] locked flood 
+ 
+[ Sun Jun 19 13:14:52 2016 ]=>  Mr.Gigabyte via  mrbytebot [139973623] locked spam 
+ 
+[ Sun Jun 19 13:14:57 2016 ]=>  Mr.Gigabyte via  mrbytebot [139973623] locked arabic 
+ 
+[ Sun Jun 19 13:17:20 2016 ]=>  Haruhi Suzumiya Admin [0] joined the SuperGroup via link
+ 
+[ Sun Jun 19 13:20:40 2016 ]=>  flo [117506665] set SuperGroup to: mute All
+ 
+[ Sun Jun 19 13:21:24 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup users list
+ 
+[ Sun Jun 19 13:23:14 2016 ]=>  flo [117506665] set SuperGroup to: unmute All
+ 
+[ Sun Jun 19 13:23:40 2016 ]=>  Haruhi Suzumiya [212257536] demoted @nandan
+ 
+[ Sun Jun 19 13:23:47 2016 ]=>  Haruhi Suzumiya [212257536] requested group modlist
+ 
+[ Sun Jun 19 13:24:46 2016 ]=>  Haruhi Suzumiya Admin [0] joined the SuperGroup via link
+ 
+[ Sun Jun 19 13:40:01 2016 ]=>  Haruhi Suzumiya [212257536] deleted a message by reply
+ 
+[ Sun Jun 19 13:47:42 2016 ]=>  Haruhi Suzumiya Admin [0] joined the SuperGroup via link
+ 
+[ Sun Jun 19 13:48:00 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup users list
+ 
+[ Sun Jun 19 13:48:49 2016 ]=>  Mr.Gigabyte via  mrbytebot Admin [212257536] added to the SuperGroup by [ 139973623 ]
+ 
+[ Sun Jun 19 13:48:50 2016 ]=>  Mr.Gigabyte via  mrbytebot Admin [212257536] added to the SuperGroup by [ 139973623 ]
+ 
+[ Sun Jun 19 13:49:26 2016 ]=>  Haruhi Suzumiya Admin [0] joined the SuperGroup via link
+ 
+[ Sun Jun 19 13:50:04 2016 ]=>  Peka. [59802458] Used /superhelp
+ 
+[ Sun Jun 19 13:55:02 2016 ]=>  Baum.xyzSupport @baumsupport [156163831] kicked for #spam
+ 
+[ Sun Jun 19 13:55:06 2016 ]=>  Peka. @Sanguchi [59802458] kicked for #spam
+ 
+[ Mon Jun 20 18:04:24 2016 ]=>  長門有希?ゆきながと?ユキナガト?YukiNagato?O-ooooooooooAAAAE-A-A-I-A-U-JO-ooooooooooooAAE-O-A-A-U-U-A-E-eee-ee-eeeAAAAE-A-E-I-E-A-JO-ooo-oo-oo-ooEEEEO-A-AAA-AAAA [190427743] banned user is talking !
+ 
+[ Thu Jun 23 16:27:49 2016 ]=>  Primarybotadmin長門有希?ゆきながと?ユキナガト?YukiNagato?O-ooooooooooAAAAE-A-A-I-A-U-JO-ooooooooooooAAE-O-A-A-U-U-A-E-eee-ee-eeeAAAAE-A-E-I-E-A-JO-ooo-oo-oo-ooEEEEO-A-AAA-AAAA [190427743] banned user is talking !
+ 
+[ Thu Jun 23 16:35:11 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup mutelist
+ 
+[ Fri Jun 24 17:47:53 2016 ]=>  Haruhi Suzumiya [212257536] promoted @Sanguchi
+ 
+[ Fri Jun 24 17:53:42 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup muteslist
+ 
+[ Fri Jun 24 17:53:55 2016 ]=>  Haruhi Suzumiya [212257536] set SuperGroup to: mute Audio
+ 
+[ Fri Jun 24 17:55:50 2016 ]=>  Mr.Gigabyte @nandan [139973623] kicked for #spam
+ 
+[ Fri Jun 24 18:04:26 2016 ]=>  Haruhi Suzumiya [212257536] promoted @nandan
+ 
+[ Fri Jun 24 18:04:55 2016 ]=>  Haruhi Suzumiya [212257536] demoted @nandan
+ 
+[ Sat Jun 25 14:43:00 2016 ]=>  Mr.Gigabyte @nandan [139973623] kicked for #spam
+ 
+[ Sat Jun 25 17:14:09 2016 ]=>  Peka [59802458] requested SuperGroup users list
+ 
+[ Sat Jun 25 18:17:17 2016 ]=>  Peka [59802458] requested SuperGroup settings 
+ 
+[ Sat Jun 25 18:17:35 2016 ]=>  Peka [59802458] unlocked tgservice actions
+ 
+[ Sun Jun 26 07:39:39 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup users list
+ 
+[ Sun Jun 26 07:42:20 2016 ]=>  flo [117506665] resolved username: @aRandomStranger
+ 
+[ Sun Jun 26 07:42:49 2016 ]=>  Haruhi Suzumiya [212257536] requested ID for: @nandan
+ 
+[ Sun Jun 26 13:39:59 2016 ]=>  Haruhi Suzumiya Admin [190427743] added to the SuperGroup by [ 0 ]
+ 
+[ Mon Jun 27 15:28:12 2016 ]=>  Haruhi Suzumiya Admin [229473867] added to the SuperGroup by [ 0 ]
+ 
+[ Mon Jun 27 15:31:53 2016 ]=>  Peka [59802458] requested SuperGroup users list
+ 
+[ Mon Jun 27 15:32:54 2016 ]=>  Aryan [229473867] deleted a message by reply
+ 
+[ Mon Jun 27 15:33:01 2016 ]=>  Aryan [229473867] deleted a message by reply
+ 
+[ Mon Jun 27 15:33:08 2016 ]=>  Aryan [229473867] deleted a message by reply
+ 
+[ Mon Jun 27 15:33:14 2016 ]=>  Aryan [229473867] deleted a message by reply
+ 
+[ Mon Jun 27 15:33:21 2016 ]=>  Aryan [229473867] deleted a message by reply
+ 
+[ Mon Jun 27 15:33:41 2016 ]=>  Aryan [229473867] deleted a message by reply
+ 
+[ Mon Jun 27 15:33:58 2016 ]=>  Aryan [229473867] deleted a message by reply
+ 
+[ Mon Jun 27 15:36:14 2016 ]=>  Aryan [229473867] deleted a message by reply
+ 
+[ Mon Jun 27 16:03:36 2016 ]=>  Primarybotadmin長門有希?ゆきながと?ユキナガト?YukiNagato?O-ooooooooooAAAAE-A-A-I-A-U-JO-ooooooooooooAAE-O-A-A-U-U-A-E-eee-ee-eeeAAAAE-A-E-I-E-A-JO-ooo-oo-oo-ooEEEEO-A-AAA-AAAA [190427743] banned user is talking !
+ 
+[ Mon Jun 27 16:04:01 2016 ]=>  Primarybotadmin長門有希?ゆきながと?ユキナガト?YukiNagato?O-ooooooooooAAAAE-A-A-I-A-U-JO-ooooooooooooAAE-O-A-A-U-U-A-E-eee-ee-eeeAAAAE-A-E-I-E-A-JO-ooo-oo-oo-ooEEEEO-A-AAA-AAAA [190427743] banned user is talking !
+ 
+[ Tue Jun 28 17:27:20 2016 ]=>  Haruhi Suzumiya Admin [229473867] added to the SuperGroup by [ 0 ]
+ 
+[ Sun Jul  3 14:48:23 2016 ]=>  Aryan [229473867] left via kickme
+ 
+[ Mon Jul  4 15:26:57 2016 ]=>  Haruhi Suzumiya Admin [37095765] added to the SuperGroup by [ 0 ]
+ 
+[ Tue Jul  5 00:05:34 2016 ]=>  Peka [59802458] Used /superhelp
+ 
+[ Tue Jul  5 21:32:10 2016 ]=>  Mr.Byte [202663697] banned user is talking !
+ 
+[ Tue Jul  5 21:36:10 2016 ]=>  Mr.Gigabyte [139973623] added a banned user >202663697
+ 
+[ Tue Jul  5 21:58:18 2016 ]=>  Mr.Gigabyte [139973623] added a banned user >202663697
+ 
+[ Wed Jul  6 12:07:41 2016 ]=>  log file created by owner/support/admin
+ 
+[ Wed Jul  6 12:09:39 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup settings 
+ 
+[ Wed Jul  6 21:23:29 2016 ]=>  Mr.Gigabyte @nandan [139973623] kicked for #spam
+ 
+[ Sat Jul  9 12:17:09 2016 ]=>  Haruhi Suzumiya [212257536] promoted @nandan
+ 
+[ Sun Jul 10 08:41:36 2016 ]=>  Peka [59802458] requested group stats 
+ 
+[ Sun Jul 10 08:41:39 2016 ]=>  Peka [59802458] requested SuperGroup bots list
+ 
+[ Sun Jul 10 09:55:22 2016 ]=>  Peka [59802458] requested group stats 
+ 
+[ Sun Jul 10 11:25:22 2016 ]=>  Peka [59802458] deleted a message by reply
+ 
+[ Sun Jul 10 14:00:23 2016 ]=>  Peka [59802458] deleted a message by reply
+ 
+[ Sun Jul 10 14:00:41 2016 ]=>  Peka [59802458] requested SuperGroup settings 
+ 
+[ Sun Jul 10 14:01:00 2016 ]=>  Peka [59802458] unlocked flood
+ 
+[ Sun Jul 10 14:01:05 2016 ]=>  Peka [59802458] requested SuperGroup settings 
+ 
+[ Sun Jul 10 14:01:56 2016 ]=>  Peka [59802458] deleted a message by reply
+ 
+[ Sun Jul 10 14:03:27 2016 ]=>  Haruhi Suzumiya [212257536] deleted a message by reply
+ 
+[ Sun Jul 10 14:03:39 2016 ]=>  Peka [59802458] deleted a message by reply
+ 
+[ Sun Jul 10 14:04:44 2016 ]=>  Peka [59802458] deleted a message by reply
+ 
+[ Sun Jul 10 15:10:46 2016 ]=>  Peka [59802458] requested SuperGroup users list
+ 
+[ Mon Jul 11 13:15:04 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup ID
+ 
+[ Wed Jul 13 16:16:53 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup ID
+ 
+[ Wed Jul 13 16:16:56 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup users list
+ 
+[ Wed Jul 13 18:10:45 2016 ]=>  Peka [59802458] deleted a message by reply
+ 

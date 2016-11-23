@@ -1,0 +1,14 @@
+[ Tue Aug  9 02:13:07 2016 ]=>  涼宮ハルヒ ちゃん [212257536] added SuperGroup
+ 
+[ Tue Aug  9 02:13:13 2016 ]=>  涼宮ハルヒ ちゃん [212257536] set: [161472020] as admin by reply
+ 
+[ Tue Aug  9 02:31:02 2016 ]=>  Kawaii Starfish ⭐️🐠 [206197460] set: [206197460] as admin by reply
+ 
+[ Tue Aug  9 02:31:08 2016 ]=>  Kawaii Starfish ⭐️🐠 [206197460] set: [212257536] as admin by reply
+ 
+[ Sun Aug 14 02:36:40 2016 ]=>  Tristan Admin [116004047] joined the SuperGroup via link
+ 
+[ Sat Aug 27 18:32:42 2016 ]=>  涼宮ハルヒ ちゃん [212257536] set SuperGroup to: mute All
+ 
+[ Mon Sep  5 23:40:31 2016 ]=>  涼宮ハルヒ ちゃん [212257536] set SuperGroup to: unmute All
+ 

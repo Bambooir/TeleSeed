@@ -1,0 +1,70 @@
+All the things I know about this group
+
+Group Type: 
+SuperGroup
+
+SuperGroup settings:
+Lock links : no
+Lock flood: yes
+Flood sensitivity : 5
+Lock spam: yes
+Lock Arabic: yes
+Lock Member: no
+Lock RTL: yes
+Lock Tgservice : yes
+Lock sticker: yes
+Public: yes
+Strict settings: no
+
+Rules: 
+No spam
+English only
+You can talk about other ROMs as long as they are cm based
+
+About: 
+Official cm discussion for all oneplus devices.
+The public invite link is @onePlusCM
+Type !rules to read the rules
+This group is for the open-source cyanogenmod only and not for cyanogen OS. You can still discuss about COS but don't expect any support.
+
+Mods: 
+
+List of moderators :
+1 - @(at)Haruhi_Suzumiya [212257536] 
+2 - @(at)TugaPower [159315022] 
+3 - @(at)FunkWizard [203308790] 
+4 - @(at)dangou [206197460] 
+5 - @(at)Searly_Boy [80467078] 
+6 - @(at)G333K [101952947] 
+7 - @(at)GhostSamuraiX [179416267] 
+8 - @(at)clannad [190427743] 
+9 - @(at)alexislovesoneplus [147725158] 
+10 - @(at)Igetin [41549409] 
+
+
+Link: 
+Group link:
+https://telegram.me/joinchat/DKbLAD-DirafIniTJglxjA
+
+Chat stats:
+
+
+Mutes for: [ID: 1065585334 ]:
+
+Mute All: no
+Mute Video: no
+Mute Documents: no
+Mute Gifs: yes
+Mute Text: no
+Mute Photo: no
+Mute Audio: no
+
+
+Muted Users for: [ID: 1065585334 ]:
+
+1 - OneplusBot [153719508]
+
+
+Ban list for: [ID: 1065585334 ]:
+
+1 - OneplusBot [153719508]

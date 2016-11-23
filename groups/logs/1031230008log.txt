@@ -1,0 +1,2952 @@
+[ Mon Aug 15 11:59:58 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Aug 15 12:04:48 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Aug 17 13:06:54 2016 ]=>  Gavin [23969137] added a banned user >84210004
+ 
+[ Wed Aug 17 13:06:57 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Wed Aug 17 13:06:59 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Wed Aug 17 19:05:36 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Aug 18 18:13:44 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Aug 18 18:33:06 2016 ]=>  涼宮ハルヒ ちゃん [212257536] added SuperGroup
+ 
+[ Thu Aug 18 18:33:13 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup Admins list
+ 
+[ Thu Aug 18 18:39:17 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Aug 19 02:46:48 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Aug 19 03:18:13 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Aug 20 21:06:29 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Aug 21 19:58:17 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Aug 21 23:14:39 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Aug 22 03:18:39 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Aug 23 00:39:29 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Aug 23 12:30:55 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Aug 24 19:12:20 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Aug 27 04:46:46 2016 ]=>  NicholasChum [87694790] banned user is talking !
+ 
+[ Sat Aug 27 04:46:48 2016 ]=>  NicholasChum [87694790] banned user is talking !
+ 
+[ Sat Aug 27 04:46:57 2016 ]=>  NicholasChum [87694790] banned user is talking !
+ 
+[ Sat Aug 27 04:47:00 2016 ]=>  NicholasChum [87694790] banned user is talking !
+ 
+[ Sat Aug 27 04:47:04 2016 ]=>  NicholasChum [87694790] banned user is talking !
+ 
+[ Sat Aug 27 04:48:08 2016 ]=>  NicholasChum [87694790] banned user is talking !
+ 
+[ Sat Aug 27 04:48:12 2016 ]=>  NicholasChum [87694790] banned user is talking !
+ 
+[ Sat Aug 27 04:50:14 2016 ]=>  NicholasChum [87694790] banned user is talking !
+ 
+[ Sat Aug 27 05:07:06 2016 ]=>  NicholasChum [87694790] banned user is talking !
+ 
+[ Sat Aug 27 05:50:02 2016 ]=>  NicholasChum [87694790] banned user is talking !
+ 
+[ Sat Aug 27 05:50:13 2016 ]=>  NicholasChum [87694790] banned user is talking !
+ 
+[ Sat Aug 27 09:16:56 2016 ]=>  NicholasChum [87694790] banned user is talking !
+ 
+[ Sat Aug 27 17:14:57 2016 ]=>  NicholasChum [87694790] banned user is talking !
+ 
+[ Sat Aug 27 17:16:41 2016 ]=>  NicholasChum [87694790] banned user is talking !
+ 
+[ Sat Aug 27 17:47:13 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Aug 27 18:21:05 2016 ]=>  NicholasChum [87694790] banned user is talking !
+ 
+[ Sun Aug 28 15:01:13 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Aug 29 05:09:37 2016 ]=>  NicholasChum [87694790] banned user is talking !
+ 
+[ Mon Aug 29 05:11:36 2016 ]=>  NicholasChum [87694790] banned user is talking !
+ 
+[ Mon Aug 29 05:11:55 2016 ]=>  NicholasChum [87694790] banned user is talking !
+ 
+[ Mon Aug 29 05:12:57 2016 ]=>  NicholasChum [87694790] banned user is talking !
+ 
+[ Mon Aug 29 05:13:30 2016 ]=>  NicholasChum [87694790] banned user is talking !
+ 
+[ Sat Sep  3 03:29:22 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Sep  3 17:41:50 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Sep  4 21:24:11 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Sep  5 06:41:17 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Sep  7 05:46:38 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Sep  7 23:25:15 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Sep  7 23:59:56 2016 ]=>  NicholasChum [87694790] banned user is talking !
+ 
+[ Thu Sep  8 00:00:05 2016 ]=>  NicholasChum [87694790] banned user is talking !
+ 
+[ Thu Sep  8 00:01:04 2016 ]=>  NicholasChum [87694790] banned user is talking !
+ 
+[ Thu Sep  8 06:21:36 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Sep  8 13:06:49 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Sep  9 22:24:59 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Sep 10 11:10:48 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Sep 12 01:38:36 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Sep 12 03:20:18 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Sep 12 16:56:25 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Sep 13 06:29:33 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Sep 13 15:06:14 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Sep 15 14:01:26 2016 ]=>  NicholasChum [87694790] banned user is talking !
+ 
+[ Thu Sep 15 21:18:01 2016 ]=>  涼宮ハルヒ ちゃん [212257536] added SuperGroup
+ 
+[ Thu Sep 15 21:18:04 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup ID
+ 
+[ Fri Sep 16 00:57:21 2016 ]=>  NicholasChum [87694790] banned user is talking !
+ 
+[ Fri Sep 16 01:23:06 2016 ]=>  NicholasChum [87694790] banned user is talking !
+ 
+[ Fri Sep 16 01:23:54 2016 ]=>  NicholasChum [87694790] banned user is talking !
+ 
+[ Fri Sep 16 01:24:32 2016 ]=>  NicholasChum [87694790] banned user is talking !
+ 
+[ Fri Sep 16 09:48:35 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Sep 17 03:28:14 2016 ]=>  涼宮ハルヒ ちゃん [212257536] added SuperGroup
+ 
+[ Sat Sep 17 03:28:18 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup ID
+ 
+[ Sun Sep 18 14:51:58 2016 ]=>  涼宮ハルヒ ちゃん [212257536] added SuperGroup
+ 
+[ Sun Sep 18 14:52:03 2016 ]=>  涼宮ハルヒ ちゃん [212257536] resolved username: @/res akkey
+ 
+[ Sun Sep 18 14:52:05 2016 ]=>  涼宮ハルヒ ちゃん [212257536] resolved username: @akkey
+ 
+[ Sun Sep 18 15:46:52 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Sep 18 19:30:54 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Sep 18 20:08:18 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Sun Sep 18 22:17:00 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Sep 18 23:01:43 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Sep 18 23:04:59 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Sun Sep 18 23:05:56 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Sun Sep 18 23:07:24 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Sun Sep 18 23:33:43 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Mon Sep 19 01:17:19 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Sep 19 03:21:13 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Mon Sep 19 03:22:04 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Mon Sep 19 03:23:55 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Mon Sep 19 03:25:11 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Mon Sep 19 03:28:08 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Mon Sep 19 03:28:18 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Mon Sep 19 03:30:07 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Mon Sep 19 03:30:21 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Mon Sep 19 03:32:45 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Mon Sep 19 03:32:57 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Mon Sep 19 03:33:05 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Mon Sep 19 03:33:24 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Mon Sep 19 03:33:29 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Mon Sep 19 03:34:01 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Mon Sep 19 03:35:51 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Mon Sep 19 03:37:18 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Mon Sep 19 03:37:21 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Mon Sep 19 03:37:23 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Mon Sep 19 03:38:47 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Mon Sep 19 03:38:59 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Mon Sep 19 03:50:21 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Mon Sep 19 04:16:32 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Mon Sep 19 04:16:40 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Mon Sep 19 04:37:20 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Mon Sep 19 04:45:56 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Mon Sep 19 04:48:40 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Mon Sep 19 05:28:41 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Mon Sep 19 06:22:38 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Mon Sep 19 06:24:49 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Mon Sep 19 06:24:52 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Mon Sep 19 06:24:53 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Mon Sep 19 06:25:24 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Mon Sep 19 22:26:38 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Mon Sep 19 22:38:48 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Tue Sep 20 00:30:27 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Tue Sep 20 00:30:41 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Tue Sep 20 00:43:49 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Tue Sep 20 04:56:14 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Tue Sep 20 07:27:47 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Tue Sep 20 15:36:48 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Tue Sep 20 15:38:28 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Tue Sep 20 20:17:00 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Tue Sep 20 20:17:04 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Tue Sep 20 20:48:19 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Tue Sep 20 22:16:31 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Tue Sep 20 22:16:56 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Tue Sep 20 22:58:57 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Tue Sep 20 23:09:23 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Tue Sep 20 23:10:40 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Tue Sep 20 23:12:23 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Wed Sep 21 07:00:05 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Wed Sep 21 20:28:35 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Wed Sep 21 20:30:31 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Wed Sep 21 20:30:36 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Wed Sep 21 20:30:49 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Wed Sep 21 20:31:00 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Wed Sep 21 20:31:32 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Wed Sep 21 20:31:45 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Wed Sep 21 20:31:58 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Wed Sep 21 20:33:58 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Wed Sep 21 20:34:17 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Wed Sep 21 20:35:05 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Wed Sep 21 20:36:11 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Wed Sep 21 20:40:30 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Wed Sep 21 20:40:41 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Wed Sep 21 21:33:13 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Wed Sep 21 21:37:21 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Thu Sep 22 04:58:45 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Thu Sep 22 04:58:48 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Thu Sep 22 04:59:04 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Thu Sep 22 04:59:24 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Thu Sep 22 04:59:27 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Thu Sep 22 04:59:36 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Thu Sep 22 04:59:57 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Thu Sep 22 05:00:09 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Thu Sep 22 05:02:39 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Thu Sep 22 05:11:11 2016 ]=>  🖕NathanChancellor🖕 [190119975] banned user is talking !
+ 
+[ Thu Sep 22 17:09:15 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Thu Sep 22 17:09:35 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Thu Sep 22 17:10:30 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Thu Sep 22 19:28:09 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Thu Sep 22 19:38:36 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Thu Sep 22 19:38:40 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Thu Sep 22 19:40:08 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Fri Sep 23 20:50:34 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Fri Sep 23 20:50:37 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Fri Sep 23 20:50:41 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sat Sep 24 00:08:54 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sat Sep 24 00:16:42 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sat Sep 24 00:22:37 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sat Sep 24 00:22:39 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sat Sep 24 00:22:46 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sat Sep 24 00:29:59 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sat Sep 24 00:33:05 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sat Sep 24 04:23:41 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sat Sep 24 04:27:50 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sat Sep 24 04:30:40 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sat Sep 24 04:30:54 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sat Sep 24 04:31:07 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sat Sep 24 05:51:44 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sat Sep 24 05:51:53 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sat Sep 24 05:57:24 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 00:19:17 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 00:19:41 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 00:19:46 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 00:19:52 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 00:19:54 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 00:19:56 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 00:20:00 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 00:20:01 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 00:20:12 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 00:20:30 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 00:20:38 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 00:20:47 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 00:21:05 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 00:21:13 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 02:53:42 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 02:54:04 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 02:54:39 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 02:54:53 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 02:54:56 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 02:55:09 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 02:56:47 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 02:59:41 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 03:00:51 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 03:01:01 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 03:02:28 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 03:02:32 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 03:05:52 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 03:06:19 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 03:06:47 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 03:06:51 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 03:06:56 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 03:07:09 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 03:10:42 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 03:15:03 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 17:25:45 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 17:27:37 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 17:27:58 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 17:28:49 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 20:57:20 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Sep 25 22:46:28 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Sun Sep 25 22:46:40 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Mon Sep 26 08:17:34 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Sep 26 18:51:51 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Mon Sep 26 18:52:25 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Mon Sep 26 18:56:36 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Mon Sep 26 18:56:49 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Mon Sep 26 18:56:58 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Mon Sep 26 18:59:34 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Mon Sep 26 19:00:00 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Mon Sep 26 19:04:00 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Mon Sep 26 19:05:45 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Mon Sep 26 19:06:00 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Mon Sep 26 19:06:43 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Mon Sep 26 19:07:11 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Mon Sep 26 19:11:11 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Mon Sep 26 19:12:33 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Tue Sep 27 08:28:34 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Tue Sep 27 08:30:37 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Tue Sep 27 08:32:19 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Tue Sep 27 08:32:24 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Tue Sep 27 08:52:38 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Tue Sep 27 08:52:48 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Tue Sep 27 08:53:00 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Tue Sep 27 08:53:36 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Tue Sep 27 08:53:40 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Tue Sep 27 08:54:13 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Tue Sep 27 08:55:26 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Tue Sep 27 08:55:34 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Tue Sep 27 08:57:58 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Tue Sep 27 09:00:06 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Tue Sep 27 09:04:26 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Tue Sep 27 14:01:43 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Tue Sep 27 20:08:10 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Tue Sep 27 20:08:58 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Tue Sep 27 20:09:50 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Tue Sep 27 20:12:13 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Tue Sep 27 23:56:24 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Wed Sep 28 05:09:15 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Wed Sep 28 05:12:12 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Wed Sep 28 05:21:32 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Wed Sep 28 18:58:53 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Wed Sep 28 18:59:02 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Wed Sep 28 18:59:20 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Wed Sep 28 18:59:23 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Wed Sep 28 19:00:11 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Wed Sep 28 19:00:36 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Wed Sep 28 19:00:49 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Wed Sep 28 19:04:05 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Wed Sep 28 21:02:40 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Wed Sep 28 21:12:20 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Wed Sep 28 21:13:30 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Wed Sep 28 21:14:55 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Wed Sep 28 21:15:36 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Wed Sep 28 21:15:48 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Wed Sep 28 21:15:54 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Wed Sep 28 21:18:24 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Wed Sep 28 21:18:25 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Thu Sep 29 00:47:32 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Thu Sep 29 00:50:03 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Thu Sep 29 02:00:25 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Thu Sep 29 02:02:46 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Thu Sep 29 02:03:00 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Thu Sep 29 02:03:05 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Thu Sep 29 02:05:19 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Thu Sep 29 02:08:44 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Thu Sep 29 02:09:19 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Thu Sep 29 02:14:49 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Thu Sep 29 02:14:53 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Thu Sep 29 02:14:56 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Thu Sep 29 03:45:11 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Thu Sep 29 03:46:15 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Thu Sep 29 07:10:45 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Thu Sep 29 07:14:33 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Thu Sep 29 07:20:56 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Sep 29 07:22:56 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Thu Sep 29 07:24:51 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Sep 29 07:30:17 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Thu Sep 29 08:27:42 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Sep 29 08:40:47 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Sep 29 08:59:25 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Sep 29 09:11:33 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Sep 29 09:33:39 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Sep 29 10:12:17 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Sep 29 10:23:17 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Sep 29 10:36:40 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Sep 29 11:12:05 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Sep 29 11:38:20 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Sep 29 13:46:00 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Sep 29 16:05:09 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Sep 29 16:09:34 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Thu Sep 29 19:01:36 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Sep 29 19:22:29 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Thu Sep 29 19:28:45 2016 ]=>  🔥NathanChancellor🔥 [190119975] banned user is talking !
+ 
+[ Fri Sep 30 11:16:59 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Sep 30 13:19:20 2016 ]=>  Gavin [23969137] added a banned user >84210004
+ 
+[ Fri Sep 30 13:19:23 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Fri Sep 30 13:19:24 2016 ]=>  PollBot [84210004] banned user is talking !
+ 
+[ Fri Sep 30 16:37:31 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Oct  1 20:20:40 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct  1 20:29:52 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct  1 21:38:42 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct  1 23:20:50 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Oct  2 00:11:45 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct  2 00:29:56 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Oct  2 00:36:05 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Oct  2 01:14:58 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct  2 01:16:34 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct  2 01:17:26 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct  2 02:35:51 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct  2 03:23:32 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct  2 03:24:55 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct  2 03:24:59 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct  2 05:03:50 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct  2 16:54:24 2016 ]=>  StuckInTheSkye @WelcomeToTheSkye [183361512] kicked for #spam
+ 
+[ Sun Oct  2 19:27:10 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Oct  2 19:27:30 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct  2 19:28:22 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Oct  2 19:33:17 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Oct  2 21:49:49 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Oct  3 02:12:07 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Oct  3 03:22:35 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct  3 21:03:54 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct  3 21:04:09 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct  3 21:11:05 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct  3 21:11:22 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct  3 21:12:44 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct  3 21:13:41 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct  3 21:14:14 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct  3 21:14:21 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct  3 21:14:52 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct  3 21:15:11 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct  3 21:15:25 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct  3 21:16:39 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct  3 21:16:53 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct  3 21:19:02 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct  3 21:19:18 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct  3 21:19:42 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct  3 21:21:04 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct  3 21:34:22 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct  3 21:34:26 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct  3 21:34:28 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct  3 21:34:33 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct  3 21:34:34 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct  3 21:34:46 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct  3 21:35:02 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct  3 21:57:10 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct  3 21:57:18 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct  3 22:00:12 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct  3 23:29:20 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct  3 23:29:38 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct  3 23:29:49 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct  3 23:37:00 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 02:17:57 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 02:18:01 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 07:52:52 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 07:56:02 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 07:56:18 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 07:59:29 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 08:00:45 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 08:00:56 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 13:48:49 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Oct  4 13:55:22 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Oct  4 14:01:46 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Oct  4 14:19:42 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Oct  4 14:32:54 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Oct  4 14:40:54 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Oct  4 14:58:42 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Tue Oct  4 14:58:48 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Tue Oct  4 15:17:21 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Oct  4 15:44:28 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Oct  4 16:26:38 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Tue Oct  4 16:30:36 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Tue Oct  4 16:35:00 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Tue Oct  4 16:39:03 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Oct  4 16:52:24 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Oct  4 17:07:33 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Oct  4 17:19:46 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Oct  4 17:50:53 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Oct  4 19:10:16 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 19:10:24 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 19:10:54 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 19:11:00 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 19:11:05 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 19:11:13 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 19:14:13 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 19:14:28 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 19:14:31 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 19:15:05 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 19:42:17 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 19:47:32 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 19:47:40 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 19:47:55 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 19:53:43 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 19:58:12 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 19:58:19 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 19:58:26 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 19:58:32 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 19:58:38 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 19:58:43 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 19:58:47 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 19:59:23 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 20:00:55 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 20:00:58 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 22:47:37 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 23:07:57 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 23:08:17 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 23:08:50 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 23:29:17 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct  4 23:30:49 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct  5 00:58:56 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct  5 01:06:12 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct  5 01:39:05 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct  5 01:39:09 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct  5 01:42:28 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct  5 01:42:29 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct  5 01:42:35 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct  5 01:43:19 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct  5 01:43:23 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct  5 01:43:56 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct  5 01:44:05 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct  5 01:44:52 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct  5 02:19:08 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct  5 02:39:48 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct  5 03:10:27 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct  5 04:06:43 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct  5 04:08:15 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct  5 04:08:23 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct  5 04:08:27 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct  5 05:45:27 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct  5 05:48:42 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct  5 06:44:26 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct  5 13:30:23 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct  5 20:15:32 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct  5 20:43:12 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct  5 20:43:32 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct  5 20:45:00 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct  5 20:50:35 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct  5 20:56:38 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct  5 21:02:40 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct  5 21:04:33 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct  5 21:04:37 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct  5 21:05:11 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct  6 04:44:50 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct  6 04:45:07 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct  6 04:45:51 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct  6 04:47:04 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct  6 07:30:23 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct  6 07:30:33 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct  6 08:14:02 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct  6 08:16:11 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct  6 08:19:21 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct  6 08:36:55 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct  6 10:09:03 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Oct  6 16:47:52 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct  6 16:49:03 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct  6 18:04:48 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct  6 18:04:55 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct  6 18:07:17 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Oct  6 18:12:06 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct  7 02:31:19 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct  7 02:48:01 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct  7 03:33:58 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct  7 03:34:40 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct  7 04:04:45 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct  7 04:06:33 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct  7 04:07:38 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct  7 04:14:11 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct  7 04:39:34 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct  7 06:25:41 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Oct  7 06:27:59 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct  7 06:28:11 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct  7 07:17:43 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct  7 07:17:58 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct  7 07:18:51 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct  7 07:18:58 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct  7 07:21:08 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct  7 07:21:09 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct  7 07:21:16 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct  7 16:54:07 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct  8 13:22:22 2016 ]=>  涼宮ハルヒ ちゃん [212257536] resolved username: @appledog
+ 
+[ Sat Oct  8 13:25:46 2016 ]=>  涼宮ハルヒ ちゃん [212257536] resolved username: @#plugins
+ 
+[ Sat Oct  8 13:25:54 2016 ]=>  涼宮ハルヒ ちゃん [212257536] resolved username: @appledog
+ 
+[ Sat Oct  8 21:07:42 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct  9 07:53:43 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Oct  9 08:15:09 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct  9 17:51:21 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct  9 17:54:42 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct  9 17:54:45 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct  9 20:26:38 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct  9 21:37:37 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 10 00:13:41 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 10 04:54:36 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Oct 10 06:52:55 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 10 06:53:24 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 10 06:53:29 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 10 15:34:02 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 10 16:02:57 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 10 18:43:00 2016 ]=>  JustReboot [264442335] banned user is talking !
+ 
+[ Mon Oct 10 18:43:24 2016 ]=>  JustReboot [264442335] banned user is talking !
+ 
+[ Mon Oct 10 18:43:35 2016 ]=>  JustReboot [264442335] banned user is talking !
+ 
+[ Mon Oct 10 18:44:12 2016 ]=>  JustReboot [264442335] banned user is talking !
+ 
+[ Mon Oct 10 18:44:24 2016 ]=>  JustReboot [264442335] banned user is talking !
+ 
+[ Mon Oct 10 18:44:36 2016 ]=>  JustReboot [264442335] banned user is talking !
+ 
+[ Mon Oct 10 18:44:57 2016 ]=>  JustReboot [264442335] banned user is talking !
+ 
+[ Mon Oct 10 18:45:59 2016 ]=>  JustReboot [264442335] banned user is talking !
+ 
+[ Tue Oct 11 05:45:48 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 11 05:49:01 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 11 05:49:18 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 11 05:49:23 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 11 05:49:27 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 11 05:49:30 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 11 05:50:13 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 11 05:52:02 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 11 05:52:33 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 11 05:56:09 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 11 05:57:30 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 11 05:57:33 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 11 05:59:16 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 11 06:03:05 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 11 06:03:06 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 11 06:03:11 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 11 14:40:31 2016 ]=>  JustReboot [264442335] banned user is talking !
+ 
+[ Tue Oct 11 14:40:49 2016 ]=>  JustReboot [264442335] banned user is talking !
+ 
+[ Tue Oct 11 14:41:03 2016 ]=>  JustReboot [264442335] banned user is talking !
+ 
+[ Tue Oct 11 14:41:13 2016 ]=>  JustReboot [264442335] banned user is talking !
+ 
+[ Tue Oct 11 14:58:32 2016 ]=>  JustReboot [264442335] banned user is talking !
+ 
+[ Tue Oct 11 23:48:42 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 12 00:14:19 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 12 00:18:42 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 12 00:18:58 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 12 03:19:19 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 12 05:16:22 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 12 05:43:38 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 12 07:19:30 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 12 07:20:10 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 12 07:20:45 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 12 17:44:19 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 12 17:51:08 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 12 17:51:16 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 12 18:03:37 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 12 21:07:11 2016 ]=>  JustReboot [264442335] banned user is talking !
+ 
+[ Wed Oct 12 23:14:50 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 12 23:16:00 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 12 23:19:02 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 12 23:58:14 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 12 23:58:33 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 02:08:45 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 02:09:23 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 03:38:44 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 03:38:50 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 03:38:56 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 03:39:11 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 03:39:15 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 03:44:17 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 03:47:15 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 03:49:11 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 03:56:09 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 03:56:10 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 03:56:12 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 03:56:13 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:00:21 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:00:34 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:01:28 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:02:07 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:02:25 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:02:39 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:02:46 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:02:53 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:03:10 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:03:19 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:03:23 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:04:09 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:04:16 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:07:09 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:07:23 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:07:26 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:07:31 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:08:45 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:09:06 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:09:19 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:09:23 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:09:29 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:09:36 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:09:40 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:09:47 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:09:53 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:10:04 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:10:10 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:10:41 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:10:50 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:10:56 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:11:03 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:11:41 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:11:44 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:11:48 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:13:08 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:13:14 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:13:35 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:13:45 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:20:54 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 04:36:37 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 05:16:04 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 05:17:45 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Oct 13 05:20:10 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 06:37:37 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 06:37:44 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 06:38:16 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 06:41:49 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 06:46:40 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 06:51:58 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 06:52:00 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 06:52:07 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 07:41:24 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 07:42:16 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Oct 13 07:42:20 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 07:42:34 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 07:42:37 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 07:42:40 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 07:42:52 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 07:43:03 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 07:45:05 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 07:45:25 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 07:46:07 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Oct 13 07:46:09 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 07:46:14 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 07:46:35 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 07:48:37 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Oct 13 07:55:56 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 07:56:03 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 07:56:07 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 07:56:33 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 07:56:40 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 07:56:45 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 07:56:57 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 07:56:58 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 07:57:03 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 07:57:12 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 07:57:16 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 07:57:27 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 07:57:28 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 07:57:41 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 07:57:42 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 07:57:47 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 08:03:02 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 08:03:19 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 08:03:29 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 08:03:36 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 08:03:43 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 08:04:01 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 08:05:44 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 08:27:22 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 08:49:25 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Oct 13 08:49:40 2016 ]=>  Gavin [23969137] requested group rules
+ 
+[ Thu Oct 13 08:49:41 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Oct 13 14:34:52 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Oct 13 18:36:31 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 13 20:01:46 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 14 04:18:31 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Oct 14 04:26:12 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 14 04:35:08 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 14 08:18:39 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 14 08:19:19 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 14 08:19:49 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 14 08:19:59 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 14 08:20:03 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 14 08:20:08 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 14 08:20:51 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 14 08:20:59 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 14 08:21:28 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 14 08:23:30 2016 ]=>  Dave"WhiteUIlover"Wilson [190119975] banned user is talking !
+ 
+[ Fri Oct 14 08:23:36 2016 ]=>  Dave"WhiteUIlover"Wilson [190119975] banned user is talking !
+ 
+[ Fri Oct 14 08:23:56 2016 ]=>  Dave"WhiteUIlover"Wilson [190119975] banned user is talking !
+ 
+[ Fri Oct 14 08:24:33 2016 ]=>  Dave"WhiteUIlover"Wilson [190119975] banned user is talking !
+ 
+[ Fri Oct 14 08:25:05 2016 ]=>  Dave"WhiteUIlover"Wilson [190119975] banned user is talking !
+ 
+[ Fri Oct 14 08:25:23 2016 ]=>  Dave"WhiteUIlover"Wilson [190119975] banned user is talking !
+ 
+[ Fri Oct 14 08:25:44 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 14 08:26:04 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 14 08:26:22 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 14 08:30:14 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 14 08:30:20 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 14 08:30:25 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 14 08:31:17 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 14 08:32:36 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 14 08:37:01 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 14 08:37:09 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 14 09:38:26 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Oct 15 05:59:07 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 15 05:59:15 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 15 07:26:18 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 15 07:26:20 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 15 07:26:39 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 15 07:31:37 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 15 07:37:20 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 15 07:40:06 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 15 07:40:07 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 15 09:08:24 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 15 09:10:23 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 15 09:10:24 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 15 09:10:37 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 15 09:11:01 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 15 09:11:10 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 15 09:15:39 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 15 09:15:52 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 15 09:16:39 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 15 09:19:23 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 15 09:19:36 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 15 09:19:49 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 15 09:27:59 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 15 10:15:44 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 15 10:17:00 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 15 10:17:36 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 15 10:18:06 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 15 10:24:37 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 15 10:25:44 2016 ]=>  Alex [164699187] kicked for #spam
+ 
+[ Sat Oct 15 13:33:31 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Oct 15 14:10:17 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Oct 15 20:14:14 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Oct 16 03:25:22 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct 16 05:07:17 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Oct 16 05:51:55 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct 16 07:14:40 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct 16 07:16:18 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct 16 07:16:50 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct 16 07:16:53 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct 16 07:16:54 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct 16 07:17:03 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct 16 07:17:09 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct 16 07:17:29 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct 16 07:18:10 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct 16 07:26:37 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct 16 11:42:42 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Oct 16 12:17:24 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Oct 16 14:09:52 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Oct 16 17:13:25 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct 16 18:51:59 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct 16 18:52:00 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct 16 19:53:54 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct 16 19:53:58 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct 16 22:10:56 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Oct 16 22:12:04 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct 16 22:12:40 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 17 02:48:34 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 17 02:49:53 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 17 02:50:12 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 17 02:50:17 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 17 02:50:29 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 17 02:50:54 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 17 02:51:56 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 17 02:52:12 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 17 02:52:18 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 17 03:02:57 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 17 04:41:59 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 17 04:43:06 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 17 04:43:11 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 17 04:44:29 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 17 04:44:44 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 17 04:47:24 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 17 04:47:35 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 17 04:47:49 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 17 05:10:54 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 17 05:11:54 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 17 05:12:09 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 17 05:17:14 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 17 06:02:29 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 17 06:03:07 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Oct 17 11:11:21 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Oct 17 21:53:24 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Oct 17 22:42:45 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 17 22:42:47 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 17 22:42:50 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 17 23:43:43 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 18 00:14:45 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 18 00:14:51 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 18 00:24:45 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 18 02:16:53 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Oct 18 02:24:31 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 18 05:04:37 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 18 05:13:58 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 18 05:59:51 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 18 06:11:40 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 18 06:12:03 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 18 07:34:12 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Oct 18 16:55:13 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 19 02:39:07 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 19 03:21:43 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 19 04:54:21 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 19 04:54:32 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 19 04:56:48 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 19 05:52:31 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 19 05:53:05 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 19 05:54:53 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 19 05:56:11 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 19 06:35:03 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 19 09:39:47 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Oct 19 17:51:37 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 19 17:51:39 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 19 17:54:19 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 19 17:54:21 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 19 18:00:53 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 19 22:40:51 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 19 22:40:54 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 19 22:41:06 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 19 22:41:11 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 19 22:44:30 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 19 22:45:08 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 19 22:46:37 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 19 22:48:07 2016 ]=>  N @nicholaschum [87694790] kicked for #spam
+ 
+[ Wed Oct 19 22:48:26 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Oct 19 22:53:12 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Oct 19 22:53:14 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Oct 19 22:54:47 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Oct 19 22:54:48 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Oct 19 22:55:26 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Oct 19 22:55:27 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Oct 19 22:55:37 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Oct 19 23:33:13 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 19 23:40:49 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 19 23:42:52 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 20 00:45:47 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Thu Oct 20 00:59:03 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 20 01:00:19 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 20 01:00:23 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 20 01:17:49 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 20 01:18:02 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 20 01:24:54 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 20 01:25:04 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 20 01:25:16 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 20 01:25:23 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 20 01:25:40 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 20 01:25:59 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Thu Oct 20 01:38:33 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 20 01:42:38 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 20 01:42:43 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 20 01:42:49 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 20 01:43:06 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 20 01:45:09 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 20 01:45:13 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 20 01:49:52 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 20 01:50:29 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 20 01:57:44 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 20 02:07:09 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 20 02:07:14 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 20 02:08:29 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 20 02:10:39 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 20 03:05:07 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Thu Oct 20 03:06:28 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Thu Oct 20 03:07:36 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Thu Oct 20 03:08:28 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Thu Oct 20 03:44:25 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Thu Oct 20 04:20:22 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 20 04:48:46 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Thu Oct 20 04:48:55 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Thu Oct 20 04:48:56 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Thu Oct 20 05:04:15 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Thu Oct 20 07:36:08 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 20 07:36:10 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 20 07:36:11 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 20 07:36:13 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 21 08:30:36 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 21 08:32:11 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 21 08:51:00 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 21 08:53:27 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 21 08:55:17 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 21 09:01:00 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 21 09:09:42 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 21 12:33:03 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Oct 21 14:28:34 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Oct 21 17:42:45 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Oct 21 22:45:58 2016 ]=>  FeketeKutya [264442335] banned user is talking !
+ 
+[ Fri Oct 21 23:11:15 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 21 23:12:30 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 21 23:42:58 2016 ]=>  FeketeKutya [264442335] banned user is talking !
+ 
+[ Sat Oct 22 00:26:12 2016 ]=>  FeketeKutya [264442335] banned user is talking !
+ 
+[ Sat Oct 22 00:26:52 2016 ]=>  FeketeKutya [264442335] banned user is talking !
+ 
+[ Sat Oct 22 00:28:09 2016 ]=>  FeketeKutya [264442335] banned user is talking !
+ 
+[ Sat Oct 22 00:52:04 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 22 00:52:14 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 22 00:52:16 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 22 00:52:21 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 22 00:53:01 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Oct 22 00:53:14 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 22 00:53:20 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 22 01:05:16 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 22 01:08:24 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sat Oct 22 01:08:43 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 22 01:19:04 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 22 01:25:17 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 22 01:25:21 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 22 01:26:33 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 22 01:27:16 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 22 01:31:21 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 22 04:00:47 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 22 04:01:25 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 22 04:42:25 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Oct 22 10:39:50 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Oct 22 11:20:56 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Oct 22 16:52:55 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 22 17:05:07 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct 23 02:14:51 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct 23 06:58:31 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct 23 09:02:46 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct 23 09:07:31 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 24 02:16:28 2016 ]=>  Generally hated girl... [183361512] requested group rules
+ 
+[ Mon Oct 24 02:16:30 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Oct 24 02:20:06 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 24 03:15:58 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 24 03:17:12 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 24 03:17:13 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 24 03:17:23 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 24 03:18:59 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 24 03:19:14 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 24 03:19:15 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 24 03:29:00 2016 ]=>  Generally hated girl... [183361512] requested group rules
+ 
+[ Mon Oct 24 03:29:01 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Oct 24 03:48:52 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Oct 24 03:49:34 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Oct 24 03:58:43 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Oct 24 04:13:00 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 24 04:19:47 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 24 04:38:51 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 24 04:40:42 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 24 06:17:52 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Oct 24 06:19:10 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 06:20:56 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 06:21:05 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 06:23:00 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 06:23:14 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 06:23:36 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 06:25:16 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 06:25:21 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 06:26:12 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 06:26:57 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 06:27:56 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 06:30:33 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 06:31:28 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 06:31:38 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 06:32:10 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 06:32:47 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 06:32:55 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 06:35:07 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 06:37:55 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 06:37:56 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 06:37:57 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 06:38:04 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 06:38:32 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 06:38:38 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 06:39:54 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 06:40:03 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 06:40:12 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 06:40:43 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 06:41:10 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 06:41:12 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 06:41:16 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 06:41:22 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 06:51:04 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] is banned and kicked ! 
+ 
+[ Mon Oct 24 06:51:07 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Oct 24 06:51:16 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 24 06:51:58 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 24 06:52:18 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 06:52:24 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 24 06:52:28 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 24 06:52:37 2016 ]=>  Slothonmeth🇳🇱 [46913637] is banned and kicked ! 
+ 
+[ Mon Oct 24 06:52:38 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Oct 24 06:53:00 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Oct 24 06:58:29 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 24 06:58:42 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 24 07:01:19 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 24 07:01:52 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 24 07:02:48 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 24 07:02:51 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 24 07:03:11 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 24 07:13:11 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 24 07:16:27 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Oct 24 07:19:39 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 24 07:19:46 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 24 07:20:10 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 24 07:20:11 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 24 07:21:38 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 24 07:22:24 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 24 07:23:15 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 24 07:24:41 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 24 07:27:43 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 07:29:12 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 24 07:35:20 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 24 07:35:42 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 07:36:10 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 07:37:12 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 07:39:44 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 24 07:40:14 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 24 07:41:13 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Oct 24 07:42:29 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 24 07:42:40 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 07:43:27 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 24 07:43:34 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 24 07:43:44 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 24 07:44:01 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 24 07:44:36 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 24 07:44:37 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 24 07:44:53 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 24 07:45:03 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 24 07:45:45 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 24 07:45:58 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 07:46:08 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 24 07:46:11 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 24 07:46:30 2016 ]=>  Slothonmeth🇳🇱 [46913637] banned user is talking !
+ 
+[ Mon Oct 24 07:46:46 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 24 07:49:04 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 24 08:04:14 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Oct 24 18:18:30 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Oct 24 18:50:42 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Oct 25 00:06:45 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 25 00:19:41 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 25 00:29:55 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 25 06:22:45 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 25 06:22:52 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 25 06:29:13 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 25 06:30:28 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 25 06:30:44 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 25 07:34:30 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 25 07:34:36 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 25 07:36:15 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 25 07:36:29 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 25 07:36:35 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 25 07:36:43 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 25 07:37:14 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 25 07:55:28 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 25 07:55:36 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 25 07:55:53 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 25 08:02:09 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 25 08:04:13 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 25 08:26:05 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 25 08:27:32 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 25 08:33:18 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 25 08:33:24 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 25 08:34:52 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 25 13:29:05 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Oct 25 13:29:36 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 26 00:20:29 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Oct 26 00:38:14 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Oct 26 01:22:57 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 26 01:24:52 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Oct 26 01:25:02 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 26 01:25:48 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Oct 26 01:28:22 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 26 01:32:17 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 26 01:40:18 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 26 02:03:26 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 26 02:04:58 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 26 02:06:50 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 26 02:07:00 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 26 02:07:03 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 26 02:07:36 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 26 02:09:28 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 26 03:04:44 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 26 03:04:49 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 26 03:11:30 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 26 03:11:38 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 26 03:26:25 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 26 03:26:59 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 26 03:27:31 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 26 03:27:32 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 26 03:30:51 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 26 03:32:13 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 26 03:33:16 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 26 07:53:41 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Oct 26 16:16:36 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Oct 26 16:39:53 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Oct 26 18:07:50 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Oct 26 18:22:00 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Oct 26 18:22:18 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Oct 26 23:10:55 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 27 00:27:10 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 27 00:29:32 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 27 00:33:43 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 27 01:48:30 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 27 01:50:27 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 27 04:34:35 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Thu Oct 27 04:44:02 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 27 04:50:29 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 27 05:34:23 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 27 05:38:10 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 27 05:39:10 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Thu Oct 27 05:39:11 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 27 05:39:19 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Thu Oct 27 05:39:27 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 27 05:39:47 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Thu Oct 27 05:40:17 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 27 05:40:34 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 27 05:40:52 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Thu Oct 27 05:41:00 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Thu Oct 27 05:41:16 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 27 05:41:20 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 27 05:41:38 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Thu Oct 27 05:41:53 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 27 05:50:14 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 27 05:51:09 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 27 05:51:13 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 27 08:04:28 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 27 08:09:12 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Thu Oct 27 08:09:28 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Oct 27 17:43:41 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Oct 27 18:06:28 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Thu Oct 27 18:21:46 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Thu Oct 27 18:24:24 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Thu Oct 27 18:26:17 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Thu Oct 27 18:29:18 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Fri Oct 28 05:22:28 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 28 05:22:34 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 28 05:22:38 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 28 05:29:58 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 28 05:30:55 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 28 05:31:00 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 28 05:31:10 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Oct 28 08:36:00 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Fri Oct 28 17:36:45 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 29 07:31:41 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Oct 29 07:32:40 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Oct 29 08:48:39 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 29 08:51:34 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 29 17:49:23 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Oct 29 17:55:09 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Oct 29 17:57:23 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Oct 29 18:30:49 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Oct 29 18:43:52 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Oct 29 18:44:45 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Oct 29 18:45:34 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Oct 29 19:05:18 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Oct 29 20:52:18 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Oct 30 07:55:49 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sun Oct 30 08:03:21 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sun Oct 30 08:03:53 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sun Oct 30 08:04:03 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sun Oct 30 08:04:06 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sun Oct 30 08:04:22 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sun Oct 30 08:05:53 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sun Oct 30 08:06:13 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sun Oct 30 08:06:28 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sun Oct 30 08:06:31 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sun Oct 30 08:06:51 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sun Oct 30 08:07:20 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sun Oct 30 08:08:50 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sun Oct 30 08:10:03 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sun Oct 30 08:10:25 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sun Oct 30 08:11:45 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sun Oct 30 08:11:56 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sun Oct 30 08:12:06 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sun Oct 30 08:12:07 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sun Oct 30 16:10:09 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct 30 16:15:25 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct 30 16:15:42 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct 30 19:24:50 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sun Oct 30 23:52:57 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct 30 23:55:04 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Oct 30 23:59:50 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 31 07:55:52 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 31 07:56:00 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 31 07:57:12 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 31 07:57:34 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 31 07:57:39 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 31 08:08:30 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 31 08:08:38 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 31 08:11:01 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 31 08:11:23 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 31 10:42:06 2016 ]=>  Kawaii Starfish ⭐️🐠 [206197460] left via kickme
+ 
+[ Mon Oct 31 12:31:45 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:31:55 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:35:24 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:36:07 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:36:09 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:36:25 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:36:32 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:36:48 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:37:02 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:37:11 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:38:58 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:39:03 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:39:34 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:39:37 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:39:53 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:40:03 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:41:23 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:41:33 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:42:02 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:42:54 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:42:55 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:42:57 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:42:58 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:42:59 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:43:00 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:43:01 2016 ]=>  N @nicholaschum [87694790] kicked for #spam
+ 
+[ Mon Oct 31 12:43:30 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:45:16 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:46:16 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:46:25 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:47:10 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:47:16 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:48:20 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:48:32 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:49:35 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:50:37 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:50:48 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:51:02 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:51:18 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 12:52:04 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Oct 31 20:50:31 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Oct 31 20:50:36 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov  1 00:23:09 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov  1 00:23:15 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov  1 00:23:44 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov  1 00:23:51 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov  1 00:24:00 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov  1 00:24:04 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov  1 00:25:06 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov  1 00:25:14 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov  1 00:30:33 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov  1 00:30:45 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov  1 00:32:44 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov  1 00:32:45 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov  1 00:32:46 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov  1 00:33:29 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov  1 00:33:31 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov  1 00:33:57 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov  1 01:15:31 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov  1 01:15:35 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov  1 01:15:55 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov  1 01:17:26 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov  1 01:18:24 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov  1 01:20:23 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov  1 01:21:51 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Tue Nov  1 01:22:12 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov  1 01:22:18 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Tue Nov  1 01:22:25 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Tue Nov  1 01:22:35 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Tue Nov  1 01:28:20 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov  1 09:05:09 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Nov  1 09:12:13 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Nov  1 09:13:16 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Nov  1 09:14:53 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Nov  1 16:11:56 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov  2 00:03:50 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Nov  2 01:06:36 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov  2 01:07:40 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov  2 05:59:15 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Nov  2 12:59:28 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Nov  2 12:59:40 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Nov  2 12:59:44 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Nov  2 12:59:51 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Nov  2 13:01:02 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Nov  2 19:10:04 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov  2 19:10:12 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov  2 19:27:36 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov  2 19:27:38 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov  2 19:27:43 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov  2 19:34:19 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov  2 19:34:33 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov  2 19:35:07 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov  2 19:39:02 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov  2 19:39:11 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov  2 20:48:29 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov  2 20:55:03 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Thu Nov  3 13:55:40 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Nov  3 15:23:11 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Nov  3 16:09:57 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Nov  3 16:30:46 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Nov  3 16:34:28 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Nov  3 16:35:42 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Nov  3 16:35:46 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Nov  3 16:42:42 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Nov  3 16:43:22 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Nov  3 16:44:22 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Nov  3 16:44:58 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Thu Nov  3 16:53:30 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Nov  3 16:58:38 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Nov  3 16:58:46 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Nov  3 17:23:19 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Nov  3 17:23:28 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Nov  3 19:25:50 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Fri Nov  4 05:33:39 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Nov  4 05:33:48 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Nov  4 15:53:45 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Nov  4 17:21:20 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Nov  4 17:21:47 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Nov  4 17:40:37 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Nov  4 17:57:25 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Nov  5 06:29:29 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Nov  5 06:35:21 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Nov  5 11:19:20 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Nov  5 21:33:55 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Nov  5 21:34:01 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Nov  5 21:35:43 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Nov  6 04:06:12 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Nov  6 05:41:07 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sun Nov  6 05:43:23 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sun Nov  6 05:45:36 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Nov  7 05:57:49 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Nov  7 07:18:32 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Nov  7 07:20:18 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Nov  7 07:24:30 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Nov  7 12:05:29 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Nov  7 12:09:08 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Nov  7 12:09:41 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Mon Nov  7 17:09:00 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Nov  7 17:10:12 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Nov  7 17:10:56 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Nov  7 17:13:01 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Mon Nov  7 17:15:11 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov  8 01:27:08 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Tue Nov  8 01:29:36 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Tue Nov  8 01:31:30 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Tue Nov  8 01:31:44 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Tue Nov  8 01:32:02 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Tue Nov  8 01:39:56 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Nov  8 01:41:12 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Nov  8 02:58:59 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov  8 03:01:27 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov  8 03:01:33 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov  8 04:08:53 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov  8 05:23:25 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov  8 06:29:21 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov  8 08:48:53 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Tue Nov  8 09:51:50 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Nov  8 17:55:39 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Nov  9 05:40:14 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Nov 10 05:08:20 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Nov 10 05:08:33 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Nov 10 05:08:34 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Nov 10 05:08:37 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Nov 10 05:09:13 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Thu Nov 10 05:09:30 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Thu Nov 10 05:09:33 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Thu Nov 10 05:11:24 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Nov 10 05:13:21 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Nov 10 05:20:46 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Nov 10 05:22:22 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Nov 10 17:42:17 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Nov 11 01:49:21 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Nov 11 06:22:38 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Nov 11 06:22:57 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Nov 11 06:23:06 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Nov 11 06:24:03 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Nov 11 06:28:23 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Nov 11 07:25:37 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Nov 11 07:25:42 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Nov 11 07:26:41 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Nov 11 07:26:52 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Nov 11 07:26:57 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Nov 11 07:27:32 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Nov 11 07:27:37 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Nov 11 07:27:42 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Nov 11 07:28:01 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Nov 11 07:30:37 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Nov 11 07:34:58 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Nov 11 07:35:46 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Fri Nov 11 07:39:13 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Nov 11 07:42:34 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Nov 11 07:44:01 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Fri Nov 11 14:41:02 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Nov 11 16:51:17 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Nov 11 18:07:31 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Nov 11 18:07:37 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Nov 11 18:07:41 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Fri Nov 11 18:14:19 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sat Nov 12 08:06:39 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sat Nov 12 08:07:32 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sun Nov 13 15:12:52 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sun Nov 13 19:01:21 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Sun Nov 13 22:16:37 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sun Nov 13 22:27:49 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Mon Nov 14 18:23:47 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup ID
+ 
+[ Tue Nov 15 07:00:31 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov 15 07:00:42 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov 15 07:03:07 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov 15 07:03:12 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Tue Nov 15 07:03:21 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Tue Nov 15 07:03:22 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov 15 07:03:25 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov 15 07:03:33 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Tue Nov 15 07:03:39 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Tue Nov 15 07:03:49 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov 15 07:04:04 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Tue Nov 15 07:04:05 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Tue Nov 15 07:04:07 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Tue Nov 15 07:04:08 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Tue Nov 15 07:04:09 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Tue Nov 15 07:04:10 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Tue Nov 15 07:04:11 2016 ]=>  N @nicholaschum [87694790] kicked for #spam
+ 
+[ Tue Nov 15 07:04:36 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Tue Nov 15 07:05:35 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Tue Nov 15 07:05:46 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Tue Nov 15 07:05:50 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Tue Nov 15 07:06:11 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Tue Nov 15 07:06:50 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 16 03:43:39 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 16 03:43:53 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 16 03:44:15 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 16 03:45:07 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 16 03:45:16 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 16 03:45:22 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 16 03:45:47 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 16 03:46:00 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 16 03:46:05 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 16 03:46:51 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 16 03:46:58 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 16 03:47:22 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 16 03:50:06 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 16 03:50:24 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 16 21:43:06 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Nov 16 21:47:12 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Nov 16 21:47:22 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Nov 16 21:47:28 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Nov 16 21:51:05 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Nov 16 21:53:07 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Nov 16 21:53:13 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Nov 16 22:59:08 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Wed Nov 16 22:59:12 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Nov 17 09:09:45 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Nov 17 09:36:30 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Nov 17 09:37:47 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Nov 17 09:38:32 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Nov 17 09:38:45 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Nov 17 09:39:05 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Nov 17 09:43:48 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Nov 17 09:51:17 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Nov 17 09:51:32 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Nov 17 09:51:43 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Nov 17 09:52:28 2016 ]=>  ⚡️NathanChancellor⚡️ [190119975] banned user is talking !
+ 
+[ Thu Nov 17 11:27:51 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Thu Nov 17 15:54:26 2016 ]=>  Raavaan @Raavaan [102940993] kicked for #spam
+ 
+[ Fri Nov 18 19:53:51 2016 ]=>  M¡nd fr€ k [115349593] requested group rules
+ 
+[ Fri Nov 18 19:53:53 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Nov 19 03:05:36 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sat Nov 19 03:05:37 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sat Nov 19 03:05:53 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Sun Nov 20 10:58:05 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup ID
+ 
+[ Wed Nov 23 03:46:29 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 23 03:47:02 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 23 03:47:09 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 23 03:50:24 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 23 03:50:31 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 23 03:50:53 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 23 03:51:19 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 23 03:52:25 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 23 03:54:22 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 23 03:55:35 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 23 03:55:38 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 23 04:00:44 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 23 04:01:44 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 23 04:01:57 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 23 04:01:59 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 23 04:03:13 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 23 06:08:52 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Wed Nov 23 06:09:34 2016 ]=>  N [87694790] banned user is talking !
+ 

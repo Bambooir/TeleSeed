@@ -1,0 +1,10 @@
+[ Tue May  3 06:07:48 2016 ]=>  Primary bot admin [190427743] added SuperGroup
+ 
+[ Tue May  3 06:07:55 2016 ]=>  Primary bot admin [190427743] deleted a message by reply
+ 
+[ Tue May  3 06:18:27 2016 ]=>  Haruhi Suzumiya? Admin [212257536] added to the SuperGroup by [ 0 ]
+ 
+[ Tue May  3 06:21:07 2016 ]=>  Haruhi Suzumiya? Admin [212257536] added to the SuperGroup by [ 0 ]
+ 
+[ Tue May  3 06:21:08 2016 ]=>  Daniel Monteiro [159315022] requested SuperGroup ID
+ 
