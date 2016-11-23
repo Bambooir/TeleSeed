@@ -1,0 +1,75 @@
+All the things I know about this group
+
+Group Type: 
+SuperGroup
+
+SuperGroup settings:
+Lock links : yes
+Lock flood: yes
+Flood sensitivity : 5
+Lock spam: yes
+Lock Arabic: yes
+Lock Member: yes
+Lock RTL: yes
+Lock Tgservice : yes
+Lock sticker: no
+Public: no
+Strict settings: yes
+
+Rules: 
+No rules available.
+
+About: 
+No description available.
+
+Mods: 
+
+List of moderators :
+1 - @(at)sareha_happyo [62202377] 
+2 - @(at)Anonymous_tm_world [188003473] 
+3 - @(at)brandonjp [150606974] 
+4 - @(at)Nagisa_bot [187665323] 
+5 - @(at)AstonishedByTheLackOfCake [161472020] 
+6 - @(at)imandabot [119256329] 
+7 - @(at)tomokochan [181221553] 
+8 - @(at)ohayoubaka [107851874] 
+9 - @(at)anupritaisno1 [190427743] 
+10 - @(at)Haruhi_Suzumiya [212257536] 
+11 - @(at)Testsomethingcoolbot [201673364] 
+12 - @(at)regalstreak [89522941] 
+13 - @(at)Akkey [116014251] 
+14 - @(at)nandan [139973623] 
+15 - @(at)jurrejelle [130033054] 
+16 - @(at)NepNep_bot [191595581] 
+17 - @(at)dangou [206197460] 
+
+
+Link: 
+Group link:
+https://telegram.me/joinchat/DKbLAD7Vbkv_VyntOvyqvA
+
+Chat stats:
+
+
+Mutes for: [ID: 1054174795 ]:
+
+Mute Text: no
+Mute Audio: no
+Mute All: yes
+Mute Photo: no
+Mute Documents: no
+Mute Gifs: no
+Mute Video: no
+
+
+Muted Users for: [ID: 1054174795 ]:
+
+1 - ½OP [202326922]
+2 - [ 225295748 ]
+
+
+Ban list for: [ID: 1054174795 ]:
+
+1 - Rohan [162889325]
+2 - ½OP [202326922]
+3 - 225295748

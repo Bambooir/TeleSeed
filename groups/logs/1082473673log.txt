@@ -1,0 +1,28 @@
+[ Mon Oct 17 21:31:46 2016 ]=>  涼宮ハルヒ ちゃん [212257536] added SuperGroup
+ 
+[ Mon Oct 17 21:32:13 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup users list
+ 
+[ Mon Oct 17 21:40:39 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup ID
+ 
+[ Mon Oct 17 21:41:33 2016 ]=>  涼宮ハルヒ ちゃん [212257536] set: [212257536] as admin by reply
+ 
+[ Mon Oct 17 21:42:30 2016 ]=>  Lord Android [180600801] requested SuperGroup ID
+ 
+[ Thu Oct 20 14:11:33 2016 ]=>  Lord Android [180600801] requested SuperGroup ID
+ 
+[ Fri Oct 21 04:49:22 2016 ]=>  Lord Android [180600801] requested SuperGroup ID
+ 
+[ Fri Oct 21 06:35:09 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup ID
+ 
+[ Sat Oct 22 18:48:26 2016 ]=>  Lord Android [180600801] requested SuperGroup ID
+ 
+[ Sat Oct 29 14:19:06 2016 ]=>  Lord Android [180600801] requested SuperGroup ID
+ 
+[ Thu Nov  3 14:52:45 2016 ]=>  Lord Android [180600801] requested SuperGroup ID
+ 
+[ Wed Nov  9 22:32:46 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup ID
+ 
+[ Thu Nov 10 13:31:19 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup ID
+ 
+[ Mon Nov 14 19:01:16 2016 ]=>  Lord Android [180600801] requested SuperGroup ID
+ 

@@ -1,0 +1,36 @@
+[ Mon Jun 27 15:03:16 2016 ]=>  Aryan [229473867] added SuperGroup
+ 
+[ Sat Jul  2 16:09:08 2016 ]=>  Haruhi Suzumiya Admin [181221553] added to the SuperGroup by [ 0 ]
+ 
+[ Sat Jul  2 16:10:57 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup Admins list
+ 
+[ Sat Jul  2 16:11:24 2016 ]=>  Haruhi_Suzumiya [212257536] Used /superhelp
+ 
+[ Sat Jul  2 16:11:59 2016 ]=>  Haruhi Suzumiya [212257536] started setting new SuperGroup photo
+ 
+[ Sat Jul  2 16:12:05 2016 ]=>  Haruhi Suzumiya [212257536] set new SuperGroup photo
+ 
+[ Sat Jul  2 16:25:22 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Sat Jul  2 16:25:27 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Sat Jul  2 16:38:07 2016 ]=>  log file created by owner/support/admin
+ 
+[ Mon Jul 11 07:39:36 2016 ]=>  topsnek @OPGXyduxAlor [225337592] kicked for #spam
+ 
+[ Mon Jul 11 17:42:37 2016 ]=>  Combot [210944655] banned user is talking !
+ 
+[ Mon Jul 11 19:37:37 2016 ]=>  topsnek @OPGXyduxAlor [225337592] kicked for #spam
+ 
+[ Mon Jul 11 19:53:39 2016 ]=>  Eric [49128969] renamed SuperGroup to: Off-Topic Group
+ 
+[ Sun Jul 17 19:48:05 2016 ]=>  Eric [49128969] added a banned user >117099167
+ 
+[ Sun Jul 17 19:48:06 2016 ]=>  otouto [117099167] banned user is talking !
+ 
+[ Thu Jul 21 12:29:47 2016 ]=>  otouto [117099167] banned user is talking !
+ 
+[ Sat Jul 23 19:17:29 2016 ]=>  otouto [117099167] banned user is talking !
+ 
+[ Sun Aug  7 22:30:13 2016 ]=>  涼宮ハルヒ ちゃん Admin [238029142] added to the SuperGroup by [ 0 ]
+ 

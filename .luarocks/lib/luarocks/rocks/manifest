@@ -1,0 +1,645 @@
+commands = {
+   json2lua = {
+      "lua-cjson/2.1.0-1"
+   },
+   lua2json = {
+      "lua-cjson/2.1.0-1"
+   }
+}
+dependencies = {
+   fakeredis = {
+      ['0.4-1'] = {
+         {
+            constraints = {
+               {
+                  op = ">=",
+                  version = {
+                     5, 1, string = "5.1"
+                  }
+               }
+            },
+            name = "lua"
+         }
+      }
+   },
+   feedparser = {
+      ['0.71-3'] = {
+         {
+            constraints = {
+               {
+                  op = ">=",
+                  version = {
+                     5, 1, string = "5.1"
+                  }
+               }, {
+                  op = "<",
+                  version = {
+                     5, 4, string = "5.4"
+                  }
+               }
+            },
+            name = "lua"
+         }, {
+            constraints = {},
+            name = "luaexpat"
+         }
+      }
+   },
+   lbase64 = {
+      ['20120807-3'] = {
+         {
+            constraints = {
+               {
+                  op = ">=",
+                  version = {
+                     5, 2, string = "5.2"
+                  }
+               }, {
+                  op = "<",
+                  version = {
+                     5, 4, string = "5.4"
+                  }
+               }
+            },
+            name = "lua"
+         }
+      }
+   },
+   ['lua-cjson'] = {
+      ['2.1.0-1'] = {
+         {
+            constraints = {
+               {
+                  op = ">=",
+                  version = {
+                     5, 1, string = "5.1"
+                  }
+               }
+            },
+            name = "lua"
+         }
+      }
+   },
+   luacrypto = {
+      ['0.3.2-2'] = {
+         {
+            constraints = {
+               {
+                  op = ">=",
+                  version = {
+                     5, 1, string = "5.1"
+                  }
+               }
+            },
+            name = "lua"
+         }
+      }
+   },
+   luaexpat = {
+      ['1.3.0-1'] = {
+         {
+            constraints = {
+               {
+                  op = ">=",
+                  version = {
+                     5, 1, string = "5.1"
+                  }
+               }
+            },
+            name = "lua"
+         }
+      }
+   },
+   luafilesystem = {
+      ['1.6.3-2'] = {
+         {
+            constraints = {
+               {
+                  op = ">=",
+                  version = {
+                     5, 1, string = "5.1"
+                  }
+               }
+            },
+            name = "lua"
+         }
+      }
+   },
+   luasec = {
+      ['0.6-1'] = {
+         {
+            constraints = {
+               {
+                  op = ">=",
+                  version = {
+                     5, 1, string = "5.1"
+                  }
+               }
+            },
+            name = "lua"
+         }, {
+            constraints = {},
+            name = "luasocket"
+         }
+      }
+   },
+   luasocket = {
+      ['3.0rc1-2'] = {
+         {
+            constraints = {
+               {
+                  op = ">=",
+                  version = {
+                     5, 1, string = "5.1"
+                  }
+               }
+            },
+            name = "lua"
+         }
+      }
+   },
+   lub = {
+      ['1.1.0-1'] = {
+         {
+            constraints = {
+               {
+                  op = ">=",
+                  version = {
+                     5, 1, string = "5.1"
+                  }
+               }, {
+                  op = "<",
+                  version = {
+                     5, 4, string = "5.4"
+                  }
+               }
+            },
+            name = "lua"
+         }, {
+            constraints = {
+               {
+                  op = ">=",
+                  version = {
+                     1, 4, 0, string = "1.4.0"
+                  }
+               }
+            },
+            name = "luafilesystem"
+         }
+      }
+   },
+   oauth = {
+      ['0.0.6-1'] = {
+         {
+            constraints = {
+               {
+                  op = ">=",
+                  version = {
+                     5, 1, string = "5.1"
+                  }
+               }, {
+                  op = "<=",
+                  version = {
+                     5, 2, string = "5.2"
+                  }
+               }
+            },
+            name = "lua"
+         }, {
+            constraints = {},
+            name = "luasocket"
+         }, {
+            constraints = {},
+            name = "luasec"
+         }, {
+            constraints = {},
+            name = "luacrypto"
+         }, {
+            constraints = {},
+            name = "lbase64"
+         }
+      }
+   },
+   ['redis-lua'] = {
+      ['2.0.4-1'] = {
+         {
+            constraints = {
+               {
+                  op = ">=",
+                  version = {
+                     5, 1, string = "5.1"
+                  }
+               }
+            },
+            name = "lua"
+         }, {
+            constraints = {},
+            name = "luasocket"
+         }
+      }
+   },
+   serpent = {
+      ['0.28-1'] = {
+         {
+            constraints = {
+               {
+                  op = ">=",
+                  version = {
+                     5, 1, string = "5.1"
+                  }
+               }, {
+                  op = "<",
+                  version = {
+                     5, 4, string = "5.4"
+                  }
+               }
+            },
+            name = "lua"
+         }
+      }
+   },
+   xml = {
+      ['1.1.3-1'] = {
+         {
+            constraints = {
+               {
+                  op = ">=",
+                  version = {
+                     5, 1, string = "5.1"
+                  }
+               }, {
+                  op = "<",
+                  version = {
+                     5, 4, string = "5.4"
+                  }
+               }
+            },
+            name = "lua"
+         }, {
+            constraints = {
+               {
+                  op = ">=",
+                  version = {
+                     1, 0, 3, string = "1.0.3"
+                  }
+               }, {
+                  op = "<",
+                  version = {
+                     2, string = "2"
+                  }
+               }
+            },
+            name = "lub"
+         }
+      }
+   }
+}
+modules = {
+   OAuth = {
+      "oauth/0.0.6-1"
+   },
+   ['OAuth.coreLuaNode'] = {
+      "oauth/0.0.6-1"
+   },
+   ['OAuth.coreLuaSocket'] = {
+      "oauth/0.0.6-1"
+   },
+   ['OAuth.helpers'] = {
+      "oauth/0.0.6-1"
+   },
+   base64 = {
+      "lbase64/20120807-3"
+   },
+   cjson = {
+      "lua-cjson/2.1.0-1"
+   },
+   ['cjson.util'] = {
+      "lua-cjson/2.1.0-1"
+   },
+   crypto = {
+      "luacrypto/0.3.2-2"
+   },
+   fakeredis = {
+      "fakeredis/0.4-1"
+   },
+   feedparser = {
+      "feedparser/0.71-3"
+   },
+   ['feedparser.XMLElement'] = {
+      "feedparser/0.71-3"
+   },
+   ['feedparser.dateparser'] = {
+      "feedparser/0.71-3"
+   },
+   ['feedparser.url'] = {
+      "feedparser/0.71-3"
+   },
+   json2lua = {
+      "lua-cjson/2.1.0-1"
+   },
+   lfs = {
+      "luafilesystem/1.6.3-2"
+   },
+   ltn12 = {
+      "luasocket/3.0rc1-2"
+   },
+   lua2json = {
+      "lua-cjson/2.1.0-1"
+   },
+   lub = {
+      "lub/1.1.0-1"
+   },
+   ['lub.Autoload'] = {
+      "lub/1.1.0-1"
+   },
+   ['lub.Dir'] = {
+      "lub/1.1.0-1"
+   },
+   ['lub.Param'] = {
+      "lub/1.1.0-1"
+   },
+   ['lub.Template'] = {
+      "lub/1.1.0-1"
+   },
+   lxp = {
+      "luaexpat/1.3.0-1"
+   },
+   ['lxp.lom'] = {
+      "luaexpat/1.3.0-1"
+   },
+   mime = {
+      "luasocket/3.0rc1-2"
+   },
+   ['mime.core'] = {
+      "luasocket/3.0rc1-2"
+   },
+   redis = {
+      "redis-lua/2.0.4-1"
+   },
+   serpent = {
+      "serpent/0.28-1"
+   },
+   socket = {
+      "luasocket/3.0rc1-2"
+   },
+   ['socket.core'] = {
+      "luasocket/3.0rc1-2"
+   },
+   ['socket.ftp'] = {
+      "luasocket/3.0rc1-2"
+   },
+   ['socket.headers'] = {
+      "luasocket/3.0rc1-2"
+   },
+   ['socket.http'] = {
+      "luasocket/3.0rc1-2"
+   },
+   ['socket.serial'] = {
+      "luasocket/3.0rc1-2"
+   },
+   ['socket.smtp'] = {
+      "luasocket/3.0rc1-2"
+   },
+   ['socket.tp'] = {
+      "luasocket/3.0rc1-2"
+   },
+   ['socket.unix'] = {
+      "luasocket/3.0rc1-2"
+   },
+   ['socket.url'] = {
+      "luasocket/3.0rc1-2"
+   },
+   ssl = {
+      "luasec/0.6-1"
+   },
+   ['ssl.https'] = {
+      "luasec/0.6-1"
+   },
+   xml = {
+      "xml/1.1.3-1"
+   },
+   ['xml.Parser'] = {
+      "xml/1.1.3-1"
+   },
+   ['xml.core'] = {
+      "xml/1.1.3-1"
+   }
+}
+repository = {
+   fakeredis = {
+      ['0.4-1'] = {
+         {
+            arch = "installed",
+            commands = {},
+            dependencies = {},
+            modules = {
+               fakeredis = "fakeredis.lua"
+            }
+         }
+      }
+   },
+   feedparser = {
+      ['0.71-3'] = {
+         {
+            arch = "installed",
+            commands = {},
+            dependencies = {
+               luaexpat = "1.3.0-1"
+            },
+            modules = {
+               feedparser = "feedparser.lua",
+               ['feedparser.XMLElement'] = "feedparser/XMLElement.lua",
+               ['feedparser.dateparser'] = "feedparser/dateparser.lua",
+               ['feedparser.url'] = "feedparser/url.lua"
+            }
+         }
+      }
+   },
+   lbase64 = {
+      ['20120807-3'] = {
+         {
+            arch = "installed",
+            commands = {},
+            dependencies = {},
+            modules = {
+               base64 = "base64.so"
+            }
+         }
+      }
+   },
+   ['lua-cjson'] = {
+      ['2.1.0-1'] = {
+         {
+            arch = "installed",
+            commands = {
+               json2lua = "json2lua",
+               lua2json = "lua2json"
+            },
+            dependencies = {},
+            modules = {
+               cjson = "cjson.so",
+               ['cjson.util'] = "cjson/util.lua",
+               json2lua = "json2lua.lua",
+               lua2json = "lua2json.lua"
+            }
+         }
+      }
+   },
+   luacrypto = {
+      ['0.3.2-2'] = {
+         {
+            arch = "installed",
+            commands = {},
+            dependencies = {},
+            modules = {
+               crypto = "crypto.so"
+            }
+         }
+      }
+   },
+   luaexpat = {
+      ['1.3.0-1'] = {
+         {
+            arch = "installed",
+            commands = {},
+            dependencies = {},
+            modules = {
+               lxp = "lxp.so",
+               ['lxp.lom'] = "lxp/lom.lua"
+            }
+         }
+      }
+   },
+   luafilesystem = {
+      ['1.6.3-2'] = {
+         {
+            arch = "installed",
+            commands = {},
+            dependencies = {},
+            modules = {
+               lfs = "lfs.so"
+            }
+         }
+      }
+   },
+   luasec = {
+      ['0.6-1'] = {
+         {
+            arch = "installed",
+            commands = {},
+            dependencies = {
+               luasocket = "3.0rc1-2"
+            },
+            modules = {
+               ssl = "ssl.lua",
+               ['ssl.https'] = "ssl/https.lua"
+            }
+         }
+      }
+   },
+   luasocket = {
+      ['3.0rc1-2'] = {
+         {
+            arch = "installed",
+            commands = {},
+            dependencies = {},
+            modules = {
+               ltn12 = "ltn12.lua",
+               mime = "mime.lua",
+               ['mime.core'] = "mime/core.so",
+               socket = "socket.lua",
+               ['socket.core'] = "socket/core.so",
+               ['socket.ftp'] = "socket/ftp.lua",
+               ['socket.headers'] = "socket/headers.lua",
+               ['socket.http'] = "socket/http.lua",
+               ['socket.serial'] = "socket/serial.so",
+               ['socket.smtp'] = "socket/smtp.lua",
+               ['socket.tp'] = "socket/tp.lua",
+               ['socket.unix'] = "socket/unix.so",
+               ['socket.url'] = "socket/url.lua"
+            }
+         }
+      }
+   },
+   lub = {
+      ['1.1.0-1'] = {
+         {
+            arch = "installed",
+            commands = {},
+            dependencies = {
+               luafilesystem = "1.6.3-2"
+            },
+            modules = {
+               lub = "lub/init.lua",
+               ['lub.Autoload'] = "lub/Autoload.lua",
+               ['lub.Dir'] = "lub/Dir.lua",
+               ['lub.Param'] = "lub/Param.lua",
+               ['lub.Template'] = "lub/Template.lua"
+            }
+         }
+      }
+   },
+   oauth = {
+      ['0.0.6-1'] = {
+         {
+            arch = "installed",
+            commands = {},
+            dependencies = {
+               lbase64 = "20120807-3",
+               luacrypto = "0.3.2-2",
+               luasec = "0.6-1",
+               luasocket = "3.0rc1-2"
+            },
+            modules = {
+               OAuth = "OAuth.lua",
+               ['OAuth.coreLuaNode'] = "OAuth/coreLuaNode.lua",
+               ['OAuth.coreLuaSocket'] = "OAuth/coreLuaSocket.lua",
+               ['OAuth.helpers'] = "OAuth/helpers.lua"
+            }
+         }
+      }
+   },
+   ['redis-lua'] = {
+      ['2.0.4-1'] = {
+         {
+            arch = "installed",
+            commands = {},
+            dependencies = {
+               luasocket = "3.0rc1-2"
+            },
+            modules = {
+               redis = "redis.lua"
+            }
+         }
+      }
+   },
+   serpent = {
+      ['0.28-1'] = {
+         {
+            arch = "installed",
+            commands = {},
+            dependencies = {},
+            modules = {
+               serpent = "serpent.lua"
+            }
+         }
+      }
+   },
+   xml = {
+      ['1.1.3-1'] = {
+         {
+            arch = "installed",
+            commands = {},
+            dependencies = {
+               luafilesystem = "1.6.3-2",
+               lub = "1.1.0-1"
+            },
+            modules = {
+               xml = "xml/init.lua",
+               ['xml.Parser'] = "xml/Parser.lua",
+               ['xml.core'] = "xml/core.so"
+            }
+         }
+      }
+   }
+}

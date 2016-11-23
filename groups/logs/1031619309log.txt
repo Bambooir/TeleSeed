@@ -1,0 +1,138 @@
+[ Sun May 22 03:34:35 2016 ]=>  Haruhi Suzumiya? [212257536] added SuperGroup
+ 
+[ Sun May 22 03:34:54 2016 ]=>  Haruhi Suzumiya?[212257536] set [209822573] as owner by username
+ 
+[ Sun May 22 03:35:59 2016 ]=>  Haruhi Suzumiya? [212257536] promoted @sunpedia
+ 
+[ Sun May 22 03:36:13 2016 ]=>  Haruhi Suzumiya? [212257536] requested SuperGroup Admins list
+ 
+[ Sun May 22 03:36:44 2016 ]=>  Haruhi Suzumiya? [212257536] promoted @haruhi_suzumiya
+ 
+[ Sun May 22 03:37:05 2016 ]=>  Haruhi Suzumiya? [212257536] promoted user#id216273438
+ 
+[ Sun May 22 03:37:24 2016 ]=>  Haruhi Suzumiya? [212257536] promoted user#id172215664
+ 
+[ Sun May 22 03:37:56 2016 ]=>  Haruhi Suzumiya? [212257536] promoted user#id112382830
+ 
+[ Sun May 22 03:38:07 2016 ]=>  Haruhi Suzumiya? [212257536] promoted @sumit007s
+ 
+[ Sun May 22 03:38:25 2016 ]=>  Haruhi Suzumiya? [212257536] promoted user#id28864979
+ 
+[ Sun May 22 03:38:57 2016 ]=>  Haruhi Suzumiya? [212257536] promoted user#id209822573
+ 
+[ Sun May 22 03:39:32 2016 ]=>  Haruhi Suzumiya? [212257536] promoted user#id209822573
+ 
+[ Sun May 22 03:40:04 2016 ]=>  Haruhi Suzumiya? [212257536] promoted user#id196036292
+ 
+[ Sun May 22 03:40:38 2016 ]=>  Haruhi Suzumiya? [212257536] promoted user#id151104099
+ 
+[ Sun May 22 03:41:14 2016 ]=>  Haruhi Suzumiya? [212257536] promoted user#id126569650
+ 
+[ Sun May 22 03:41:35 2016 ]=>  Haruhi Suzumiya? [212257536] promoted user#id24118362
+ 
+[ Sun May 22 03:42:01 2016 ]=>  Haruhi Suzumiya? [212257536] promoted user#id94316623
+ 
+[ Sun May 22 04:10:10 2016 ]=>  ChatStatisticsBot [210944655] banned user is talking !
+ 
+[ Sun May 22 04:35:03 2016 ]=>  ıllıllı  Sumit  ıllıllı [211910282] requested SuperGroup ID
+ 
+[ Sun May 22 05:24:02 2016 ]=>  Haruhi Suzumiya? [212257536] locked rtl chars. in names
+ 
+[ Sun May 22 05:24:09 2016 ]=>  Haruhi Suzumiya? [212257536] locked arabic 
+ 
+[ Sun May 22 05:24:25 2016 ]=>  Haruhi Suzumiya? [212257536] locked enabled strict settings
+ 
+[ Sun May 22 05:43:39 2016 ]=>  Haruhi Suzumiya? [212257536] locked contact posting
+ 
+[ Sun May 22 05:44:16 2016 ]=>  Haruhi Suzumiya? [0] renamed SuperGroup to: EnglishPedia Group ,
+ 
+[ Sun May 22 05:44:22 2016 ]=>  Haruhi Suzumiya? [212257536] renamed SuperGroup to: EnglishPedia Group
+ 
+[ Sun May 22 05:44:23 2016 ]=>  Haruhi Suzumiya? [0] renamed SuperGroup to: EnglishPedia Group
+ 
+[ Sun May 22 05:44:44 2016 ]=>  Haruhi Suzumiya? [212257536] started setting new SuperGroup photo
+ 
+[ Sun May 22 05:44:52 2016 ]=>  Haruhi Suzumiya? [212257536] set new SuperGroup photo
+ 
+[ Sun May 22 05:45:16 2016 ]=>  Haruhi Suzumiya? [212257536] set SuperGroup description to: The Right Place to Learn & Practice our English with friends around the world
+
+✅ Only English
+✅ Just be kind
+⛔️ Spam,Porn,Ilegal
+⛔️ Bad Words, ️Immoral
+⛔  Religion/Anti Religion
+⛔ Ads
+⛔️ insult & humiliate
+
+Channel: @englishpedia
+ 
+[ Sun May 22 05:45:52 2016 ]=>  Haruhi Suzumiya? [212257536] has changed group rules to [✅ Only English
+✅ Just be kind
+⛔️ Spam,Porn,Ilegal
+⛔️ Bad Words, ️Immoral
+⛔  Religion/Anti Religion
+⛔ Ads
+⛔️ insult & humiliate]
+ 
+[ Sun May 22 05:47:13 2016 ]=>  Haruhi Suzumiya? Admin [190427743] added to the SuperGroup by [ 0 ]
+ 
+[ Sun May 22 05:54:44 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Sun May 22 08:10:07 2016 ]=>  Haruhi Suzumiya? [212257536] requested group rules
+ 
+[ Sun May 22 08:10:32 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Sun May 22 08:10:36 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Sun May 22 12:31:12 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup settings 
+ 
+[ Thu May 26 02:19:23 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] added SuperGroup
+ 
+[ Thu May 26 02:19:29 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup settings 
+ 
+[ Mon May 30 07:47:03 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] added SuperGroup
+ 
+[ Mon May 30 07:47:10 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Mon May 30 07:47:23 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested ID for: @Astraordinary
+ 
+[ Mon May 30 07:48:12 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Mon May 30 07:51:35 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup users list
+ 
+[ Mon May 30 09:37:33 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup info
+ 
+[ Mon May 30 09:37:49 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Mon May 30 09:38:17 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Tue Jun  7 08:19:19 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup users list
+ 
+[ Wed Jun  8 15:09:17 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup bots list
+ 
+[ Wed Jun  8 15:50:54 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup users list
+ 
+[ Wed Jun  8 16:04:47 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Wed Jun  8 16:37:58 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Wed Jun  8 16:37:58 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Wed Jun  8 16:40:35 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Wed Jun  8 16:40:35 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Wed Jun  8 16:40:41 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Wed Jun  8 16:40:41 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Thu Jun  9 04:07:47 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] added SuperGroup
+ 
+[ Thu Jun  9 04:07:53 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Thu Jun  9 04:07:54 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Thu Jun  9 04:08:05 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Sat Jun 11 10:07:42 2016 ]=>  Combot [210944655] banned user is talking !
+ 

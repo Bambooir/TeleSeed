@@ -1,0 +1,210 @@
+[ Wed May 25 16:23:04 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] added SuperGroup
+ 
+[ Wed May 25 16:23:27 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA[190427743] set [79234896] as owner by username
+ 
+[ Wed May 25 16:23:34 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @Shay3979
+ 
+[ Wed May 25 16:23:55 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup settings 
+ 
+[ Wed May 25 16:24:46 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set group to: public
+ 
+[ Wed May 25 16:30:04 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] has changed group rules to [No speak ! 
+Only description of files]
+ 
+[ Wed May 25 16:30:13 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested group rules
+ 
+[ Wed May 25 16:45:12 2016 ]=>  ＳＷＥＤł [37095765] requested group link [https://telegram.me/joinchat/BLkHUD8IGzclsvArDKETUg]
+ 
+[ Wed May 25 16:48:05 2016 ]=>  ＳＷＥＤł [37095765] locked sticker posting
+ 
+[ Wed May 25 16:48:12 2016 ]=>  ＳＷＥＤł [37095765] set SuperGroup to: mute Gifs
+ 
+[ Wed May 25 16:48:26 2016 ]=>  ＳＷＥＤł [37095765] set flood to [5]
+ 
+[ Wed May 25 16:48:38 2016 ]=>  ＳＷＥＤł [37095765] locked arabic 
+ 
+[ Wed May 25 16:49:00 2016 ]=>  ＳＷＥＤł [37095765] used /owner
+ 
+[ Wed May 25 16:49:06 2016 ]=>  ＳＷＥＤł [37095765] requested group modlist
+ 
+[ Wed May 25 16:50:01 2016 ]=>  ＳＷＥＤł [37095765] deleted a message by reply
+ 
+[ Wed May 25 16:50:56 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup Admins list
+ 
+[ Wed May 25 16:51:22 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted user#id62484015
+ 
+[ Wed May 25 16:53:51 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set flood to [6]
+ 
+[ Wed May 25 16:54:38 2016 ]=>  VortechAdmin @VorTechAdmin [144408042] kicked for #spam
+ 
+[ Wed May 25 16:55:20 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup settings 
+ 
+[ Wed May 25 16:57:40 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @VorTechAdmin
+ 
+[ Wed May 25 16:57:51 2016 ]=>  Shay Yatim [79234896] requested SuperGroup Admins list
+ 
+[ Wed May 25 16:58:10 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @Haruhi_Suzumiya
+ 
+[ Wed May 25 16:58:25 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @SWEDI
+ 
+[ Wed May 25 16:58:35 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @Yehuda_simay
+ 
+[ Wed May 25 16:58:41 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @dangou
+ 
+[ Wed May 25 16:58:48 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @Mosh_mo
+ 
+[ Wed May 25 16:58:59 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup Admins list
+ 
+[ Wed May 25 16:59:07 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested group modlist
+ 
+[ Wed May 25 17:00:43 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @anupritaisno1
+ 
+[ Wed May 25 17:06:02 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set flood to [10]
+ 
+[ Thu May 26 08:29:53 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Thu May 26 08:30:41 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] has changed group rules to [rules 
+ 1 - no chatting, no OT, only share files
+2 - respect all 
+3 - no spamming
+4 - add descriptions of files you share
+5 - do not share unsafe/dangerous files that could harm others. We want everyone to enjoy. Not to have problems with their pc/phone/device
+6 - before opening any downloaded file, please scan with an antivirus software or use virustotal.com if the file is small
+7 - if the file you're sharing is legal but is banned in a specific country, please mention so. We don't want people to fall into trouble 
+8 - do not add bots without permission of admins
+9 - as a rule, you can share any file that doesn't violate the above rules but description of the files should be in English only !
+10 - in any case, the say of the admins is final]
+ 
+[ Thu May 26 08:31:27 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] has changed group rules to [rules 
+1 - no chatting, no OT, only share files
+2 - respect all 
+3 - no spamming
+4 - add descriptions of files you share
+5 - do not share unsafe/dangerous files that could harm others. We want everyone to enjoy. Not to have problems with their pc/phone/device
+6 - before opening any downloaded file, please scan with an antivirus software or use virustotal.com if the file is small
+7 - if the file you're sharing is legal but is banned in a specific country, please mention so. We don't want people to fall into trouble 
+8 - do not add bots without permission of admins
+9 - as a rule, you can share any file that doesn't violate the above rules but description of the files should be in English only !
+10 - in any case, the say of the admins is final]
+ 
+[ Thu May 26 08:31:46 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested group rules
+ 
+[ Thu May 26 08:34:19 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] has changed group rules to [http://pastebin.com/raw/bnc5Jq6s]
+ 
+[ Thu May 26 08:34:24 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested group rules
+ 
+[ Thu May 26 08:35:34 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] has changed group rules to [http://goo.gl/j5dWbW]
+ 
+[ Thu May 26 08:35:40 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested group rules
+ 
+[ Thu May 26 08:39:14 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] has changed group rules to [http://goo.gl/zIlgq5]
+ 
+[ Thu May 26 08:44:42 2016 ]=>  Shay Yatim [79234896] requested group rules
+ 
+[ Thu May 26 08:48:58 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] has changed group rules to [No spam, respect others and no talking, only file sharing
+
+Read the rest of the rules here
+http://goo.gl/zIlgq5]
+ 
+[ Thu May 26 09:01:32 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup settings 
+ 
+[ Thu May 26 09:01:50 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup muteslist
+ 
+[ Thu May 26 09:01:59 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested group modlist
+ 
+[ Thu May 26 09:04:31 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup Admins list
+ 
+[ Thu May 26 09:04:58 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] started setting new SuperGroup photo
+ 
+[ Thu May 26 09:07:57 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set new SuperGroup photo
+ 
+[ Thu May 26 09:11:36 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] started setting new SuperGroup photo
+ 
+[ Thu May 26 09:11:43 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set new SuperGroup photo
+ 
+[ Thu May 26 09:11:58 2016 ]=>  Haruhi Suzumiya? [212257536] set new SuperGroup photo
+ 
+[ Thu May 26 12:16:40 2016 ]=>  ＳＷＥＤł [37095765] requested SuperGroup ID
+ 
+[ Fri May 27 01:06:04 2016 ]=>  Vortech Admin [144408042] requested group link [https://telegram.me/joinchat/BLkHUD8IGzclsvArDKETUg]
+ 
+[ Fri May 27 08:19:00 2016 ]=>  مهسا @MahsaM97 [205470672] kicked for #spam
+ 
+[ Fri May 27 08:25:32 2016 ]=>  ＳＷＥＤł [37095765] deleted a message by reply
+ 
+[ Fri May 27 08:26:34 2016 ]=>  ＳＷＥＤł [37095765] set flood to [6]
+ 
+[ Fri May 27 08:38:40 2016 ]=>  ‌🇸‌🇦‌🇲‌🇪‌🇪‌🇷 @SameerAlpha [86908725] kicked for #spam
+ 
+[ Fri May 27 09:07:56 2016 ]=>  ＳＷＥＤł [37095765] set flood to [10]
+ 
+[ Fri May 27 09:08:19 2016 ]=>  ＳＷＥＤł [37095765] unlocked spam
+ 
+[ Fri May 27 09:10:42 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set flood to [20]
+ 
+[ Sat May 28 15:48:48 2016 ]=>  🆔:ＳＷＥＤł [37095765] requested group rules
+ 
+[ Sat May 28 21:22:05 2016 ]=>  [ZOOM]; [73713798] requested group rules
+ 
+[ Mon May 30 13:40:49 2016 ]=>  🆔:ＳＷＥＤł [37095765] requested SuperGroup info
+ 
+[ Mon May 30 13:43:41 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup info
+ 
+[ Mon May 30 14:31:18 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Tue Jun  7 12:42:29 2016 ]=>  🆔:ＳＷＥＤł [37095765] requested SuperGroup ID
+ 
+[ Tue Jun  7 12:42:50 2016 ]=>  🆔:ＳＷＥＤł [37095765] requested SuperGroup info
+ 
+[ Tue Jun  7 17:34:40 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup info
+ 
+[ Sat Jun 11 06:22:00 2016 ]=>  ＳＷＥＤł [37095765] requested SuperGroup ID
+ 
+[ Mon Jun 13 15:01:43 2016 ]=>  長門有希?ゆきながと?ユキナガト?YukiNagato?O-ooooooooooAAAAE-A-A-I-A-U-JO-ooooooooooooAAE-O-A-A-U-U-A-E-eee-ee-eeeAAAAE-A-E-I-E-A-JO-ooo-oo-oo-ooEEEEO-A-AAA-AAAA [190427743] banned user is talking !
+ 
+[ Wed Jun 15 01:45:35 2016 ]=>  ＳＷＥＤł [37095765] requested SuperGroup ID
+ 
+[ Fri Jun 17 04:17:04 2016 ]=>  📶IPEX:ＳＷＥＤł [37095765] requested SuperGroup info
+ 
+[ Thu Jun 30 01:50:28 2016 ]=>  DivyarajsinhSarvaiya [33740808] banned user is talking !
+ 
+[ Wed Jul  6 22:36:14 2016 ]=>  ZygateSullivan 🎮¯°¤.¸.¤ ¯°¤.¸.¤ ¸¸.•*´¯v´¯*•.¸¸ ¸¸.•*´¯v´¯*•.¸¸ [179813400] joined and Service Msg deleted (#spam name)
+ 
+[ Fri Jul  8 09:09:00 2016 ]=>  ‍ ‍‍ ‍‍ ‍‍ ‍‍ ‍‍ ‍‍ ‍‍ ‍‍ ‍‍ ‍‍ ‍‍ ‍‍ ‍‍ ‍‍ ‍‍ ‍‍ ‍‍ ‍ ‍‍ ‍‍ ‍‍ ‍‍ ‍‍ ‍‍ ‍‍ ‍‍ ‍‍ ‍‍ ‍‍ ‍‍ ‍‍ ‍‍ ‍‍ ‍‍ ‍‍ ‍‍ ‍‍ ‍‍ ‍‍ ‍‍ ‍‍ ‍ [60293661] joined and Service Msg deleted (#spam name)
+ 
+[ Sun Jul 10 14:58:33 2016 ]=>  Haruhi Suzumiya [212257536] locked link posting 
+ 
+[ Mon Jul 11 08:00:50 2016 ]=>  MoslemMotaghei [37043829] is banned and kicked ! 
+ 
+[ Wed Jul 27 04:58:59 2016 ]=>  📱📲LordAndroid💖 [88258928] banned user is talking !
+ 
+[ Wed Jul 27 04:59:00 2016 ]=>  📱📲LordAndroid💖 [88258928] banned user is talking !
+ 
+[ Wed Jul 27 06:50:11 2016 ]=>  SmirnoffIce [32897882] added a banned user >88258928
+ 
+[ Mon Aug  1 16:26:56 2016 ]=>  log file created by owner/support/admin
+ 
+[ Mon Aug  1 16:27:28 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup ID
+ 
+[ Mon Aug  1 16:27:35 2016 ]=>  Haruhi Suzumiya [212257536] requested ID for: @Lordandroid_bot
+ 
+[ Mon Aug  1 16:32:07 2016 ]=>  ‌🇸‌🇦‌🇲‌🇪‌🇪‌🇷 [86908725] requested SuperGroup ID
+ 
+[ Sat Aug 20 07:18:04 2016 ]=>  💲🔶[\/]🔷💲 [138312364] banned user is talking !
+ 
+[ Tue Oct  4 16:55:25 2016 ]=>  📶IPEX:ＳＷＥＤł [37095765] requested SuperGroup ID
+ 
+[ Wed Oct  5 14:40:00 2016 ]=>  yuda [34804026] requested group link [https://telegram.me/joinchat/BLkHUD8IGzclsvArDKETUg]
+ 
+[ Sat Oct 22 21:40:47 2016 ]=>  😎orel😎 [224457025] is banned and kicked ! 
+ 
+[ Sat Oct 22 21:44:12 2016 ]=>  😎orel😎 [224457025] is banned and kicked ! 
+ 
+[ Sat Oct 22 21:45:25 2016 ]=>  😎orel😎 [224457025] is banned and kicked ! 
+ 
+[ Sat Oct 22 21:49:21 2016 ]=>  😎orel😎 [224457025] is banned and kicked ! 
+ 
+[ Thu Oct 27 16:34:57 2016 ]=>  עזרהותמיכהלgamescheats [271838431] banned user is talking !
+ 
+[ Wed Nov  9 22:01:13 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup ID
+ 

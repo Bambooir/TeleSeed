@@ -1,0 +1,16 @@
+[ Mon May  2 15:21:32 2016 ]=>  Primary bot admin [190427743] added SuperGroup
+ 
+[ Mon May  2 16:02:53 2016 ]=>  Primary bot admin[190427743] set [190427743] as owner by username
+ 
+[ Mon May  2 16:03:10 2016 ]=>  Primary bot admin [190427743] left via kickme
+ 
+[ Mon May  2 16:03:41 2016 ]=>  Haruhi Suzumiya? Admin [190427743] added to the SuperGroup by [ 0 ]
+ 
+[ Mon May  2 16:04:16 2016 ]=>  Primary bot admin[190427743] set [190427743] as owner by username
+ 
+[ Mon May  2 16:04:26 2016 ]=>  Primary bot admin [190427743] promoted @anupritaisno1
+ 
+[ Mon May  2 16:04:39 2016 ]=>  Primary bot admin [190427743] promoted @ghostsamuraix
+ 
+[ Tue May  3 16:18:34 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 

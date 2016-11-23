@@ -1,0 +1,57 @@
+All the things I know about this group
+
+Group Type: 
+SuperGroup
+
+SuperGroup settings:
+Lock links : no
+Lock flood: no
+Flood sensitivity : 5
+Lock spam: yes
+Lock Arabic: yes
+Lock Member: no
+Lock RTL: no
+Lock Tgservice : no
+Lock sticker: yes
+Public: no
+Strict settings: no
+
+Rules: 
+No rules available.
+
+About: 
+Baum.xyz | check out @Bothosting & @BotHostingBot
+
+Mods: 
+
+List of moderators :
+1 - @(at)Sanguchi [59802458] 
+2 - @(at)TriggerResponseBot [183035577] 
+3 - @(at)nandan [139973623] 
+
+
+Link: 
+Group link:
+https://telegram.me/joinchat/BwECaT57oiVaGb3ylZOmZg
+
+Chat stats:
+
+
+Mutes for: [ID: 1048289829 ]:
+
+Mute Audio: yes
+Mute Video: no
+Mute All: no
+Mute Text: no
+Mute Gifs: no
+Mute Documents: no
+Mute Photo: no
+
+
+Muted Users for: [ID: 1048289829 ]:
+
+
+
+Ban list for: [ID: 1048289829 ]:
+
+1 - 21200968

@@ -1,0 +1,8 @@
+[ Mon Aug 22 21:35:42 2016 ]=>  涼宮ハルヒ ちゃん [212257536] added SuperGroup
+ 
+[ Mon Aug 22 21:36:23 2016 ]=>  Nico [119300583] added a banned user >122443501
+ 
+[ Mon Aug 22 21:36:23 2016 ]=>  MessageStatistics [122443501] banned user is talking !
+ 
+[ Mon Aug 22 21:36:47 2016 ]=>  MessageStatistics [122443501] banned user is talking !
+ 

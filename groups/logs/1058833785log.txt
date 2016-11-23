@@ -1,0 +1,8 @@
+[ Tue May  3 11:50:34 2016 ]=>  Primary bot admin [190427743] added SuperGroup
+ 
+[ Tue May  3 11:54:55 2016 ]=>  Primary bot admin [190427743] added SuperGroup
+ 
+[ Tue May  3 11:54:58 2016 ]=>  Primary bot admin [190427743] set group to: public
+ 
+[ Tue May  3 11:55:04 2016 ]=>  Primary bot admin [190427743] requested SuperGroup ID
+ 

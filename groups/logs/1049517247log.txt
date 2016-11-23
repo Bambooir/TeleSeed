@@ -1,0 +1,2502 @@
+[ Sun May  1 04:05:27 2016 ]=>  Primary bot admin [190427743] added SuperGroup
+ 
+[ Sun May  1 04:17:20 2016 ]=>  Primary bot admin [190427743] requested SuperGroup ID
+ 
+[ Sun May  1 04:27:04 2016 ]=>  Primary bot admin [190427743] requested SuperGroup ID
+ 
+[ Sun May  1 04:27:48 2016 ]=>  Primary bot admin [190427743] requested SuperGroup ID
+ 
+[ Sun May  1 04:28:10 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 04:28:31 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 04:30:24 2016 ]=>  Primary bot admin [190427743] promoted @pagaiba
+ 
+[ Sun May  1 04:30:41 2016 ]=>  Primary bot admin [190427743] promoted @TheAnig
+ 
+[ Sun May  1 04:31:05 2016 ]=>  Primary bot admin [190427743] promoted @sayounarafor3weeks
+ 
+[ Sun May  1 04:31:16 2016 ]=>  Primary bot admin [190427743] promoted @Haruhi_Suzumiya
+ 
+[ Sun May  1 04:31:24 2016 ]=>  Primary bot admin [190427743] promoted @AstonishedByTheLackOfCake
+ 
+[ Sun May  1 04:31:42 2016 ]=>  Primary bot admin[190427743] set [190427743] as owner by username
+ 
+[ Sun May  1 04:31:55 2016 ]=>  Primary bot admin [190427743] promoted @anupritaisno1
+ 
+[ Sun May  1 04:32:06 2016 ]=>  Primary bot admin [190427743] promoted @Oshino
+ 
+[ Sun May  1 04:32:18 2016 ]=>  Primary bot admin [190427743] promoted @Shuaiby
+ 
+[ Sun May  1 04:32:27 2016 ]=>  Primary bot admin [190427743] promoted @definitelyNOTsmul
+ 
+[ Sun May  1 04:32:33 2016 ]=>  Primary bot admin [190427743] promoted @tomokochan
+ 
+[ Sun May  1 04:32:38 2016 ]=>  Primary bot admin [190427743] promoted @ohayoubaka
+ 
+[ Sun May  1 04:32:45 2016 ]=>  Primary bot admin [190427743] promoted @jurrejelle
+ 
+[ Sun May  1 04:33:47 2016 ]=>  Primary bot admin [190427743] added [96796831] to the muted users list
+ 
+[ Sun May  1 04:34:09 2016 ]=>  Primary bot admin [190427743] added [196720642] to the muted users list
+ 
+[ Sun May  1 04:34:25 2016 ]=>  Primary bot admin [190427743] added [207837965] to the muted users list
+ 
+[ Sun May  1 04:35:59 2016 ]=>  Primarybotadmin [190427743] baned user 96796831
+ 
+[ Sun May  1 04:36:10 2016 ]=>  Primarybotadmin [190427743] baned user 99141796
+ 
+[ Sun May  1 04:36:25 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 04:36:25 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 04:36:36 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 04:37:04 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 04:37:29 2016 ]=>  Primarybotadmin [190427743] baned user 196720642
+ 
+[ Sun May  1 04:37:45 2016 ]=>  Primarybotadmin [190427743] baned user 207837965
+ 
+[ Sun May  1 04:38:02 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 04:41:45 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 04:41:55 2016 ]=>  Primary bot admin [190427743] promoted @dangou
+ 
+[ Sun May  1 04:42:50 2016 ]=>  Primary bot admin [190427743] requested SuperGroup ID
+ 
+[ Sun May  1 04:42:50 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 05:18:32 2016 ]=>  Primary bot admin [190427743] requested SuperGroup settings 
+ 
+[ Sun May  1 05:18:32 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 05:18:46 2016 ]=>  Primary bot admin [190427743] locked rtl chars. in names
+ 
+[ Sun May  1 05:18:52 2016 ]=>  Primary bot admin [190427743] locked arabic 
+ 
+[ Sun May  1 05:19:03 2016 ]=>  Primary bot admin [190427743] locked enabled strict settings
+ 
+[ Sun May  1 05:19:12 2016 ]=>  Primary bot admin [190427743] locked contact posting
+ 
+[ Sun May  1 05:19:32 2016 ]=>  Primary bot admin [190427743] set group to: public
+ 
+[ Sun May  1 05:22:47 2016 ]=>  Haruhi Suzumiya? [212257536] requested SuperGroup ID
+ 
+[ Sun May  1 05:22:47 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 05:28:08 2016 ]=>  Primary bot admin [190427743] requested SuperGroup ID
+ 
+[ Sun May  1 05:28:08 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 05:29:20 2016 ]=>  Primary bot admin [190427743] requested SuperGroup ID
+ 
+[ Sun May  1 05:29:21 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 05:29:29 2016 ]=>  Primary bot admin [190427743] requested SuperGroup settings 
+ 
+[ Sun May  1 05:29:29 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 05:29:35 2016 ]=>  Primary bot admin [190427743] requested SuperGroup settings 
+ 
+[ Sun May  1 05:29:35 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 05:29:45 2016 ]=>  Primary bot admin [190427743] requested SuperGroup settings 
+ 
+[ Sun May  1 05:29:45 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 05:30:14 2016 ]=>  Primary bot admin [190427743] requested SuperGroup settings 
+ 
+[ Sun May  1 05:30:14 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 07:23:50 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 07:37:42 2016 ]=>  Primary bot admin [190427743] requested SuperGroup ID
+ 
+[ Sun May  1 07:37:42 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 08:26:54 2016 ]=>  Primary bot admin [190427743] requested SuperGroup bots list
+ 
+[ Sun May  1 08:44:44 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 14:04:31 2016 ]=>  Primary bot admin [190427743] requested group modlist
+ 
+[ Sun May  1 14:04:46 2016 ]=>  Primary bot admin [190427743] promoted @Akkey
+ 
+[ Sun May  1 14:05:17 2016 ]=>  PatrickGarcia [2896817] added a banned user >121390751
+ 
+[ Sun May  1 14:05:17 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 14:06:04 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 14:08:38 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 14:10:08 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 14:10:09 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 14:10:14 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 14:10:16 2016 ]=>  [̲̅Λ̲̅][̲̅Ŀ̲̅][̲̅Ī̲̅] [̲̅Ĵ̲̅][̲̅♡̲̅][̲̅♡̲̅][̲̅И̲̅] [197278791] joined and Service Msg deleted (#spam name)
+ 
+[ Sun May  1 14:10:16 2016 ]=>  [̲̅Λ̲̅][̲̅Ŀ̲̅][̲̅Ī̲̅] [̲̅Ĵ̲̅][̲̅♡̲̅][̲̅♡̲̅][̲̅И̲̅] [197278791] joined and kicked (#spam name)
+ 
+[ Sun May  1 14:10:16 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 14:11:39 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 14:12:14 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 14:14:39 2016 ]=>  Primary bot admin [190427743] requested SuperGroup settings 
+ 
+[ Sun May  1 14:14:39 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 14:17:46 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 14:18:02 2016 ]=>  Primary bot admin [190427743] has changed group rules to [You'll know that you've broken one when I'll kick you out]
+ 
+[ Sun May  1 14:18:02 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 14:18:44 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 14:24:47 2016 ]=>  Haruhi Suzumiya? [212257536] requested SuperGroup ID
+ 
+[ Sun May  1 14:24:47 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 14:27:03 2016 ]=>  Primary bot admin [190427743] requested SuperGroup settings 
+ 
+[ Sun May  1 14:27:03 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 14:27:47 2016 ]=>  Primary bot admin [190427743] deleted a message by reply
+ 
+[ Sun May  1 14:35:23 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 14:39:08 2016 ]=>  Primary bot admin [190427743] requested SuperGroup settings 
+ 
+[ Sun May  1 14:39:08 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 16:04:22 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 16:26:44 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 16:27:34 2016 ]=>  Primary bot admin [190427743] requested SuperGroup settings 
+ 
+[ Sun May  1 16:27:34 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 16:28:46 2016 ]=>  Primary bot admin [190427743] requested SuperGroup ID
+ 
+[ Sun May  1 16:28:46 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 16:30:20 2016 ]=>  Primary bot admin [190427743] requested SuperGroup ID
+ 
+[ Sun May  1 16:30:20 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 16:37:50 2016 ]=>  Primary bot admin [190427743] requested SuperGroup ID
+ 
+[ Sun May  1 16:37:50 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 16:59:02 2016 ]=>  Primary bot admin [190427743] requested SuperGroup ID
+ 
+[ Sun May  1 16:59:03 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 17:00:16 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 17:00:26 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 17:01:39 2016 ]=>  Primary bot admin [190427743] requested SuperGroup ID
+ 
+[ Sun May  1 17:01:39 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May  1 17:05:03 2016 ]=>  Primary bot admin [190427743] requested SuperGroup ID
+ 
+[ Sun May  1 17:07:42 2016 ]=>  Primary bot admin [190427743] cleaned modlist
+ 
+[ Sun May  1 17:08:20 2016 ]=>  Primary bot admin [190427743] promoted @jurrejelle
+ 
+[ Sun May  1 17:08:46 2016 ]=>  Primary bot admin [190427743] requested SuperGroup settings 
+ 
+[ Sun May  1 17:09:06 2016 ]=>  Primary bot admin[190427743] set [190427743] as owner by username
+ 
+[ Sun May  1 17:09:22 2016 ]=>  Primary bot admin [190427743] promoted @anupritaisno1
+ 
+[ Sun May  1 17:09:32 2016 ]=>  Primary bot admin [190427743] promoted @Haruhi_Suzumiya
+ 
+[ Sun May  1 17:09:39 2016 ]=>  Primary bot admin [190427743] promoted @AstonishedByTheLackOfCake
+ 
+[ Sun May  1 17:09:51 2016 ]=>  Primary bot admin [190427743] promoted @ohayoubaka
+ 
+[ Sun May  1 20:36:47 2016 ]=>  Bot admin 1 [107851874] resolved username: @imandabot
+ 
+[ Mon May  2 08:38:54 2016 ]=>  Dango Daikazoku [206197460] requested SuperGroup settings 
+ 
+[ Mon May  2 08:39:19 2016 ]=>  Dango Daikazoku [206197460] demoted @flaminSnow
+ 
+[ Mon May  2 08:39:47 2016 ]=>  Dango Daikazoku [206197460] demoted @flaminSnow
+ 
+[ Mon May  2 08:41:25 2016 ]=>  Dango Daikazoku [206197460] requested group modlist
+ 
+[ Mon May  2 08:43:22 2016 ]=>  Dango Daikazoku [206197460] promoted @dangou
+ 
+[ Mon May  2 08:50:16 2016 ]=>  Bot admin 2 [161472020] promoted mod: @@AbdulMohamed[204477043] by reply
+ 
+[ Mon May  2 08:50:21 2016 ]=>  Bot admin 2 [161472020] demoted @AbdulMohamed
+ 
+[ Mon May  2 08:51:38 2016 ]=>  Dango Daikazoku [206197460] demoted @flaminSnow
+ 
+[ Mon May  2 08:52:03 2016 ]=>  Dango Daikazoku [206197460] requested group modlist
+ 
+[ Mon May  2 09:01:00 2016 ]=>  Dango Daikazoku [206197460] resolved username: @hitagibot
+ 
+[ Mon May  2 09:01:49 2016 ]=>  Dango Daikazoku [206197460] requested ID for: @hitagibot
+ 
+[ Mon May  2 09:02:08 2016 ]=>  Dango Daikazoku [206197460] requested ID for: @flaminSnow
+ 
+[ Mon May  2 09:04:12 2016 ]=>  Dango Daikazoku [206197460] requested ID for: @Haruhi_Suzumiya
+ 
+[ Mon May  2 09:20:25 2016 ]=>  Dango_Daikazoku [206197460] Used /superhelp
+ 
+[ Mon May  2 09:43:09 2016 ]=>  Primary bot admin [190427743] obtained id for: [206197460]
+ 
+[ Mon May  2 09:51:21 2016 ]=>  Primary bot admin [190427743] requested SuperGroup ID
+ 
+[ Mon May  2 09:51:26 2016 ]=>  Primary bot admin [190427743] requested SuperGroup ID
+ 
+[ Mon May  2 12:26:00 2016 ]=>  log file created by owner/support/admin
+ 
+[ Mon May  2 13:28:33 2016 ]=>  Primary bot admin [190427743] requested SuperGroup ID
+ 
+[ Mon May  2 13:47:41 2016 ]=>  Primary bot admin [190427743] requested SuperGroup ID
+ 
+[ Mon May  2 13:59:07 2016 ]=>  Primary bot admin [190427743] requested SuperGroup ID
+ 
+[ Mon May  2 14:17:35 2016 ]=>  Primary bot admin [190427743] requested SuperGroup ID
+ 
+[ Mon May  2 14:24:03 2016 ]=>  Primary bot admin [190427743] requested SuperGroup ID
+ 
+[ Mon May  2 17:58:06 2016 ]=>  Primary bot admin [190427743] requested group rules
+ 
+[ Mon May  2 17:59:31 2016 ]=>  Primary bot admin [190427743] left via kickme
+ 
+[ Mon May  2 18:02:35 2016 ]=>  Primary bot admin [190427743] deleted a message by reply
+ 
+[ Mon May  2 18:02:42 2016 ]=>  Primary bot admin [190427743] deleted a message by reply
+ 
+[ Mon May  2 18:03:09 2016 ]=>  Primary bot admin [190427743] deleted a message by reply
+ 
+[ Tue May  3 06:32:41 2016 ]=>  Primary bot admin [190427743] requested ID for: @parasthakur
+ 
+[ Tue May  3 06:48:10 2016 ]=>  Primary bot admin [190427743] requested SuperGroup ID
+ 
+[ Tue May  3 06:48:37 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Tue May  3 06:49:35 2016 ]=>  Primary bot admin [190427743] requested SuperGroup settings 
+ 
+[ Tue May  3 09:00:40 2016 ]=>  Primary bot admin [190427743] requested SuperGroup settings 
+ 
+[ Tue May  3 09:55:31 2016 ]=>  Primary bot admin [190427743] requested SuperGroup ID
+ 
+[ Tue May  3 10:04:35 2016 ]=>  Primary bot admin [190427743] requested SuperGroup ID
+ 
+[ Tue May  3 10:08:11 2016 ]=>  Primary bot admin [190427743] requested SuperGroup ID
+ 
+[ Tue May  3 12:01:35 2016 ]=>  Primary bot admin [190427743] requested group link [https://telegram.me/joinchat/C1myXz6OXL-Cprd9iqHX5A]
+ 
+[ Tue May  3 12:04:36 2016 ]=>  Primary bot admin [190427743] started setting new SuperGroup photo
+ 
+[ Tue May  3 12:04:43 2016 ]=>  Primary bot admin [190427743] set new SuperGroup photo
+ 
+[ Tue May  3 12:06:31 2016 ]=>  Dango Daikazoku [206197460] renamed SuperGroup to: eeWormhole #shitpost #speechwar #pollwar #capswar #nocapswar
+ 
+[ Tue May  3 12:06:42 2016 ]=>  Dango Daikazoku [206197460] renamed SuperGroup to: Wormhole #shitpost #speechwar #pollwar #capswar #nocapswar
+ 
+[ Tue May  3 12:08:57 2016 ]=>  Primary bot admin [190427743] renamed SuperGroup to: and now?!
+ 
+[ Tue May  3 12:08:57 2016 ]=>  Haruhi Suzumiya? [0] renamed SuperGroup to: and now?!
+ 
+[ Tue May  3 12:09:27 2016 ]=>  Primary bot admin [190427743] renamed SuperGroup to: Wormhole #shitpost #speechwar #capswar #nocapswar
+ 
+[ Tue May  3 12:09:49 2016 ]=>  Primary bot admin [190427743] renamed SuperGroup to: Wormhole #shitpost #speechwar #capswar #nocapswar
+ 
+[ Tue May  3 12:10:10 2016 ]=>  Primary bot admin [190427743] renamed SuperGroup to: Wormhole #shitpost #speechwar #capswar #nocapswar #feelsgoodman
+ 
+[ Tue May  3 12:10:10 2016 ]=>  Haruhi Suzumiya? [0] renamed SuperGroup to: Wormhole #shitpost #speechwar #capswar #nocapswar #feelsgoodman
+ 
+[ Tue May  3 12:10:29 2016 ]=>  Primary bot admin [190427743] requested SuperGroup settings 
+ 
+[ Tue May  3 12:48:48 2016 ]=>  Primary bot admin [190427743] requested SuperGroup ID
+ 
+[ Tue May  3 13:37:34 2016 ]=>  Primary bot admin [190427743] deleted a message by reply
+ 
+[ Tue May  3 13:38:06 2016 ]=>  Primary bot admin [190427743] set SuperGroup to: mute All
+ 
+[ Tue May  3 13:39:15 2016 ]=>  Primary bot admin [190427743] set SuperGroup to: unmute All
+ 
+[ Tue May  3 14:06:09 2016 ]=>  log file created by owner/support/admin
+ 
+[ Tue May  3 14:08:05 2016 ]=>  Primary bot admin [190427743] set SuperGroup description to: Welcome to the wormhole! Feel free to chat about anything, you can spam as well (a bit)
+####----No adult content----####
+Reviews:-
+Such an autistic group
+Wtf is this weeb 💩 ?
+999999/10 best group for discussion
+They said free doritos,where's my Doritos ?
+ 
+[ Tue May  3 14:26:15 2016 ]=>  Primary bot admin [190427743] deleted a message by reply
+ 
+[ Tue May  3 14:30:43 2016 ]=>  Primary bot admin [190427743] set SuperGroup description to: Welcome to the wormhole! Feel free to chat about anything, you can spam as well (a bit)
+####----No adult content----####
+Reviews:-
+Such an autistic group
+Wtf is this weeb 💩 ?
+999999/10 best group for discussion
+They said free doritos,where's my Doritos ?
+ 
+[ Tue May  3 14:32:07 2016 ]=>  Primary_bot_admin [190427743] saved [about] as > Welcome to the wormhole! Feel free to chat about anything, you can spam as well (a bit)
+####----No adult content----####
+Reviews:-
+Such an autistic group
+Wtf is this weeb 💩 ?
+999999/10 best group for discussion
+They said free doritos,where's my Doritos ?
+ 
+[ Tue May  3 14:33:07 2016 ]=>  Primary_bot_admin [190427743] used /get about
+ 
+[ Tue May  3 14:50:20 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato?   [190427743] resolved username: @anupritaisno1
+ 
+[ Tue May  3 14:51:05 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] resolved username: @anupritaisno1
+ 
+[ Tue May  3 14:52:29 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] resolved username: @deletescape
+ 
+[ Tue May  3 14:56:59 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] resolved username: @AstonishedByTheLackOfCake
+ 
+[ Tue May  3 15:00:16 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested ID for: @dangou
+ 
+[ Tue May  3 15:00:22 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] resolved username: @dangou
+ 
+[ Tue May  3 15:00:43 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] resolved username: @splatgod
+ 
+[ Tue May  3 15:00:53 2016 ]=>  Kawaii Starfish [206197460] resolved username: @anupritaisno1
+ 
+[ Tue May  3 15:01:22 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] resolved username: @is an admin only command
+ 
+[ Tue May  3 15:01:58 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Tue May  3 16:47:07 2016 ]=>  Tomoko Kuroki [181221553] requested group modlist
+ 
+[ Tue May  3 17:52:48 2016 ]=>  log file created by owner/support/admin
+ 
+[ Wed May  4 07:16:45 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Wed May  4 07:16:51 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] resolved username: @Dnwhfe
+ 
+[ Wed May  4 07:20:39 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Wed May  4 07:20:47 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Wed May  4 13:40:40 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Wed May  4 13:44:04 2016 ]=>  Kawaii_Starfish [206197460] used /get myWaifu
+ 
+[ Wed May  4 13:44:16 2016 ]=>  Kawaii_Starfish [206197460] used /get myWaifu
+ 
+[ Wed May  4 13:45:03 2016 ]=>  Kawaii_Starfish [206197460] Used /superhelp
+ 
+[ Wed May  4 13:46:48 2016 ]=>  Primary_bot_admin_長門_有希?_ゆき_ながと?_ユキ_ナガト?_Yuki_Nagato?_O-oooooooooo_AAAAE-A-A-I-A-U-_JO-oooooooooooo_AAE-O-A-A-U-U-A-_E-eee-ee-eee_AAAAE-A-E-I-E-A-_JO-ooo-oo-oo-oo_EEEEO-A-AAA-AAAA [190427743] Used /superhelp
+ 
+[ Wed May  4 13:47:51 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Wed May  4 13:50:31 2016 ]=>  Kawaii_Starfish [206197460] requested group stats 
+ 
+[ Wed May  4 13:53:25 2016 ]=>  log file created by owner/support/admin
+ 
+[ Wed May  4 14:04:52 2016 ]=>  Primary_bot_admin_長門_有希?_ゆき_ながと?_ユキ_ナガト?_Yuki_Nagato?_O-oooooooooo_AAAAE-A-A-I-A-U-_JO-oooooooooooo_AAE-O-A-A-U-U-A-_E-eee-ee-eee_AAAAE-A-E-I-E-A-_JO-ooo-oo-oo-oo_EEEEO-A-AAA-AAAA [190427743] Used /superhelp
+ 
+[ Wed May  4 14:39:55 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Wed May  4 14:39:59 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup settings 
+ 
+[ Thu May  5 05:03:45 2016 ]=>  log file created by owner/support/admin
+ 
+[ Thu May  5 17:16:00 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Sat May  7 01:34:19 2016 ]=>  Haruhi Suzumiya? [212257536] requested SuperGroup ID
+ 
+[ Sat May  7 01:52:42 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested group link [https://telegram.me/joinchat/C1myXz6OXL-Cprd9iqHX5A]
+ 
+[ Sat May  7 02:11:11 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] has changed group rules to [The only rule is don't be a cunt and harrass people, period.]
+ 
+[ Sat May  7 02:24:42 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] resolved username: @anupritaisno1
+ 
+[ Sat May  7 03:00:56 2016 ]=>  log file created by owner/support/admin
+ 
+[ Sat May  7 03:24:10 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] unlocked member 
+ 
+[ Sat May  7 03:25:30 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup settings 
+ 
+[ Sat May  7 06:40:27 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup muteslist
+ 
+[ Sat May  7 06:40:34 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup mutelist
+ 
+[ Sat May  7 07:03:28 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Sat May  7 14:38:54 2016 ]=>  Kawaii Starfish [206197460] requested SuperGroup settings 
+ 
+[ Sat May  7 15:02:39 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested group link [https://telegram.me/joinchat/C1myXz6OXL8BZ5MbkZi_KQ]
+ 
+[ Sat May  7 15:03:37 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Sat May  7 15:05:58 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Sat May  7 15:13:45 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Sat May  7 15:40:47 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup settings 
+ 
+[ Sat May  7 16:02:36 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @Akkey
+ 
+[ Sat May  7 16:08:48 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @hitagibot
+ 
+[ Sat May  7 16:23:28 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup settings 
+ 
+[ Sat May  7 16:27:17 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Sun May  8 02:22:33 2016 ]=>  Kawaii Starfish [206197460] requested group modlist
+ 
+[ Sun May  8 04:54:20 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Sun May  8 10:34:54 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @jurrejelle
+ 
+[ Sun May  8 10:35:11 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @sareha_happyo
+ 
+[ Sun May  8 10:39:24 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] demoted @hitagibot
+ 
+[ Sun May  8 10:42:13 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] resolved username: @sareha_happyo
+ 
+[ Sun May  8 10:44:43 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] resolved username: @dangou
+ 
+[ Sun May  8 10:45:01 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested group modlist
+ 
+[ Sun May  8 10:45:10 2016 ]=>  Bot admin 2 [161472020] resolved username: @dangou
+ 
+[ Sun May  8 10:49:35 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Sun May  8 10:57:58 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Sun May  8 10:58:03 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Sun May  8 10:58:27 2016 ]=>  サレハ 発表 [62202377] deleted a message by reply
+ 
+[ Sun May  8 10:58:33 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Sun May  8 10:58:48 2016 ]=>  サレハ 発表 [62202377] deleted a message by reply
+ 
+[ Sun May  8 11:03:24 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Sun May  8 11:15:44 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Sun May  8 11:17:09 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] used /owner
+ 
+[ Sun May  8 12:38:32 2016 ]=>  Mirai [197023779] banned user is talking !
+ 
+[ Sun May  8 12:39:34 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Sun May  8 12:39:53 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted mod: @@anupritaisno1[190427743] by reply
+ 
+[ Sun May  8 12:39:57 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @mirai_bot
+ 
+[ Sun May  8 14:13:33 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] resolved username: @dangou
+ 
+[ Sun May  8 15:10:34 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Sun May  8 19:02:58 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Mon May  9 07:34:15 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Mon May  9 07:34:32 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested ID for: @sareha_happyo
+ 
+[ Mon May  9 08:23:09 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Mon May  9 12:53:34 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Mon May  9 13:06:17 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Mon May  9 13:06:37 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Mon May  9 13:06:45 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Mon May  9 13:08:09 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Mon May  9 13:08:22 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Mon May  9 13:08:44 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Mon May  9 17:21:26 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Mon May  9 17:34:54 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] resolved username: @anupritaisno1
+ 
+[ Tue May 10 05:21:48 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Tue May 10 05:30:46 2016 ]=>  Primary_bot_admin_長門_有希?_ゆき_ながと?_ユキ_ナガト?_Yuki_Nagato?_O-oooooooooo_AAAAE-A-A-I-A-U-_JO-oooooooooooo_AAE-O-A-A-U-U-A-_E-eee-ee-eee_AAAAE-A-E-I-E-A-_JO-ooo-oo-oo-oo_EEEEO-A-AAA-AAAA [190427743] used /get starfish
+ 
+[ Tue May 10 08:16:46 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Tue May 10 09:57:11 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Tue May 10 10:56:40 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Tue May 10 10:58:06 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Tue May 10 10:58:13 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Tue May 10 10:58:20 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Tue May 10 10:58:31 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Tue May 10 10:58:44 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Tue May 10 10:58:57 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Tue May 10 10:59:20 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 11 12:24:44 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested group modlist
+ 
+[ Wed May 11 12:47:18 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup settings 
+ 
+[ Wed May 11 13:11:11 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Thu May 12 04:36:41 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @jurrejelle
+ 
+[ Thu May 12 09:54:26 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Thu May 12 12:09:08 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @nandan
+ 
+[ Thu May 12 12:11:42 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup bots list
+ 
+[ Thu May 12 12:18:22 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup settings 
+ 
+[ Thu May 12 12:27:08 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @hitagibot
+ 
+[ Thu May 12 12:27:18 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @mrbytebot
+ 
+[ Thu May 12 12:28:47 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup settings 
+ 
+[ Thu May 12 13:44:32 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @aRandomStranger
+ 
+[ Thu May 12 13:46:11 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @Sanguchi
+ 
+[ Thu May 12 14:01:36 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Thu May 12 14:08:57 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested group modlist
+ 
+[ Fri May 13 12:40:26 2016 ]=>  Haruhi Suzumiya? [212257536] requested SuperGroup ID
+ 
+[ Fri May 13 12:40:27 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Fri May 13 13:05:06 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Fri May 13 13:05:52 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Fri May 13 13:17:40 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Fri May 13 15:01:48 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested group link [https://telegram.me/joinchat/C1myXz6OXL8BZ5MbkZi_KQ]
+ 
+[ Fri May 13 15:01:48 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Fri May 13 15:07:19 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Fri May 13 16:11:22 2016 ]=>  Kawaii_Starfish_⭐️🐠 [206197460] Used /superhelp
+ 
+[ Fri May 13 16:11:23 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Fri May 13 16:11:41 2016 ]=>  Primary_bot_admin_長門_有希?_ゆき_ながと?_ユキ_ナガト?_Yuki_Nagato?_O-oooooooooo_AAAAE-A-A-I-A-U-_JO-oooooooooooo_AAE-O-A-A-U-U-A-_E-eee-ee-eee_AAAAE-A-E-I-E-A-_JO-ooo-oo-oo-oo_EEEEO-A-AAA-AAAA [190427743] Used /superhelp
+ 
+[ Fri May 13 16:22:01 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Fri May 13 16:22:01 2016 ]=>  HitagiBot [213562854] banned user is talking !
+ 
+[ Fri May 13 16:22:01 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Fri May 13 16:22:01 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Fri May 13 16:22:13 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Fri May 13 16:22:14 2016 ]=>  HitagiBot [213562854] banned user is talking !
+ 
+[ Fri May 13 16:22:14 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Fri May 13 16:22:15 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Fri May 13 16:22:39 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Fri May 13 16:22:39 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Fri May 13 16:23:47 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Fri May 13 16:28:20 2016 ]=>  Kawaii Starfish ⭐️🐠 [206197460] resolved username: @anupritaisno1
+ 
+[ Fri May 13 16:49:01 2016 ]=>  Kawaii Starfish ⭐️🐠 [206197460] requested SuperGroup ID
+ 
+[ Fri May 13 16:49:02 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Fri May 13 17:05:22 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Fri May 13 17:05:35 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Fri May 13 17:12:04 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Fri May 13 18:55:59 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Fri May 13 18:55:59 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Fri May 13 18:58:52 2016 ]=>  Bot admin 2 [161472020] resolved username: @test
+ 
+[ Fri May 13 18:59:35 2016 ]=>  Bot admin 2 [161472020] resolved username: @AstonishedByTheLackOfCake
+ 
+[ Fri May 13 19:12:52 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 14 03:47:38 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 14 03:47:44 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup muteslist
+ 
+[ Sat May 14 03:47:54 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup mutelist
+ 
+[ Sat May 14 03:51:49 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 14 03:51:49 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 14 07:25:07 2016 ]=>  Kawaii Starfish ⭐️🐠 [206197460] requested SuperGroup ID
+ 
+[ Sat May 14 07:25:07 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 14 08:45:03 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 14 08:45:04 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Sat May 14 10:26:24 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Sat May 14 10:26:34 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Sat May 14 10:26:55 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Sat May 14 10:27:37 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Sat May 14 10:28:06 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Sat May 14 10:28:57 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Sat May 14 10:29:13 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Sat May 14 11:31:00 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Sat May 14 11:37:05 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 14 13:48:58 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 14 13:48:59 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Sat May 14 15:39:30 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] obtained id for: [116752382]
+ 
+[ Sat May 14 15:39:30 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 14 15:57:11 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Sat May 14 15:57:53 2016 ]=>  Kawaii_Starfish_⭐️🐠 [206197460] requested group stats 
+ 
+[ Sat May 14 16:04:29 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Sat May 14 16:07:58 2016 ]=>  Kawaii Starfish ⭐️🐠 [206197460] requested SuperGroup ID
+ 
+[ Sat May 14 16:08:27 2016 ]=>  Kawaii_Starfish_⭐️🐠 [206197460] requested group stats 
+ 
+[ Sat May 14 16:13:18 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup settings 
+ 
+[ Sat May 14 16:13:55 2016 ]=>  log file created by owner/support/admin
+ 
+[ Sat May 14 16:18:40 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup mutelist
+ 
+[ Sat May 14 19:01:14 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Sat May 14 19:01:14 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 14 19:01:50 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Sat May 14 19:01:50 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 15 05:27:31 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] resolved username: @Akkey
+ 
+[ Sun May 15 05:28:44 2016 ]=>  Bot admin 2 [161472020] resolved username: @AstonishedByTheLackOfCake
+ 
+[ Sun May 15 05:28:59 2016 ]=>  Bot admin 2 [161472020] resolved username: @test
+ 
+[ Sun May 15 05:29:40 2016 ]=>  Bot admin 2 [161472020] resolved username: @Haruhi_Suzumiya
+ 
+[ Sun May 15 05:35:24 2016 ]=>  Bot admin 2 [161472020] resolved username: @Haruhi_Suzumiya
+ 
+[ Sun May 15 06:39:46 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] obtained id for: [116752382]
+ 
+[ Sun May 15 06:39:47 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 15 06:40:39 2016 ]=>  Primarybotadmin長門有希?ゆきながと?ユキナガト?YukiNagato?O-ooooooooooAAAAE-A-A-I-A-U-JO-ooooooooooooAAE-O-A-A-U-U-A-E-eee-ee-eeeAAAAE-A-E-I-E-A-JO-ooo-oo-oo-ooEEEEO-A-AAA-AAAA [190427743] baned user 116752382
+ 
+[ Sun May 15 06:40:44 2016 ]=>  Primarybotadmin長門有希?ゆきながと?ユキナガト?YukiNagato?O-ooooooooooAAAAE-A-A-I-A-U-JO-ooooooooooooAAE-O-A-A-U-U-A-E-eee-ee-eeeAAAAE-A-E-I-E-A-JO-ooo-oo-oo-ooEEEEO-A-AAA-AAAA [190427743] kicked user 116752382
+ 
+[ Sun May 15 06:40:44 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 15 06:40:54 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] added [116752382] to the muted users list
+ 
+[ Sun May 15 06:41:58 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 15 06:42:10 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @YunoG
+ 
+[ Sun May 15 06:42:16 2016 ]=>  Yuno Gasai [120733229] requested SuperGroup settings 
+ 
+[ Sun May 15 06:42:16 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 15 06:45:33 2016 ]=>  Primarybotadmin長門有希?ゆきながと?ユキナガト?YukiNagato?O-ooooooooooAAAAE-A-A-I-A-U-JO-ooooooooooooAAE-O-A-A-U-U-A-E-eee-ee-eeeAAAAE-A-E-I-E-A-JO-ooo-oo-oo-ooEEEEO-A-AAA-AAAA [190427743] unbaned user 116752382
+ 
+[ Sun May 15 06:45:33 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 15 06:45:33 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 15 06:45:44 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] removed [116752382] from the muted users list
+ 
+[ Sun May 15 06:47:14 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @tomokoBot
+ 
+[ Sun May 15 07:06:21 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 15 09:25:04 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] left via kickme
+ 
+[ Sun May 15 09:25:04 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 15 12:11:07 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 15 12:12:01 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 15 12:12:14 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 15 12:12:14 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 15 12:12:14 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Sun May 15 12:12:19 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 15 12:39:40 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 15 13:44:40 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 15 13:45:04 2016 ]=>  SlimtaroPurachina [150089230] banned user is talking !
+ 
+[ Sun May 15 13:45:20 2016 ]=>  SlimtaroPurachina [150089230] banned user is talking !
+ 
+[ Sun May 15 13:47:01 2016 ]=>  SlimtaroPurachina [150089230] banned user is talking !
+ 
+[ Sun May 15 13:48:08 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 15 13:48:08 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 15 17:41:47 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Sun May 15 20:08:08 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup settings 
+ 
+[ Sun May 15 20:08:08 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 15 20:08:09 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 15 20:08:09 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 15 20:09:15 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup settings 
+ 
+[ Sun May 15 20:09:15 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 15 20:15:25 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 15 22:29:22 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Mon May 16 10:07:09 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Mon May 16 10:07:29 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Mon May 16 10:07:29 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Mon May 16 10:07:30 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Mon May 16 10:19:11 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Mon May 16 12:58:10 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Mon May 16 12:58:11 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Mon May 16 12:58:11 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Mon May 16 12:58:11 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Mon May 16 12:58:11 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Mon May 16 12:58:11 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Mon May 16 12:58:11 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Mon May 16 12:58:11 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Mon May 16 12:58:11 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Mon May 16 12:58:11 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Mon May 16 12:58:11 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Mon May 16 12:58:11 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Mon May 16 12:58:11 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Mon May 16 12:58:11 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Mon May 16 12:58:11 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Mon May 16 13:36:09 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Mon May 16 13:36:10 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Mon May 16 17:31:31 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Mon May 16 17:31:31 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Mon May 16 17:33:43 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Tue May 17 01:29:03 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Tue May 17 01:29:03 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Tue May 17 04:30:00 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Tue May 17 09:39:59 2016 ]=>  Kawaii Starfish ⭐️🐠 [206197460] deleted a message by reply
+ 
+[ Tue May 17 11:15:17 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Tue May 17 11:15:18 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Tue May 17 11:32:26 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Tue May 17 11:32:26 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed May 18 01:03:50 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed May 18 01:04:43 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed May 18 07:10:58 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed May 18 07:12:00 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed May 18 07:12:33 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed May 18 07:13:17 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed May 18 07:13:45 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed May 18 07:13:45 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed May 18 07:15:13 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed May 18 07:15:13 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed May 18 07:15:13 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 07:15:55 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed May 18 07:16:57 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed May 18 07:18:06 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed May 18 07:18:11 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed May 18 07:18:21 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed May 18 11:10:43 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:12:54 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:13:19 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:13:45 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:14:05 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:14:06 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:14:45 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:15:03 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:15:19 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:15:30 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:15:45 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:15:59 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:16:12 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:16:34 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:17:52 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:17:53 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:18:05 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:18:07 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:18:24 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:18:25 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:18:37 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:19:01 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:19:15 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:19:17 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:24:56 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:26:44 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:27:03 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:27:12 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:27:31 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:27:41 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:28:18 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:28:33 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:29:03 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:29:24 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:29:26 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:29:41 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 11:29:48 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed May 18 14:40:37 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Wed May 18 14:40:42 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Wed May 18 16:50:30 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed May 18 16:51:25 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed May 18 16:51:39 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 10:16:37 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 10:16:42 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 10:16:49 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 10:17:07 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 10:17:07 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Thu May 19 10:17:13 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 10:17:23 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA Admin [187665323] added to the SuperGroup by [ 190427743 ]
+ 
+[ Thu May 19 10:17:23 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 10:18:50 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA Admin [191595581] added to the SuperGroup by [ 190427743 ]
+ 
+[ Thu May 19 10:18:50 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 10:25:11 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Thu May 19 11:29:25 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 12:34:26 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 12:34:26 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 12:34:26 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 17:02:07 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 17:07:15 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 17:07:15 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 17:08:35 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 17:10:51 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 17:13:32 2016 ]=>  The Second [120733229] requested group modlist
+ 
+[ Thu May 19 17:13:42 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 17:13:50 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 17:14:25 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 17:14:25 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 17:14:25 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 17:14:26 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 17:14:26 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 17:14:26 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 17:14:26 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 17:14:26 2016 ]=>  TugaPowerBot @TugaBot [185512755] kicked for #spam
+ 
+[ Thu May 19 17:14:26 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 17:14:26 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 17:14:26 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 17:14:26 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 17:14:26 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 17:14:26 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 17:14:27 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 17:14:27 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 17:14:27 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 17:14:28 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 17:14:29 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 17:14:48 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Thu May 19 17:14:48 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 17:15:45 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 17:16:55 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Thu May 19 17:17:19 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Thu May 19 17:17:37 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] deleted a message by reply
+ 
+[ Thu May 19 17:19:48 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 17:23:57 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 17:24:09 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 17:24:25 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 19 17:38:51 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Fri May 20 05:22:09 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @SplatGod
+ 
+[ Fri May 20 05:22:54 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] demoted @SplatGod
+ 
+[ Fri May 20 07:47:19 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Fri May 20 10:24:59 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @nandan
+ 
+[ Fri May 20 11:03:16 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Fri May 20 12:53:21 2016 ]=>  Unnamedia [199563590] kicked for #spam
+ 
+[ Fri May 20 12:54:29 2016 ]=>  Kawaii Starfish ⭐️🐠 [206197460] added [199563590] to the muted users list
+ 
+[ Fri May 20 13:06:13 2016 ]=>  log file created by owner/support/admin
+ 
+[ Sat May 21 00:43:26 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 21 00:45:40 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @Anonymous_tm_world
+ 
+[ Sat May 21 08:21:02 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] obtained id for: [217209094]
+ 
+[ Sat May 21 08:21:02 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 21 08:21:27 2016 ]=>  Primarybotadmin長門有希?ゆきながと?ユキナガト?YukiNagato?O-ooooooooooAAAAE-A-A-I-A-U-JO-ooooooooooooAAE-O-A-A-U-U-A-E-eee-ee-eeeAAAAE-A-E-I-E-A-JO-ooo-oo-oo-ooEEEEO-A-AAA-AAAA [190427743] baned user 217209094
+ 
+[ Sat May 21 08:21:37 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] added [217209094] to the muted users list
+ 
+[ Sat May 21 12:23:44 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 21 12:23:46 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 21 12:23:55 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 21 15:12:29 2016 ]=>  Kawaii Starfish ⭐️🐠 [206197460] requested SuperGroup ID
+ 
+[ Sat May 21 15:12:29 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 21 15:54:13 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Sat May 21 15:54:13 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 22 05:39:47 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 22 05:39:58 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @InfinityCosmos
+ 
+[ Sun May 22 06:21:22 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested ID for: @Akkey
+ 
+[ Mon May 23 15:47:07 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup info
+ 
+[ Mon May 23 15:48:43 2016 ]=>  flo [117506665] requested SuperGroup info
+ 
+[ Tue May 24 06:13:46 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Tue May 24 06:13:47 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed May 25 12:35:47 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed May 25 13:17:49 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed May 25 13:18:08 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed May 25 13:20:28 2016 ]=>  Bot admin 2 [161472020] promoted mod: @@Insertusername[124511696] by reply
+ 
+[ Wed May 25 13:20:41 2016 ]=>  Aryan [188003473] demoted @Insertusername
+ 
+[ Wed May 25 13:21:03 2016 ]=>  Peka. [59802458] demoted @myself
+ 
+[ Wed May 25 13:21:48 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @Insertusername
+ 
+[ Wed May 25 13:21:54 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @sumit007s
+ 
+[ Wed May 25 13:22:09 2016 ]=>  Peka. [59802458] requested SuperGroup settings 
+ 
+[ Wed May 25 13:22:09 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed May 25 13:26:58 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed May 25 13:32:35 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed May 25 13:33:12 2016 ]=>  ↔️LoggingBot [167781099] banned user is talking !
+ 
+[ Wed May 25 13:33:27 2016 ]=>  ↔️LoggingBot [167781099] banned user is talking !
+ 
+[ Wed May 25 13:33:32 2016 ]=>  ↔️LoggingBot [167781099] banned user is talking !
+ 
+[ Wed May 25 13:33:56 2016 ]=>  ↔️LoggingBot [167781099] banned user is talking !
+ 
+[ Wed May 25 13:34:06 2016 ]=>  ↔️LoggingBot [167781099] banned user is talking !
+ 
+[ Wed May 25 13:34:13 2016 ]=>  ↔️LoggingBot [167781099] banned user is talking !
+ 
+[ Wed May 25 13:35:25 2016 ]=>  ↔️LoggingBot [167781099] banned user is talking !
+ 
+[ Wed May 25 13:35:27 2016 ]=>  ↔️LoggingBot [167781099] banned user is talking !
+ 
+[ Wed May 25 13:35:30 2016 ]=>  ↔️LoggingBot [167781099] banned user is talking !
+ 
+[ Wed May 25 13:35:37 2016 ]=>  ↔️LoggingBot [167781099] banned user is talking !
+ 
+[ Wed May 25 13:35:37 2016 ]=>  ↔️LoggingBot [167781099] banned user is talking !
+ 
+[ Wed May 25 13:35:51 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Wed May 25 13:35:51 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed May 25 13:35:57 2016 ]=>  ↔️LoggingBot [167781099] banned user is talking !
+ 
+[ Wed May 25 13:36:00 2016 ]=>  ↔️LoggingBot [167781099] banned user is talking !
+ 
+[ Wed May 25 13:36:07 2016 ]=>  ↔️LoggingBot [167781099] banned user is talking !
+ 
+[ Wed May 25 13:36:09 2016 ]=>  ↔️LoggingBot [167781099] banned user is talking !
+ 
+[ Wed May 25 13:36:14 2016 ]=>  ↔️LoggingBot [167781099] banned user is talking !
+ 
+[ Wed May 25 13:36:15 2016 ]=>  ↔️LoggingBot [167781099] banned user is talking !
+ 
+[ Wed May 25 13:36:22 2016 ]=>  ↔️LoggingBot [167781099] banned user is talking !
+ 
+[ Wed May 25 13:36:22 2016 ]=>  ↔️LoggingBot [167781099] banned user is talking !
+ 
+[ Wed May 25 13:36:22 2016 ]=>  ↔️LoggingBot [167781099] banned user is talking !
+ 
+[ Wed May 25 15:45:06 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed May 25 15:45:12 2016 ]=>  🐙SplatGod🐙 @SplatGod [108367921] kicked for #spam
+ 
+[ Wed May 25 15:45:35 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed May 25 15:45:41 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed May 25 15:47:41 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @hunter_bruhh
+ 
+[ Wed May 25 17:55:42 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup users list
+ 
+[ Wed May 25 18:01:37 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup users list
+ 
+[ Wed May 25 18:25:48 2016 ]=>  hunter bruhh [198770907] requested SuperGroup settings 
+ 
+[ Wed May 25 18:25:48 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed May 25 19:26:22 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 26 06:02:32 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Thu May 26 06:02:32 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 26 06:03:14 2016 ]=>  Viplove Chauhan [129616296] requested SuperGroup ID
+ 
+[ Thu May 26 06:03:15 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 26 06:03:59 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 26 06:13:57 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu May 26 06:13:59 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Sat May 28 08:50:38 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA Admin [116799216] added to the SuperGroup by [ 190427743 ]
+ 
+[ Sat May 28 08:50:38 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 08:50:39 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Sat May 28 08:50:51 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @BayernPars
+ 
+[ Sat May 28 08:58:06 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 08:58:07 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Sat May 28 09:04:28 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @trialzerobot
+ 
+[ Sat May 28 09:11:56 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 09:12:08 2016 ]=>  ↔️LoggingBot [167781099] banned user is talking !
+ 
+[ Sat May 28 09:12:30 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 09:12:42 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 09:13:05 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 09:14:44 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 09:15:25 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 09:15:36 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 09:15:48 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 09:15:57 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 09:16:04 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 09:16:18 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 09:16:32 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 09:16:44 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 09:17:24 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 09:18:02 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 09:18:11 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 09:18:22 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 09:18:43 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 09:19:05 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 09:19:46 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 09:20:08 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 09:20:18 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 09:21:00 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 09:21:25 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 09:23:19 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 09:23:29 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 09:23:54 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 09:24:57 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 09:25:59 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 09:26:54 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 09:27:46 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 09:28:37 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 09:29:24 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 10:47:11 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 10:47:21 2016 ]=>  PatrickGarcia [2896817] banned user is talking !
+ 
+[ Sat May 28 10:48:03 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 10:48:17 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 15:20:25 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 17:35:53 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat May 28 17:35:54 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Sat May 28 17:39:49 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Sat May 28 17:40:00 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Sat May 28 17:40:09 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] resolved username: @174835143
+ 
+[ Sat May 28 17:42:53 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted user#id174835143
+ 
+[ Sun May 29 03:24:24 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 29 03:24:25 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Sun May 29 13:10:21 2016 ]=>  TugaPowerBot [185512755] added a banned user >2896817
+ 
+[ Sun May 29 13:10:21 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 29 13:10:21 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 29 13:10:22 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Sun May 29 13:10:46 2016 ]=>  TugaPowerBot [185512755] added a banned user >2896817
+ 
+[ Sun May 29 13:10:46 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 29 13:10:46 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 29 13:11:15 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 29 13:11:16 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 29 13:11:16 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 29 13:11:30 2016 ]=>  TugaPowerBot [185512755] added a banned user >2896817
+ 
+[ Sun May 29 13:11:30 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 29 13:11:30 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 29 13:11:30 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 29 13:11:30 2016 ]=>  TugaPowerBot [185512755] added a banned user >2896817
+ 
+[ Sun May 29 13:11:30 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 29 13:11:30 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Sun May 29 13:12:17 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 29 13:12:17 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 29 13:12:17 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 29 13:12:18 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 29 13:12:18 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 29 23:53:11 2016 ]=>  Primary_bot_admin_長門_有希?_ゆき_ながと?_ユキ_ナガト?_Yuki_Nagato?_O-oooooooooo_AAAAE-A-A-I-A-U-_JO-oooooooooooo_AAE-O-A-A-U-U-A-_E-eee-ee-eee_AAAAE-A-E-I-E-A-_JO-ooo-oo-oo-oo_EEEEO-A-AAA-AAAA [190427743] requested group stats 
+ 
+[ Sun May 29 23:53:11 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 29 23:53:12 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun May 29 23:53:12 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Mon May 30 09:39:52 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup info
+ 
+[ Mon May 30 10:29:35 2016 ]=>  Bot admin 1 [107851874] left via kickme
+ 
+[ Mon May 30 10:29:35 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Mon May 30 12:20:18 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Mon May 30 12:20:24 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Mon May 30 12:22:50 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Mon May 30 12:22:50 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Mon May 30 12:23:15 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Mon May 30 12:23:15 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Mon May 30 12:23:15 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Mon May 30 12:49:25 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Mon May 30 12:49:33 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Mon May 30 12:49:33 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Mon May 30 12:50:26 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Mon May 30 12:50:26 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Tue Jun  7 06:11:44 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Tue Jun  7 12:37:43 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Tue Jun  7 12:38:07 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Tue Jun  7 13:56:17 2016 ]=>  Kawaii Starfish ⭐️🐠 [206197460] requested SuperGroup ID
+ 
+[ Tue Jun  7 13:56:17 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Tue Jun  7 14:54:11 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup settings 
+ 
+[ Tue Jun  7 14:54:11 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Tue Jun  7 14:54:14 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Tue Jun  7 14:54:40 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Tue Jun  7 14:54:40 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Tue Jun  7 14:55:00 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Tue Jun  7 14:55:08 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup settings 
+ 
+[ Tue Jun  7 14:55:08 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Tue Jun  7 14:55:09 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Tue Jun  7 21:44:49 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Tue Jun  7 21:44:50 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed Jun  8 06:38:22 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed Jun  8 06:41:09 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed Jun  8 13:26:30 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed Jun  8 13:26:30 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed Jun  8 13:26:31 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed Jun  8 13:27:41 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed Jun  8 13:27:41 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed Jun  8 13:27:41 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed Jun  8 13:28:44 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed Jun  8 13:28:52 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed Jun  8 13:28:53 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Wed Jun  8 13:28:55 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed Jun  8 13:29:06 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Wed Jun  8 13:29:09 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed Jun  8 13:29:18 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed Jun  8 13:29:34 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed Jun  8 13:29:55 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Wed Jun  8 13:30:01 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Wed Jun  8 13:30:03 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Wed Jun  8 13:35:03 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Wed Jun  8 13:35:29 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Wed Jun  8 13:36:08 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed Jun  8 13:36:09 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed Jun  8 13:36:53 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Wed Jun  8 13:38:03 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Wed Jun  8 13:39:15 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Wed Jun  8 13:40:14 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Wed Jun  8 13:40:16 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Wed Jun  8 13:49:16 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Wed Jun  8 15:25:34 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup bots list
+ 
+[ Wed Jun  8 15:26:40 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Wed Jun  8 16:56:09 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Wed Jun  8 16:57:41 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Wed Jun  8 16:57:49 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Wed Jun  8 17:37:29 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Wed Jun  8 17:37:31 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Wed Jun  8 17:42:47 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Wed Jun  8 17:44:57 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Wed Jun  8 17:54:36 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Thu Jun  9 01:30:17 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Thu Jun  9 01:33:23 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Thu Jun  9 01:33:34 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Thu Jun  9 02:23:07 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Thu Jun  9 02:23:10 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Thu Jun  9 02:32:38 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Thu Jun  9 02:32:52 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Thu Jun  9 02:32:59 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Thu Jun  9 03:03:34 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Thu Jun  9 03:05:45 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Thu Jun  9 03:19:20 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 03:19:21 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Thu Jun  9 03:27:10 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Thu Jun  9 03:27:19 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Thu Jun  9 03:28:47 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Thu Jun  9 04:11:01 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 04:11:01 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Thu Jun  9 04:11:47 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Thu Jun  9 04:12:13 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Thu Jun  9 04:25:47 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Thu Jun  9 04:27:00 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Thu Jun  9 07:47:17 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Thu Jun  9 08:26:05 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Thu Jun  9 08:33:34 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 08:33:35 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Thu Jun  9 08:34:18 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 08:34:18 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 08:34:24 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Thu Jun  9 08:34:25 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 12:43:55 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 12:43:56 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Thu Jun  9 12:54:25 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Thu Jun  9 13:35:27 2016 ]=>  DekhoMagarPyaarSe;) [158330642] banned user is talking !
+ 
+[ Thu Jun  9 15:13:12 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:15:47 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:15:49 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:15:51 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:16:29 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:17:01 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:17:03 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:17:04 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:17:06 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:17:09 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:17:11 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:17:14 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:17:16 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:17:21 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:17:23 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:17:24 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:17:27 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:17:29 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:17:31 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:17:33 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:17:35 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:18:22 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:18:51 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:19:05 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:20:42 2016 ]=>  Kawaii Starfish ⭐️🐠 [206197460] demoted @parasthakur
+ 
+[ Thu Jun  9 15:20:52 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:21:02 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:21:06 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:21:10 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:21:18 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:21:22 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:21:29 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:21:35 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:21:39 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:21:46 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:21:54 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:21:58 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:22:04 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:22:27 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:22:41 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:22:46 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:22:49 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:23:04 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:23:08 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:23:18 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:23:21 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:23:27 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:23:33 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:23:39 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:23:46 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:24:12 2016 ]=>  Dekho Magar Pyaar Se;) [158330642] renamed SuperGroup to: invalid
+ 
+[ Thu Jun  9 15:24:12 2016 ]=>  Dekho Magar Pyaar Se;) [158330642] renamed SuperGroup to: invalid
+ 
+[ Thu Jun  9 15:24:12 2016 ]=>  Dekho Magar Pyaar Se;) [158330642] renamed SuperGroup to: invalid
+ 
+[ Thu Jun  9 15:24:12 2016 ]=>  Dekho Magar Pyaar Se;) [158330642] renamed SuperGroup to: invalid
+ 
+[ Thu Jun  9 15:24:13 2016 ]=>  Dekho Magar Pyaar Se;) [158330642] renamed SuperGroup to: invalid
+ 
+[ Thu Jun  9 15:24:22 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:24:29 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:24:40 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:24:44 2016 ]=>  Kawaii Starfish ⭐️🐠 [206197460] kicked: @parasthakur [158330642]
+ 
+[ Thu Jun  9 15:24:52 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:24:56 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:25:07 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:25:57 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:26:01 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:26:05 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:26:11 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:26:15 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:26:20 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:26:23 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:26:30 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:26:35 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:26:50 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:26:54 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:26:58 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:27:32 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:27:32 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:27:36 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:27:42 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:27:46 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:27:49 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:27:59 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:28:03 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:28:15 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:29:03 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:29:07 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:29:11 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:29:14 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:35:14 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:35:20 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Thu Jun  9 15:35:25 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:35:25 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Thu Jun  9 15:35:35 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:35:37 2016 ]=>  Jack [119256329] banned user is talking !
+ 
+[ Thu Jun  9 15:35:49 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:36:03 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:36:15 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:37:09 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:37:38 2016 ]=>  Till Kottmann [152559768] renamed SuperGroup to: Wormhole
+ 
+[ Thu Jun  9 15:37:44 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:38:51 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:39:03 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:39:25 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:39:40 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:40:02 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:40:13 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:40:24 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:40:47 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:40:57 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:41:37 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:41:45 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:42:37 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:45:25 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:45:41 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:45:51 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:46:02 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:46:02 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:46:12 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:46:17 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:46:18 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:46:22 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:47:27 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:47:30 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA Admin [116014251] added to the SuperGroup by [ 190427743 ]
+ 
+[ Thu Jun  9 15:47:30 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:47:39 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:47:44 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:47:53 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:48:50 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:48:50 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:48:50 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:48:51 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:49:09 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:49:09 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:49:09 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:49:10 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:49:16 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:49:17 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:49:28 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:49:28 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:49:37 2016 ]=>  Divyanshu﻿Pandey @DivyanshuPandey [7212086] kicked for #spam
+ 
+[ Thu Jun  9 15:49:38 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:49:38 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:49:38 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:49:38 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:49:38 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:49:39 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:49:39 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:49:39 2016 ]=>  TugaPowerBot @TugaBot [185512755] kicked for #spam
+ 
+[ Thu Jun  9 15:49:39 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:49:41 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:49:42 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:49:59 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:49:59 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:50:00 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:50:56 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:50:57 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:51:44 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:51:44 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:51:44 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:51:44 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:51:45 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:51:45 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:52:01 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:52:01 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:52:02 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:52:10 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:52:10 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:52:10 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:52:11 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:52:11 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:52:32 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:52:32 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:52:32 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:52:33 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:52:36 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:52:36 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:52:37 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:54:17 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:54:17 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:54:17 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:54:18 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:54:27 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:54:27 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:54:27 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:54:28 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:54:34 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:54:34 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:54:34 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:54:35 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:54:35 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:54:41 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:54:41 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:54:41 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:54:42 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:54:50 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:54:50 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:54:51 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:55:02 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:55:02 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:55:02 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:55:02 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:55:03 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:55:06 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:55:07 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:55:12 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:55:12 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:55:12 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:55:12 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:55:13 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:55:25 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:55:26 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:55:32 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:55:32 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:55:33 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:55:39 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:55:39 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:55:40 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:55:50 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:55:50 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:55:50 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:55:50 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:55:51 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:56:00 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:56:00 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:56:01 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:56:41 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:56:41 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:56:42 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:56:52 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:56:52 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:56:52 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:56:53 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:56:53 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:57:13 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:57:13 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:57:13 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:57:14 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:57:54 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:57:54 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:57:55 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:58:02 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:58:02 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:58:02 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:58:03 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:58:03 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:58:17 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:58:17 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:58:17 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:58:17 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:58:18 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:58:34 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:58:34 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:58:35 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:59:02 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:59:03 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:59:04 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:59:04 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:59:05 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:59:13 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:59:13 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:59:13 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:59:13 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:59:14 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:59:14 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:59:14 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:59:14 2016 ]=>  TugaPowerBot @TugaBot [185512755] kicked for #spam
+ 
+[ Thu Jun  9 15:59:34 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:59:35 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:59:43 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:59:43 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:59:44 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:59:48 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:59:48 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:59:54 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:59:54 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:59:54 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 15:59:55 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:00:07 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:00:08 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:00:08 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:00:20 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:00:20 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:00:20 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:00:21 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:00:30 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:00:30 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:00:30 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:00:31 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:00:43 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:00:43 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:00:44 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:00:44 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:00:44 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:00:44 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:00:45 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:00:45 2016 ]=>  TugaPowerBot @TugaBot [185512755] kicked for #spam
+ 
+[ Thu Jun  9 16:00:56 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:00:56 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:00:57 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:01:07 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:01:07 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:01:08 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:02:05 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:02:05 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:02:05 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:02:06 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:02:26 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:02:26 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:02:26 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:02:26 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:02:27 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:02:39 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:02:39 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:02:39 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:02:40 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:02:47 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:02:48 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:03:07 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:03:08 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:03:14 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:03:14 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:03:15 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:03:21 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:03:21 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:03:22 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:03:48 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:03:48 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:03:48 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:03:48 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:03:48 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:03:49 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:03:49 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:03:49 2016 ]=>  TugaPowerBot @TugaBot [185512755] kicked for #spam
+ 
+[ Thu Jun  9 16:03:49 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:04:34 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:06:14 2016 ]=>  Primary_bot_admin_長門_有希?_ゆき_ながと?_ユキ_ナガト?_Yuki_Nagato?_O-oooooooooo_AAAAE-A-A-I-A-U-_JO-oooooooooooo_AAE-O-A-A-U-U-A-_E-eee-ee-eee_AAAAE-A-E-I-E-A-_JO-ooo-oo-oo-oo_EEEEO-A-AAA-AAAA [190427743] used /get about
+ 
+[ Thu Jun  9 16:06:33 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set SuperGroup description to: Welcome to the wormhole! Feel free to chat about anything, you can spam as well (a bit)
+####----No adult content----####
+Reviews:-
+Such an autistic group
+Wtf is this weeb 💩 ?
+999999/10 best group for discussion
+They said free doritos,where's my Doritos ?
+ 
+[ Thu Jun  9 16:06:41 2016 ]=>  Primary_bot_admin_長門_有希?_ゆき_ながと?_ユキ_ナガト?_Yuki_Nagato?_O-oooooooooo_AAAAE-A-A-I-A-U-_JO-oooooooooooo_AAE-O-A-A-U-U-A-_E-eee-ee-eee_AAAAE-A-E-I-E-A-_JO-ooo-oo-oo-oo_EEEEO-A-AAA-AAAA [190427743] used /get name
+ 
+[ Thu Jun  9 16:07:01 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Thu Jun  9 16:07:01 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:07:07 2016 ]=>  Primary_bot_admin_長門_有希?_ゆき_ながと?_ユキ_ナガト?_Yuki_Nagato?_O-oooooooooo_AAAAE-A-A-I-A-U-_JO-oooooooooooo_AAE-O-A-A-U-U-A-_E-eee-ee-eee_AAAAE-A-E-I-E-A-_JO-ooo-oo-oo-oo_EEEEO-A-AAA-AAAA [190427743] used /get name
+ 
+[ Thu Jun  9 16:08:58 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] renamed SuperGroup to: Wormhole #shitpost #pollwar #capswar #nocapswar #feelsgoodman
+ 
+[ Thu Jun  9 16:08:58 2016 ]=>  TugaPower Bot [185512755] renamed SuperGroup to: Wormhole #shitpost #pollwar #capswar #nocapswar #feelsgoodman
+ 
+[ Thu Jun  9 16:08:58 2016 ]=>  TugaPower Bot [185512755] renamed SuperGroup to: Wormhole #shitpost #pollwar #capswar #nocapswar #feelsgoodman
+ 
+[ Thu Jun  9 16:08:59 2016 ]=>  TugaPower Bot [185512755] renamed SuperGroup to: Wormhole #shitpost #pollwar #capswar #nocapswar #feelsgoodman
+ 
+[ Thu Jun  9 16:08:59 2016 ]=>  TugaPower Bot [185512755] renamed SuperGroup to: Wormhole #shitpost #pollwar #capswar #nocapswar #feelsgoodman
+ 
+[ Thu Jun  9 16:09:18 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:09:45 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup users list
+ 
+[ Thu Jun  9 16:10:25 2016 ]=>  Peka. [59802458] Used /superhelp
+ 
+[ Thu Jun  9 16:10:44 2016 ]=>  Primary_bot_admin_長門_有希?_ゆき_ながと?_ユキ_ナガト?_Yuki_Nagato?_O-oooooooooo_AAAAE-A-A-I-A-U-_JO-oooooooooooo_AAE-O-A-A-U-U-A-_E-eee-ee-eee_AAAAE-A-E-I-E-A-_JO-ooo-oo-oo-oo_EEEEO-A-AAA-AAAA [190427743] used /get about
+ 
+[ Thu Jun  9 16:10:52 2016 ]=>  Kawaii_Starfish_⭐️🐠 [206197460] used /get title
+ 
+[ Thu Jun  9 16:10:58 2016 ]=>  Peka. [59802458] used /get get
+ 
+[ Thu Jun  9 16:11:01 2016 ]=>  Kawaii_Starfish_⭐️🐠 [206197460] used /get groupname
+ 
+[ Thu Jun  9 16:11:01 2016 ]=>  Peka. [59802458] used /get quads
+ 
+[ Thu Jun  9 16:11:14 2016 ]=>  Kawaii_Starfish_⭐️🐠 [206197460] used /get t f out
+ 
+[ Thu Jun  9 16:11:17 2016 ]=>  Peka. [59802458] used /get trips of truth
+ 
+[ Thu Jun  9 16:12:15 2016 ]=>  Haruhi Suzumiya? [212257536] requested group link [https://telegram.me/joinchat/C1myXz6OXL8BZ5MbkZi_KQ]
+ 
+[ Thu Jun  9 16:12:15 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 16:12:58 2016 ]=>  Kawaii Starfish ⭐️🐠 [206197460] requested SuperGroup mutelist
+ 
+[ Thu Jun  9 16:38:44 2016 ]=>  hunter bruhh [198770907] requested group modlist
+ 
+[ Thu Jun  9 17:11:12 2016 ]=>  Kawaii Starfish ⭐️🐠 [206197460] resolved username: @dangou
+ 
+[ Thu Jun  9 18:05:09 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun  9 18:42:37 2016 ]=>  Giuseppeǝddǝsnı⅁ [99239131] banned user is talking !
+ 
+[ Thu Jun  9 19:43:02 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Fri Jun 10 05:57:30 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Fri Jun 10 07:20:17 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Fri Jun 10 10:15:53 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Fri Jun 10 21:40:13 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat Jun 11 05:33:18 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat Jun 11 09:51:53 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat Jun 11 11:07:07 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Sat Jun 11 11:07:07 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat Jun 11 11:07:17 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested ID for: @parasthakur
+ 
+[ Sat Jun 11 11:09:07 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup ID
+ 
+[ Sat Jun 11 11:09:08 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat Jun 11 15:05:03 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat Jun 11 15:10:03 2016 ]=>  ½OP [202326922] banned user is talking !
+ 
+[ Sat Jun 11 15:10:04 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat Jun 11 16:15:01 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set SuperGroup to: mute All
+ 
+[ Sat Jun 11 16:18:24 2016 ]=>  Smul¯\(ツ)/¯ @whateversmul [30434319] kicked for #spam
+ 
+[ Sat Jun 11 16:37:36 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] renamed SuperGroup to: Go to the new wormhole !
+ 
+[ Sat Jun 11 16:37:49 2016 ]=>  Primary_bot_admin_長門_有希?_ゆき_ながと?_ユキ_ナガト?_Yuki_Nagato?_O-oooooooooo_AAAAE-A-A-I-A-U-_JO-oooooooooooo_AAE-O-A-A-U-U-A-_E-eee-ee-eee_AAAAE-A-E-I-E-A-_JO-ooo-oo-oo-oo_EEEEO-A-AAA-AAAA [190427743] saved [about1] as > Welcome to the wormhole! Feel free to chat about anything, you can spam as well (a bit)
+####----No adult content----####
+Reviews:-
+Such an autistic group
+Wtf is this weeb 💩 ?
+999999/10 best group for discussion
+They said free doritos,where's my Doritos ?
+ 
+[ Sat Jun 11 16:41:14 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup Admins list
+ 
+[ Sat Jun 11 16:41:15 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat Jun 11 16:46:09 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat Jun 11 16:46:17 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat Jun 11 16:46:45 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat Jun 11 16:46:56 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat Jun 11 16:49:51 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat Jun 11 16:49:55 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat Jun 11 16:49:57 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat Jun 11 16:49:57 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat Jun 11 16:49:58 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat Jun 11 16:49:59 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat Jun 11 16:49:59 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat Jun 11 16:50:24 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat Jun 11 22:45:16 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat Jun 11 22:46:39 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat Jun 11 22:46:39 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun Jun 12 04:04:21 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun Jun 12 05:17:25 2016 ]=>  BayernPars @BayernParsBot [141252775] kicked for #spam
+ 
+[ Sun Jun 12 05:17:25 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun Jun 12 07:02:35 2016 ]=>  FRillex @una_patatah [140743614] kicked for #spam
+ 
+[ Mon Jun 13 04:34:56 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Tue Jun 14 10:22:01 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Tue Jun 14 22:47:19 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed Jun 15 22:47:44 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Thu Jun 16 15:48:46 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Fri Jun 17 19:25:59 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat Jun 18 21:08:12 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat Jun 18 21:08:13 2016 ]=>  Sewer56lol @Sewer56lol [165553360] kicked for #spam
+ 
+[ Sat Jun 18 21:08:13 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun Jun 19 12:48:21 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sun Jun 19 19:05:13 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Mon Jun 20 15:49:07 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed Jun 22 13:19:50 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed Jun 22 13:37:04 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed Jun 22 13:37:26 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed Jun 22 13:37:45 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Wed Jun 22 13:42:30 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Sat Jun 25 01:11:00 2016 ]=>  Sisisi [167418107] is banned and kicked ! 
+ 
+[ Sat Jun 25 01:11:00 2016 ]=>  TugaPowerBot [185512755] banned user is talking !
+ 
+[ Tue Jul  5 16:17:17 2016 ]=>  Mr.Byte [202663697] banned user is talking !
+ 
+[ Thu Sep  8 13:00:52 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested group modlist
+ 
+[ Thu Sep  8 13:05:32 2016 ]=>  涼宮ハルヒ ちゃん [0] renamed SuperGroup to: Wormhole #shitpost #speechwar #pollwar #capswar #nocapswar #feelsgoodman
+ 
+[ Thu Sep  8 13:05:59 2016 ]=>  涼宮ハルヒ ちゃん Admin [116014251] added to the SuperGroup by [ 0 ]
+ 
+[ Thu Sep  8 13:06:18 2016 ]=>  涼宮ハルヒ ちゃん Admin [229473867] added to the SuperGroup by [ 0 ]
+ 
+[ Thu Sep  8 13:06:31 2016 ]=>  涼宮ハルヒ ちゃん Admin [116004047] added to the SuperGroup by [ 0 ]
+ 
+[ Thu Sep  8 13:08:20 2016 ]=>  涼宮ハルヒ ちゃん Admin [49128969] added to the SuperGroup by [ 0 ]
+ 
+[ Thu Sep  8 13:08:27 2016 ]=>  涼宮ハルヒ ちゃん Admin [214449283] added to the SuperGroup by [ 0 ]
+ 
+[ Thu Sep  8 13:08:34 2016 ]=>  涼宮ハルヒ ちゃん Admin [150606974] added to the SuperGroup by [ 0 ]
+ 
+[ Thu Sep  8 13:08:58 2016 ]=>  涼宮ハルヒ ちゃん Admin [135207785] added to the SuperGroup by [ 0 ]
+ 
+[ Thu Sep  8 13:08:58 2016 ]=>  涼宮ハルヒ ちゃん Admin [118506289] added to the SuperGroup by [ 0 ]
+ 

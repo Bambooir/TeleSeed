@@ -1,0 +1,8 @@
+[ Wed Jul 13 16:21:52 2016 ]=>  Haruhi_Suzumiya [0] tried to change name but failed  
+ 
+[ Wed Jul 13 16:21:52 2016 ]=>  Haruhi_Suzumiya [0] tried to change name but failed  
+ 
+[ Wed Jul 13 16:22:47 2016 ]=>  Peka [59802458] deleted user  user#id59802458
+ 
+[ Wed Jul 13 16:23:38 2016 ]=>  Peka [59802458] deleted user  user#id59802458
+ 

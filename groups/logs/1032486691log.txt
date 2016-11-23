@@ -1,0 +1,20 @@
+[ Mon May  9 16:54:47 2016 ]=>  Haruhi Suzumiya? [212257536] added SuperGroup
+ 
+[ Mon May  9 16:54:54 2016 ]=>  Haruhi Suzumiya? [212257536] set SuperGroup to: mute All
+ 
+[ Mon May  9 16:55:10 2016 ]=>  Haruhi Suzumiya? [212257536] locked arabic 
+ 
+[ Mon May  9 16:55:16 2016 ]=>  Haruhi Suzumiya? [212257536] locked enabled strict settings
+ 
+[ Mon May  9 16:55:21 2016 ]=>  Haruhi Suzumiya? [212257536] locked rtl chars. in names
+ 
+[ Mon May  9 16:55:37 2016 ]=>  Haruhi Suzumiya? [212257536] locked contact posting
+ 
+[ Mon May  9 16:55:47 2016 ]=>  Haruhi Suzumiya?[212257536] set [190427743] as owner by username
+ 
+[ Mon May  9 16:55:54 2016 ]=>  Haruhi Suzumiya? [212257536] promoted @anupritaisno1
+ 
+[ Mon Jun 13 00:42:52 2016 ]=>  Bob [177664173] banned user is talking !
+ 
+[ Fri Jun 24 18:20:00 2016 ]=>  Haruhi Suzumiya Admin [59802458] added to the SuperGroup by [ 0 ]
+ 

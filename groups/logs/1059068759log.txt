@@ -1,0 +1,18 @@
+[ Tue Jul 19 03:32:43 2016 ]=>  Leib moss® [152031724] added SuperGroup
+ 
+[ Tue Jul 19 03:35:17 2016 ]=>  Haruhi Suzumiya [212257536] promoted @Gershond
+ 
+[ Tue Jul 19 03:35:23 2016 ]=>  Haruhi Suzumiya[212257536] set [163214285] as owner by username
+ 
+[ Tue Jul 19 03:39:50 2016 ]=>  Haruhi Suzumiya [212257536] set flood to [10]
+ 
+[ Tue Jul 19 03:44:27 2016 ]=>  Haruhi Suzumiya [212257536] set flood to [5]
+ 
+[ Tue Jul 19 03:46:08 2016 ]=>  MordechaiSasoon @emespro [154855699] kicked for #spam
+ 
+[ Tue Jul 19 03:47:44 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup Admins list
+ 
+[ Wed Jul 20 04:46:30 2016 ]=>  ChaimFridmen [212302783] kicked for #spam
+ 
+[ Wed Nov  9 18:47:56 2016 ]=>  Great Goldenberg [163214285] renamed SuperGroup to: Chatting group
+ 

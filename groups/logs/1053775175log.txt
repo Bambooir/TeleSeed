@@ -1,0 +1,64 @@
+[ Fri Jul  1 15:42:34 2016 ]=>  Haruhi Suzumiya [212257536] added SuperGroup
+ 
+[ Fri Jul  1 15:42:41 2016 ]=>  Haruhi Suzumiya [212257536] obtained id for: [116004047]
+ 
+[ Fri Jul  1 15:45:37 2016 ]=>  Tristan [116004047] Used /superhelp
+ 
+[ Fri Jul  1 15:45:38 2016 ]=>  Tristan [116004047] Used /superhelp
+ 
+[ Fri Jul  1 16:04:51 2016 ]=>  Haruhi Suzumiya [212257536] started setting new SuperGroup photo
+ 
+[ Fri Jul  1 16:05:01 2016 ]=>  Haruhi Suzumiya [212257536] set new SuperGroup photo
+ 
+[ Fri Jul  1 16:12:09 2016 ]=>  Haruhi Suzumiya [212257536] started setting new SuperGroup photo
+ 
+[ Fri Jul  1 16:12:57 2016 ]=>  Tristan [116004047] set new SuperGroup photo
+ 
+[ Sat Jul  2 15:46:26 2016 ]=>  Haruhi Suzumiya [212257536] set SuperGroup to: mute All
+ 
+[ Sat Jul  2 15:46:32 2016 ]=>  Haruhi Suzumiya [212257536] locked member 
+ 
+[ Sat Jul  2 15:46:37 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup settings 
+ 
+[ Sat Jul  2 15:46:44 2016 ]=>  Haruhi Suzumiya [212257536] locked link posting 
+ 
+[ Sat Jul  2 15:46:54 2016 ]=>  Haruhi Suzumiya [212257536] locked arabic 
+ 
+[ Sat Jul  2 15:47:02 2016 ]=>  Haruhi Suzumiya [212257536] locked rtl chars. in names
+ 
+[ Sat Jul  2 15:47:09 2016 ]=>  Haruhi Suzumiya [212257536] locked sticker posting
+ 
+[ Sat Jul  2 15:47:19 2016 ]=>  Haruhi Suzumiya [212257536] locked enabled strict settings
+ 
+[ Sat Jul  2 15:47:23 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup settings 
+ 
+[ Sat Jul  2 15:47:31 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup muteslist
+ 
+[ Sat Jul  2 15:47:38 2016 ]=>  Haruhi Suzumiya [212257536] set SuperGroup to: mute Video
+ 
+[ Sat Jul  2 15:47:43 2016 ]=>  Haruhi Suzumiya [212257536] set SuperGroup to: mute Documents
+ 
+[ Sat Jul  2 15:47:50 2016 ]=>  Haruhi Suzumiya [212257536] set SuperGroup to: mute Text
+ 
+[ Sat Jul  2 15:47:56 2016 ]=>  Haruhi Suzumiya [212257536] set SuperGroup to: mute Photo
+ 
+[ Sat Jul  2 15:48:04 2016 ]=>  Haruhi Suzumiya [212257536] set SuperGroup to: mute Gifs
+ 
+[ Sat Jul  2 15:48:19 2016 ]=>  Haruhi Suzumiya [212257536] set SuperGroup to: mute Audio
+ 
+[ Sat Jul  2 15:48:24 2016 ]=>  Haruhi Suzumiya [212257536] locked contact posting
+ 
+[ Sat Jul  2 15:52:17 2016 ]=>  Jeffrey van de Velde User [87761713] joined and kicked (#lockmember)
+ 
+[ Sat Jul  2 15:52:36 2016 ]=>  Eric User [49128969] joined and kicked (#lockmember)
+ 
+[ Sat Jul  2 15:54:53 2016 ]=>  Haruhi Suzumiya [212257536] attempted to create a new SuperGroup link
+ 
+[ Sun Jul  3 14:12:58 2016 ]=>  Haruhi Suzumiya [212257536] locked member 
+ 
+[ Sun Jul  3 14:17:55 2016 ]=>  o͜͡o User [99127110] joined and kicked (#lockmember)
+ 
+[ Sun Jul  3 14:21:37 2016 ]=>  Haruhi_Suzumiya [212257536] Used /superhelp
+ 
+[ Sun Jul 17 08:10:50 2016 ]=>  Haruhi Suzumiya [212257536] promoted @Therealtestingbot
+ 

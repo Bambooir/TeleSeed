@@ -1,0 +1,10 @@
+[ Mon May  2 13:51:16 2016 ]=>  Primary_bot_admin [190427743] added group [ 115490379 ]
+ 
+[ Mon May  2 13:51:45 2016 ]=>  Patrick_Garcia [2896817] deleted user  user#id2896817
+ 
+[ Mon May  2 13:51:49 2016 ]=>  Primary_bot_admin [190427743] used /id 
+ 
+[ Mon May  2 13:52:33 2016 ]=>  Primary_bot_admin [190427743] deleted user  user#id190427743
+ 
+[ Sat May  7 02:55:08 2016 ]=>  Haruhi_Suzumiya? [0] deleted user  user#id212257536
+ 

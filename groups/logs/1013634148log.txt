@@ -1,0 +1,12 @@
+[ Sun May  1 14:13:16 2016 ]=>  Haruhi Suzumiya? [212257536] added SuperGroup
+ 
+[ Sun May  1 14:13:27 2016 ]=>  Haruhi Suzumiya? [212257536] obtained id for: [89730588]
+ 
+[ Sun May  1 14:13:45 2016 ]=>  Haruhi Suzumiya? [212257536] obtained id for: [212257536]
+ 
+[ Sun May  1 15:30:58 2016 ]=>  Sandipto Baidya [18803620] requested group rules
+ 
+[ Sun May  1 15:38:40 2016 ]=>  Em [203842023] requested group rules
+ 
+[ Sun May  1 16:10:42 2016 ]=>  Em [203842023] requested group rules
+ 

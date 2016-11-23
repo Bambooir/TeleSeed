@@ -1,0 +1,14 @@
+[ Tue May  3 05:49:23 2016 ]=>  Primary bot admin [190427743] added SuperGroup
+ 
+[ Tue May  3 05:49:33 2016 ]=>  Primary bot admin [190427743] attempted to create a new SuperGroup link
+ 
+[ Tue May  3 05:49:53 2016 ]=>  Primary bot admin [190427743] requested group link [https://telegram.me/joinchat/DKbLAD-GbXHbtg4N6rS2EA]
+ 
+[ Tue May  3 05:55:42 2016 ]=>  Primary bot admin [190427743] promoted @parasthakur
+ 
+[ Tue May  3 05:56:29 2016 ]=>  Primary bot admin[190427743] set [190427743] as owner by username
+ 
+[ Tue May  3 05:56:37 2016 ]=>  Primary bot admin [190427743] promoted @Haruhi_Suzumiya
+ 
+[ Tue May  3 05:56:46 2016 ]=>  Primary bot admin [190427743] promoted @anupritaisno1
+ 

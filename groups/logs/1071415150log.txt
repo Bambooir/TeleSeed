@@ -1,0 +1,8 @@
+[ Fri Nov  4 17:32:07 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) [212257536] added SuperGroup
+ 
+[ Fri Nov  4 17:32:15 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) [212257536] locked link posting 
+ 
+[ Fri Nov  4 17:39:17 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) [212257536] requested SuperGroup settings 
+ 
+[ Fri Nov  4 17:39:37 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) [212257536] requested SuperGroup muteslist
+ 

@@ -1,0 +1,30 @@
+[ Sun Jun 19 08:39:11 2016 ]=>  Haruhi Suzumiya [212257536] added SuperGroup
+ 
+[ Sun Jun 19 08:39:17 2016 ]=>  Haruhi Suzumiya[212257536] set [79234896] as owner by username
+ 
+[ Sun Jun 19 08:39:22 2016 ]=>  Haruhi Suzumiya [212257536] promoted @Shay3979
+ 
+[ Sun Jun 19 08:39:27 2016 ]=>  Haruhi Suzumiya [212257536] promoted @Yehuda_simay
+ 
+[ Sun Jun 19 08:39:39 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup Admins list
+ 
+[ Sun Jun 19 08:39:56 2016 ]=>  Haruhi Suzumiya [212257536] promoted user#id79612226
+ 
+[ Sun Jun 19 08:40:11 2016 ]=>  Haruhi Suzumiya [212257536] promoted user#id92818920
+ 
+[ Sun Jun 19 08:40:26 2016 ]=>  Haruhi Suzumiya [212257536] promoted user#id144408042
+ 
+[ Sun Jun 19 08:40:41 2016 ]=>  Haruhi Suzumiya [212257536] promoted user#id32897882
+ 
+[ Sun Jun 19 08:41:12 2016 ]=>  Haruhi Suzumiya [212257536] set group to: public
+ 
+[ Sun Jun 19 08:41:53 2016 ]=>  Shay Yatim [79234896] promoted @Nati1
+ 
+[ Sun Jun 19 09:36:10 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup settings 
+ 
+[ Mon Jun 20 19:06:40 2016 ]=>  Haruhi Suzumiya [212257536] demoted @Nati1
+ 
+[ Mon Jun 20 19:07:07 2016 ]=>  Haruhi Suzumiya [212257536] promoted @Nati1
+ 
+[ Mon Jun 20 19:08:03 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup ID
+ 

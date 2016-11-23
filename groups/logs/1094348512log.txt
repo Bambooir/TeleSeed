@@ -1,0 +1,6 @@
+[ Sun Oct 16 09:06:56 2016 ]=>  涼宮ハルヒ ちゃん [212257536] added SuperGroup
+ 
+[ Sun Oct 16 09:07:18 2016 ]=>  涼宮ハルヒ ちゃん [212257536] set: [212257536] as admin by reply
+ 
+[ Sun Oct 16 09:08:03 2016 ]=>  涼宮ハルヒ ちゃん [212257536] attempted to create a new SuperGroup link
+ 

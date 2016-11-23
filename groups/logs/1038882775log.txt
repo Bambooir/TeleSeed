@@ -1,0 +1,14 @@
+[ Sun Sep 18 17:51:39 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Sep 18 20:03:32 2016 ]=>  涼宮ハルヒ ちゃん [212257536] added SuperGroup
+ 
+[ Sun Sep 18 20:04:03 2016 ]=>  涼宮ハルヒ ちゃん[212257536] set [115384949] as owner by username
+ 
+[ Sun Sep 18 20:04:14 2016 ]=>  涼宮ハルヒ ちゃん [212257536] promoted @MasterKinger
+ 
+[ Sun Sep 18 20:04:23 2016 ]=>  涼宮ハルヒ ちゃん [212257536] requested SuperGroup Admins list
+ 
+[ Sun Sep 18 20:05:10 2016 ]=>  涼宮ハルヒ ちゃん [212257536] promoted @RKRohk
+ 
+[ Mon Sep 19 13:27:43 2016 ]=>  Rohan [162889325] obtained id for: [255274425]
+ 

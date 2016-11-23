@@ -1,0 +1,14 @@
+[ Mon Sep  5 15:26:02 2016 ]=>  Mai plain (° ͜ʖ°) ☭ [62202377] added SuperGroup
+ 
+[ Mon Sep  5 15:26:11 2016 ]=>  Mai plain (° ͜ʖ°) ☭ [62202377] requested SuperGroup ID
+ 
+[ Tue Sep  6 00:05:49 2016 ]=>  Mai plain (° ͜ʖ°) ☭ [62202377] obtained id for: [57147214]
+ 
+[ Tue Sep  6 00:06:20 2016 ]=>  Mai plain (° ͜ʖ°) ☭ [62202377] renamed SuperGroup to: :/
+ 
+[ Tue Sep  6 00:14:27 2016 ]=>  Mai plain (° ͜ʖ°) ☭ [62202377] obtained id for: [119256329]
+ 
+[ Tue Sep  6 00:14:51 2016 ]=>  log file created by owner/support/admin
+ 
+[ Tue Sep  6 00:15:27 2016 ]=>  Maiplain(°͜ʖ°)☭ [62202377] baned user 119256329
+ 

@@ -1,0 +1,16 @@
+[ Mon May  2 13:38:33 2016 ]=>  Primary bot admin [190427743] added SuperGroup
+ 
+[ Mon May  2 13:39:12 2016 ]=>  Primary bot admin [190427743] requested SuperGroup ID
+ 
+[ Mon May  2 13:39:50 2016 ]=>  Primary bot admin [190427743] requested SuperGroup ID
+ 
+[ Mon May  2 13:43:21 2016 ]=>  Primary bot admin [190427743] requested SuperGroup ID
+ 
+[ Mon May  2 13:44:01 2016 ]=>  Primary bot admin [190427743] requested SuperGroup ID
+ 
+[ Mon May  2 13:44:05 2016 ]=>  Primary bot admin [190427743] requested SuperGroup ID
+ 
+[ Mon May  2 13:44:08 2016 ]=>  Primary bot admin [190427743] requested SuperGroup ID
+ 
+[ Mon May  2 13:45:22 2016 ]=>  Primary bot admin [190427743] requested SuperGroup ID
+ 

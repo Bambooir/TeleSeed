@@ -1,0 +1,199 @@
+[ Mon May 16 07:03:10 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] added SuperGroup
+ 
+[ Mon May 16 07:03:21 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA[190427743] set [202461460] as owner by username
+ 
+[ Mon May 16 07:03:31 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @InfinityCosmos
+ 
+[ Mon May 16 07:03:36 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @Haruhi_Suzumiya
+ 
+[ Mon May 16 07:03:48 2016 ]=>  Haruhi Suzumiya? [212257536] promoted @anupritaisno1
+ 
+[ Mon May 16 07:04:19 2016 ]=>  Infinity Cosmos [202461460] requested group rules
+ 
+[ Mon May 16 07:04:50 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] attempted to create a new SuperGroup link
+ 
+[ Mon May 16 07:04:56 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set group to: public
+ 
+[ Mon May 16 07:05:36 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] started setting new SuperGroup photo
+ 
+[ Mon May 16 07:05:36 2016 ]=>  Infinity Cosmos [202461460] has changed group rules to [Hi]
+ 
+[ Mon May 16 07:05:42 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set new SuperGroup photo
+ 
+[ Mon May 16 07:05:59 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] renamed SuperGroup to: G
+ 
+[ Mon May 16 07:06:05 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] renamed SuperGroup to: revolYUtion
+ 
+[ Mon May 16 07:06:05 2016 ]=>  Haruhi Suzumiya? [0] renamed SuperGroup to: revolYUtion
+ 
+[ Mon May 16 07:06:25 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] set SuperGroup description to: Welcome! Let's brew a revolYUtion
+ 
+[ Mon May 16 07:06:44 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested group link [https://telegram.me/joinchat/DKbLAD78gj3gpkoPj1w5og]
+ 
+[ Mon May 16 07:06:54 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested SuperGroup settings 
+ 
+[ Mon May 16 07:07:04 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] locked arabic 
+ 
+[ Mon May 16 07:07:08 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] locked rtl chars. in names
+ 
+[ Mon May 16 07:07:27 2016 ]=>  Infinity Cosmos [202461460] has changed group rules to [Rules
+~~~~
+
+✴One Basic Rule
+Only Post Things related to YU like Roms/Kernels/Mods or Need for Testers, etc. in the main revolYUtion group.
+Use OT group for Off Topics, like general chit chat, other Devices related Talks, or Technology Talks 
+
+*Refer to /joingroup for group links
+
+✴Ground Rules
+
+1. Do not text all night
+
+2. Announce your exit
+
+3. Do not send too different messages of what you want to say. Send all of them at once
+
+4. Do not lurk/be Inactive for more than 1 month
+
+5. Never disrespect anyone here
+
+6. Do not use emojis only for more than 4 messages
+
+7. Do not disrespect or disobey rules above
+
+8. Do not share links that you know are malicious 
+
+9. No one is allowed to make pins except admins. 
+
+10. Do not use Bot  commands to spam !
+
+11. Spamming is allowed but to a certain extent.
+
+✴Floor Rules (Optional rules)
+
+-Mute group for your own good
+-Never use 2G. It may take time for us to get the message
+-Do not use stickers only for more than 6 messages]
+ 
+[ Mon May 16 07:07:38 2016 ]=>  Infinity Cosmos [202461460] requested group rules
+ 
+[ Mon May 16 07:08:19 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] promoted @<username>
+ 
+[ Mon May 16 07:08:30 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] requested ID for: @InfinityCosmos
+ 
+[ Mon May 16 07:14:19 2016 ]=>  Infinity Cosmos [202461460] locked spam 
+ 
+[ Mon May 16 07:16:29 2016 ]=>  Infinity Cosmos [202461460] promoted @Dyne_destroyer
+ 
+[ Mon May 16 07:16:54 2016 ]=>  Infinity Cosmos[202461460] set [171992862] as owner by username
+ 
+[ Mon May 16 07:18:18 2016 ]=>  Ashroo Dyne[171992862] set [202461460] as owner by username
+ 
+[ Mon May 16 07:18:38 2016 ]=>  Infinity Cosmos [202461460] promoted @InfinityCosmos
+ 
+[ Mon May 16 07:18:59 2016 ]=>  Infinity Cosmos [202461460] promoted @Dyne_destroyer
+ 
+[ Mon May 16 07:22:27 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] left via kickme
+ 
+[ Mon May 16 07:25:43 2016 ]=>  Infinity Cosmos [202461460] requested SuperGroup Admins list
+ 
+[ Mon May 16 07:27:06 2016 ]=>  Ashroo Dyne [171992862] locked spam 
+ 
+[ Mon May 16 07:28:30 2016 ]=>  Infinity Cosmos [202461460] locked spam 
+ 
+[ Mon May 16 07:30:10 2016 ]=>  Haruhi Suzumiya? [212257536] locked enabled strict settings
+ 
+[ Mon May 16 07:30:10 2016 ]=>  Infinity Cosmos [202461460] requested SuperGroup Admins list
+ 
+[ Mon May 16 07:30:26 2016 ]=>  Infinity Cosmos [202461460] set SuperGroup to: mute All
+ 
+[ Mon May 16 07:31:04 2016 ]=>  Haruhi Suzumiya? [212257536] set SuperGroup to: unmute All
+ 
+[ Mon May 16 07:31:15 2016 ]=>  Infinity Cosmos [202461460] set SuperGroup to: mute All
+ 
+[ Mon May 16 07:32:39 2016 ]=>  Infinity Cosmos [202461460] set SuperGroup to: unmute All
+ 
+[ Mon May 16 07:32:51 2016 ]=>  Infinity Cosmos [202461460] requested SuperGroup Admins list
+ 
+[ Mon May 16 07:36:58 2016 ]=>  Infinity Cosmos [202461460] requested SuperGroup Admins list
+ 
+[ Mon May 16 07:37:16 2016 ]=>  Infinity Cosmos [202461460] promoted @Dyne_destroyer
+ 
+[ Mon May 16 07:38:01 2016 ]=>  Infinity Cosmos [202461460] locked sticker posting
+ 
+[ Mon May 16 07:47:12 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA Admin [190427743] added to the SuperGroup by [ 190427743 ]
+ 
+[ Mon May 16 07:50:31 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] locked disabled strict settings
+ 
+[ Mon May 16 07:52:10 2016 ]=>  Primary bot admin 長門 有希? ゆき ながと? ユキ ナガト? Yuki Nagato? O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA [190427743] left via kickme
+ 
+[ Mon May 16 07:52:19 2016 ]=>  Infinity Cosmos [202461460] locked disabled strict settings
+ 
+[ Mon May 16 07:52:23 2016 ]=>  Ashroo Dyne [171992862] left via kickme
+ 
+[ Mon May 16 07:58:27 2016 ]=>  Ashroo Dyne [171992862] requested group rules
+ 
+[ Mon May 16 07:58:58 2016 ]=>  Gin San [115841484] requested group rules
+ 
+[ Mon May 16 07:59:47 2016 ]=>  Aashish Toshniwal [205257309] left via kickme
+ 
+[ Mon May 16 08:01:37 2016 ]=>  Haruhi Suzumiya? [212257536] left via kickme
+ 
+[ Mon May 16 08:05:53 2016 ]=>  Haruhi Suzumiya? [212257536] locked sticker posting
+ 
+[ Mon May 16 08:05:53 2016 ]=>  Infinity Cosmos [202461460] requested SuperGroup Admins list
+ 
+[ Mon May 16 08:08:19 2016 ]=>  Mr Wolverine [154322149] left via kickme
+ 
+[ Mon May 16 08:09:16 2016 ]=>  Haruhi Suzumiya? [212257536] set SuperGroup to: mute Gifs
+ 
+[ Mon May 16 08:11:01 2016 ]=>  Infinity Cosmos [202461460] requested group rules
+ 
+[ Mon May 16 08:11:09 2016 ]=>  Gin San [115841484] requested group rules
+ 
+[ Mon May 16 08:15:54 2016 ]=>  Infinity Cosmos [202461460] set SuperGroup to: unmute Gifs
+ 
+[ Mon May 16 08:17:05 2016 ]=>  Infinity Cosmos [202461460] unlocked sticker posting
+ 
+[ Mon May 16 08:17:24 2016 ]=>  Infinity Cosmos [202461460] locked sticker posting
+ 
+[ Mon May 16 08:24:29 2016 ]=>  Infinity Cosmos [202461460] requested SuperGroup Admins list
+ 
+[ Mon May 16 08:24:51 2016 ]=>  Infinity Cosmos [202461460] unlocked sticker posting
+ 
+[ Mon May 16 08:25:14 2016 ]=>  Infinity Cosmos [202461460] locked disabled strict settings
+ 
+[ Mon May 16 08:25:57 2016 ]=>  Ashroo Dyne [171992862] locked sticker posting
+ 
+[ Mon May 16 08:26:42 2016 ]=>  Ashroo Dyne [171992862] unlocked sticker posting
+ 
+[ Mon May 16 08:29:04 2016 ]=>  Infinity Cosmos [202461460] requested SuperGroup settings 
+ 
+[ Mon May 16 08:29:09 2016 ]=>  Ashroo Dyne [171992862] locked sticker posting
+ 
+[ Mon May 16 08:30:00 2016 ]=>  Ashroo Dyne [171992862] locked enabled strict settings
+ 
+[ Mon May 16 08:51:00 2016 ]=>  Infinity Cosmos [202461460] locked sticker posting
+ 
+[ Mon May 16 10:44:39 2016 ]=>  Anon A.F. [168281350] requested group rules
+ 
+[ Mon May 16 11:00:24 2016 ]=>  Ashroo Dyne [171992862] requested SuperGroup settings 
+ 
+[ Tue May 17 12:21:09 2016 ]=>  log file created by owner/support/admin
+ 
+[ Tue May 17 23:42:10 2016 ]=>  Infinity Cosmos [202461460] promoted @anon_af
+ 
+[ Tue May 17 23:43:34 2016 ]=>  Infinity Cosmos [202461460] promoted @anon_af
+ 
+[ Tue May 17 23:44:32 2016 ]=>  Infinity Cosmos [202461460] demoted @Haruhi_Suzumiya
+ 
+[ Tue May 17 23:45:04 2016 ]=>  Anon A.F. [168281350] left via kickme
+ 
+[ Tue May 17 23:46:10 2016 ]=>  Infinity Cosmos [202461460] requested SuperGroup Admins list
+ 
+[ Wed May 18 03:37:00 2016 ]=>  Haruhi Suzumiya? [212257536] requested SuperGroup muteslist
+ 
+[ Wed May 18 03:37:08 2016 ]=>  Haruhi Suzumiya? [212257536] requested SuperGroup settings 
+ 
+[ Wed May 18 03:38:55 2016 ]=>  Haruhi Suzumiya? [212257536] set SuperGroup to: not public
+ 

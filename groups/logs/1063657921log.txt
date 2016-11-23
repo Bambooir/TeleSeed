@@ -1,0 +1,40 @@
+[ Sun May  1 07:51:49 2016 ]=>  Primary bot admin [190427743] added SuperGroup
+ 
+[ Sun May  1 07:51:54 2016 ]=>  Primary bot admin[190427743] set [161472020] as owner by username
+ 
+[ Sun May  1 07:52:01 2016 ]=>  Primary bot admin [190427743] promoted @AstonishedByTheLackOfCake
+ 
+[ Sun May  1 07:52:05 2016 ]=>  Primary bot admin [190427743] left via kickme
+ 
+[ Sun May  1 07:52:52 2016 ]=>  Haruhi Suzumiya? Admin [190427743] added to the SuperGroup by [ 0 ]
+ 
+[ Sun May  1 07:53:05 2016 ]=>  Primary bot admin [190427743] set SuperGroup to: not public
+ 
+[ Sun May  1 08:15:56 2016 ]=>  Primary bot admin [190427743] requested SuperGroup ID
+ 
+[ Sun May  1 08:16:03 2016 ]=>  Primary bot admin [190427743] locked member 
+ 
+[ Sun May  1 08:16:27 2016 ]=>  Primary bot admin [190427743] attempted to create a new SuperGroup link
+ 
+[ Sun May  1 08:16:54 2016 ]=>  Primary bot admin [190427743] set SuperGroup to: mute All
+ 
+[ Sun May  1 08:17:21 2016 ]=>  Primary bot admin [190427743] set SuperGroup to: not public
+ 
+[ Sun May  1 08:19:19 2016 ]=>  Primary bot admin [190427743] locked enabled strict settings
+ 
+[ Sun May  1 08:19:23 2016 ]=>  Primary bot admin [190427743] locked rtl chars. in names
+ 
+[ Sun May  1 08:19:29 2016 ]=>  Primary bot admin [190427743] locked arabic 
+ 
+[ Sun May  1 08:20:00 2016 ]=>  Primary bot admin [190427743] left via kickme
+ 
+[ Sun May  1 08:20:16 2016 ]=>  Haruhi Suzumiya? Admin [190427743] added to the SuperGroup by [ 0 ]
+ 
+[ Sun May  1 08:21:17 2016 ]=>  Bot admin 2 [161472020] left via kickme
+ 
+[ Sun May  1 08:21:45 2016 ]=>  Haruhi Suzumiya? Admin [161472020] added to the SuperGroup by [ 0 ]
+ 
+[ Sun May  1 08:25:23 2016 ]=>  Bot admin 2 [161472020] started setting new SuperGroup photo
+ 
+[ Sun May  1 08:28:15 2016 ]=>  Bot admin 2 [161472020] set new SuperGroup photo
+ 

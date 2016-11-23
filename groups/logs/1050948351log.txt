@@ -1,0 +1,4 @@
+[ Mon May  2 14:55:09 2016 ]=>  Primary bot admin [190427743] added SuperGroup
+ 
+[ Mon May  2 15:23:50 2016 ]=>  Dango Daikazoku [206197460] requested group modlist
+ 
