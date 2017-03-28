@@ -9,7 +9,7 @@ local info = '🔵 #نام: '..msg.from.first_name..'\n'
 ..'🔵 #یوزرنیم @'..msg.from.username..'\n'
 ..'🔴 #ایدی گروه: '..msg.to.id..'\n'
 ..'🔵 #نام گروه: '..msg.to.title..'\n'
-..'🔴 #کانال ما :  @TURBO_TM '
+..'🔴 #کانال ما :  @Xx_FUNKADHE_xX '
 if matches[1] == 'id' then
 send_photo2(receiver, file, info, rmtmp_cb, cb_extra)
 end
