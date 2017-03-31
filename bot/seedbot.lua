@@ -232,22 +232,15 @@ function create_config( )
 	"whitelist",
 	"msg_checks",
 "aparat",
-"arz",
 "azan",
 "bing",
-"id",
-"info",
 "joke",
-"kickme",
 "map",
-"me",
 "rmsg",
-"setwlc",
 "time2",
 "times",
-"font",
     },
-    sudo_users = {277313212(277313212)},--Sudo users
+    sudo_users = {(277313212)},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v4
 An advanced administration bot based on TG-CLI written in Lua
