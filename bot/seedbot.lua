@@ -233,12 +233,8 @@ function create_config( )
 	"msg_checks",
 "aparat",
 "azan",
-"bing",
 "joke",
-"map",
 "rmsg",
-"time2",
-"times",
     },
     sudo_users = {(277313212)},--Sudo users
     moderation = {data = 'data/moderation.json'},
