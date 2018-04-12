@@ -9,6 +9,7 @@
 * **Multiple realms (admin groups)**
 * **Recalcitrant to any kind of spamming (X/Y bots, name/photo changers, etc.)**
 * **Global banning**
+**kick by reply
 * **Broadcast to all groups**
 * **Group links**
 * **Kick, ban and unban by reply**
